@@ -2591,7 +2591,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="android_beam_witch_label">Attiva Android Beam</string>
     <string name="sim_management_title">Gestione SIM</string>
     <string name="sim_radio_off">Non attivato</string>
-    <string name="sim_status_title">Stato SIM</string>
     <string name="slot_status_title">Informazione IMEI</string>
     <string name="next_button_label">Avanti</string>
     <string name="internal_media_format_final_desc">"Cancellare la memoria interna? Non è possibile annullare quest'azione! Il dispositivo sarà riavviato dopo la cancellazione della memoria interna."</string>
