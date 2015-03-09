@@ -9,7 +9,6 @@
 Utilizza solo il caricatore in dotazione."</string>
     <string name="status_bar_settings_airplane">Modalità aereo</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
-    <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Bluetooth con tethering</string>
     <string name="usb_device_permission_prompt">"Consentire all'applicazione %1$s di accedere al dispositivo USB?"</string>
     <string name="usb_accessory_permission_prompt">"Consentire all'applicazione %1$s di accedere all'accessorio USB?"</string>
