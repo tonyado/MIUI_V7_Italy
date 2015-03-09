@@ -289,7 +289,7 @@
     <string name="suggest_text">People who liked this also liked</string>
     <string name="no_artist_info">"Nessuna informazione sull'artista"</string>
     <string name="no_album_info">"Nessuna informazione sull'album"</string>
-    <string name="no_enough_info">Informa<ioni sul brano insufficienti</string>
+    <string name="no_enough_info">Informaioni sul brano insufficienti</string>
     <string name="disallow_add_to_personal_radio">La radio personale funziona solo in lettura</string>
     <string name="today_update">Musica aggiornata</string>
     <string name="click_to_view_new_local_audios">Tocca per leggere i dettagli.</string>
