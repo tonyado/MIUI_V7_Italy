@@ -166,11 +166,11 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="ext_media_mountable_notification_title">Archiviazione USB connessa</string>
     <string name="ext_media_mountable_notification_message">Apri media esterno con File Explorer</string>
     <string name="ext_media_safe_remove">Rimozione sicura</string>
-    <string name="status_bar_network_flow_content">"Today: %1$s   Remaining: %2$s"</string>
-    <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-    <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s"</string>
-    <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
-    <string name="status_bar_network_flow_today">Today: %1$s</string>
+    <string name="status_bar_network_flow_content">"Oggi: %1$s   Rimanente: %2$s"</string>
+    <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento soglia: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+    <string name="status_bar_network_flow_limit">"   Limite mensile: %1$s"</string>
+    <string name="status_bar_network_flow_purchase">"   Acquista &gt;"</string>
+    <string name="status_bar_network_flow_today">Oggi: %1$s</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="drive_mode_tip">Modalità Auto - Guida con prudenza</string>
     <string name="no_notification_tips">Nessuna notifica</string>
