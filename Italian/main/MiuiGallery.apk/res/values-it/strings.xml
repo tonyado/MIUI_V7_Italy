@@ -975,7 +975,7 @@ prova a scattare altre foto"</string>
     <string name="rename_face_album">Rinomina</string>
     <string name="rename_fail_msg">Impossibile rinominare</string>
     <string name="merge_album_positive_button_text">Unisci</string>
-    <string name="confirm_merge_face_albums">" "<Data> Unisci questo album all'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_merge_face_albums">" "<Data> Unisci questo album all\'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="create_new_face">Nuovo viso</string>
     <string name="preparing_data">Preparazione dati...</string>
     <string name="ignore_face">Ignora questo viso</string>
