@@ -378,7 +378,6 @@
     <string name="photoeditor_name">Mi Photo Studio</string>
     <string name="loading_failure">Impossibile caricare la foto</string>
     <string name="saving_failure">Impossibile salvare la foto</string>
-    <string name="photo_saved">"Foto salvate nell'album %s"</string>
     <string name="edited_photo_bucket_name">Modificata</string>
     <string name="save_photo">Salvare la foto modificata?</string>
     <string name="yes">Sì</string>
@@ -631,6 +630,7 @@
     <string name="operation_add_picture">Aggiungi immagini</string>
     <string name="operation_add_secret">Aggiungi segreto</string>
     <string name="operation_remove_secret">Rimuovi segreto</string>
+    <string name="operation_remove_from_face_album">Rimuovi copertina</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="global_setting">Impostazioni</string>
     <string name="no_storage_disable_cloud_albums">Album cloud disabilitati; riprova quando sarà disponibile dello spazio sulla memoria esterna.</string>
@@ -910,6 +910,7 @@ il dispositivo"</string>
     <string name="home_page_tab_photo">Foto</string>
     <string name="home_page_tab_cloud">Cloud</string>
     <string name="home_page_tab_local">Locale</string>
+    <string name="home_page_tab_face">Copertine</string>
     <string name="error_title">Errore di sincronizzazione</string>
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
     <string name="error_forbidden">Si sono verificati dei problemi con il tuo acocunt: sincronizzazione disattivata.</string>
@@ -935,12 +936,14 @@ il dispositivo"</string>
     <string name="free">Libero</string>
     <string name="square">Quadrato</string>
     <string name="original_scale">Scala originale</string>
+    <string name="photo_save_succeed">Salvato correttamente</string>
     <string name="impunity_declaration_title">Notizie di rete</string>
     <string name="impunity_declaration">La galleria può connettersi alla rete dati per fornire alcuni servizi. Vuoi continuare?</string>
     <string name="impunity_declaration_ignore">Non chiedere più</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Mostra notizie di rete</string>
     <string name="impunity_declaration_summary">"Mostra le notizie di rete ogni volta che si avvia l'applicazione galleria"</string>
+    <string name="face_album">Copertina almbum</string>
     <string name="auto_upload_title">Carica automaticamente</string>
     <string name="select_auto_upload_albums">Scegli gli album da caricare sul cloud</string>
     <string name="enable">Attiva</string>
@@ -961,5 +964,25 @@ il dispositivo"</string>
     <string name="auto_upload_guide_msssage">" "<Data> Carica automaticaemnte le tue foto dalle applicazioni a Mi Cloud. Guarda le impostazioni in Impostazioni Galleria > Sincronizza ocn Mi Cloud > Carica automaticamente. </Data>" "</string>
     <string name="not_now">Non adesso</string>
     <string name="go_setting">Vai alle impostazioni</string>
+    <string name="face_albumset_use_tip">"Ti aiuta a trovare un viso specifico，
+rendendo più semplice la visualizzaizone e gestione delle foto"</string>
+    <string name="face_albumset_detecting_tip">"Rilevazione viso...
+gli album con viso saranno disponibili a breve"</string>
+    <string name="face_albumset_empty">"Nessun viso rilevato
+prova a scattare altre foto"</string>
+    <string name="start_to_use_face_albumset">Utilizza Album con Viso</string>
+    <string name="face_album_not_named">Senza nome</string>
+    <string name="rename_face_album">Rinomina</string>
+    <string name="rename_fail_msg">Impossibile rinominare</string>
+    <string name="merge_album_positive_button_text">Unisci</string>
+    <string name="confirm_merge_face_albums">" "<Data> Unisci questo album all'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="create_new_face">Nuovo viso</string>
+    <string name="preparing_data">Preparazione dati...</string>
+    <string name="ignore_face">Ignora questo viso</string>
+    <string name="who_is_this">Chi è?</string>
+    <string name="view_face_album">Mostra album</string>
+    <string name="name_wrong">Non è %s</string>
+    <string name="face_album_rename_hint">Inserisci il nome</string>
+    <string name="face_move_dialog_title">Scegli un album con viso</string>
     <string name="paint_crop_tips">"Per ottenere un'immagine migliore, prova a posizionare le parti interessanti su di ua griglia di punti e sposta."</string>
 </resources>

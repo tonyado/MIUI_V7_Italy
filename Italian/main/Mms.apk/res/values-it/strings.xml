@@ -451,6 +451,8 @@
     <string name="title_collapse_sp_messages">Raccogli i messaggi del provider</string>
     <string name="pref_collapse_sp_messages_summary">"Raccogli i messaggi del provider in un'unica lista"</string>
     <string name="sp_conversation_title">Messaggi di notifica</string>
+    <string name="title_show_sms_template">Controlla i codici di verifica negli SMS</string>
+    <string name="pref_show_sms_template_summary">Copia e incolla i codici di verifica</string>
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
     <string name="sp_mark_as_read">Segnare tutti i messaggi come già letti?</string>
     <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso…</string>
@@ -538,4 +540,7 @@
     <string name="snippet_picture">[picture]</string>
     <string name="audio_download_failed">Impossibile scaricare audio</string>
     <string name="hms_uri_param_err">"L'URL non può essere vuota"</string>
+    <string name="pref_title_sms_validity_period">Periodo di validità SMS</string>
+    <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>
+    <string name="open_url_with_web">"Consentire anche l'apertura del URL tramite Web?"</string>
 </resources>

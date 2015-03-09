@@ -254,6 +254,7 @@ Per attivare il tuo account, segui il
     <string name="account_user_name_dialog_title">Inserisci nome utente</string>
     <string name="account_user_using_weibo_avatar">Usa immagine profilo di Sina Weibo</string>
     <string name="account_user_using_qq_avatar">Usa immagine profilo di QQ</string>
+    <string name="account_user_using_facebook_avatar">Utilizza la foto profilo di Facebook</string>
     <string name="account_user_avatar_from_camera">Scatta foto</string>
     <string name="account_user_avatar_from_album">Scegli immagine</string>
     <string name="photoPickerNotFoundText">Nessuna immagine disponibile.</string>
@@ -262,6 +263,9 @@ Per attivare il tuo account, segui il
     <string name="account_error_longer_user_name">Il nome non può superare i 20 caratteri</string>
     <string name="account_error_user_birthday">La data di compleanno indicata non è valida</string>
     <string name="account_crop_user_avatar">Taglia immagine</string>
+    <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
+    <string name="user_avatar_uploading">Caricamento...</string>
+    <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
     <string name="bind_settings">Account</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Collega account</string>

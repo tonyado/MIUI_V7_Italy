@@ -1114,6 +1114,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowPageNavigationIconLabel">Directory</string>
     <string name="login_ok">Accedi</string>
     <string name="yellowpage_navigation_no_content">Nessun risultato dalla ricerca</string>
+    <string name="yellowpage_navigation_search_history">Cronologia</string>
     <string name="yellowpage_navigation_clear_search_history">Cancella cronologia</string>
     <string name="yellowpage_navigation_search_offline_hint">Nessun accesso ad internet</string>
     <string name="refresh">Aggiorna</string>

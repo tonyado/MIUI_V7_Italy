@@ -15,6 +15,7 @@
     <string name="unknown_artist_name">Artista sconosciuto</string>
     <string name="unknown_album_name">Album sconosciuto</string>
     <string name="network_error">Nessuna connessione, verificare le impostazioni di rete</string>
+    <string name="server_error">Errore del server. Riprova più tardi</string>
     <string name="lrc_search_failed">Testi non trovati</string>
     <string name="lrc_searching">Ricerca testi…</string>
     <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione su rete mobile</string>
@@ -29,6 +30,8 @@
     <string name="impunity_declaration_ignore">"Non mostrare di nuovo"</string>
     <string name="impunity_declaration_settings">"Mostra Condizioni d'uso"</string>
     <string name="impunity_declaration_summary">"Mostra in popup le Condizioni d'uso per il servizio Baidu Online Music Service ogni volta che l'app Musica viene aperta"</string>
+    <string name="impunity_declaration_positive_text">OK e continua</string>
+    <string name="impunity_declaration_negative_text">Esci</string>
     <string name="take_effect_afater_restart">"Devi riavviare l'app Musica perchè questa impostazione abbia effetto."</string>
     <string name="equalizer">Equalizzatore</string>
     <string name="eq_flat">Piatto</string>
@@ -56,11 +59,12 @@
     <string name="online_music">Online</string>
     <string name="my_music">La mia musica</string>
     <string name="fragment_more">Altro</string>
-    <string name="fragment_title_recommend">Consigliati</string>
-    <string name="fragment_title_bill">Playlist</string>
+    <string name="fragment_title_recommend">IN EVIDENZA</string>
+    <string name="fragment_title_bill">PLAYLIST</string>
     <string name="fragment_title_channel">FM</string>
-    <string name="fragment_title_artist">Artisti</string>
-    <string name="fragment_title_artist_album">Album</string>
+    <string name="fragment_title_artist">ARTISTI</string>
+    <string name="fragment_title_artist_album">ALBUM</string>
+    <string name="fragment_title_personal">PERSONALE</string>
     <string name="like">Mi piace</string>
     <string name="all_tracks">Tutte le canzoni</string>
     <string name="all_tracks_short">Tutte</string>
@@ -282,6 +286,11 @@
     <string name="search_for_artist">Artista</string>
     <string name="search_for_album">Album</string>
     <string name="support_online_only">Solo in streaming</string>
+    <string name="suggest_text">People who liked this also liked</string>
     <string name="no_artist_info">"Nessuna informazione sull'artista"</string>
     <string name="no_album_info">"Nessuna informazione sull'album"</string>
+    <string name="no_enough_info">Informa<ioni sul brano insufficienti</string>
+    <string name="disallow_add_to_personal_radio">La radio personale funziona solo in lettura</string>
+    <string name="today_update">Musica aggiornata</string>
+    <string name="click_to_view_new_local_audios">Tocca per leggere i dettagli.</string>
 </resources>

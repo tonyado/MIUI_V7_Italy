@@ -2086,9 +2086,10 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_image_choose_photo">Scegli la foto dalla Galleria</string>
     <string name="regulatory_info_text" />
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display wireless è disabilitato perchè il Wi-Fi è spento</string>
+    <string name="screen_timeout_title">Disattivazione schermo</string>
+    <string name="sim_status_title">Stato SIM</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
-    <string name="config_mass_storage_function_name">mass_storage</string>
     <string name="do_not_disturb_mode">Anti-disturbo</string>
     <string name="dndm_notification">Anti-disturbo abilitato.</string>
     <string name="dndm_open">Anti-disturbo</string>
@@ -2191,7 +2192,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="access_control_app_entry_multiple">Apri %s</string>
     <string name="apn_mms">MMS</string>
     <string name="apn_general">Generale</string>
-    <string name="screen_timeout_title">Disattivazione schermo</string>
     <string name="touch_title">Touch</string>
     <string name="touch_sensitive_title">Modalità guanti</string>
     <string name="touch_sensitive_summary">"Rende lo schermo touch particolarmente sensibile consentendone l'uso mentre indossi dei guanti"</string>
@@ -2932,4 +2932,5 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
     <string name="wifi_notify_cmcc_connected_title">Notifica rete CMCC</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostra notifica quando collegato alla rete CMCC</string>
+    <string name="wifi_datanetwork_switch_not_remind">"Non chiedere più"</string>
 </resources>
