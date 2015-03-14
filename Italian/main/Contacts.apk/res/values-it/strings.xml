@@ -185,7 +185,7 @@
     <string name="resource_ringtone_volume_mute">La tua suoneria è attualmente silenziata</string>
     <string name="resource_has_been_downloaded">Hai già scaricato questo tema.</string>
     <string name="resource_no_match_app">Nessuna applicazione trovata per eseguire questa operazione.</string>
-    <string name="resource_title_rank">Classifichestring>
+    <string name="resource_title_rank">Classifiche</string>
     <string name="resource_title_category">Categorie</string>
     <string name="resource_title_subject">In evidenza</string>
     <string name="resource_title_local">Locali</string>
@@ -896,7 +896,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="preference_dial_pad_touch_tone_piano">Tasti del pianoforte</string>
     <string name="preference_dial_pad_touch_tone_human">Voce</string>
     <string name="ic_menu_done">Fatto</string>
-    <string name="cloud_antispam_title">Indentifica numeri sconosciuti</string>
+    <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
     <string name="share_over_limit">Limite superato, impossibile condividere</string>
     <string name="account_default">Dispositivo</string>
     <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
@@ -1119,7 +1119,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Si è verificato un errore sconosciuto!</string>
     <string name="yellowpage_navigation_search_result_average_price">Media %d RMB</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Aggiunto alla Home</string>
-    <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading icon…</string>
+    <string name="yellowpage_navigation_send_to_desktop_downloading">Download icona…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Impossibile connettersi alla rete. Verifica la tua connessione dati e riprova</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Abilita servizio di localizzazione</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">"L'elenco ha bisogno di rilevare la tua posizione per funzionare a dovere."</string>
