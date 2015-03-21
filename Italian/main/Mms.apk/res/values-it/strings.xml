@@ -38,6 +38,7 @@
     <string name="add_slide_hint">Tocca per creare una nuova diapositiva.</string>
     <string name="discard_slideshow">Ignora presentazione</string>
     <string name="slide_show_part">Parte %1$s/%2$s</string>
+    <string name="select_copy_text">seleziona e copia il testo del messaggio</string>
     <string name="remove_text">Rimuovi testo</string>
     <string name="add_picture">Aggiungi immagine</string>
     <string name="remove_picture">Rimuovi immagine</string>
@@ -267,6 +268,7 @@
     <string name="message_pending">Invio in corso…</string>
     <string name="message_readed">Leggi</string>
     <string name="message_rejected">Respinto</string>
+    <string name="message_expired">Scaduto</string>
     <string name="resent_message">Reinvia</string>
     <string name="group_resend_message">Reinvio (%d)</string>
     <string name="nosend_message">Non inviato</string>
@@ -544,4 +546,6 @@
     <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>
     <string name="open_url_with_web">Aprire questo URL nel Browser?</string>
     <string name="block_messaging_entry_title">SMS bloccati</string>
+    <string name="message_contact">Contatto:</string>
+    <string name="message_number">Numero di telefono:</string>
 </resources>

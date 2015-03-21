@@ -196,7 +196,13 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="lock_screen_setting_summary">Mostra un avviso dopo il consumo di 100 KB</string>
     <string name="timeshow_h_m">%1$d ore %2$d min</string>
     <string name="timeshow_m_s">%1$d min %2$d sec</string>
-    <string name="timeshow_s">%ds</string>
+    <string name="timeshow_s">%d s</string>
+    <string name="timeshow_m">%d m</string>
+    <string name="timeshow_h">%.1fh</string>
+    <string name="timeshow_h_int">%d h</string>
+    <string name="lock_screen_traffic_guide_notification_title">%s di dati utilizzati</string>
+    <string name="lock_screen_traffic_guide_notification_summary">Visualizza i dati utilizzati su lockscreen.</string>
+    <string name="lock_screen_traffic_purchase_textview">Acquista traffico dati</string>
     <string name="free_time_traffic_title">Inserisci un limite fuori soglia</string>
     <string name="free_time_traffic_hint">Inserisci un limite fuori soglia</string>
     <string name="traffic_protection_label">Avviso utilizzo dati</string>

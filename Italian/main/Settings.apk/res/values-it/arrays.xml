@@ -135,6 +135,12 @@
         <item>Conteggio avvii</item>
         <item>Nome applicazione</item>
     </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Nessuno</item>
         <item>MSCHAPV2</item>
@@ -493,6 +499,32 @@
         <item>1,5 secondi</item>
         <item>2 secondi</item>
     </string-array> 
+    <string-array name="mi1_led_color_entries">
+        <item>Blu</item>
+        <item>Rosso</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Viola</item>
+        <item>Porpora</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Lilla</item>
+        <item>Rubino</item>
+        <item>Arancione</item>
+        <item>Verde</item>
+        <item>Magenta</item>
+    </string-array>
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI esadecimale</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Mostra applicazioni recenti</item>
+        <item>MOstra menu</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
 	<item>Nessuna</item>
         <item>Lancia task manager</item>
@@ -534,8 +566,7 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>"2. Wizard visualizzato durante l'installazione, 
-Seguire le istruzioni"</item>
+        <item>2.Segui le istruzioni</item>
         <item></item>
         <item></item>
         <item></item>
@@ -566,6 +597,11 @@ Seguire le istruzioni"</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brillante</item>
+        <item>Normale</item>
+    </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Contrasto automatico</item>
+        <item>Contrasto enfatizzato</item>
         <item>Normale</item>
     </string-array>
     <string-array name="perm_hips_action">
@@ -622,22 +658,21 @@ Seguire le istruzioni"</item>
         <item>Memoria interna</item>
         <item>Memoria esterna</item>
     </string-array>
-    <string-array name="miracast_policies">
-        <item>Minimo ritardo</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>Molto lento</item>
+        <item>Lento</item>
         <item>Normale</item>
-        <item>Migliore qualità</item>
+        <item>Veloce</item>
+        <item>Molto veloce</item>
     </string-array>
-    <string-array name="screen_key_press_action">
-        <item>Applicazioni recenti</item>
-        <item>Menu</item>
-    </string-array>
-	    <string-array name="whetstone_level_entries">
+    <string-array name="whetstone_level_entries">
         <item>Disattivato</item>
         <item>Basso</item>
         <item>Medio</item>
         <item>Alto</item>
     </string-array>
-	<string-array name="handy_mode_size_text_entries">
+    <string-array name="handy_mode_size_text_entries">
         <item>4,5\"</item>
         <item>4,0\"</item>
         <item>3,5\"</item>
@@ -646,14 +681,16 @@ Seguire le istruzioni"</item>
         <item>Rete domestica</item>
         <item>Tutte le reti</item>
     </string-array>
-    <string-array name="screen_optimize_title">
-        <item>Contrasto automatico</item>
-        <item>Contrasto aumentato</item>
-        <item>Normale</item>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
     </string-array>
-    <string-array name="screen_optimize_summary">
-        <item>Contrasto regolato in base alla luce ambientale</item>
-        <item>Contrasto aumentato</item>
-        <item>Non modificare il contrasto</item>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
     </string-array>
-</resources>
+    <string-array name="agps_reset_type_entries">
+        <item>HOT</item>
+        <item>WARM</item>
+        <item>COLD</item>
+    </string-array></resources>

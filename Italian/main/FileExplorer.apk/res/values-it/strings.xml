@@ -307,6 +307,9 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="share_box_receive">Ricevuti</string>
     <string name="file_not_exist">File inesistente</string>
     <string name="open_file_failed">Apertura fallita</string>
+    <string name="action_mode_deselect_all">Deseleziona tutto</string>
+    <string name="action_mode_select_all">Seleziona tutto</string>
+    <string name="can_not_send_with_too_many">Impossibile inviare così tanti elementi</string>
     <string name="file_already_downlaoded">File salvato in \"%1$s\"</string>
     <string name="copy_file_to_kuaipan">Copia file su Kuaipan</string>
     <string name="downloading_in_3g">Download in 3G…</string>
@@ -321,6 +324,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="kp_category_txt">Testo</string>
     <string name="no_display_file">Impossibile visualizzare %1$s</string>
     <string name="delete_selected_tasks">Eliminare i selezionati?</string>
+    <string name="kuaipan_delete_guide_des">Eliminare la guida?</string>
     <string name="kuaipan_data_formater_with_year">mese M giorno d anno YYYY</string>
     <string name="kuaipan_data_formater_without_year">M mese d giorno</string>
     <string name="kuaipan_photo_locate">Posizionato %1$s</string>

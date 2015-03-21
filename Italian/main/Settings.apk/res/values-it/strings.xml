@@ -2735,7 +2735,9 @@ Disabilitare le finestre flottanti?"</string>
     <string name="alert_show_screensaver_when_not_charging_title">Uso della batteria</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Visualizzare lo screensaver aumenterà il consumo di batteria.</string>
     <string name="toast_need_login">Accedi al tuo Mi Account</string>
-    <string name="preferred_app_settings">Impostazioni app predefinite</string>
+    <string name="location_access_on">Attivato</string>
+    <string name="location_access_off">Disattivato</string>
+    <string name="preferred_app_settings">Impostazioni predefinite</string>
     <string name="preferred_app_settings_default">Predefinite</string>
     <string name="preferred_app_settings_reset">Ripristino predefinite</string>
     <string name="preferred_app_settings_reset_message">Ripristino impostazioni app predefinite?</string>
@@ -2775,6 +2777,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="launching_rep">Segnalazione bug in corso, prego attendere.</string>
     <string name="status_serialno">Numero di serie</string>
     <string name="provision_next">Avanti</string>
+    <string name="privacy_mode_title">Permessi</string>
+    <string name="privacy_mode_summary">I dati utente verranno nascosti</string>
     <string name="privacy_mode_dialog_title">Modalità ospite</string>
     <string name="privacy_mode_dialog_message">"Chiamate, note, immagini, messaggi e impostazioni del launcher saranno nascoste all'utente"</string>
     <string name="lockscreen_glogin_submit_button">Accedi</string>
@@ -2797,6 +2801,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="permission_manager">Permessi</string>
     <string name="security_keyguard_category_name">Blocco schermo</string>
     <string name="security_password_category_name">Password</string>
+    <string name="device_security_settings_title">Sicurezza</string>
+    <string name="enable_crypt_keeper_encrypt">Attiva crittografia</string>
     <string name="bluetooth_unlock_title">Sblocca tramite dispositivo Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Disattivato</string>
     <string name="bluetooth_unlock_turned_on">Attivato</string>
@@ -2813,6 +2819,11 @@ Disabilitare le finestre flottanti?"</string>
     <string name="bluetooth_unlock_device_matched_text">Usa questo dispositivo per sbloccare.</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Cancellare questo dispositivo?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Il vecchio dispositivo verrà sostituito dal dispositivo attuale.</string>
+    <string name="bluetooth_unlock_state_label">Stato:</string>
+    <string name="bluetooth_unlock_state_disconnected">Disconnesso</string>
+    <string name="bluetooth_unlock_state_key_error">Errore password</string>
+    <string name="bluetooth_unlock_state_too_far">Troppo lontano</string>
+    <string name="bluetooth_unlock_state_ok">Completato</string>
     <string name="virus_scan">Antivirus</string>
     <string name="network_assistant">Utilizzo dati</string>
     <string name="anti_spam">Antispam</string>
@@ -2917,6 +2928,10 @@ Disabilitare le finestre flottanti?"</string>
     <string name="location_agps_def_network_mode">HOME</string>
     <string name="location_agps_def_reset_type">HOT</string>
     <string name="location_agps_def_location_mode">MSB</string>
+    <string name="agps_roaming">A-GPS in roaming</string>
+    <string name="agps_roaming_summary">"Utilizzare l'A-GPS durante il roamingpotrebbe comportare dei costi aggiuntivi"</string>
+    <string name="agps_roaming_dia_title">"Utilizza l'A-GPS durante il roaming"</string>
+    <string name="agps_roaming_dia">"Utilizzare l'A-GPS durante il roamingpotrebbe comportare dei costi aggiuntivi. In caso di superamento dellasoglia prevista dal tuo piano, potresti avere dei costi aggiuntivi."</string>
     <string name="wifi_disconnected_notification_title">Wi-Fi disconnessa</string>
     <string name="wifi_disconnected_notification_summary">Non sei connesso alla rete Wi-Fi.</string>
     <string name="wifi_off_airplane_on_title">Wi-Fi in modalità Aereo</string>

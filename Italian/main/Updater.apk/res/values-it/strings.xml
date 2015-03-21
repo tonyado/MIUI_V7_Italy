@@ -46,6 +46,7 @@
     <string name="boot_recovery">Riavvia in Recovery</string>
     <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
     <string name="update_success">Congratulazioni, aggiornamento installato con successo!</string>
+    <string name="install_failed">Aggiornamento fallito</string>
     <string name="download_current_rom">"Scarica l'ultima full ROM"</string>
     <string name="later">Riavvia dopo</string>
     <string name="notification_update_new_version">Aggiornamento disponibile</string>
@@ -77,6 +78,11 @@
     <string name="pause">Pausa</string>
     <string name="repeat">Riprova</string>
     <string name="user_begin">Scarica</string>
+    <string name="recovery_failed_title">Usa Mi PC Suite per aggiornare il sistema</string>
+    <string name="recovery_failed_msg">"Il dispositivo non ha sufficiente memoria per andare in modalità Recovey ed aggiornare il sistema. Prova ad utilizzare Mi PC Suite:
+http://zhushou.xiaomi.com"</string>
+    <string name="recovery_failed_button">OK</string>
+    <string name="recovery_failed_notification_msg">Impossibile entrare in modalità Recovery</string>
     <string name="validate_pkg_failed_title">"Impossibile verificare l'aggiornamento"</string>
     <string name="validate_pkg_failed_msg">"L'aggiornamento che hai scaricato non corrisponde con i nostri dati.Prova a scaricarlo di nuovo."</string>
     <string name="user_intertup_download_title">Downlaod aggiornamento in pausa</string>

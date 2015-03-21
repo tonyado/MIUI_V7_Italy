@@ -819,8 +819,8 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="contactDetailCalllog">Registro chiamate</string>
     <string name="add_blacklist">Blocca</string>
     <string name="remove_blacklist">Sblocca</string>
-    <string name="empty_divider_title"></string>
-    <string name="noContactHelpTextAccountsInfo">Sincronizza contatti Xiaomi, Google, e Exchange</string>
+    <string name="empty_divider_title" />
+    <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina i dati dei contatti usando l'account Xiaomi"</string>
     <string name="recent_contacts_label">Recenti</string>
     <string name="noRecentContacts">Nessun contatto recente</string>
@@ -1077,7 +1077,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="toast_copying">Copia…</string>
     <string name="toast_copy_done">Eseguito</string>
     <string name="group_name">I miei gruppi</string>
-    <string name="starred_yellowpage">Cartelle preferite</string>
+    <string name="followed_yellowpage">Cartelle preferite</string>
     <string name="import_all_sim_entries_miui">Importa tutti i contatti</string>
     <string name="import_sim_entry_miui">Importa</string>
     <string name="delete_sim_entry_miui">Cancella</string>
