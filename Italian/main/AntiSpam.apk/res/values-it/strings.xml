@@ -302,4 +302,13 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="call_transfer_block_type">Blocca chiamate inoltrate</string>
     <string name="call_transfer_info">Blocca chiamate inoltrate da numeri sconosciuti</string>
     <string name="sms_smart_engine_update">Aggiorna automaticamente il filtro SMS</string>
+    <string name="mark_number_setting_guide_title">Blocca i numeri segnalati</string>
+    <string name="mark_number_setting_guide_content1">Bloccare le chiamate dai numeri segnalati?</string>
+    <string name="mark_number_setting_guide_content2">Blocca automaticamente le chiamate dai numeri segnalati da altri utenti</string>
+    <string name="mark_number_setting_guide_content3">Hai segnalato un numero come %1$s. Vuoi bloccare le chiamate dai numeri segnati come %2$s?</string>
+    <string name="mark_number_setting_guide_forward">Impostazione lista blocchi</string>
+    <string name="mark_number_fraud">Truffa</string>
+    <string name="mark_number_agent">Venditore</string>
+    <string name="mark_number_sell">Promozioni</string>
+    <string name="mark_number_banking">Agente assicurativo</string>
 </resources>

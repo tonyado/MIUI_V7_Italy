@@ -77,6 +77,7 @@
     <string name="account_setup_account_type_headline">>Tipologia account</string>
     <string name="account_setup_account_type_instructions">Di quale tipo di account si tratta?</string>
     <string name="account_setup_account_type_title">Impostazione account</string>
+    <string name="account_setup_address_label">Email</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Confermare che nome utente, password e impostazioni account sono corretti.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Problema configurazione account</string>
     <string name="account_setup_basics_email_label">Indirizzo email</string>
@@ -87,6 +88,7 @@
     <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Verifica impostazioni server posta in uscita…</string>
     <string name="account_setup_check_settings_retr_info_msg">"Recupero informazioni sull'account…"</string>
+    <string name="account_setup_correct_address_tips">Inserisci indirizzo email</string>
     <string name="account_setup_creating_account_msg">Creazione account…</string>
     <string name="account_setup_deleting_account_msg">Eliminazione account…</string>
     <string name="account_setup_exchange_certificate_title">Certificato client</string>
@@ -623,6 +625,7 @@ CC: %4$s
     <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
     <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
     <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
+    <string name="outbox_alert_description_insufficient_storage_error">Spazio insufficiente nel server mail</string>
     <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
     <string name="outbox_alert_description_sent_failed">"Causa: Le dimensioni dell'allegato superano quelle massime del destinatario"</string>
     <string name="outbox_alert_duplicate_click">Non toccare di nuovo, mail in sincronizzazione</string>
@@ -757,6 +760,8 @@ CC: %4$s
     <string name="recipient_needed">Aggiungi almeno un destinatario.</string>
     <string name="recipient_needed_title">Warn</string>
     <string name="recipient_null_dialog_title">Avviso</string>
+    <string name="reduce_the_receiving_frequencye_summary">"Frequenza di sincronizzazione e-mail più bassa nell'orario preimpostato"</string>
+    <string name="reduce_the_receiving_frequencye_title">Frequenza sincronizzazione ridotta</string>
     <string name="refresh">Aggiorna</string>
     <string name="refreshing">Aggiornamento…</string>
     <string name="refreshing_done">Sincronizzazione completata</string>
@@ -785,8 +790,11 @@ CC: %4$s
     <string name="save_attachment">Salva</string>
     <string name="save_draft">Salva bozza</string>
     <string name="save_draft_failed">Save draft failed</string>
+    <string name="save_power_summary">"Risparmio batteria nell'orario preimpostato"</string>
+    <string name="save_power_title">Risparmio batteria</string>
     <string name="saved">Salvato, %s</string>
     <string name="saving">Salvataggio…</string>
+    <string name="sdcard_cannot_use">Scheda di memoria non utilizzabile</string>
     <string name="search_attachment">Cerca</string>
     <string name="search_hint">Cerca email</string>
     <string name="search_result">Risultati:</string>
@@ -821,6 +829,7 @@ CC: %4$s
 \u0009 (Controlla se è impostato 'Orario si sincronizzazione automatica')"</string>
     <string name="ser_resp_err_map_nouser">Nessun utente</string>
     <string name="ser_resp_err_map_or">Oppure</string>
+    <string name="ser_resp_err_map_pserr">Nome utente o password non corre</string>
     <string name="ser_resp_err_map_serclosed">Servizio chiuso</string>
     <string name="ser_resp_err_map_ssl">"Prova a selezionare 'SSL/TLS (Accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
     <string name="set_network">Imposta rete</string>

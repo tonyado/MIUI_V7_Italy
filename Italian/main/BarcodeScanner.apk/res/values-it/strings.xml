@@ -40,6 +40,7 @@
     <string name="import_contact">Importa contatto</string>
     <string name="secure_access_web_url">Accesso sicuro</string>
     <string name="not_recommend_access_web_url">Accesso sicuro (non consigliato)</string>
+    <string name="continue_to_website">Continua su questo sito</string>
     <string name="continue_access_web_url">Accesso sicuro</string>
     <string name="download_by_browser">Scarica con il browser</string>
     <string name="launch_market">Lancia Mi Market</string>
@@ -77,4 +78,6 @@
     <string name="tips_title">Connessione Internet</string>
     <string name="not_tips">Non chiedere più</string>
     <string name="settings">Impostazioni</string>
+    <string name="not_insert_contact">Impossibile aggiungere il contatto</string>
+    <string name="choose_picture">Scegli immagine QR code</string>
 </resources>

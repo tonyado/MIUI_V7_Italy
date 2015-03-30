@@ -214,6 +214,7 @@
     <string name="delete_wallpaper_message">Eliminare %1$d sfondo selezionato?</string>
     <string name="delete_wallpapers_message">Eliminare i %1$d sfondi selezionati?</string>
     <string name="is_system_wallpaper_message">Impossibile eliminare risorse di sistema</string>
+    <string name="cloud_app_restore_title">In attesa</string>
     <string name="app_category_finance">Finanza</string>
     <string name="app_category_social">Sociale</string>
     <string name="app_category_travel">Viaggi</string>

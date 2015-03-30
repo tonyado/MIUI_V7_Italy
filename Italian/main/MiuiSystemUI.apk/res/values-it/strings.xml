@@ -214,4 +214,7 @@ scorri in basso per bloccare"</string>
     <string name="audio_effect_settings">Imposta tipologia di cuffie</string>
     <string name="audio_effect_info">Ottimizza audio</string>
     <string name="audio_effect_custom">Imposta</string>
+    <string name="media_projection_dialog_text">%s inizierà a registrare tutto ciò che verrà visualizzato sul tuo schermo.</string>
+    <string name="media_projection_remember_text">Non chiedere più</string>
+    <string name="media_projection_action_text">Avvia adesso</string>
 </resources>
