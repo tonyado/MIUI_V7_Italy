@@ -726,4 +726,12 @@
     <string name="title_default_app">MIUI %s non è impostato come predefinito</string>
     <string name="summary_default_app">%s non è impostata come app di sistema predefinita</string>
     <string name="toast_default_app">%1$s impostata come app di sistema predefinita per %2$s"</string>
+    <string name="notification_title_cmcc_app_check">"%d giorni dall'ultimo controllo"</string>
+    <string name="notification_summary_cmcc_app_check">Tocca per vedere i dettagli.</string>
+    <string name="title_cmcc_app_check">Verifica non completa</string>
+    <string name="summary_cmcc_app_check">Alcune applicazioni non possono essere verificate</string>
+    <string name="cmcc_app_check_dialog_title">Sistema riparato</string>
+    <string name="cmcc_app_check_dialog_message">Riavvia il tuo dispositivo per completare la riparazione.</string>
+    <string name="cmcc_app_check_dialog_positive">Riavvia adesso</string>
+    <string name="cmcc_app_check_dialog_negative">Più tardi</string>
 </resources>

@@ -23,7 +23,7 @@
     <string name="note_link_select">Seleziona testo link</string>
     <string name="menu_create_folder">Nuova cartella</string>
     <string name="menu_delete">Elimina</string>
-    <string name="menu_move">Sposta in cartella</string>
+    <string name="menu_folders">Cartelle</string>
     <string name="menu_stick">Spilla</string>
     <string name="menu_unstick">Non spilla</string>
     <string name="folder_exist">Esiste già Una cartella con lo stesso nome</string>
@@ -106,4 +106,12 @@
     <string name="sns_choose_quality_title">"Scegli la qualità dell'immagine"</string>
     <string name="sns_choose_quality_high">Alta (%1$s)</string>
     <string name="sns_choose_quality_low">Bassa</string>
+    <string name="welcome_note_for_cm">"E molte altre fantastiche funzioni!
+  - Sincronizzazione con Mi Cloud
+  - Salvataggio all'uscita
+  - Impostazionea avvisi
+
+Per saperne di più, visita
+http://www.miui.com/forum.php?lang=1
+"</string>
 </resources>
