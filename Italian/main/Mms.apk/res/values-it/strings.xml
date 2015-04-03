@@ -83,6 +83,8 @@
     <string name="too_many_attachments">"C'è un limite di %1$s allegati. Verranno aggiunti solo i primi %2$s."</string>
     <string name="adding_attachments_title">Aggiunta di allegati</string>
     <string name="adding_attachments">"Attendi il termine dell'aggiunta degli elementi alla presentazione."</string>
+    <string name="recipients_over_size">Troppi destinatari.</string>
+    <string name="over_max_mms_size">Mms troppo grande.</string>
     <string name="preview">Anteprima</string>
     <string name="preview_slideshow">Anteprima</string>
     <string name="replace_image">Sostituisci immagine</string>
@@ -110,6 +112,7 @@
     <string name="pref_title_sms_delete">Limite SMS</string>
     <string name="pref_title_mms_delete">Limiti MMS</string>
     <string name="pref_messages_to_save">Imposta il numero di messaggi da salvare</string>
+    <string name="pref_title_storage_status">Stato memoria messaggi</string>
     <string name="pref_title_mms_auto_retrieval">Riprova in automatico</string>
     <string name="pref_summary_mms_auto_retrieval">Prova automaticamente a reinviare il messaggio</string>
     <string name="pref_title_mms_retrieval_during_roaming">Reinvio automatico in roaming</string>
@@ -308,6 +311,8 @@
     <string name="pref_summary_wake_up_screen">Attiva lo schermo alla ricezione di un nuovo SMS</string>
     <string name="pref_title_delivery_reports">Rapporti consegna</string>
     <string name="pref_summary_delivery_reports">Ricezione del rapporto di consegna SMS</string>
+    <string name="pref_title_send_delivery_reports">Invia rapporto di consegna</string>
+    <string name="pref_summary_send_delivery_reports">Invia rapporto di consegna per i messaggi ricevuti</string>
     <string name="pref_title_ringtone_repeat">Frequenza avviso suoneria</string>
     <string name="pref_title_ringtone_repeat_summary">"Numero di notifiche sonore quando si riceve un SMS a schermo spento: "</string>
     <string name="pref_other_title">Altro</string>
@@ -548,4 +553,10 @@
     <string name="block_messaging_entry_title">SMS bloccati</string>
     <string name="message_contact">Contatto:</string>
     <string name="message_number">Numero di telefono:</string>
+    <string name="storage_dialog_mms">MMS: %d</string>
+    <string name="storage_dialog_mms_size">Dimensione MMS:</string>
+    <string name="storage_dialog_attachments">Allegato MMS:</string>
+    <string name="storage_dialog_sms">SMS: %d</string>
+    <string name="storage_dialog_database">Database:</string>
+    <string name="storage_dialog_available_space">Spazio disponibile:</string>
 </resources>

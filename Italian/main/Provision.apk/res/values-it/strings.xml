@@ -28,7 +28,8 @@ Leggi questo documento per la tastiera: "</string>
     <string name="pref_title_voice_slot">Scheda SIM per le chiamate vocali</string>
     <string name="pref_title_data_slot">Scheda SIM per i dati</string>
     <string name="summary_not_set">Non impostato</string>
-    <string name="summary_sim_card">Scheda SIM %1$d%2$s</string>
+    <string name="summary_sim_card">SIM %1$d</string>
+    <string name="summary_sim_card_with_operator">SIM %1$d: %2$s</string>
     <string name="ime_privacy_policy">Termini della privacy per la tastiera selezionata</string>
     <string name="ime_privacy_policy_no_network">Impossibile collegarsi a internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
     <string name="terms_of_use">Condizioni del Servizio</string>
@@ -43,10 +44,7 @@ Devi accettare le Condizioni del Servizio e e i Termini sulla Privacy prima di u
     <string name="setting_locale">Impostazione PAese…</string>
     <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i Termini del Servizio su %s</string>
     <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'Informativa sulla Privacy su %s"</string>
-    <string name="locale_picker_title">Scegli il tuo Paese</string>
-    <string name="locale_picker_desc">Se vuoi modificare il tuo Paese successivamente, dovrai ripristinare le impostazioni di fabbrica."</string>
-    <string name="locale_picker_confirm_dialog_title">Scegli il tuo paese</string>
-    <string name="locale_picker_confirm_dialog_desc">"Impostare %s come il tuo Paese? "</string>
+    <string name="locale_picker_title">Scegli la tua lingua</string>
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Riavvia</string>
     <string name="install_preinstall_app">Caricamento applicazioni…</string>

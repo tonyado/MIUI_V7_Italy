@@ -401,6 +401,8 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="roaming_start_body">Consenti alle app nella lista delle eccezioni di collegarsi al servizio dati anche durante il roaming internazionale.</string>
     <string name="dialog_app_roaming_title">il roamig internazionale non è attivato per %1$s</string>
     <string name="dialog_app_roaming_message">Durante il roaming internazionale, solo le applicazioni che hai aggiunto alla lista delle eccezioni possono utilizzare i servizi dati. %1$s non è stata aggiunta alla lista delle eccezioni. Vedere la lista delle eccezioni?"</string>
+    <string name="add_miservice_dialog_title">MIUI service framework</string>
+    <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di MIUI service framework alla lista delle eccezioni. Potresti ricevere notifiche da applicazioni MIUI integrate ae da altre app di terze parti."</string>
     <string name="traffic_setting_completed">OK</string>
     <string name="traffic_setting_extra_pkg_title">Impostazioni aggiuntive</string>
     <string name="traffic_setting_extra_pkg_summary">Regola il piano dati e le soglie</string>

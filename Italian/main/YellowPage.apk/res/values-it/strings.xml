@@ -170,6 +170,7 @@ Totale: RMB%3$s"</string>
     <string name="express_inquiry_serial_number_indication">Numero tracciamento</string>
     <string name="express_inquiry_button_text">Traccia</string>
     <string name="express_inquiry_serial_number_prefix">"Numero seriale: "</string>
+    <string name="express_inquiry_logistics_prefix">Corriere: %s</string>
     <string name="express_inquiry_no_result">Nessun risultato.</string>
     <string name="express_inquiry_internal_failure">"Si è verificato un errore.
 Verifica il tuo numero di tracciamento."</string>
@@ -256,7 +257,6 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="express_order_state_unknown">Sconosciuto</string>
     <string name="express_view_status">Spedizione</string>
     <string name="express_no_order_info">"Nessuna informazione sull'ordine"</string>
-    <string name="express_order_detail">Dettagli</string>
     <string name="express_contact_prefix">"Contatto "</string>
     <string name="express_contact_label">Le tue informazioni</string>
     <string name="express_contact_phone">Inserisci il tuo numero di telefono</string>
@@ -289,6 +289,8 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="navigation_search_no_city_list">Nessun dato trovato sulla città!</string>
     <string name="navigation_search_hot_cities">Principali</string>
     <string name="navigation_search_all_cities">Tutte</string>
+    <string name="yuan">Yuan</string>
+    <string name="order_type_recharge">Ricarica</string>
     <string name="order_empty_hint">Nessun ordine</string>
     <string name="order_merchant_title">I miei ordini</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
@@ -299,6 +301,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="order_id_label">Id ordine：%s</string>
     <string name="order_date_label">Data ordine：%s</string>
     <string name="order_not_found">Nessun ordine relativo</string>
+    <string name="order_detail">Dettagli</string>
     <string name="general_yellow_page_title">Generale</string>
     <string name="general_recent_title">Recenti</string>
     <string name="general_favorite_title">Preferiti</string>
@@ -355,5 +358,5 @@ Confirmi di seguire questo elemento?"</string>
     <string name="sina_share_fail">Impossibile inviare</string>
     <string name="sina_token_expired_warning">Account Weibo scaduto: ricollegare</string>
     <string name="sina_token_invalid_warning">Account Weibo non valido: ricollegare</string>
- <string name="sina_share_fail_content_repeat">Impossibile condividere, il contenuto è già esistente…</string>
+    <string name="sina_share_fail_content_repeat">Impossibile condividere, il contenuto è già esistente…</string>
 </resources>

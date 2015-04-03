@@ -311,4 +311,8 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="mark_number_agent">Venditore</string>
     <string name="mark_number_sell">Promozioni</string>
     <string name="mark_number_banking">Agente assicurativo</string>
+    <string name="antispam_notification_setting_title">Notifiche lista blocchi</string>
+    <string name="antispam_notificaiton_type_show_all">Mostra quando una chiamata viene bloccata</string>
+    <string name="antispam_notificaiton_type_show_except_blacklist">MOstra quando una chiamata non presente nela lista blocco viene bloccata</string>
+    <string name="antispam_notificaiton_type_show_none">Non mostrare notifiche</string>
 </resources>

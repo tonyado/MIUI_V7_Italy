@@ -28,6 +28,7 @@
     <string name="activate">Attiva</string>
     <string name="no_sim">SIM non rilevata</string>
     <string name="find_device_status_ok">Localizza il tuo dispositivo in ogni momento su i.mi.com</string>
+    <string name="find_device_status_ok_international">Trova il tuo telefono in qualsaisi momento su www.mi.com/micloud</string>
     <string name="account">Account</string>
     <string name="verify">Verifica</string>
     <string name="next">Avanti</string>
@@ -109,6 +110,7 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="micloud_sec_dspt">e condividere cose con i tuoi amici.</string>
     <string name="micloud_dspt_provision">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo, e condividere cose con i tuoi amici.</string>
     <string name="start_micloud">Avvia Mi Cloud</string>
+    <string name="micloud_single_dspt">Utilizza Mi Cloud per sincronizzare i dati, posizionare il tuo telefono e condividere file con gli amici.</string>
     <string name="micloud_proceed">Continua</string>
     <string name="master_alert_notif_title">Ultima sincronizzazione: %s giorni fa</string>
     <string name="sub_alert_notif_title">Sincronizzazione disabilitata</string>
@@ -120,7 +122,13 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="master_alert_notif_dspt_no">"E' tutto aggiornato."</string>
     <string name="sub_alert_notif_dspt_add">%s non sincronizzati.</string>
     <string name="sub_alert_notif_dspt_no">Non è stato sincronizzato nulla.</string>
+    <string name="cloudservice_new_sync">Sincronizza %s con Mi Cloud</string>
+    <string name="click_to_enabled">TTocca per sincronizzare.</string>
+    <string name="calendar_sync">Calendario</string>
+    <string name="antispam_sync">Impostazioni Anti Disturbo</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
+    <string name="micloud_space_duokan_title">Duokan</string>
+    <string name="micloud_space_duokan_detail">"Gestisci i tuopi contenuti su Duokan con l'applicazione Duokan."</string>
     <string name="micloud_space_full_influence"><u>Cosa accade quando esaurisco lo spazio?</u></string>
     <string name="micloud_storage_usage" formatted="false">Utilizzato %s / Totale %s</string>
     <string name="micloud_title_dspt" formatted="false">"%s totale
@@ -162,7 +170,6 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="sync_sub_2_intl_sms">Verranno inviati due SMS internazionali per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
     <string name="sync_sub_1_sms_1_intl_sms">Verranno inviati un SMS internazionali e uno nazionale per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
     <string name="sync_setting">Sincronizza impostazioni</string>
-    <string name="less_flow_mode">Risparmio dati</string>
     <string name="sync_standard">Sincronizza le piccole cose</string>
     <string name="only_in_wlan">Utilizza solo Wi-Fi per sincronizzare</string>
     <string name="cloud_sync_setting_summary_standard">Utilizza la connessione dati mobile per sincronizzare SMS, informazioni dei Contatti e Registro Chiamate. Utilizza la rete Wi-Fi per sincronizzare Foto, Video, MMS, dai applicazioni, Foto profilo dei contatti ed altro.</string>
@@ -193,6 +200,7 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="micloud_main_data_unsynced">%d non sincronizzato</string>
     <string name="micloud_main_detail">Mostra dettagli</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
+    <string name="micloud_main_sync_init">Recupero informazioni</string>
     <string name="micloud_main_syncing">Sincronizzazione dati...</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizzazione</string>
     <string name="micloud_main_synced_data_count">%d dati sono sincronizzati</string>
@@ -210,7 +218,7 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="micloud_detail_wlan">%d dati non sincronizzati</string>
     <string name="micloud_detail_wlan_contact">%d foto contatti non sincronizzati</string>
     <string name="micloud_detail_wlan_mms">%d MMS non sincronizzati</string>
-   <string name="micloud_check_sim_title">"Sembra che tu abbia cambiato SIM. Accedi
+    <string name="micloud_check_sim_title">"Sembra che tu abbia cambiato SIM. Accedi
 al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Riattivazione Mi Cloud</string>
     <string name="micloud_check_sim_notify_text">"Sembra che tu abbia cambiato SIM. Accedi
@@ -221,6 +229,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_setting_browser_summary">Segnalibri, cronologia e schede</string>
     <string name="micloud_setting_music_summary">Playlist e preferiti</string>
     <string name="micloud_setting_wifi_summary">Impostazioni Wi-Fi</string>
+    <string name="micloud_setting_antispam_summary">Eccezioni per Anti Disturbo e numeri di telefono bloccati.</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_tb">TB</string>
     <string name="upgrade_space_mibipreyear">"%s Mi Credit all'anno"</string>
@@ -258,10 +267,26 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="loading_hint">Caricamento</string>
     <string name="buy_space_expire">Lo spazio acquistato scadrà tra %s</string>
     <string name="buy_space_expire_concat">%1$s al %2$s</string>
+    <string name="buy_more_space_b_class">"Accedi su mi.com/micloud per avere spazio di archiviazione aggiuntivo.
+Ti servirà la carta di credito di una banca cinese per acquista spazio aggnnto."</string>
+    <string name="buy_more_space_c_class">"Questa funzione richiede la carta di credito di una banca cinese.
+Visita mi.com/micloud per avere spazio di archiviazione aggiuntivo."</string>
     <string name="share_miliao_not_installed">MiTalk non è installato.</string>
     <string name="share_weibo_not_installed">Weibo non è installato.</string>
     <string name="share_weixin_not_installed">Wechat non è installato.</string>
     <string name="share_success">Condiviso</string>
     <string name="share_cancel">Condivisione annullata</string>
     <string name="share_failed">Impossibile condividere</string>
+    <string name="cloud_back_up_title">Backup Home</string>
+    <string name="cloud_back_up_open_info_no_backuptime">Esegui il backup del layout della tua Home e delle app ogni %1$s quando collegato a rete Wi-Fi</string>
+    <string name="cloud_back_up_open_info">"segui il backup del layout della tua Home e delle app ogni %1$s quando collegato a rete Wi-Fi
+Ultimo backup: %2$s"</string>
+    <string name="cloud_back_up_interval_long">7 giorni</string>
+    <string name="cloud_back_up_interval_short">1 ora</string>
+    <string name="cloud_back_up_close_info">Tocca per eseguire il backup.</string>
+    <string name="cloud_backup_dialog_title">Esegui il backup con Mi Cloud</string>
+    <string name="cloud_back_up_dialog_content">Interrompere il backup in corso? Se interrompi adesso non potrai più utilizzare questo backup per ripristinare le applicazioni.</string>
+    <string name="cloud_back_up_button_ok">Interrompi</string>
+    <string name="cloud_back_up_network_unavailable">Impossibile rimuovere. Collegarsi di nuovo alla rete Wi-Fi?.</string>
+    <string name="cloud_back_up_remove_success">Backup eliminato</string>
 </resources>

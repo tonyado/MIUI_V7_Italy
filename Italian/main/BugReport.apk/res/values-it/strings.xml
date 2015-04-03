@@ -45,6 +45,7 @@
     <string name="toast_pending_log_collection">Registrazione log, si prega di attendere</string>
     <string name="toast_feedback_submitted">Il tuo feedback è stato inviato correttamente</string>
     <string name="toast_feedback_submitting">Invio in corso…</string>
+    <string name="toast_feedback_collect_store">Raccolta log…</string>
     <string name="toast_feedback_pending_wlan">Il tuo feedback sarà invato quando la conessione WLAN sarà pronta</string>
     <string name="toast_feedback_network_unavailable">Impossibile collegarsi alla rete</string>
     <string name="toast_network_unavailable">Impossibile inviare. Impossibile connettersi alla rete.</string>
@@ -100,6 +101,7 @@
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Invia rapporto a Xiaomi</string>
     <string name="submit_dialog_content">Il tuo feedback, insieme al log di errore e alle immagini allegate, verrà inviato ai server Xiaomi.</string>
+    <string name="submit_dialog_not_wifi_content">Il tuo feedback, insieme al tuo log ed alle immagini allegate, verrà inviato ai server Xiaomi quando il dispositivo è collegato ad una rete Wi-Fi.</string>
     <string name="submit_dialog_cancel">Annulla</string>
     <string name="submit_dialog_confirm">Invia</string>
     <string name="bugreport_dump_start_notification_title">Creazione bug report</string>
@@ -108,4 +110,6 @@
     <string name="bugreport_dump_complete_notification_summary">Tocca per leggere.</string>
     <string name="plus_one_submit_dialog_content">Il tuo feedback, insieme al log di errore, verrà inviato ai server Xiaomi.</string>
     <string name="plus_one_submit_dialog_not_show_again">Ricorda la scelta</string>
+    <string name="network_disconnected">Nessuna rete</string>
+    <string name="toast_fill_brackets">Si prega di ompilare i campi</string>
 </resources>
