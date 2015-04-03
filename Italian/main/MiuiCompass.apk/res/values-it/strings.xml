@@ -35,13 +35,13 @@
     <string name="mobiledata_alert_dialog_title">Avvertimento utilizzo dei dati</string>
     <string name="mobiledata_alert_dialog_message">"Vuoi connetterti a internet per calibrare l'altitudine?"</string>
     <string name="do_not_show_next_time">Non chiedere più</string>
-    <string name="location_not_enabled_title">Servizi di loalizzazione</string>
-    <string name="location_not_enabled_summary">Il servizio necessita della tua posizione per fnzionare correttaemnte.</string>
+    <string name="location_not_enabled_title">Servizi di localizzazione</string>
+    <string name="location_not_enabled_summary">Il servizio necessita della tua posizione per funzionare correttamente.</string>
     <string name="location_enable">Consenti</string>
     <string name="location_enable_later">Dopo</string>
     <string name="location_enabled">Puoi disattivare i servizi di localizzazione in qualsiasi momento dalle Impostazioni.</string>
     <string name="using_camera_confirm_title">Accesso alla fotocamera</string>
-    <string name="using_camera_confirm_message">La Bussola deve utilizzare la fotocamera per funzionare correttaemnte</string>
+    <string name="using_camera_confirm_message">La Bussola deve utilizzare la fotocamera per funzionare correttamente.</string>
     <string name="using_camera_confirm_ok">OK</string>
     <string name="using_camera_confirm_cancel">Esci</string>
     <string name="shake_enter_tip">Scuoti per calibrare</string>

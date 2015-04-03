@@ -521,17 +521,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="no_vt_allowed">Per eseguire una videochiamata, disattivare la modalità TTY</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Chiedi sempre</string>
-    <string name="domain_address">SipDomain</string>
-    <string name="username">UserName</string>
-    <string name="password">Password</string>
-    <string name="display_name">DisplayName</string>
-    <string name="proxy_address">ProxyAddress</string>
-    <string name="port">Port</string>
-    <string name="transport">Protocol</string>
-    <string name="send_keepalive">SendKeepAlive</string>
-    <string name="set_primary">SetPrimary</string>
-    <string name="advanced_settings_container">advanced settings container</string>
-    <string name="auth_username">AuthUserName</string>
     <string name="ims_edit_title">IMS account details</string>
     <string name="ims_accounts_title">IMS account</string>
     <string name="call_type">CallType</string>
