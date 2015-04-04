@@ -946,12 +946,12 @@ il dispositivo"</string>
     <string name="square">Quadrato</string>
     <string name="original_scale">Scala originale</string>
     <string name="photo_save_succeed">Salvato correttamente</string>
-    <string name="impunity_declaration_title">Notizie di rete</string>
+    <string name="impunity_declaration_title">Avviso di rete</string>
     <string name="impunity_declaration">La galleria può connettersi alla rete dati per fornire alcuni servizi. Vuoi continuare?</string>
     <string name="impunity_declaration_ignore">Non chiedere più</string>
     <string name="impunity_declaration_positive_text">OK</string>
-    <string name="impunity_declaration_settings">Mostra notizie di rete</string>
-    <string name="impunity_declaration_summary">"Mostra le notizie di rete ogni volta che si avvia l'applicazione galleria"</string>
+    <string name="impunity_declaration_settings">Mostra avvisi di rete</string>
+    <string name="impunity_declaration_summary">"Mostra gli avvisi di rete ogni volta che si avvia l'applicazione galleria"</string>
     <string name="face_album">Copertina almbum</string>
     <string name="auto_upload_title">Carica automaticamente</string>
     <string name="select_auto_upload_albums">Scegli gli album da caricare sul cloud</string>

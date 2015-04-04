@@ -41,7 +41,7 @@
     <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voice_search_hint_quotation_end">\"</string>
     <string name="cta_declaration_title">Termini del Servizio</string>
-    <string name="cta_declaration">Per tutte el funzioni di ricerca, dobbiamo connetterci alla rete, rilevare la posizione, reading the call records, read the address book, etc. Do you agree?</string>
+    <string name="cta_declaration">Per utilizzare le funzioni di ricerca potrebbe essere necessario necessario connettersi ad internet, rilevare la posizione, accedere all cronologia delle chiamate, accedere alla lista dei contatti, etc. Vuoi consentire queste operazioni?</string>
     <string name="cta_declaration_ignore">"Non chiedere più"</string>
     <string name="cta_declaration_positive_text">OK e continua</string>
     <string name="cta_declaration_negative_text">Esci</string>
