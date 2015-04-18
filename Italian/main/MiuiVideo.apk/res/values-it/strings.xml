@@ -380,7 +380,7 @@
     <string name="debug_mode">Modalità Debug</string>
     <string name="debug_mode_desc">"Quando selezionato, mostra l'ID del video nell'angolo in alto a sinistra e mostra la pubblicità all'avvio dell'applicazione."</string>
     <string name="ads_control">Controllo pubblicità</string>
-    <string name="ads_control_desc">Quando selezionato, mostra la pubblicità all'avvio dell'applicazione</string>
+    <string name="ads_control_desc">"Quando selezionato, mostra la pubblicità all'avvio dell'applicazione"</string>
     <string name="server_switch">Server</string>
     <string name="server_summary">Seleziona il Server per il servizio</string>
     <string name="pulltorefresh">Tira per aggiornare</string>
