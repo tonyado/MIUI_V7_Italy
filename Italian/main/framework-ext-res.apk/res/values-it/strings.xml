@@ -28,7 +28,7 @@
     <string name="status_bar_toggle_paper_mode">Mod. Lettura</string>
     <string name="status_bar_toggle_sync_auto">Auto Sinc.</string>
     <string name="status_bar_toggle_sync_manual">Sinc. Manuale</string>
-    <string name="status_bar_toggle_syncing">Sinc./string>g>
+    <string name="status_bar_toggle_syncing">Sinc.</string>
     <string name="screen_rotation_freeze_message">Rotazione automatica bloccata</string>
     <string name="screen_button_disabled_message">I tasti funzione in basso sono bloccati. Puoi riabilitarli premendo \"Home\" e \"Power\"</string>
     <string name="screen_button_enabled_message">I tasti funzione in basso</string>
