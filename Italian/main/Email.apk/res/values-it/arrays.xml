@@ -85,12 +85,4 @@
         <item>Avviso</item>
         <item>Avviso email</item>
     </string-array>
-    <string-array name="sync_status">
-        <item>Sincronizzazione completata.</item>
-        <item>Errore nella connessione di rete.</item>
-        <item>Imposibile accedere.</item>
-        <item>Errore nella connessione sicura.</item>
-        <item>SIncronizzazione fallita.</item>
-        <item>Errore del server.</item>
-    </string-array>
 </resources>

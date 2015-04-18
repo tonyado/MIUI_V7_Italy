@@ -619,7 +619,7 @@ Per riprendere a utilizzare il telefono devi effettuare un ripristino dei dati d
     <string name="wifi_required_info_text">Per poter completare la configurazione, il telefono deve poter accedere a una rete Wi‑Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi‑Fi e viceversa.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Imposta protezione Wi-Fi</string>
-    <string name="wifi_wps_setup_msg">Avvvio WPS…</string>
+    <string name="wifi_wps_setup_msg">Avvio WPS…</string>
     <string name="wifi_wps_onstart_pbc">Premi il pulsante Wi-Fi Protected Setup del router. Il pulsante potrebbe essere denominato \"WPS\" o contenere questo simbolo:</string>
     <string name="wifi_wps_onstart_pin">Inserisci il PIN %1$s sul router Wi-Fi. Il completamento della configurazione può richiedere fino a due minuti.</string>
     <string name="wifi_wps_complete">Configurazione WPS riuscita. Connessione alla rete…</string>
@@ -2208,7 +2208,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="touch_title">Touch</string>
     <string name="touch_sensitive_title">Modalità guanti</string>
     <string name="touch_sensitive_summary">"Rende lo schermo touch particolarmente sensibile consentendone l'uso mentre indossi dei guanti"</string>
-    <string name="touch_sensitive_turn_off_title">Modailtà guanti disattivata</string>
+    <string name="touch_sensitive_turn_off_title">Modalità guanti disattivata</string>
     <string name="touch_sensitive_turn_off_summary">Disabilitare anche Prevenzione chiamate dalla tasca?</string>
     <string name="touch_sensitive_turn_off_confirm">OK</string>
     <string name="touch_sensitive_turn_off_cancel">Annulla</string>
@@ -2324,6 +2324,9 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="wifi_wps_overlap_error">"E' stata rilevata un'altra sessione Wi-Fi. Riprova fra qualche minuto."</string>
     <string name="wifi_p2p_wps_setup">Impostazione WPS</string>
     <string name="default_input_method">Scegli tastiera</string>
+    <string name="locale_settings">Paese</string>
+    <string name="country_name">%s (sistema)</string>
+    <string name="install_preinstall_app">Caricamento applicazioni…</string>
     <string name="volume_category_title">Volume</string>
     <string name="vibrate_category_title">Vibrazione</string>
     <string name="vibrate_in_normal_title">Vibra quando suona</string>
@@ -2569,6 +2572,20 @@ ed esegui il software."</string>
     <string name="screen_paper_mode_turn_off">Disattivato</string>
     <string name="screen_paper_mode_apps_title">Utilizza la modalità Lettura per queste applicazioni</string>
     <string name="screen_paper_mode_off_apps_title">Non utilizzare la modalità Lettura per queste applicazioni</string>
+    <string name="screen_paper_mode_adjust_level">Potenza</string>
+    <string name="screen_paper_mode_update_white_pkg_list_title">LIsta aggiornamento rete</string>
+    <string name="screen_paper_mode_update_white_pkg_list_summary">Aggiorna la lista delle applicazioni utilizzando al modalità lettura tramite la rete</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termini e Condizioni</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Per aggiornare la lista delle applicazioni è possibile utilizzare la modalità lettura, questo richiede una connessione di rete. Acconsenti?</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Non chiedere più</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">OK</string>
+    <string name="screen_paper_mode_range_title">Impostazioni</string>
+    <string name="screen_paper_mode_global_title">Tutte le applicazioni</string>
+    <string name="screen_paper_mode_global_summary">Utilizza la modalità lettura per tutte le applicazioni</string>
+    <string name="screen_paper_mode_local_title">Applicazioni selezionate</string>
+    <string name="screen_paper_mode_local_summary">Utilizza la modalità lettura solo per le applicazioni selezionate</string>
+    <string name="screen_paper_mode_set_apps_title">Applicazioni modalità lettura</string>
+    <string name="screen_paper_mode_apps_loading">Solo un secondo…</string>
     <string name="finish_application">Fine</string>
     <string name="header_category_accounts">Account</string>
     <string name="auto_startup_application_manage">Avvio automatico</string>
@@ -2675,7 +2692,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_share_qrcode_finish">OK</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">Abilita 3D</string>
-    <string name="hdmi_3dplay_control_enable_subtext">Output 3D Stereoscopico verso un display 3D esterno sabilitato</string>
+    <string name="hdmi_3dplay_control_enable_subtext">Output 3D Stereoscopico verso un display 3D esterno abilitato</string>
     <string name="hdmi_3dplay_control_disable_subtext">Output 3D Stereoscopico verso un display 3D esterno disabilitato</string>
     <string name="adjust_3d_depth_title">"Regola profondità 3D dei giochi"</string>
     <string name="hdmi_3d_stereo_separation_label">3D</string>
@@ -2961,4 +2978,5 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_notify_cmcc_connected_title">Notifica rete CMCC</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostra notifica quando collegato alla rete CMCC</string>
     <string name="wifi_datanetwork_switch_not_remind">"Non chiedere più"</string>
+    <string name="skip_lock_screen_confirm_msg">Le seguenti funzioni verranno disattivate per la lockscreen: notifiche, controllo musica, slide sinistro per la Fotocamera e slide destro per Mi Home.</string>
 </resources>

@@ -54,6 +54,7 @@
     <string name="eq_preset_hint">Nome preset</string>
     <string name="eq_preset_select">Scegli un preset</string>
     <string name="action_item_download">Download</string>
+    <string name="action_item_favorite">Preferiti</string>
     <string name="action_item_hide">Nascondi</string>
     <string name="action_item_add_to_favorite_playlist">Playlist preferita</string>
     <string name="online_music">Online</string>
@@ -111,6 +112,8 @@
     <string name="ok">OK</string>
     <string name="done">Fatto</string>
     <string name="retry">Riprova</string>
+    <string name="delete">Elimina</string>
+    <string name="remove">Rimuovi</string>
     <string name="dialog_button_scan_tracks">Cerca musica su questo dispositivo</string>
     <string name="dialog_button_login">Accedi e sincronizza la tua musica</string>
     <string name="dialog_hint_network_error">Connessione non disponibile. Connettiti alla rete e riprova.</string>
@@ -291,6 +294,12 @@
     <string name="no_album_info">"Nessuna informazione sull'album"</string>
     <string name="no_enough_info">Informaioni sul brano insufficienti</string>
     <string name="disallow_add_to_personal_radio">La radio personale funziona solo in lettura</string>
-    <string name="today_update">Musica aggiornata</string>
     <string name="click_to_view_new_local_audios">Tocca per leggere i dettagli.</string>
+    <string name="more_about_artist">Altre info su %s</string>
+    <string name="play_all_song">Riproduci tutti</string>
+    <string name="download_all_song">Scarica tutti</string>
+    <string name="sort_by_name">Nome</string>
+    <string name="sort_by_time">Data</string>
+    <string name="sort_by_language">Lingua</string>
+    <string name="only_online_can_select_quality">Puoi scegliere la qualità solo per le canzoni online</string>
 </resources>

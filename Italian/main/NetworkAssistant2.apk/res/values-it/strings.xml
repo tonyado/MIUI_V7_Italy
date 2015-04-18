@@ -419,6 +419,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="traffic_over_purchase_title">Limite dati superato</string>
     <string name="traffic_over_purchase_body">Tocca per leggere i dettagli.</string>
     <string name="traffic_over_purchase_link">Hai raggiunto il limite previsto dal tuo piano dati.Se superi il limite previsto dal tuo piano dati il tuo operatore potrebbe addebitarti dei costi aggiuntivi. Ricarica adesso e risparmia il 50%.</string>
+    <string name="repair_loading_text">Caricamento…</string>
     <string name="network_diagnostics">Test di rete</string>
     <string name="btn_start_diagnostic">Avvia</string>
     <string name="btn_stop_diagnostic">Interrompi</string>

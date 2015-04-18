@@ -734,4 +734,5 @@
     <string name="cmcc_app_check_dialog_message">Riavvia il tuo dispositivo per completare la riparazione.</string>
     <string name="cmcc_app_check_dialog_positive">Riavvia adesso</string>
     <string name="cmcc_app_check_dialog_negative">Più tardi</string>
+    <string name="toast_resolve_apk_error">Resolvi errore apk</string>
 </resources>

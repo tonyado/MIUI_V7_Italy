@@ -735,6 +735,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="maximum_input_alert">Massimo 2048 caratteri</string>
     <string name="empty_snapshot_hint">Vuoto</string>
     <string name="action_menu_text_snapshot">Salva pagina</string>
+    <string name="action_menu_text_fullscreen">Schermo intero</string>
     <string name="video_activity_name">Collezioni Video</string>
     <string name="video_fragment_name_collections">Le mie collezioni</string>
     <string name="video_fragment_name_historys">Cronologia</string>

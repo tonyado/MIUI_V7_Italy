@@ -595,6 +595,11 @@
         <item>Contrasto enfatizzato</item>
         <item>Normale</item>
     </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Ottimizza il contrasto in base alla luce ambientale</item>
+        <item>Aumenta il contrasto dello schermo</item>
+        <item>Il contrasto rimarrà costante</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Consenti</item>
         <item>Chiedi</item>

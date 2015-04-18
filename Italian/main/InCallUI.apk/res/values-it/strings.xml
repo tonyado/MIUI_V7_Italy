@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="jeejen_answer_call_text">Rispondi</string>
-    <string name="jeejen_reject_call_text">Rifiuta</string>
-    <string name="jeejen_end_call_text">Termina</string>
-    <string name="jeejen_toggle_dialpad_text">Tastiera</string>
-    <string name="jeejen_card_title_in_call" />
-    <string name="jeejen_card_title_on_hold" />
-    <string name="jeejen_card_title_dialing">Composizione</string>
-    <string name="jeejen_card_title_incoming_call">Chiamata in arrivo</string>
-    <string name="jeejen_card_title_call_cancel">Chiamata anullata</string>
-    <string name="jeejen_card_title_call_ended">Chiamata terminata</string>
     <string name="phoneAppLabel">Phone</string>
     <string name="inCallLabel">InCallUI</string>
     <string name="onscreen_add_call_text">Aggiungi chiamata</string>
@@ -633,4 +623,14 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="online_check_warning_type_by_cmb">Spam</string>
     <string name="livetalk_provider_info">Fornito da %s</string>
     <string name="livetalk_waiting">In attesa…</string>
+    <string name="jeejen_answer_call_text">Rispondi</string>
+    <string name="jeejen_reject_call_text">Rifiuta</string>
+    <string name="jeejen_end_call_text">Chiudi</string>
+    <string name="jeejen_toggle_dialpad_text">Tastiera</string>
+    <string name="jeejen_card_title_in_call" />
+    <string name="jeejen_card_title_on_hold" />
+    <string name="jeejen_card_title_dialing">Composizione</string>
+    <string name="jeejen_card_title_incoming_call">Chiamata in arricvo</string>
+    <string name="jeejen_card_title_call_cancel">Chiamata annullata</string>
+    <string name="jeejen_card_title_call_ended">Chiamata terminata</string>
 </resources>

@@ -217,4 +217,8 @@ scorri in basso per bloccare"</string>
     <string name="media_projection_dialog_text">%s inizierà a registrare tutto ciò che verrà visualizzato sul tuo schermo.</string>
     <string name="media_projection_remember_text">Non chiedere più</string>
     <string name="media_projection_action_text">Avvia adesso</string>
+    <string name="vpn_title">VPN attivata</string>
+    <string name="vpn_title_long">Connettiti alla VPN utilizzando %s</string>
+    <string name="vpn_text">Tocca per vedere le impostazioni.</string>
+    <string name="vpn_text_long">Connesso a %s. Tocca per vedere i dettagli.</string>
 </resources>

@@ -717,7 +717,6 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="dialog_voicemail_not_ready_message">Per configurare la segreteria, vai in Menu > Impostazioni.</string>
     <string name="dialog_voicemail_airplane_mode_message">Per chiamare la segreteria, disattiva prima la modalità Aereo.</string>
     <string name="action_menu_overflow_description">Altre opzioni</string>
-    <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>    
     <string name="yellowpage_search_the_yellowpage">Cerca nella cartella</string>
     <string name="import_from_sim">Importa da SIM</string>
     <string name="export_to_sim_title">Esportazione…</string>
@@ -1121,10 +1120,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Aggiunto alla Home</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Download icona…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Impossibile connettersi alla rete. Verifica la tua connessione dati e riprova</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_title">Abilita servizio di localizzazione</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">"L'elenco ha bisogno di rilevare la tua posizione per funzionare a dovere."</string>
-    <string name="yellowpage_navigation_network_location_enable">Abilita</string>
-    <string name="yellowpage_navigation_network_location_enable_later">Non ora</string>
     <string name="yellowpage_user_profile">Profilo</string>
     <string name="yellowpage_navigation_more_items">Altro</string>
     <string name="yellowpage_navigation_more_items_title">Altri servizi</string>
@@ -1145,4 +1140,5 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="pull_to_refresh_pull_label">Trascina per aggiornare…</string>
     <string name="pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
+    <string name="phone_call_type_voip">VOIP</string>
 </resources>
