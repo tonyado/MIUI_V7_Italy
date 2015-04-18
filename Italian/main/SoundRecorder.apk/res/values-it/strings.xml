@@ -91,4 +91,5 @@
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">Inserisci scheda SD adesso</string>
     <string name="record_back_pressed_hint">Premi di nuovo Indietro per interrompere la registrazione</string>
+    <string name="record_mark_point">%smark</string>
 </resources>

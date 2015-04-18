@@ -191,4 +191,22 @@ Ma puoi partecipare il prossimo martedì"</string>
     <string name="submit_success">Inviato correttamente</string>
     <string name="submit_fail">Invio fallito</string>
     <string name="submit">Invia</string>
+    <string name="vote_beta">Programma Feedback Beta</string>
+    <string name="vote_submit">Invia</string>
+    <string name="vote_recommend">Consiglia questo aggiornamento</string>
+    <string name="vote_not_recommend">Non consigliare</string>
+    <string name="vote_error_nonetwork">Impossibile collegarsi alla rete</string>
+    <string name="vote_error1">"Sembra che tu non sia un membro
+del Programma Feedback Beta"</string>
+    <string name="vote_error2">"Impossibile inviare feedback.
+Aggiorna il tuo dispositivo e riprova"</string>
+    <string name="vote_hint">Ricevi 20 punti esperienza sul forum MIUI quando voti</string>
+    <string name="vote_join">Votato</string>
+    <string name="vote_experience">Esperienza forum</string>
+    <string name="vote_error3">"Impossibile accedere.
+Prova a d accedere di nuovo nel tuo Mi Account."</string>
+    <string name="vote_error4">Hai già inviato il tuo feedback</string>
+    <string name="vote_error5">"Qualcosa è andato storto
+Impossibile inviare il feedback"</string>
+    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Go to MIUI forum</a>" "</string>
 </resources>
