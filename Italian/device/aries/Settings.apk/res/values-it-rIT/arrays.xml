@@ -513,17 +513,6 @@
         <item>Cached (activity client)</item>
         <item>Cached (empty)</item>
     </string-array>
-    <string-array name="haptic_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
-    </string-array>
-    <string-array name="media_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
-    </string-array>
-    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>
         <item>Percentuale</item>
@@ -543,15 +532,6 @@
         <item>7 secondi</item>
         <item>8 secondi</item>
         <item>9 secondi</item>
-    </string-array>
-    <string-array name="led_color_entries">
-        <item>Blu</item>
-        <item>Rosso</item>
-        <item>Giallo</item>
-        <item>Verde</item>
-        <item>Ciano</item>
-        <item>Bianco</item>
-        <item>Viola</item>
     </string-array>
     <string-array name="back_long_press_timeout">
         <item>0,5 secondi</item>

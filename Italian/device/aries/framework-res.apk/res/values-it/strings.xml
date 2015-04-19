@@ -15,7 +15,7 @@
     <string name="search_go">Cerca</string>
     <string name="selectAll">Seleziona tutto</string>
     <string name="unknownName">(Sconosciuto)</string>
-    <string name="untitled"><senza nome></string>
+    <string name="untitled">senza nome</string>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_unknown">Spiacenti. Impossibile riprodurre il video.</string>
     <string name="VideoView_error_title">Impossibile riprodurre il video</string>
