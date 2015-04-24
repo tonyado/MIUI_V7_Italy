@@ -106,6 +106,7 @@
     <string name="resource_title_select_ringtone">Seleziona suoneria</string>
     <string name="resource_tip_select_none">Nessuna selezione</string>
     <string name="resource_select_ringtone_confirm">Selezionare questa suoneria?</string>
+    <string name="resource_select_ringtone_confirm_picker">Selezionare quest suoneria?</string>
     <string name="loading_resource_detail_info">Caricamento delle informazioni…</string>
     <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
     <string name="resource_expand_full_text">Espandi</string>

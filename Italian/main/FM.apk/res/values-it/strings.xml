@@ -26,7 +26,7 @@
     <string name="exit_fm">Esci</string>
     <string name="toast_sleep_mode">Ferma radio FM in %s</string>
     <string name="toast_sleep_mode_exit">Modalità Sleep annullata.</string>
-    <string name="record_file_location_format">Premi per vedere il file %s</string>
+    <string name="notification_rec_title">Tocca per vedere la registrazione</string>
     <string name="record_completed">Registrazione completata</string>
     <string name="turn_off_fm">Spegni FM</string>
     <string name="view_stations_list">Mostra lista stazioni</string>

@@ -203,6 +203,18 @@
         <item>Nero trasparente</item>
         <item>Sfondo bianco</item>
     </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Nessun avviso</item>
+        <item>0 minuti</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>1 giorno</item>
+        <item>2 giorni</item>
+        <item>1 settimana</item>
+    </string-array>
     <string-array name="repeat_choose_day">
         <item>1</item>
         <item>2</item>
@@ -282,27 +294,27 @@
         <item>#ff349a97</item>
     </array>
     <array name="account_preset1">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-    </array>
-    <array name="account_preset2">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-    </array>
-    <array name="account_preset3">
         <item>#ffb69dd0</item>
         <item>#b3bfa5db</item>
         <item>#fff6f1fa</item>
         <item>#ffa894be</item>
     </array>
-    <array name="account_preset4">
+    <array name="account_preset2">
         <item>#fff0a16f</item>
         <item>#b3d88c5b</item>
         <item>#fffdf3ec</item>
         <item>#ffe4884d</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset4">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
     </array>
 </resources>

@@ -217,7 +217,7 @@
     <string name="pref_video_preload_dialogtitle">Precaricamento video</string>
     <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
     <string name="browserFrameFileErrorLabel">Problema di file</string>
-    <string name="browserFrameFormResubmitLabel"/>
+    <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">La pagina che stai tentando di visualizzare contiene dati già inviati (\"POSTDATA\"). Se invii di nuovo i dati, ogni azione effettuata dal modulo nella pagina (come una ricerca o un acquisto online) verrà ripetuta.</string>
     <string name="add_new_bookmark">Aggiungi segnalibro</string>
     <string name="search_label">Browser</string>
@@ -635,7 +635,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="no_matches">Nessun risultato</string>
     <string name="webview_find_on_page">Trova nella pagina</string>
     <string name="miui_content_open_url">OpenURL</string>
-
+    <string name="miuichromium_error_page_diagnostic">Diagnostica di rete</string>
     <string name="dump_counters">Dump contatori V8</string>
     <string name="dump_dom_tree">Dump albero DOM su file</string>
     <string name="dump_render_tree">Dump albero di render su file</string>

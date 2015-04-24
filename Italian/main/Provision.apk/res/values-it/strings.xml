@@ -11,6 +11,7 @@ Leggi questo documento per la tastiera: "</string>
     <string name="page_layout_title">Layout di sistema</string>
     <string name="page_layout_label">Regola la dimensione del testo ed il layout per la Home, il Pannello delle Notifiche, il Telefono ed altro.</string>
     <string name="sim_card_detection">Nessuna scheda SIM rilevata</string>
+    <string name="sim_card_detecting_title">Cerca SIM</string>
     <string name="sim_card_detection_info">Hai bisogno di una scheda SIM per impostare il tuo MI Account.</string>
     <string name="sim_card_detecting">Controllo scheda SIM in corso…</string>
     <string name="other_settings">Impostazioni aggiuntive</string>
@@ -20,6 +21,7 @@ Leggi questo documento per la tastiera: "</string>
     <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
     <string name="other_settings_user_experience_summary1">(Vedi privacy)</string>
     <string name="next">Avanti</string>
+    <string name="skip_underline"><u>Salta questo passaggio</u></string>
     <string name="sim_dectection_next">Continua</string>
     <string name="shut_down">Spegni</string>
     <string name="sim_redetection">Cerca SIM</string>

@@ -64,4 +64,8 @@
         <item quantity="zero">%1$d file</item>
         <item quantity="one">%1$d file</item>
     </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s nuovi volti potrebbero appartenere a %2$s >></item>
+        <item quantity="one">%1$s nuovo volto potrebbe appartenere a %2$s >></item>
+    </plurals>
 </resources>

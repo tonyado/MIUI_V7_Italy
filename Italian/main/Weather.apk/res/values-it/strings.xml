@@ -10,7 +10,6 @@
     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
     <string name="aqi_quality_index_break">AQI %1$s</string>
     <string name="view_indexes_wind_unit">km/h</string>
-    <string name="view_realtime_clear_substitution">Sereno</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">℃</string>
@@ -73,7 +72,15 @@
     <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ss"</string>
     <string name="data_source_timezone">GMT %1$s</string>
     <string name="activity_main_time_format">dd/MM</string>
+    <string name="view_aqi_detail_title">Dettagli AQI</string>
     <string name="first_start_network_msg">Per ricevere le informazioni meteo devi essere connesso ad internet.</string>
     <string name="first_start_network_title">Avviso di connessione</string>
     <string name="international_detail_menu_title">Dettagli</string>
+    <string name="share_menu_title">Condividi</string>
+    <string name="share_btn_cancel">Annulla</string>
+    <string name="share_btn_confirm">Condividi</string>
+    <string name="share_subject">Condividi</string>
+    <string name="share_button">Condividi</string>
+    <string name="share_weather_save_pic_fail">Impossibile scattare screenshot</string>
+    <string name="share_title">Condividi il meteo</string>
 </resources>

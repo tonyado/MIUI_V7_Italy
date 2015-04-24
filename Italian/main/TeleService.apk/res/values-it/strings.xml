@@ -712,6 +712,8 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="turnover_mute_summary">Quando il telefono è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
     <string name="handon_ringer_summary">Il telefono non vibrerà quando hai una chiamata in arrivo</string>
     <string name="handon_ringer_title">Non vibrare</string>
+    <string name="flash_when_ring_summary">Notifica lampeggiante per le chiamate in arrivo</string>
+    <string name="flash_when_ring_title">Lampeggia su chiamata</string>
     <string name="enable_proximity_summary">Spegni schermo durante le chiamate</string>
     <string name="enable_proximity_title">Sensore di prossimità</string>
     <string name="pocket_mode_summary">Il telefono si blocca automaticamente quando viene riposto in tasca</string>
@@ -864,4 +866,12 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
     <string name="telephony_setting">Impostazioni chiamata</string>
     <string name="international_roaming_setting">Roaming internazionale</string>
+    <string name="cdma_alert_title">UIM deve essere predefinita</string>
+    <string name="cdma_alert_message">"Se utilizza un'altra scheda come predefinita per la connessione dati, non potrai utilizzare la tua Scheda UIM di China Telecom."</string>
+    <string name="remind_another_time">Non mostrare più</string>
+    <string name="not_change_default_data">Non cambiare</string>
+    <string name="change_default_data">Cambia</string>
+    <string name="change_default_data_alert_title">Devi utilizzare una scheda UIM come predefinita</string>
+    <string name="change_default_data_alert_message">Non potrai utilizzare la tua Scheda UIM di China Telecom.</string>
+    <string name="confirm_change_default_data">Cambia</string>
 </resources>

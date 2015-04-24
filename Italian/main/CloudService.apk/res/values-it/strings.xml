@@ -311,4 +311,5 @@ Ultimo backup: %2$s"</string>
     <string name="cloud_app_back_up_quit_notification_content1">l servizio di Backup Applicazioni di Mi Cloud non sarà garantito per le app non-MIUI. I dati relativi alle applicazioni di terze parti verranno eliminati dal giorno 1 Maggio 2015. Per evitare la perdita di dati importanti, esegui il backup in locale adesso."</string>
     <string name="cloud_app_back_up_quit_notification_content2">Contatti, Messaggi, Galleria ed altre applicazioni di sistema MIUI non verranno interessate.</string>
     <string name="cloud_app_back_up_quit_notification_content3">Backup dati applicazione</string>
+    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
 </resources>

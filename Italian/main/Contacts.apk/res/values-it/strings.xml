@@ -108,6 +108,7 @@
     <string name="resource_title_select_ringtone">Seleziona tono</string>
     <string name="resource_tip_select_none">Nessuna selezione</string>
     <string name="resource_select_ringtone_confirm">Selezionare questa suoneria?</string>
+    <string name="resource_select_ringtone_confirm_picker">Selezionare questo suono?</string>
     <string name="loading_resource_detail_info">Caricamento info risorsa…</string>
     <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
     <string name="resource_expand_full_text">Espandi</string>
@@ -1084,8 +1085,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Seleziona tutti</string>
     <string name="delete_selected_sim_entry_miui">Cancella i contatti selezionati</string>
     <string name="import_selected_sim_entries_miui">Importa i contatti selezionati</string>
-    <string name="dlg_add_blacklist">Bloccare questo numero?</string>
-    <string name="dlg_remove_blacklist">Sbloccare questo numero?</string>
+    <string name="add_blacklist_dialog_title">Blocca</string>
+    <string name="remove_blacklist_dialog_title">Sblocca</string>
     <string name="close_dial_pad">Chiudi tastierino numerico</string>
     <string name="dial">Componi</string>
     <string name="delete_dial_input">Cancella</string>
