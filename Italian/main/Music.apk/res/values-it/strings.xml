@@ -305,7 +305,7 @@
     <string name="upgrade_remind">Aggiornamento disponibile</string>
     <string name="service_stop">Servizio interrotto</string>
     <string name="upgrade_suggest">"Abbiamo interrotto il nostro servizio di streaming a causa di problemi con i diritti d'autore. Aggiorna all'ultima versione dell'app Musica app per ascoltare musica di alta qualità."</string>
-    <string name="upgrade_force">"Abbiamo interrotto il nostro servizio di streaming a causa di problemi con i diritti d'autore. Aggiorna all'ultima versione dell'app Musica app per ascoltare musica di alta qualità."</st"</string>
+    <string name="upgrade_force">"Abbiamo interrotto il nostro servizio di streaming a causa di problemi con i diritti d'autore. Aggiorna all'ultima versione dell'app Musica app per ascoltare musica di alta qualità."</string>
     <string name="upgrade_nobeta">"Abbiamo interrotto il nostro servizio di streaming durante la risoluzione di problemi con i diritti d'autore. Ci scusiamo per l'inconveniente :("</string>
     <string name="upgrade_waringing">Potrai ascoltare soltanto la musica archiviata offline.</string>
     <string name="upgrade_immediate">Aggiorna adesso</string>
