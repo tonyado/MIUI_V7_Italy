@@ -197,7 +197,7 @@
     <string name="auto_download_in_wifi">Nessuna connessione internet rilevata</string>
     <string name="no_favorites_songs">Vuoto</string>
     <string name="no_local_songs">Vuoto</string>
-    <string name="no_local_songs_selected">Imposibile inviare i brani perchè non sono stati scaricati</string>
+    <string name="no_local_songs_selected">Impossibile inviare i brani perché non sono stati scaricati</string>
     <string name="track_main_fragment_tab_track">Brano</string>
     <string name="track_main_fragment_tab_album">Album</string>
     <string name="no_online_song_selected">Nessun brano selezionato</string>
@@ -277,7 +277,7 @@
     <string name="bluetooth_device">Dispositivo Bluetooth</string>
     <string name="device_connected">Connesso</string>
     <string name="device_not_connected">Non connesso</string>
-    <string name="delete_file_as_well">Elimina anche i file in lcoale</string>
+    <string name="delete_file_as_well">Elimina anche i file in locale</string>
     <string name="delete_file_start">Elimina i file selezionati</string>
     <string name="delete_file_end">Elimina in modo permanente</string>
     <string name="no_song">Nessun brano</string>
@@ -289,10 +289,10 @@
     <string name="search_for_artist">Artista</string>
     <string name="search_for_album">Album</string>
     <string name="support_online_only">Solo in streaming</string>
-    <string name="suggest_text">People who liked this also liked</string>
+    <string name="suggest_text">A chi è piaciuto questo è piaciuto anche</string>
     <string name="no_artist_info">"Nessuna informazione sull'artista"</string>
     <string name="no_album_info">"Nessuna informazione sull'album"</string>
-    <string name="no_enough_info">Informaioni sul brano insufficienti</string>
+    <string name="no_enough_info">Informazioni sul brano insufficienti</string>
     <string name="disallow_add_to_personal_radio">La radio personale funziona solo in lettura</string>
     <string name="click_to_view_new_local_audios">Tocca per leggere i dettagli.</string>
     <string name="more_about_artist">Altre info su %s</string>
