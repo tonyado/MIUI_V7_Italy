@@ -64,6 +64,7 @@
     <string name="activity_main_update_time">Aggiornato %1$s</string>
     <string name="activity_main_update_time_right_now">Ora</string>
     <string name="activity_main_refresh_timeout">Timeout aggiornamenti</string>
+    <string name="activity_main_refresh_fail">Impossibile collegarsi alla rete</string>
     <string name="activity_find_city_dialog_cancel">Annulla</string>
     <string name="activity_find_city_dialog_set">Impostazioni</string>
     <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>

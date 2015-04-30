@@ -45,4 +45,7 @@
     <string name="using_camera_confirm_ok">OK</string>
     <string name="using_camera_confirm_cancel">Esci</string>
     <string name="shake_enter_tip">Scuoti per calibrare</string>
+    <string name="calibrate_title">Calibrazione bussola</string>
+    <string name="calibrate_tip">Inclina il dispositivo per ruotare la sfera intorno al cerchio</string>
+    <string name="calibrate_rotate_again">Prova di nuovo</string>
 </resources>

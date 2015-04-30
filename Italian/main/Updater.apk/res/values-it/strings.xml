@@ -209,4 +209,7 @@ Prova a d accedere di nuovo nel tuo Mi Account."</string>
     <string name="vote_error5">"Qualcosa è andato storto
 Impossibile inviare il feedback"</string>
     <string name="miui_BBS">" "<a href="http://bbs.miui.com">Go to MIUI forum</a>" "</string>
+    <string name="welcom_title">Benvenuto in MIUI 6</string>
+    <string name="welcom_message">"Sei pronto per iniziare!"</string>
+    <string name="welcom_button">OK</string>
 </resources>

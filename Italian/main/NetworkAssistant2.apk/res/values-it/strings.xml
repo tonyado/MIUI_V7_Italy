@@ -57,6 +57,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="person_hotpot">Hotspot mobili</string>
     <string name="system_app">Applicazioni di sistema</string>
     <string name="deleted_apps">Applicazioni eliminate</string>
+    <string name="root">Root</string>
     <string name="sorted_button">Ordina per</string>
     <string name="app_detail">Dettagli</string>
     <string name="app_version">Versione</string>

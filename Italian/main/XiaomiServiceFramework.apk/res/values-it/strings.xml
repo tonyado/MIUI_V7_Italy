@@ -12,9 +12,6 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_phone_failed_notif_title_msim">Impossibile avviare Mi Cloud per la SIM %s</string>
     <string name="activate_status_title_activating">Attivazione SIM, attendere prego…</string>
     <string name="activate_status_title_activating_msim">Attivazione SIM %s…</string>
-    <string name="activate_status_desc_wait_for_phone_service">In attesa di servizio telefonico</string>
-    <string name="activate_status_desc_registration">Registrazione scheda SIM</string>
-    <string name="activate_status_desc_registration_server_error">Si è verificato un errore del server durante la registrazione della scheda SIM</string>
     <string name="activate_status_desc_query_activation_info">Richiesta informazioni attivazioni dal server</string>
     <string name="activate_status_desc_query_activation_info_no_info">Nessuna informazioni di attivazione sul server</string>
     <string name="activate_status_desc_query_activation_info_server_error">Si è verificato un errore del server durante la richiesta di informazioni</string>
@@ -24,7 +21,6 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_status_desc_wait_for_sms_fail">Impossibile ricevere SMS di attivazione dal server</string>
     <string name="activate_status_desc_request_activation_sms">Richiesta SMS di attivazione dal server verso il tuo telefono</string>
     <string name="activate_status_desc_request_activation_sms_server_error">"Si è verificato un errore del server durante la richiesta dell'SMS di attivazione"</string>
-    <string name="activate_status_desc_request_activation_sms_phone_error">Il numero di telefono inserito non è valido</string>
     <string name="activate_status_desc_getting_gateway">Recupero gateway SMS</string>
     <string name="activate_status_desc_failed_getting_gateway">Impossibile recuperare gateway SMS</string>
     <string name="activate_status_desc_prepare_sending_sms">Preparazione invio SMS di attivazione al gateway</string>
@@ -40,8 +36,6 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Si è verificato un errore durante la verifica del tuo Mi Account</string>
     <string name="activate_status_desc_registering_xiaomi_account">Registrazione Mi Account sul server</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Si è verificato un errore durante la creazione del tuo Mi Account</string>
-    <string name="activate_status_desc_getting_sim_info">Ottieni informazioni scheda SIM</string>
-    <string name="activate_status_desc_getting_sim_info_fail">Non puoi ottenere le informazioni della scheda SIM</string>
     <string name="sim_unactivated_title">La tua scheda SIM non è attiva</string>
     <string name="activate">Attiva</string>
     <string name="activate_popup_title_manual">Attivazione scheda SIM</string>
@@ -86,4 +80,5 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_feature_mms_sync">Sync SMS</string>
     <string name="activate_feature_call_log_sync">Sync registro chiamate</string>
     <string name="activate_feature_find_device">Trova dispositivo</string>
+    <string name="activate_sms_postfix">[Questo SMS viene utilizzato per attivare il tuo dispositivo Mi.]</string>
 </resources>

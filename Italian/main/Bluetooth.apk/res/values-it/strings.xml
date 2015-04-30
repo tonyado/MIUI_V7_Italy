@@ -23,6 +23,10 @@
     <string name="mi_key_take_photo">Scatta foto</string>
     <string name="mi_key_find_phone">Trova il telefono</string>
     <string name="mi_key_find_mikey">Trova Mi-Key</string>
+    <string name="bluetooth_connected">Connesso</string>
+    <string name="bluetooth_disconnected">Disconnesso</string>
+    <string name="bluetooth_disconnecting">Disconnessione…</string>
+    <string name="bluetooth_connecting">Connessione…</string>
     <string name="miui_transfer_history_title">Trasferimenti Bluetooth</string>
     <string name="miui_transfer_inbound_title">Ricevuti</string>
     <string name="miui_transfer_outbound_title">Inviati</string>

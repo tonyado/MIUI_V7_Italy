@@ -2164,6 +2164,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="search_storage">Archiviazione</string>
     <string name="search_accessibility">Accessibilità</string>
     <string name="search_privacy">Privacy</string>
+    <string name="search_fluency_mode">Modalità fluenza</string>
     <string name="debug_log">Programma esperienza utente</string>
     <string name="upload_debug_log_title">Programma esperienza utente</string>
     <string name="upload_debug_log_summary">"Aiuta Xiaomi a migliorare i suoi prodotti ed i suoi servizi inviando dati anonimi di diagnostica e sull'utilizzo"</string>
@@ -2233,6 +2234,9 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="title_font">Font</string>
     <string name="title_font_current">Seleziona carattere di sistema</string>
     <string name="title_layout_current">Seleziona dimensione carattere</string>
+    <string name="title_font2">Carattere</string>
+    <string name="title_font_current2">Scegli carattere di sistema</string>
+    <string name="title_layout_current2">Scegli dimensione carattere</string>
     <string name="handy_mode">Modalità Mano Singola</string>
     <string name="handy_mode_enable">Modalità Mano Singola</string>
     <string name="handy_mode_tips">Scorri a sinistra o a destra dal tasto Home per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
@@ -2963,9 +2967,9 @@ Disabilitare le finestre flottanti?"</string>
     <string name="location_agps_def_reset_type">HOT</string>
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="agps_roaming">A-GPS in roaming</string>
-    <string name="agps_roaming_summary">"Utilizzare l'A-GPS durante il roamingpotrebbe comportare dei costi aggiuntivi"</string>
+    <string name="agps_roaming_summary">"Utilizzare l'A-GPS durante il roaming potrebbe comportare dei costi aggiuntivi"</string>
     <string name="agps_roaming_dia_title">"Utilizza l'A-GPS durante il roaming"</string>
-    <string name="agps_roaming_dia">"Utilizzare l'A-GPS durante il roamingpotrebbe comportare dei costi aggiuntivi. In caso di superamento dellasoglia prevista dal tuo piano, potresti avere dei costi aggiuntivi."</string>
+    <string name="agps_roaming_dia">"Utilizzare l'A-GPS durante il roaming potrebbe comportare dei costi aggiuntivi. In caso di superamento della soglia prevista dal tuo piano, potresti avere dei costi aggiuntivi."</string>
     <string name="wifi_disconnected_notification_title">Wi-Fi disconnessa</string>
     <string name="wifi_disconnected_notification_summary">Non sei connesso alla rete Wi-Fi.</string>
     <string name="wifi_off_airplane_on_title">Wi-Fi in modalità Aereo</string>
@@ -2982,4 +2986,11 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostra notifica quando collegato alla rete CMCC</string>
     <string name="wifi_datanetwork_switch_not_remind">"Non chiedere più"</string>
     <string name="skip_lock_screen_confirm_msg">Le seguenti funzioni verranno disattivate per la lockscreen: notifiche, controllo musica, slide sinistro per la Fotocamera e slide destro per Mi Home.</string>
+    <string name="fluency_mode">Ottimizza prestazioni</string>
+    <string name="fluency_mode_enabled_name">Ottimizza le prestazioni del sistema</string>
+    <string name="fluency_mode_summary">"Disattiva le animazioni di sistema e riduci l'utilizzo della memoria"</string>
+    <string name="fluency_mode_confirm_title">Riavviare adesso?</string>
+    <string name="fluency_mode_confirm_will_fluency_mode_text">YIl tuo dispositivo deve essere riavviato per poter applicare queste impostazioni.</string>
+    <string name="fluency_mode_confirm_will_normal_mode_text">Attivando le animazioni ed utilizzando un quantitativo maggiore di memoria si potrebbero verificare rallentamenti nelle prestazioni di alcuni dispositivi.</string>
+    <string name="gesture_wakeup_title">Doppo tap sullo schermo per attivarlo</string>
 </resources>
