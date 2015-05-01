@@ -514,7 +514,7 @@
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Mostra applicazioni recenti</item>
-        <item>MOstra menu</item>
+        <item>Mostra menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
 	<item>Nessuna</item>
