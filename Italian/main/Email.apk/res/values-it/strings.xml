@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ApplicationIconMore99">99+</string>
-    <string name="Folders">Cartelle</string>
     <string name="SMTP_independent_verification_text">Verifica SMTP independente</string>
     <string name="SMTP_password_text">Password</string>
     <string name="SMTP_username_text">Nome utente</string>
@@ -77,8 +76,9 @@
     <string name="account_settings_sync_email_summary">Sincronizza le email per questo account</string>
     <string name="account_settings_unsupported_label">Condizioni non supportate</string>
     <string name="account_settings_unsupported_summary">Nessuno</string>
+    <string name="account_settings_using_ringtone">Suoneria</string>
     <string name="account_settings_vibrate_when_label">Vibrazione</string>
-    <string name="account_setup_account_type_headline">>Tipologia account</string>
+    <string name="account_setup_account_type_headline">Tipologia account</string>
     <string name="account_setup_account_type_instructions">Di quale tipo di account si tratta?</string>
     <string name="account_setup_account_type_title">Impostazione account</string>
     <string name="account_setup_address_label">Email</string>

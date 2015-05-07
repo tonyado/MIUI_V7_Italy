@@ -433,28 +433,8 @@
         <item>Medio</item>
         <item>Leggero</item>
     </string-array>
-    <string-array name="multi_sim_entries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-    </string-array>
-    <string-array name="multi_sim_summaries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-    </string-array>
-    <string-array name="multi_sim_entries_voice">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-        <item>Prompt</item>
-    </string-array>
-    <string-array name="multi_sim_summaries_voice">
-        <item>Abbonmto 1</item>
-        <item>Abbonamento 2</item>
-        <item>Chiedi</item>
-    </string-array>
-    <string-array name="multi_sim_entries_voice_without_prompt">
-        <item>Abbonamento 1</item>
-        <item>Abbonamento 2</item>
-    </string-array>
+
+
     <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>
         <item>Percentuale</item>
@@ -688,4 +668,13 @@
         <item>HOT</item>
         <item>WARM</item>
         <item>COLD</item>
-    </string-array></resources>
+    </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Chiedi il permesso per le applicazioni a rischio</item>
+        <item>Consenti</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Chiedi permesso</item>
+        <item>Consenti</item>
+    </string-array>
+</resources>

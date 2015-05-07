@@ -381,6 +381,7 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="incall_status_dialed_mmi">Avvio della sequenza MMI…</string>
     <string name="incall_error_turn_off_airplane_mode">Disattiva la modalità Aereo</string>
     <string name="incall_error_no_active_sim">"La SIM non è stata attivata"</string>
+    <string name="incall_error_sim_deactive">SIM non attiva</string>
     <string name="emergency_enable_radio_dialog_title">Chiamata di emergenza</string>
     <string name="dial_emergency_error">Chiamata non effettuata. %s non è un numero di emergenza!</string>
     <string name="dial_emergency_empty_error">Chiamata non effettuata. Chiama un numero di emergenza!</string>

@@ -51,6 +51,8 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="firewall_fragment_sys_listempty">Vuoto</string>
     <string name="firewall_fragment_nonesys_listempty">Vuoto</string>
     <string name="firewall_service_network_blocked">"A %1$s è stato impedito l'accesso alla rete %2$s"</string>
+    <string name="firewall_network_restrict_notify_title">"%1$s non è autorizzato a collegarsi a %2$s."</string>
+    <string name="firewall_network_restrict_notify_message">Tocca per cambiare le impostazioni.</string>
     <string name="usage_sorted_activity_lable">Utilizzo dati</string>
     <string name="usage_sorted_loading_text">Caricamento…</string>
     <string name="usage_sorted_empty_text">Vuoto</string>
@@ -218,6 +220,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="traffic_correction_start_correction_failed">"Richiesta fallita, verifica le impostazioni dell'operatore"</string>
     <string name="traffic_correction_success">Utilizzo dati aggiornato</string>
     <string name="traffic_correction_failed">Impossibile recuperare informazioni sui dati utilizzati</string>
+    <string name="traffic_correction_success_notify_message">Tocca per vedere i dettagli.</string>
     <string name="traffic_config_alert_title">%s differenze</string>
     <string name="traffic_config_alert_ok">OK</string>
     <string name="traffic_config_alert_cancel">Annulla</string>

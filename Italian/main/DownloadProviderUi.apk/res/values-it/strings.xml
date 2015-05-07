@@ -112,6 +112,10 @@
     <string name="privacy_tip_content">"Utilizzare Xunlei Accelerator per velocizzare i download? L'URL del download verrà caricato sui server Xunlei. Anche i dettagli del tuo Mi Account verranno caricati per verificare se hai qualche iscrizione attiva per questo servizio."</string>
     <string name="privacy_tip_cancel">Annulla</string>
     <string name="privacy_tip_ok">OK</string>
+    <string name="xunlei_close_tips_title">Accelera i tuoi download</string>
+    <string name="xunlei_close_tips_content">Acceleratore download Xunlei.</string>
+    <string name="xunlei_close_tips_button">Attiva</string>
+    <string name="toast_xunlei_engine_open">Acceleratore download Xunlei attivato</string>
     <string name="app_label">Download</string>
     <string name="download_title">Download</string>
     <string name="download_title_sorted_by_date">Download - Ordinati per data</string>

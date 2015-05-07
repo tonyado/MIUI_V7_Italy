@@ -2470,7 +2470,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="dolby_roomsize_high">Esterno</string>
     <string name="dolby_eq_enter_alert_title">Attiva Dolby</string>
     <string name="dolby_eq_enter_alert_msg">"Puoi utilizzare l'equalizzatore solo in modalità Dolby. Attivarla adesso?"</string>
-   <string name="dirac_control">Ottimizza qualità audio</string>
+    <string name="dirac_control">Ottimizza qualità audio</string>
     <string name="dirac_mode_off">Dirac Disattivato</string>
     <string name="dirac_mode_in_ear">Auricolari Xiaomi in-ear</string>
     <string name="dirac_mode_earbuds">Auricolari Xiaomi</string>
@@ -2993,4 +2993,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="fluency_mode_confirm_will_fluency_mode_text">YIl tuo dispositivo deve essere riavviato per poter applicare queste impostazioni.</string>
     <string name="fluency_mode_confirm_will_normal_mode_text">Attivando le animazioni ed utilizzando un quantitativo maggiore di memoria si potrebbero verificare rallentamenti nelle prestazioni di alcuni dispositivi.</string>
     <string name="gesture_wakeup_title">Doppo tap sullo schermo per attivarlo</string>
+    <string name="install_no_market_app_title">Fonti sconosciute</string>
+    <string name="install_no_market_app_summary">"Consenti l'installazione di applicazioni non provenienti dall'App Store"</string>
 </resources>
