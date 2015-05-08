@@ -21,7 +21,6 @@
     <string name="perm_action_prompt">Chiedi</string>
     <string name="perm_action_reject">Nega</string>
     <string name="unknown_installer">Installazione sconosciuta</string>
-    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sostituirà la versione attuale (%3$s). I dati dell'applicazione verranno salvati."</string>
     <string name="lift_ban">Consenti</string>
     <string name="uninstall_confirm_question">Disintallare questa applicazione?</string>
     <string name="uninstall_failed_retained_app_msg">Questa applicazione è stata modificata e non può essere disinstallata nella forma attuale.</string>
@@ -94,6 +93,6 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="uninstall_failed_msg">Impossibile disinstallare %1$s.</string>
     <string name="Parse_error_dlg_title">Errore di analisi</string>
     <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
-    <string name="dlg_appstore_notice">Scarica l'applicazione dal nostro &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u> ufficiale</string>
+    <string name="dlg_appstore_notice">Scarica l\'applicazione dal nostro &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u> ufficiale</string>
     <string name="lift_ban_once">Consenti una volta</string>
 </resources>
