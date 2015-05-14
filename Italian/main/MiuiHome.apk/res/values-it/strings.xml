@@ -11,6 +11,7 @@
     <string name="cancel_action">Annulla</string>
     <string name="bad_wallpaper_source_prompt">"Can't load wallpaper"</string>
     <string name="apply_action">Applica</string>
+    <string name="download_action">Download</string>
     <string name="apply_as_lock_wallpaper_message">Applicare questo sfondo anche alla lockscreen?</string>
     <string name="lock_screen_failed_message">Impossibile applicare</string>
     <string name="lock_screen_success_message">Applicato</string>
@@ -52,6 +53,7 @@
     <string name="status_downloaded">Scaricato</string>
     <string name="status_installing">Installazione</string>
     <string name="loading_desktop">Caricamento launcher</string>
+    <string name="loading_wallpaper">Solo un attimo…</string>
     <string name="start_activity_failed">Avvio non riuscito, provare di nuovo</string>
     <string name="gadget_error_text">Problema nel caricamento widget</string>
     <string name="mtzgadget_missing_text">Non più supportato, aggiungere di nuovo.</string>

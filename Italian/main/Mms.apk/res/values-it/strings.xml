@@ -560,4 +560,9 @@
     <string name="storage_dialog_database">Database:</string>
     <string name="storage_dialog_available_space">Spazio disponibile:</string>
     <string name="storage_unavailable">Spazio non disponibile</string>
+    <string name="security_alert_desc">"Il mittente non è tra i tuoi contatti. "<u><font color="red">Segnala questo numero</font></u></string>
+    <string name="security_alert_dialog_title">Segnala</string>
+    <string name="security_alert_dialog_desc">Segnala questo numero (%s) ed i relativi messaggi inviandoli a Xiaomi per una verifica.</string>
+    <string name="sms_report_failed">Impossibile inviare segnalazione</string>
+    <string name="sms_report_success">Segnalazione inviata</string>
 </resources>

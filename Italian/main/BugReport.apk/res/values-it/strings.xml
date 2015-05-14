@@ -104,6 +104,14 @@
     <string name="submit_dialog_not_wifi_content">Il tuo feedback, insieme al tuo log ed alle immagini allegate, verrà inviato ai server Xiaomi quando il dispositivo è collegato ad una rete Wi-Fi.</string>
     <string name="submit_dialog_cancel">Annulla</string>
     <string name="submit_dialog_confirm">Invia</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Creazione bug report (impiega circa un minuto)</string>
+    <string name="bugreport_tool_log_toast">Log salvato in %s</string>
+    <string name="bugreport_tool_log">Creazione bug report</string>
+    <string name="modem_tool_log">Registrazione log modem</string>
+    <string name="modem_tool_log_start">Avvia</string>
+    <string name="modem_tool_log_stop">Interrompi</string>
+    <string name="modem_tool_log_start_toast">Inizia a scaricare il log del modem su %s</string>
+    <string name="modem_tool_log_stop_toast">Interrompi lo scaricamento del log del modem su %s</string>
     <string name="bugreport_dump_start_notification_title">Creazione bug report</string>
     <string name="bugreport_dump_start_notification_summary">Richiede circa un minuto.</string>
     <string name="bugreport_dump_complete_notification_title">Bug report creato</string>

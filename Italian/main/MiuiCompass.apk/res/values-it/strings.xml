@@ -40,8 +40,8 @@
     <string name="location_enable">Consenti</string>
     <string name="location_enable_later">Dopo</string>
     <string name="location_enabled">Puoi disattivare i servizi di localizzazione in qualsiasi momento dalle Impostazioni.</string>
-    <string name="using_camera_confirm_title">Accesso alla fotocamera</string>
-    <string name="using_camera_confirm_message">La Bussola deve utilizzare la fotocamera per funzionare correttamente.</string>
+    <string name="first_using_dialog_title">Accesso alla fotocamera</string>
+    <string name="first_using_dialog_message">La Bussola deve utilizzare la fotocamera per funzionare correttamente.</string>
     <string name="using_camera_confirm_ok">OK</string>
     <string name="using_camera_confirm_cancel">Esci</string>
     <string name="shake_enter_tip">Scuoti per calibrare</string>

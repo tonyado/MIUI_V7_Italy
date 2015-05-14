@@ -2995,4 +2995,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="gesture_wakeup_title">Doppo tap sullo schermo per attivarlo</string>
     <string name="install_no_market_app_title">Fonti sconosciute</string>
     <string name="install_no_market_app_summary">"Consenti l'installazione di applicazioni non provenienti dall'App Store"</string>
+    <string name="lock_screen_secure_after_timeout_title">Password richiesta</string>
+    <string name="lock_screen_secure_after_timeout_summary">Password richiesta tra %1$s</string>
+    <string name="lock_screen_secure_after_timeout_immediately_summary">Password richiesta adesso</string>
 </resources>

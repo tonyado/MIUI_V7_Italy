@@ -16,6 +16,15 @@
     <string name="notif_title_multiple_downloading">Download di %1$d file</string>
     <string name="notif_title_file_size">Totale %1$d</string>
     <string name="paused_waiting_for_network">In attesa di reti disponibili</string>
+    <string name="warning_tip_title">Avviso utilizzo dati</string>
+    <string name="warning_tip_content">"Non sei più connesso ad una rete WiFi. L'utilizzo della tua connessione dati per il completamento di questo download rdurrà il tuo pacchetto dati. Se supererai la soglia previta dal tuo piano, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+    <string name="warning_tip_cancel">Download</string>
+    <string name="warning_tip_ok">Pausa</string>
+    <string name="dialog_not_show_again">"Non mostrare più"</string>
+    <string name="notification_download_complete">Download completato.</string>
+    <string name="notification_download_failed">Download non riuscito.</string>
+    <string name="notification_download_success_more">%1$d file scaricati</string>
+    <string name="notification_download_failed_more">%1$d file non scaricati</string>
     <string name="app_label">Gestione download</string>
     <string name="permlab_downloadManager">Accesso alla gestione dei download.</string>
     <string name="permdesc_downloadManager">"Consente all'applicazione di accedere a gestione dei download e di utilizzarla per scaricare file. Le applicazioni dannose possono farne uso per disturbare i download e accedere a informazioni private."</string>
@@ -32,8 +41,6 @@
     <string name="permlab_accessAllDownloads">Accesso a tutti i download di sistema</string>
     <string name="permdesc_accessAllDownloads">"Consente all'applicazione di visualizzare e modificare tutti i download avviati da qualsiasi applicazione sul sistema."</string>
     <string name="download_unknown_title">&lt;Senza nome></string>
-    <string name="notification_download_complete">Download completato.</string>
-    <string name="notification_download_failed">Download non riuscito.</string>
     <string name="notification_need_wifi_for_size">Wi-Fi richiesto per download</string>
     <string name="notification_paused_in_background">In pausa in background.</string>
     <string name="wifi_required_title">Download troppo grande per rete operatore</string>
