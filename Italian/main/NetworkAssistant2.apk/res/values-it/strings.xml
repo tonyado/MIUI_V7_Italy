@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-    <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
     <string name="app_name">Utilizzo dati</string>
     <string name="list_empty_text">Vuoto</string>
     <string name="main_button_normal_traffic">Soglia</string>
@@ -459,7 +457,6 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="wifi_exception_summary">Testa una rete Wi-Fi disponibile</string>
     <string name="signal_exception_title">Segnale di rete debole</string>
     <string name="signal_exception_summary">Imposibile collegarsi alla rete in questa zona.</string>
-    <string name="usbsharenet_exception_title">Test USB shared network</string>
     <string name="usbsharenet_exception_title">Test rete condivisa USB</string>
     <string name="usbsharenet_exception_summary">Impossibile testare una rete condivisa con Mi PC Suite.</string>
     <string name="gateway_exception_title">Test router</string>
