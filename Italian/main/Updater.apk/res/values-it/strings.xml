@@ -45,7 +45,9 @@
     <string name="cancel_download_buton_text">Annulla</string>
     <string name="boot_recovery">Riavvia in Recovery</string>
     <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
-    <string name="update_success">Congratulazioni, aggiornamento installato con successo!</string>
+    <string name="update_success_reboot_immediately">Dispositivo aggiornato</string>
+    <string name="download_success_reboot_immediately">"Riavvia per applicare l'aggiornamento"</string>
+    <string name="update_success">Aggiornamento dispositivo</string>
     <string name="install_failed">Aggiornamento fallito</string>
     <string name="download_current_rom">"Scarica l'ultima full ROM"</string>
     <string name="later">Riavvia dopo</string>
@@ -56,6 +58,7 @@
     <string name="notification_reboot_summary_hm">Tocca per riavviare il dispositivo.</string>
     <string name="notification_reboot_btn">Riavvia</string>
     <string name="notification_reboot_seccess_title">Dispositivo aggiornato!</string>
+    <string name="notification_auto_reboot_seccess_title">Dispositivo aggiornato automaticamente</string>
     <string name="notification_reboot_seccess_des">Tocca per condividere.</string>
     <string name="notification_share">Condividi</string>
     <string name="notification_downloading">Download aggiornamento</string>
@@ -191,6 +194,7 @@ Ma puoi partecipare il prossimo martedì"</string>
     <string name="submit_success">Inviato correttamente</string>
     <string name="submit_fail">Invio fallito</string>
     <string name="submit">Invia</string>
+    <string name="updater_wait_for_unzip">Apertura aggiornaemnto…</string>
     <string name="vote_beta">Programma Feedback Beta</string>
     <string name="vote_submit">Invia</string>
     <string name="vote_recommend">Consiglia questo aggiornamento</string>

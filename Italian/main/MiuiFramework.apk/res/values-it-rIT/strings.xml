@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="android_ringtone_silent">Nessuna</string>
+    <string name="android_ringtone_unknown">Suoneria sconosciuta</string>
     <string name="status_bar_toggle_ac">Accesso</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Luminosità</string>

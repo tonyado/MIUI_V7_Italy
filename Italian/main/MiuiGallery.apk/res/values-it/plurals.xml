@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">ELiminare %1$s album (%2$s totali)?</item>
+        <item quantity="one">Eliminare %1$s album (%2$s totali)?</item>
+    </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">Cancellare %s foto dal cloud?</item>
         <item quantity="one">Cancellare %s foto dal cloud?</item>
@@ -23,6 +27,10 @@
     <plurals name="confirm_delete_has_cloud_local_video">
         <item quantity="other">Cancellare %s video sia in locale che dal cloud?</item>
         <item quantity="one">Cancellare %s video sia in locale che dal cloud?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">Eliminare %1$d video da %2$d album?</item>
+        <item quantity="one">Delete %1$d video da %2$d album?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d elementi</item>

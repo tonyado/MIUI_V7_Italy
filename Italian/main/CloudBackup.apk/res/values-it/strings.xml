@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Backup app Home​</string>
+    <string name="settings_backup">Impostazioni di sistema</string>
+    <string name="deskclock_backup">Sveglia</string>
     <string name="button_cancel">Annulla</string>
     <string name="button_next">Avanti</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -56,6 +58,7 @@
     <string name="recover_settings">Ripristino impostazioni Home</string>
     <string name="cancel_recover_settings"><u>Annulla</u></string>
     <string name="recover_settings_description">Tieni il dispositivo acceso</string>
+    <string name="recover_miui_settings">Ripristina le impostazioni di sistema MIUI</string>
     <string name="wait_icon_download">Download icona applicazione</string>
     <string name="download_settings_fail">Download impostazioni Home fallito</string>
     <string name="backup_fail">Backup app Home fallito</string>

@@ -94,8 +94,15 @@
     <string name="custom_mark_category">Personalizza</string>
     <string name="mark_number_dialog_maintitle">Segna come spam e carica</string>
     <string name="mark_number_custom_dialog_maintitle">Conferma o correggi la selezione</string>
-    <string name="selected_category_format">%1$s(%2$d contatti segnalati, premi per confermare)</string>
+    <string name="mark_number_marked_subtitle">Etichettato come %s</string>
+    <string name="mark_number_marked_maintitle">Modifica</string>
     <string name="mark_title_null_hint">Il valore non può essere vuoto</string>
+    <string name="mark_number_custom_mark_deleted">Etichetta rimossa.</string>
+    <string name="mark_number_feedback_success">Feedback inviato, il numero verrà verificato.</string>
+    <string name="mark_number_feedback">Segnala</string>
+    <string name="mark_number_feedback_hint">Inserisci il tuo feedback</string>
+    <string name="mark_number_feedback_invalid_hint">Inserisci un feedback valido</string>
+    <string name="mark_number_remove">Rimuovi etichetta</string>
     <string name="smart_antispam">Identifica automaticamente numero sconosciuto</string>
     <string name="turn_on_smart_antispam_hint">Dopo averlo attivato, i numero verranno identificati. Se non verranno identificati, puoi segnalarli per aiutare a identificare le chiamate indesiderate.</string>
     <string name="turn_on_smart_antispam_title">Identifica numeri sconosciuti</string>
@@ -275,6 +282,10 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="express_no_order">Nessun ordine</string>
     <string name="express_order_info">Informazioni ordine</string>
     <string name="express_urge_order">Urgente</string>
+    <string name="express_copy_number">Copia</string>
+    <string name="express_send_mms">Invia</string>
+    <string name="express_send_mms_format">Ti è stato inviato un pacco da %1$s, il numero di tracciamento è %2$s.</string>
+    <string name="express_copied">NUmero di tracciamento copiato</string>
     <string name="remind_user_suspect_number_title">Fai attenzione alle telefonate fraudolente</string>
     <string name="remind_user_suspect_number_message">Alcuni criminali possono rubare le identità di altre persone per compiere truffe, se non sei sicuro/a, richiama per sicurezza. Banche, attività di e-commerce e corrieri non chiedono chiedono password o dati bancari</string>
     <string name="remind_another_time">Non chiedere per questo numero"</string>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
 <resources>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -134,12 +135,6 @@
         <item>Tempo di utilizzo</item>
         <item>Conteggio avvii</item>
         <item>Nome applicazione</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Nessuno</item>
@@ -358,6 +353,16 @@
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nessuno</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (sicuro)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (sicuro)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (sicuro)</item>
+        <item>1280x720 tvdpi a 1920x1080 xhdpi</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nessuna</item>
         <item>Logcat</item>
@@ -406,11 +411,11 @@
         <item>Operazione non riuscita</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
-        <item>Ascended being</item>
-        <item>Human</item>
+        <item>Essere superiore</item>
+        <item>Umano</item>
         <item>Neanderthal</item>
-        <item>Chimp</item>
-        <item>Monkey</item>
+        <item>Scimpanzè</item>
+        <item>Scimmia</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Chiedi</item>
@@ -433,8 +438,28 @@
         <item>Medio</item>
         <item>Leggero</item>
     </string-array>
-
-
+    <string-array name="multi_sim_entries">
+        <item>Abbonamento 1</item>
+        <item>Abbonamento 2</item>
+    </string-array>
+    <string-array name="multi_sim_summaries">
+        <item>Abbonamento 1</item>
+        <item>Abbonamento 2</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Abbonamento 1</item>
+        <item>Abbonamento 2</item>
+        <item>Chiedi</item>
+    </string-array>
+    <string-array name="multi_sim_summaries_voice">
+        <item>Abbonamento 1</item>
+        <item>Abbonamento 2</item>
+        <item>Chiedi</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice_without_prompt">
+        <item>Abbonamento 1</item>
+        <item>Abbonamento 2</item>
+    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>
         <item>Percentuale</item>
@@ -676,5 +701,25 @@
     <string-array name="install_non_market_app_contents">
         <item>Chiedi permesso</item>
         <item>Consenti</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Subito</item>
+        <item>1 minuto</item>
+        <item>2 minuti</item>
+        <item>5 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Nascondi animazioni di sistema</item>
+        <item>Mostra animazioni di sistema</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Per velocizzare il sistema, nascondi le animazioni</item>
+        <item>Le animazioni potrebbero influire sulle prestazioni del sistema</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
+        <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
     </string-array>
 </resources>

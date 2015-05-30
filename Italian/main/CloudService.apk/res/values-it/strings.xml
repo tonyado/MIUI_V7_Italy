@@ -138,6 +138,7 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="click_to_enabled">TTocca per sincronizzare.</string>
     <string name="calendar_sync">Calendario</string>
     <string name="antispam_sync">Impostazioni Anti Disturbo</string>
+    <string name="deskclock_backup">Backup orologi</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">"Gestisci i tuoi contenuti su Duokan con l'applicazione Duokan."</string>
@@ -209,6 +210,9 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="micloud_main_sync_now">Sincronizza adesso</string>
     <string name="micloud_main_network_error">Impossibile connettersi alla rete. Controlla le impostazioni di rete e riprova.</string>
     <string name="micloud_main_sync_on_wifi">Utilizza Wi-Fi</string>
+    <string name="micloud_main_sync_setting">Impostazioni di sincronizzazione</string>
+    <string name="micloud_main_suggest_setting">"In attesa di connessione WiFi per sincronizzare
+Tocca il tasto Impostazioni per latre opzioni"</string>
     <string name="micloud_main_data_unsynced">%d non sincronizzato</string>
     <string name="micloud_main_detail">Mostra dettagli</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
@@ -241,6 +245,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_setting_browser_summary">Segnalibri, cronologia e schede</string>
     <string name="micloud_setting_music_summary">Playlist e preferiti</string>
     <string name="micloud_setting_wifi_summary">Impostazioni Wi-Fi</string>
+    <string name="micloud_setting_deskclock_summary">Impostazioni orologi</string>
     <string name="micloud_setting_antispam_summary">Eccezioni per Anti Disturbo e numeri di telefono bloccati.</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_tb">TB</string>
@@ -283,6 +288,19 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
 Ti servirà la carta di credito di una banca cinese per acquista spazio aggiunto."</string>
     <string name="buy_more_space_c_class">"Questa funzione richiede la carta di credito di una banca cinese.
 Visita mi.com/micloud per avere spazio di archiviazione aggiuntivo."</string>
+    <string name="micloud_member_buy_title">Conferma ordne</string>
+    <string name="micloud_member_buy_content" formatted="false">"Valido per %s-%s-%s
+
+%s MiCredit l'anno"</string>
+    <string name="micloud_member_net_error_alert_title">Impossibile connettersi alla rete</string>
+    <string name="micloud_member_net_error_alert_message">Non hai una connessione internet.</string>
+    <string name="micloud_member_pay_fail_toast">Impossibile completare il pagamento</string>
+    <string name="micloud_member_webload_fail_toast_5xx">Errore del server</string>
+    <string name="micloud_member_webload_fail_toast_4xx">Impossibile caricare la pagina</string>
+    <string name="micloud_member_webload_fail_error_message">Errore di rete</string>
+    <string name="micloud_member_pay_order_error_toast">Errore dati</string>
+    <string name="micloud_member_pay_miid_error_toast">Errore account</string>
+    <string name="micloud_member_refresh_button">Aggiorna</string>
     <string name="share_miliao_not_installed">MiTalk non è installato.</string>
     <string name="share_weibo_not_installed">Weibo non è installato.</string>
     <string name="share_weixin_not_installed">Wechat non è installato.</string>
@@ -290,6 +308,7 @@ Visita mi.com/micloud per avere spazio di archiviazione aggiuntivo."</string>
     <string name="share_cancel">Condivisione annullata</string>
     <string name="share_failed">Impossibile condividere</string>
     <string name="cloud_back_up_title">Backup Home</string>
+    <string name="settings_backup_title">Backup impostazioni di sistema</string>
     <string name="cloud_back_up_open_info_no_backuptime">Esegui il backup del layout della tua Home e delle app ogni %1$s quando collegato a rete Wi-Fi</string>
     <string name="cloud_back_up_open_info">"segui il backup del layout della tua Home e delle app ogni %1$s quando collegato a rete Wi-Fi
 Ultimo backup: %2$s"</string>
@@ -301,15 +320,16 @@ Ultimo backup: %2$s"</string>
     <string name="cloud_back_up_button_ok">Interrompi</string>
     <string name="cloud_back_up_network_unavailable">Impossibile rimuovere. Collegarsi di nuovo alla rete Wi-Fi?.</string>
     <string name="cloud_back_up_remove_success">Backup eliminato</string>
-    <string name="close_cloud_app_backup_notification_title">Notifica Backup Applicazioni</string>
-    <string name="close_cloud_app_backup_notification_message">Tocca per i dettagli</string>
-    <string name="close_cloud_app_backup_title">Chiudi</string>
-    <string name="close_cloud_app_backup_message">Il servizio di Backup Applicazioni di Mi Cloud non sarà garantito per le app non-MIUI. I dati relativi alle applicazioni di terze parti verranno eliminati dal giorno 1 Maggio 2015. Per evitare la perdita di dati importanti, esegui il backup in locale adesso."</string>
-    <string name="close_cloud_app_backup_cancel">Annulla</string>
-    <string name="close_cloud_app_backup_close">Chiudi</string>
-    <string name="close_cloud_app_backup_local_backup">Backup</string>
-    <string name="cloud_app_back_up_quit_notification_content1">l servizio di Backup Applicazioni di Mi Cloud non sarà garantito per le app non-MIUI. I dati relativi alle applicazioni di terze parti verranno eliminati dal giorno 1 Maggio 2015. Per evitare la perdita di dati importanti, esegui il backup in locale adesso."</string>
-    <string name="cloud_app_back_up_quit_notification_content2">Contatti, Messaggi, Galleria ed altre applicazioni di sistema MIUI non verranno interessate.</string>
-    <string name="cloud_app_back_up_quit_notification_content3">Backup dati applicazione</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="micloud_storage">Archiviazione</string>
+    <string name="micloud_member">Abbonamento Mi Cloud</string>
+    <string name="micloud_buy_member">Aggiorna abbonamento</string>
+    <string name="micloud_member_advantage">Ricevi altro spazio di archiviazione.</string>
+    <string name="micloud_main_title_sync_fail">Impossibile sincronizzare</string>
+    <string name="micloud_main_title_sync_on_wifi">Utilizza WiFi</string>
+    <string name="micloud_main_title_sync_off">Sincronizzazione disattivata</string>
+    <string name="micloud_sync_alert_dialog_title">Utilizza Mi Cloud</string>
+    <string name="micloud_sync_alert_dialog_message">Sincronizza foto, contatti, note molto altro sui tuoi dispositivi.</string>
+    <string name="micloud_sync_alert_dialog_negative">Annulla</string>
+    <string name="micloud_sync_alert_dialog_positive">OK</string>
 </resources>

@@ -116,6 +116,16 @@
     <string name="xunlei_close_tips_content">Acceleratore download Xunlei.</string>
     <string name="xunlei_close_tips_button">Attiva</string>
     <string name="toast_xunlei_engine_open">Acceleratore download Xunlei attivato</string>
+    <string name="recommend_other_downloads">Popolari</string>
+    <string name="recommend_show_other_downloads">Mostra popolari</string>
+    <string name="recommend_install">Installa</string>
+    <string name="recommend_open">Apri</string>
+    <string name="recommend_downloading">Download…</string>
+    <string name="recommend_prepare">In attesa…</string>
+    <string name="recommend_installing">Installazione…</string>
+    <string name="recommend_failed">Fallito</string>
+    <string name="recommend_paused">In pausa</string>
+    <string name="recommend_loading">Caricamento…</string>
     <string name="app_label">Download</string>
     <string name="download_title">Download</string>
     <string name="download_title_sorted_by_date">Download - Ordinati per data</string>

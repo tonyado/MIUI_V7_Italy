@@ -78,12 +78,10 @@
     <string name="delete">Elimina</string>
     <string name="confirm_delete">Confermare la cancellazione di %s file?</string>
     <string name="comfirm_delete_current_album">Eliminare questo album?</string>
-    <string name="confirm_delete_album" formatted="false">Sicuro di voler eliminare %s album (contenenti %s elementi)?</string>
-    <string name="confirm_delete_system_album">%s è un album di sistema, sicuro di volerlo eliminare?</string>
-    <string name="operation_delete_confirm_message_folder">Cartelle e file verranno eliminati nello stesso momento.</string>
-    <string name="delete_folder">Eliminare %1$d cartelle?</string>
+    <string name="operation_delete_confirm_message_folder">"Il contenuto di tutte le cartelle verrà eliminato. "</string>
+    <string name="delete_folder">Eliminare %1$d artelle?</string>
     <string name="delete_file">Eliminare %1$d file?</string>
-    <string name="delete_files_and_folders">"Confermare l'eliminazione di %1$d file e %2$d cartella(e)?"</string>
+    <string name="delete_files_and_folders">Eliminare %1$d file e %2$d cartelle?</string>
     <string name="confirm_delete_init_title">Suggerimento</string>
     <string name="confirm_delete_init_message">"L'immagine verrà eliminata da questo dispositivo e dal tuo Mi Cloud. Se vuoi eliminarla solo in locale, esegui l'operazione localmente."</string>
     <string name="confirm_delete_has_cloud_local_image_video">Eliminare %s elemento(i) in &lt;b>locale e in cloud&lt;/b>?</string>
@@ -566,6 +564,8 @@ il dispositivo"</string>
     <string name="paint_cancel_context">Uscire ed annullare le modifiche a questa immagine?</string>
     <string name="paint_crop_cancel_title">Annulla modifiche</string>
     <string name="paint_crop_cancel_context">Vuoi salvare il risultato tagliato?</string>
+    <string name="paint_highlight_cancel_title">Annulla modifiche</string>
+    <string name="paint_highlight_cancel_context">"Salvare l'immagine evidenziata?"</string>
     <string name="do_not_save">Non salvare</string>
     <string name="paint_highlight">Evidenzia</string>
     <string name="free">Libero</string>

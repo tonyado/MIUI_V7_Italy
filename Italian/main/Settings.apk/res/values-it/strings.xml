@@ -36,6 +36,7 @@
     <string name="music_dirac_mode_piston_1">Mi piston-1</string>
     <string name="music_dirac_mode_piston_2">Mi piston-2</string>
     <string name="music_dirac_mode_piston_basic">Edizione Base</string>
+    <string name="music_dirac_mode_piston_standard">Edizione standard</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
@@ -50,13 +51,8 @@
     <string name="audio_list_loading">Caricamento…</string>
     <string name="title_local_resource">Risorsa locale</string>
     <string name="online_resource_entry">Risorse online</string>
-    <string name="status_bar_style_settings">Notifiche</string>
     <string name="status_bar_and_notification_bar">Barra notifiche e barra di stato</string>
-    <string name="status_bar_settings_toggle_layout_style">Cambia stile layout</string>
-    <string name="status_bar_settings_toggle_layout_style_compact">Barra</string>
-    <string name="status_bar_settings_toggle_layout_style_single_page">Pagina</string>
-    <string name="status_bar_settings_toggle_layout_style_applying">Cambiamento stile…</string>
-    <string name="status_bar_settings_custom_notification">Gestione notifiche</string>
+    <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
     <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
@@ -2164,7 +2160,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="search_storage">Archiviazione</string>
     <string name="search_accessibility">Accessibilità</string>
     <string name="search_privacy">Privacy</string>
-    <string name="search_fluency_mode">Modalità fluenza</string>
     <string name="debug_log">Programma esperienza utente</string>
     <string name="upload_debug_log_title">Programma esperienza utente</string>
     <string name="upload_debug_log_summary">"Aiuta Xiaomi a migliorare i suoi prodotti ed i suoi servizi inviando dati anonimi di diagnostica e sull'utilizzo"</string>
@@ -2496,6 +2491,9 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="wfd_disconnect_multiple_diag_message">Se termini la connessione al display wireless, la tua connessione con %1$s e altri %2$s dispositivi sarà terminata.</string>
     <string name="wfd_wps_keypad">Preferisco usare il pulsante</string>
     <string name="wfd_wps_pbc">Preferisco inserire il PIN</string>
+    <string name="virtual_sim_category_title">SIM virtuale</string>
+    <string name="virtual_sim_title">Rete dati roaming</string>
+    <string name="virtual_sim_description">Servizio di roaming internazionale affidabile</string>
     <string name="power_mode">Impostazioni alimentazione</string>
     <string name="high_performance_title">"Sembra che stai eseguendo un test di benchmark.Imposta dalla gestione batteria la modalità consumo \"Prestazioni\" per avere dei risultati migliori."</string>
     <string name="high_performance_notif_title">Avviso utilizzo della batteria</string>
@@ -2986,12 +2984,9 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostra notifica quando collegato alla rete CMCC</string>
     <string name="wifi_datanetwork_switch_not_remind">"Non chiedere più"</string>
     <string name="skip_lock_screen_confirm_msg">Le seguenti funzioni verranno disattivate per la lockscreen: notifiche, controllo musica, slide sinistro per la Fotocamera e slide destro per Mi Home.</string>
-    <string name="fluency_mode">Ottimizza prestazioni</string>
-    <string name="fluency_mode_enabled_name">Ottimizza le prestazioni del sistema</string>
-    <string name="fluency_mode_summary">"Disattiva le animazioni di sistema e riduci l'utilizzo della memoria"</string>
-    <string name="fluency_mode_confirm_title">Riavviare adesso?</string>
-    <string name="fluency_mode_confirm_will_fluency_mode_text">YIl tuo dispositivo deve essere riavviato per poter applicare queste impostazioni.</string>
-    <string name="fluency_mode_confirm_will_normal_mode_text">Attivando le animazioni ed utilizzando un quantitativo maggiore di memoria si potrebbero verificare rallentamenti nelle prestazioni di alcuni dispositivi.</string>
+    <string name="performance_category">Prestazioni</string>
+    <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
+    <string name="fluency_mode_confirm_and_reboot">Riavvia adesso</string>
     <string name="gesture_wakeup_title">Doppo tap sullo schermo per attivarlo</string>
     <string name="install_no_market_app_title">Fonti sconosciute</string>
     <string name="install_no_market_app_summary">"Consenti l'installazione di applicazioni non provenienti dall'App Store"</string>

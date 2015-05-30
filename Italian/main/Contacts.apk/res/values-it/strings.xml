@@ -833,6 +833,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="picker_contact_title">Scegli un contatto</string>
     <string name="picker_number_title">Scegli un numero</string>
     <string name="group_add_fail_toast">Impossibile aggiungere i contatti</string>
+    <string name="group_sms_error_message">"L'SMS non più avere più di %s destinatari."</string>
     <string name="picker_postal_title">Scegli un codice postale</string>
     <string name="picker_email_title">Scegli una email</string>
     <string name="preference_import">Importa</string>
@@ -982,6 +983,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="btn_split_contact">Separa</string>
     <string name="use_photo_as_primary2">"Usa l'immagine del contatto %1$s"</string>
     <string name="label_custom_type">Personalizzato</string>
+    <string name="loading_accounts">Caricamento informazioni SIM...</string>
     <string name="pkgLabel">Contatti e tastierino</string>
     <string name="preference_smart_group_title">Gruppi intelligenti</string>
     <string name="preference_smart_group_company_title">Per azienda</string>
@@ -1083,6 +1085,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="import_all_sim_entries_miui">Importa tutti i contatti</string>
     <string name="import_sim_entry_miui">Importa</string>
     <string name="delete_sim_entry_miui">Cancella</string>
+    <string name="importing_sim_contacts_miui_prepare">"Preparazione per l'imposrtazione…"</string>
+    <string name="deleting_sim_entry_miui_prepare">"Preparazione per l'eliminazione…"</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Deseleziona tutti</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Seleziona tutti</string>
     <string name="delete_selected_sim_entry_miui">Cancella i contatti selezionati</string>
