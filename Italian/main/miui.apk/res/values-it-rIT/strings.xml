@@ -3,15 +3,19 @@
     <string name="label">MIUI SDK</string>
     <string name="send">Invia</string>
     <string name="close">Chiudi</string>
+    <string name="date_picker_label_year" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_day" />
+    <string name="copyright">Copyright</string>
+    <string name="user_agreement">Termini del servizio</string>
+    <string name="privacy_policy">Informativa Privacy</string>
+    <string name="user_manual">Guida utente</string>
     <string name="abc_action_bar_up_description">Livello superiore</string>
     <string name="abc_action_bar_home_description">Naviga in home</string>
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="action_mode_deselect_all">Deseleziona tutto</string>
     <string name="action_mode_title_empty">Seleziona elementi</string>
     <string name="loading">Caricamento…</string>
-    <string name="date_picker_label_year" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_day" />
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="yesterday">Ieri</string>
@@ -38,11 +42,7 @@
     <string name="app_name_which_call">Applicazione:%s</string>
     <string name="app_version_which_call">Versione applicazione:%s</string>
     <string name="policy_name">Reglamento:%s</string>
-    <string name="copyright">Copyright</string>
-    <string name="user_agreement">Accordo utente</string>
-    <string name="privacy_policy">Accordo privacy</string>
     <string name="mibi_license">Accordo Mi Credit</string>
-    <string name="user_manual">Guida utente</string>
     <string name="license_host_unreachable">Impossibile collegarsi alla rete. Per leggere queste informazioni vai su %s.</string>
     <string name="perm_payment_lab">Servizio di pagamento Xiaomi</string>
     <string name="perm_payment_dspt">Consenti alle applicazioni di effettuare pagamenti tramite il servizio di pagamento Xiaomi</string>
@@ -352,4 +352,6 @@
     <string name="fmt_chinese_date"/>
     <string name="permlab_sendSmsNoConfirmation">Consenti SMS in background</string>
     <string name="permdesc_sendSmsNoConfirmation">"L'applicazione può inviare SMS senza chiedere il permesso. Questo potrebbe comportare addebiti aggiuntivi da parte del tuo operatore."</string>
+    <string name="web_sso_login_message">Accesso in corso...</string>
+    <string name="web_sso_login_fail">Devi accedere di nuovo</string>
 </resources>

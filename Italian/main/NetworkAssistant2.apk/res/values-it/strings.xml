@@ -523,4 +523,14 @@ R"</b>"ead the instructions that came with your router and restore your router t
 
  5."<b>" Make sure your router is connected properly
 T"</b>"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+    <string name="permission_exception_title">Mostra permessi di rete</string>
+    <string name="permission_exception_summary">Alcune applicazioni non hanno i permessi per cvollegarsi ad internet</string>
+    <string name="networkchanged_exception_title">Connessione cambiata</string>
+    <string name="networkchanged_exception_summary">La connessione è cambiata. Testare di nuovo.</string>
+    <string name="miuishare_title_more">Altro</string>
+    <string name="miuishare_title_share">Condividi</string>
+    <string name="miuishare_wechat_timeline_title">Cronologia Wechat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_not_available">Impossibile connettersi alla rete</string>
+    <string name="no_network_btn">Prova di nuovo</string>
 </resources>

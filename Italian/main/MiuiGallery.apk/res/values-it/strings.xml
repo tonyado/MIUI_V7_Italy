@@ -181,8 +181,8 @@
     <string name="set_hidden_album">Nascondi Album</string>
     <string name="remove_hidden_album">Rendi visibile</string>
     <string name="skip_hide_special_album">Gli album di sistema (Fotocamera, Screenshot) non possono essere nascosti.</string>
-    <string name="photos">Foto</string>
-    <string name="videos">Video</string>
+    <string name="photos">" foto"</string>
+    <string name="videos">" video"</string>
     <string name="tab_lockscreen_text">Schermata di blocco</string>
     <string name="tab_wallpaper_text">Desktop</string>
     <string name="tab_all_text">Tutto</string>
@@ -608,13 +608,19 @@ il dispositivo"</string>
     <string name="start_to_use_face_albumset">Utilizza Album con Viso</string>
     <string name="enabling_face_feature">Attivazione…</string>
     <string name="face_albumset_pending_enable_tip">Ordinerà le foto quando il dispositivo è collegato a Wi-Fi WLAN</string>
+    <string name="face_albumset_loading_data">Caricamento dati…</string>
     <string name="face_album_not_named">Senza nome</string>
     <string name="rename_face_album">Rinomina</string>
     <string name="rename_fail_msg">Impossibile rinominare</string>
     <string name="merge_album_positive_button_text">Unisci</string>
     <string name="confirm_merge_face_albums">" "<Data> Unisci questo album all\'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_merge_many_face_albums">" "<Data> Unire questi album con %s? </Data>" "</string>
+    <string name="ignore_alert_title">Non mostrare questo album?</string>
     <string name="ignore_album">Ignora</string>
+    <string name="merge_album">Unisci</string>
+    <string name="merge_album_title">Unisci album</string>
     <string name="create_new_face">Nuovo viso</string>
+    <string name="pick_from_contact">Scegli dai contatti</string>
     <string name="preparing_data">Preparazione dati...</string>
     <string name="ignore_face">Ignora questo viso</string>
     <string name="who_is_this">Chi è?</string>
@@ -624,8 +630,10 @@ il dispositivo"</string>
     <string name="face_move_dialog_title">Scegli un album con viso</string>
     <string name="confirm_face">Corrispondenza</string>
     <string name="confirm_not_face">Non è questa persona</string>
+    <string name="confirm_all_photo_are_this_people_face">Associare tutte le foto a questa persona?</string>
     <string name="confirm_left_photo_will_move_out">Le foto sulla sinistra verranno rimosse da questo album.</string>
     <string name="confirm_all_photo_not_this_people_face">Nessuna corrispondenza?</string>
+    <string name="face_album_long_tap_tip">"Per selezionare più persone o modificare le impostazioni di gruppo, tieni premuta un'immagine profilo"</string>
     <string name="last_valentine_day">Ultimo Gioprno di San Valentino</string>
     <string name="last_new_year">Ultimo Capodanno</string>
     <string name="last_chinese_new_year">Ultimo Capodanno Cinese</string>
@@ -641,6 +649,9 @@ il dispositivo"</string>
     <string name="no_secret_photo">Nessuna foto nascosta</string>
     <string name="in_home_page_long_press_photo_setting_secret_photo">Per nascondere una foto, tieni premuto su di essa e seleziona \"Nascondi\" dal menu in basso a sinistra.</string>
     <string name="all_video_album_display_name">Tutti i video</string>
+    <string name="add_event">Aggiungi evento</string>
+    <string name="add_event_hint">"Inserisci un'etichetta"</string>
+    <string name="event_manage_photos">Gestisci foto</string>
     <string name="paint_crop_tips">"Per ottenere un'immagine migliore, prova a posizionare le parti interessanti su di ua griglia di punti e sposta."</string>
     <string name="saturation_abbr">S</string>
     <string name="highlight_abbr">H</string>

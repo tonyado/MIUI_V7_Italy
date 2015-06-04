@@ -763,6 +763,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="media_error_nomemory">La memoria del dispositivo è piena</string>
     <string name="media_error_action_refresh">Aggiorna</string>
     <string name="media_error_action_replace_video_source">Sostituisci fonte video</string>
+    <string name="video_buffering_percent_string">Buffering</string>
     <string name="webapp_app_name">Light Web App Store</string>
     <string name="webapp_dialog_title">Aggiungi alla schermata Home</string>
     <string name="webapp_add_to_desktop">Aggiungi questa app alla tua schermata Home?</string>

@@ -276,7 +276,7 @@
     <string name="cc_attribution">Cc: %1$s</string>
     <string name="cc_bcc">Cc/Ccn</string>
     <string name="cc_heading">"Cc: "</string>
-    <string name="change_account_confirm">"L'account "%1$s" verrà rimosso da WPSMail."</string>
+    <string name="change_account_confirm">"L'account "%1$s" verrà rimosso da Email."</string>
     <string name="change_account_type">Modifica tipo di account</string>
     <string name="change_folders_selection_dialog_title">Cambia cartelle</string>
     <string name="change_sync_settings">Modifica impostazioni di sincronizzazione</string>

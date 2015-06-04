@@ -46,6 +46,7 @@
     <string name="sync_sub_dspt">"L'SMS di attivazione è soggetto ai normali costi del tuo piano tariffario."</string>
     <string name="sync_sub_int_dspt">"L'SMS di attivazione è soggetto ai costi degli SMS verso l'estero previsti dal tuo piano tariffario."</string>
     <string name="access_denied">Accesso negato</string>
+    <string name="internet_access_dspt">Questa applicazione deve accedere ad internet per funzionare correttamente.</string>
     <string name="sync_on">Attivata</string>
     <string name="sync_off">Disattivata</string>
     <string name="mx_dspt">Mi Message</string>

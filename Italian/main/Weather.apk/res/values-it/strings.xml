@@ -266,6 +266,7 @@
     <string name="share_button">Condividi</string>
     <string name="share_weather_save_pic_fail">Impossibile scattare screenshot</string>
     <string name="share_title">Condividi il meteo</string>
+    <string name="share_weather_desc">\#MIUI Meteo#Oggi %1$s %2$s</string>
     <string name="aqi_quality_index_pure">AQI %1$s</string>
     <string name="aqi_quality_index_good">AQI %1$s</string>
     <string name="aqi_quality_index_moderate">AQI %1$s</string>
