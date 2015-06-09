@@ -4,7 +4,7 @@
         <item>Consigliati</item>
         <item>Classifica</item>
         <item>In evidenza</item>
-        <item>Ultimi</item>
+        <item>Novità</item>
     </string-array>
     <string-array name="variety_channel_tabs">
         <item>Consigliati</item>
@@ -13,6 +13,6 @@
     <string-array name="channel_tabs">
         <item>In evidenza</item>
         <item>Classifica</item>
-        <item>Ultimi</item>
+        <item>Novità</item>
     </string-array>
 </resources>
