@@ -771,7 +771,7 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="screensaver_settings_summary_sleep">Durante la ricarica</string>
     <string name="screensaver_settings_summary_dock">Quando inserito nel dock</string>
     <string name="screensaver_settings_summary_off">Disattivato</string>
-    <string name="screensaver_settings_disabled_prompt">Per stabilire che cosa accade quando il telefono è inserito nel dock e/o in stand-by, attiva Daydream.</string>
+    <string name="screensaver_settings_disabled_prompt">Per stabilire che cosa accade quando il dispositivo è inserito nel dock e/o in stand-by, attiva Daydream.</string>
     <string name="screensaver_settings_when_to_dream">Quando attivare Daydream</string>
     <string name="screensaver_settings_dream_start">Inizia subito</string>
     <string name="screensaver_settings_button">Impostazioni</string>
@@ -1075,7 +1075,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="lockpattern_settings_help_how_to_record">"Procedura per l'impostazione di una sequenza di sblocco"</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi errati.</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Riprova fra %d secondi.</string>
-    <string name="activity_not_found">Applicazione non installata sul telefono.</string>
+    <string name="activity_not_found">Applicazione non installata sul dispositivo.</string>
     <string name="manageapplications_settings_title">Gestisci applicazioni</string>
     <string name="manageapplications_settings_summary">Gestisci e rimuovi applicazioni installate</string>
     <string name="applications_settings">Applicazioni</string>
@@ -2067,7 +2067,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="do_not_disturb_mode">Anti-disturbo</string>
     <string name="dndm_notification">Anti-disturbo abilitato.</string>
     <string name="dndm_open">Anti-disturbo</string>
-    <string name="dndm_summary">"Quando l'Anti-disturbo è attivo le chiamate e le notifiche che arrivano quando il tuo telefono è in blocco saranno silenziate"</string>
+    <string name="dndm_summary">"Quando l'Anti-disturbo è attivo le chiamate e le notifiche che arrivano quando il tuo dispositivo è in blocco saranno silenziate"</string>
     <string name="dndm_auto_setting_group">Programmato</string>
     <string name="dndm_auto_button_title">Ora</string>
     <string name="dndm_auto_time_setting">Impostazioni orario</string>
@@ -2092,7 +2092,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="dndm_vip_list_custom_group">Eccezioni</string>
     <string name="dndm_repeated_call_setting_title">Chiamate ricevute</string>
     <string name="dndm_repeated_call_summary_none">Silenzia chiamate ripetute dallo stesso numero</string>
-    <string name="dndm_repeated_call_summary_3min">Se lo stesso numero ti richiama entro tre minuti il telefono suonerà</string>
+    <string name="dndm_repeated_call_summary_3min">Se lo stesso numero ti richiama entro tre minuti il dispositivo squillerà</string>
     <string name="dndm_twelve_hour_time_format">a h:mm</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
     <string name="search_airplane">Modalità aereo</string>
@@ -2605,7 +2605,7 @@ ed esegui il software."</string>
     <string name="oldman_mode_enabled_name">Modalità semplificata</string>
     <string name="oldman_mode_summary">Usa schermata Home e menu semplificati</string>
     <string name="oldman_mode_confirm_title">Riavviare in modalità semplificata? </string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Il tuo telefono sarà riavviato per entrare in modalità semplificata.</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Il tuo dispositivo sarà riavviato per entrare in modalità semplificata.</string>
     <string name="oldman_mode_confirm_will_normal_mode_text">Esci dalla modalità semplificata?</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">Abilita 3D</string>
@@ -2703,15 +2703,15 @@ ed esegui il software."</string>
     <string name="network_error">Errore di rete.</string>
     <string name="checking_for_updates">Ricerca aggiornamenti in corso…</string>
     <string name="rebootiing_for_updates">Riavvio in corso…</string>
-    <string name="update_progress_for_updates">Aggiornamento （%s）</string>
-    <string name="toast_need_login">"Prego accedere con l'account Xiaomi"</string>
+    <string name="update_progress_for_updates">Aggiornamento（%s）</string>
+    <string name="toast_need_login">"Accedi con l'Account Mi"</string>
     <string name="button_text_reboot_now">Riavvia ora</string>
     <string name="button_text_login">Accesso</string>
-    <string name="dialog_title_login">Accesso account Xiaomi</string>
+    <string name="dialog_title_login">Accesso Account Mi</string>
     <string name="dialog_content_login">"Update ha bisogno di accedere all'Account Mi, eseguire il login ?"</string>
     <string name="lock_intro_message">Lock_intro_message</string>
     <string name="welcome">Benvenuto</string>
-    <string name="launching_pho">Caricamento informazioni telefono, attendere.</string>
+    <string name="launching_pho">Caricamento informazioni dispositivo, attendere.</string>
     <string name="launching_cit">Avvio Rilevamento Hardware, attendere.</string>
     <string name="launching_rep">Segnalazione bug in corso, attendere.</string>
     <string name="status_serialno">Numero di serie</string>
