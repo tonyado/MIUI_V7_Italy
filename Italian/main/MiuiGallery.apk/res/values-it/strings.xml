@@ -57,7 +57,7 @@
     <string name="rise">Caldo</string>
     <string name="cool_portrait">Quadro</string>
     <string name="old">Vintage</string>
-    <string name="camera_black_white">Bianco & Nero</string>
+    <string name="camera_black_white">Bianco &amp; Nero</string>
     <string name="black_white">Piatto</string>
     <string name="app_name">Galleria</string>
     <string name="details_ms">%1$02d:%2$02d</string>
@@ -70,13 +70,13 @@
     <string name="multiface_crop_help">Tocca un volto per iniziare.</string>
     <string name="saving_image">Salvataggio foto…</string>
     <string name="recognizing_image">Riconoscimento immagine…</string>
-    <string name="save_error">Impossibile salvare l'immagine ritagliata.</string>
+    <string name="save_error">Impossibile salvare l\'immagine ritagliata.</string>
     <string name="crop_label">Ritaglia</string>
     <string name="select_image">Seleziona foto</string>
     <string name="select_video">Seleziona video</string>
     <string name="camera_setas_wallpaper">Sfondo</string>
     <string name="delete">Elimina</string>
-    <string name="confirm_delete">Confermare l'eliminazione di %s file?</string>
+    <string name="confirm_delete">Confermare l\'eliminazione di %s file?</string>
     <string name="comfirm_delete_current_album">Eliminare questo album?</string>
     <string name="operation_delete_confirm_message_folder">"Il contenuto di tutte le cartelle verrà eliminato."</string>
     <string name="delete_folder">Eliminare %1$d cartelle?</string>
@@ -348,7 +348,7 @@
     <string name="retry_to_create_album">Riprova</string>
     <string name="share_current_album">Condividi questo album</string>
     <string name="cloud_be_shared_guide_title">Questo album è stato condiviso con te</string>
-    <string name="cloud_be_shared_guide_message">Le immagini condivise saranno visibili a te e a tutti i partecipanti di quest'album.</string>
+    <string name="cloud_be_shared_guide_message">Le immagini condivise saranno visibili a te e a tutti i partecipanti di quest\'album.</string>
     <string name="cloud_owner_album_share_guide">"Puoi condividere questo album 
 con gli amici"</string>
     <string name="view_sharers">View sharers</string>
@@ -463,7 +463,7 @@ con gli amici"</string>
     <string name="system_album">Album di sistema</string>
     <string name="owner_album_subtitle">Condiviso con %1$s membri</string>
     <string name="album_quota_fulfiled">"Impossibile creare l'album, è stato raggiunto il numero massimo."</string>
-    <string name="image_quota_fulfiled">Impossibile creare l'immagine, è stato raggiunto il limite di spazio a disposizione.</string>
+    <string name="image_quota_fulfiled">Impossibile creare l\'immagine, è stato raggiunto il limite di spazio a disposizione.</string>
     <string name="sharer_quota_fulfiled">"Impossibile aggiungere un partecipante, è stato raggiunto il numero massimo di condivisioni."</string>
     <string name="gallery_setting">Galleria</string>
     <string name="error_unknown_host">Hostname sconosciuto, controlla la connessione di rete!</string>
