@@ -203,7 +203,7 @@
     <string name="bluetooth_connected">Connesso</string>
     <string name="bluetooth_connected_no_headset">Collegato (telefono escluso)</string>
     <string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
-    <string name="bluetooth_connected_no_map">Connesso (nessun accesso ai messaggi)</string>
+    <string name="bluetooth_connected_no_map">Collegato (nessun accesso ai messaggi)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi)</string>
     <string name="bluetooth_disconnected">Disconnesso</string>
     <string name="bluetooth_disconnecting">Disconnessione…</string>

@@ -38,15 +38,15 @@
     <string name="date_time_done">Fatto</string>
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="date_time_picker_dialog_title">Imposta ora e data</string>
+    <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="app_name_which_call">Applicazione:%s</string>
     <string name="app_version_which_call">Versione applicazione:%s</string>
-    <string name="policy_name">Reglamento:%s</string>
+    <string name="policy_name">Regolamento:%s</string>
     <string name="mibi_license">Accordo Mi Credit</string>
     <string name="license_host_unreachable">Impossibile collegarsi alla rete. Per leggere queste informazioni vai su %s.</string>
     <string name="perm_payment_lab">Servizio di pagamento Xiaomi</string>
     <string name="perm_payment_dspt">Consenti alle applicazioni di effettuare pagamenti tramite il servizio di pagamento Xiaomi</string>
-    <string name="sync_one_time_sync">Tocca per sincronizzare （ %1$s )</string>
+    <string name="sync_one_time_sync">Tocca per sincronizzare（ %1$s )</string>
     <string name="no_sim">Nessuna SIM selezionata.</string>
     <string name="activating">Attivazione…</string>
     <string name="check_phone_error_title">Servizio di sincronizzazione non attivato</string>
@@ -71,7 +71,7 @@
     <string name="more">Altro</string>
     <string name="empty" />
     <string name="solar_term_slight_cold">Leggermente freddo</string>
-    <string name="solar_term_great_cold">Freddo inteso</string>
+    <string name="solar_term_great_cold">Freddo intenso</string>
     <string name="solar_term_spring_begins">Inizio della primavera</string>
     <string name="solar_term_the_rains">Le pioggie</string>
     <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
@@ -81,7 +81,7 @@
     <string name="solar_term_summer_begins">"Inizio dell'estate"</string>
     <string name="solar_term_grain_buds">Il grano germoglia</string>
     <string name="solar_term_grain_in_ear">Il grano ha le pannocchie</string>
-    <string name="solar_term_summer_solstice">Solstizio estivo</string>
+    <string name="solar_term_summer_solstice">Solstizio d'estate</string>
     <string name="solar_term_slight_heat">Leggermente caldo</string>
     <string name="solar_term_great_heat">Caldo intenso</string>
     <string name="solar_term_autumn_begins">"Inizio dell'autunno"</string>
@@ -93,7 +93,7 @@
     <string name="solar_term_winter_begins">"Inizio dell'inverno"</string>
     <string name="solar_term_light_snow">Nevicate leggere</string>
     <string name="solar_term_heavy_snow">Intense nevicate</string>
-    <string name="solar_term_winter_solstice">Solstizio invernale</string>
+    <string name="solar_term_winter_solstice">Solstizio d'inverno</string>
     <string name="chinese_month"/>
     <string name="chinese_day_elementary"/>
     <string name="chinese_digit_zero"/>
@@ -352,6 +352,6 @@
     <string name="fmt_chinese_date"/>
     <string name="permlab_sendSmsNoConfirmation">Consenti SMS in background</string>
     <string name="permdesc_sendSmsNoConfirmation">"L'applicazione può inviare SMS senza chiedere il permesso. Questo potrebbe comportare addebiti aggiuntivi da parte del tuo operatore."</string>
-    <string name="web_sso_login_message">Accesso in corso...</string>
+    <string name="web_sso_login_message">Accesso in corso…</string>
     <string name="web_sso_login_fail">Devi accedere di nuovo</string>
 </resources>
