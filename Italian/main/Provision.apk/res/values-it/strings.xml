@@ -2,7 +2,7 @@
 <resources>
     <string name="welcome">Benvenuto</string>
     <string name="input_method_setting">Scegli tastiera</string>
-    <string name="input_method_category">"Scegli la tastiera predefinita per la la scrittura di email, note, e tutto il resto. Successivamente potrai installare anche tastiere di terze parti."</string>
+    <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di email, note, e tutto il resto. Successivamente potrai installare anche tastiere di terze parti."</string>
     <string name="provision_inputmethod_policy_description">"
 Leggi questo documento per la tastiera: "</string>
     <string name="provision_inputmethod_policy_description1">Privacy</string>
@@ -12,11 +12,11 @@ Leggi questo documento per la tastiera: "</string>
     <string name="page_layout_label">Regola la dimensione del testo ed il layout per la Home, il Pannello delle Notifiche, il Telefono ed altro.</string>
     <string name="sim_card_detection">Nessuna scheda SIM rilevata</string>
     <string name="sim_card_detecting_title">Cerca SIM</string>
-    <string name="sim_card_detection_info">Hai bisogno di una scheda SIM per impostare il tuo MI Account.</string>
+    <string name="sim_card_detection_info">Hai bisogno di una scheda SIM per impostare il tuo Account Mi.</string>
     <string name="sim_card_detecting">Controllo scheda SIM in corso…</string>
     <string name="other_settings">Impostazioni aggiuntive</string>
     <string name="other_settings_location">Accedi alla posizione</string>
-    <string name="other_settings_location_summary">Consenti alle applicazioni di segnalare la tua posizione</string>
+    <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
     <string name="other_settings_user_experience">Feedback utente</string>
     <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
     <string name="other_settings_user_experience_summary1">(Vedi privacy)</string>
@@ -32,20 +32,20 @@ Leggi questo documento per la tastiera: "</string>
     <string name="summary_not_set">Non impostato</string>
     <string name="summary_sim_card">SIM %1$d</string>
     <string name="summary_sim_card_with_operator">SIM %1$d: %2$s</string>
-    <string name="ime_privacy_policy">Termini della privacy per la tastiera selezionata</string>
+    <string name="ime_privacy_policy">Termini della Privacy per la tastiera selezionata</string>
     <string name="ime_privacy_policy_no_network">Impossibile collegarsi a internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
     <string name="terms_of_use">Condizioni del Servizio</string>
     <string name="terms_of_use_label">"La tua privacy ci sta molto a cuore. Leggi i nostri Termini di Servizio e l'Informativa sulla Privacy per capire quali informazioni raccogliamo, come le utilizziamo e quali scelte hai in merito.
 
-Devi accettare le Condizioni del Servizio e e i Termini sulla Privacy prima di utilizzare MIUI."</string>
+Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di utilizzare MIUI."</string>
     <string name="user_agreement">Condizioni del Servizio</string>
     <string name="privacy_policy">Termini sulla Privacy</string>
     <string name="agree">OK</string>
     <string name="disagree">Annulla</string>
     <string name="network_access_warning">Devi collegarti ad Internet per attivare i Servizi Mi.</string>
-    <string name="setting_locale">Impostazione PAese…</string>
-    <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i Termini del Servizio su %s</string>
-    <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'Informativa sulla Privacy su %s"</string>
+    <string name="setting_locale">Impostazione Paese…</string>
+    <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i termini del servizio su %s</string>
+    <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'informativa sulla privacy su %s"</string>
     <string name="locale_picker_title">Scegli la tua lingua</string>
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Riavvia</string>

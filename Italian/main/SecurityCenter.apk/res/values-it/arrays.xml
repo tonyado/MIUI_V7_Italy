@@ -37,7 +37,7 @@
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Telefono</item>
-        <item>Messagggi</item>
+        <item>Messaggi</item>
         <item>Browser</item>
         <item>Fotocamera</item>
         <item>Galleria</item>
@@ -61,7 +61,7 @@
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>Alte prestazioni</item>
-        <item>Bilancato</item>
+        <item>Bilanciato</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
         <item>Disattiva</item>

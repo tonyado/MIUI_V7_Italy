@@ -10,7 +10,7 @@
     <string name="stk_no_service">Nessun servizio disponibile</string>
     <string name="button_ok">Ok</string>
     <string name="button_cancel">Annulla</string>
-    <string name="button_yes">Si</string>
+    <string name="button_yes">Sì</string>
     <string name="button_no">No</string>
     <string name="alphabet">Alfabeto</string>
     <string name="digits">Tasti (0-9, *, #, +)</string>

@@ -319,6 +319,7 @@
     <string name="language_picker_title">Lingua</string>
     <string name="activity_picker_label">Scegli attività</string>
     <string name="debug_intent_sender_label">Debug intent sender</string>
+    <string name="debug_view_attributes">Attiva vista attributi</string>
     <string name="device_info_label">Info dispositivo</string>
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
@@ -593,7 +594,7 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_install_credentials">Installa certificati</string>
     <string name="wifi_scan_notify_text_location_on">Per una maggiore precisione nella localizzazione e altri motivi, Google e altre app sono in grado di cercare reti nelle vicinanze, anche quando la connessione Wi-Fi è disattivata. Se non desideri consentire tale ricerca, accedi ad Avanzate > Scansione sempre disponibile.</string>
     <string name="wifi_scan_notify_text_location_off">Le app possono cercare reti nelle vicinanze, anche quando la connessione Wi-Fi è disattivata. Se non desideri consentire tale ricerca, accedi ad Advanzate > Scansione sempre disponibile.</string>
-    <string name="wifi_scan_notify_remember_choice">Non·mostrare·più</string>
+    <string name="wifi_scan_notify_remember_choice">Non mostrare più</string>
     <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi-Fi durante sospensione</string>
     <string name="wifi_setting_sleep_policy_error">"Si è verificato un problema durante la modifica dell'impostazione"</string>
     <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
@@ -2993,4 +2994,13 @@ Disabilitare le finestre flottanti?"</string>
     <string name="lock_screen_secure_after_timeout_title">Password richiesta</string>
     <string name="lock_screen_secure_after_timeout_summary">Password richiesta tra %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Password richiesta adesso</string>
+    <string name="wifi_verbose_logging">Attiva registrazione dettagliata Wi-Fi</string>
+    <string name="wifi_verbose_logging_summary">Aumenta il livello di registrazione Wi-Fi, mostrando il SSID RSSI nel selettore Wi-Fi</string>
+    <string name="wifi_aggressive_handover">Wi-Fi aggressivo per passaggio a cellulare</string>
+    <string name="wifi_aggressive_handover_summary">Quando questa impostazione è attivata, il Wi-Fi sarà più aggressivo nel passare la connessione dati al cellulare, quando il segnale Wi-Fi è basso</string>
+    <string name="wifi_allow_scan_with_traffic">Consenti sempre scansioni roaming Wi-Fi</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Consenti/vieta scansioni roaming Wi-Fi basate sulla quantità di traffico dati presente a livello di interfaccia</string>
+    <string name="select_logd_size_title">Dimensioni buffer Logger</string>
+    <string name="select_logd_size_dialog_title">Seleziona dim. Logger buffer log</string>
+    <string name="simulate_color_space">Simula spazio colore</string>
 </resources>
