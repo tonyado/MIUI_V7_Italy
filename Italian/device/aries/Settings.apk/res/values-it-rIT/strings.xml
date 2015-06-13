@@ -3007,6 +3007,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="manage_trust_agents_summary">Visualizza o disattiva agenti di attendibilità</string>
     <string name="no_trust_agents">Non sono disponibili agenti di attendibilità</string>
     <string name="usage_access_title">App con accesso a dati utilizzo</string>
-    <string name="allow_usage_access_title">Consentire l\'accesso?</string>
-    <string name="allow_usage_access_message">Se consenti l\'accesso, questa app può visualizzare informazioni generali sulle app installate sul tuo dispositivo, ad esempio la frequenza con cui le utilizzi.</string>
+    <string name="allow_usage_access_title">"Consentire l'accesso?"</string>
+    <string name="allow_usage_access_message">"Se consenti l'accesso, questa app può visualizzare informazioni generali sulle app installate sul tuo dispositivo, ad esempio la frequenza con cui le utilizzi."</string>
 </resources>
