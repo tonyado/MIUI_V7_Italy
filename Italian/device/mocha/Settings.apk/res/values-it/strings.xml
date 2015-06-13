@@ -857,10 +857,10 @@ Il PIN potrebbe essere errato."</string>
     <string name="sd_insert_summary">Inserisci archivio USB da montare</string>
     <string name="sd_mount">Monta archivio USB</string>
     <string name="sd_mount_summary" />
-    <string name="sd_format">Elimina l'archivio USB</string>
-    <string name="sd_format_summary">"Cancella i dati nell'archivio USB interno, come musica e foto"</string>
+    <string name="sd_format">"Formatta l'archivio USB"</string>
+    <string name="sd_format_summary">"Elimina i dati nell'archivio USB interno, come musica e foto"</string>
     <string name="memory_clear_cache_title">Eliminare i dati memorizzati nella cache?</string>
-    <string name="memory_clear_cache_message">Ciò cancella tutti i dati delle app nella cache.</string>
+    <string name="memory_clear_cache_message">Ciò elimina tutti i dati delle app nella cache.</string>
     <string name="mtp_ptp_mode_summary">La funzione MTP o PTP è attiva</string>
     <string name="dlg_confirm_unmount_title">"Smontare l'archivio USB?"</string>
     <string name="dlg_confirm_unmount_text">"Se smonti l'archivio USB, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai l'archivio USB."</string>
@@ -2030,8 +2030,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_rename">RINOMINA</string>
     <string name="app_restrictions_custom_label">Imposta restrizioni applicazioni</string>
     <string name="user_restrictions_controlled_by">Controllate da %1$s</string>
-    <string name="app_not_supported_in_limited">Quest'app non è supportata nei profili con limitazioni</string>
-    <string name="app_sees_restricted_accounts">Quest'app può accedere ai tuoi account</string>
+    <string name="app_not_supported_in_limited">"Quest'app non è supportata nei profili con limitazioni"</string>
+    <string name="app_sees_restricted_accounts">"Quest'app può accedere ai tuoi account"</string>
     <string name="restriction_wifi_config_title">Wi‑Fi e mobile</string>
     <string name="restriction_wifi_config_summary">Consenti la modifica di impostazioni Wi‑Fi e rete mobile</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -2794,8 +2794,8 @@ ed esegui il software."</string>
     <string name="miracast_disconnect_dialog">Se ti disconnetti, la tua connessione con %1$s sarà terminata.</string>
     <string name="miracast_dialog_title">%1$s</string>
     <string name="miracast_title_disconnect">Disconnettersi?</string>
-    <string name="miracast_service_died">ServiceDied</string>
-    <string name="miracast_service_restart">ServiceRestarted</string>
+    <string name="miracast_service_died">Connessione terminata</string>
+    <string name="miracast_service_restart">Connessione riavviata</string>
     <string name="miracast_search_for_displays">Ricerca di display wireless in corso…</string>
     <string name="miracast_PC2THOR_streaming_on">Il display wireless non è disponibile perchè un PC sta trasmettendo a questo dispositivo.</string>
     <string name="miracast_game_mode_title">Modalità gioco</string>
@@ -2808,8 +2808,8 @@ ed esegui il software."</string>
     <string name="miracast_menu_searching">Ricerca in corso…</string>
     <string name="move_app_app_label">Applicazioni</string>
     <string name="move_app_data_label">Dati</string>
-    <string name="move_app_to_device_dlg_title">"Spostare l'app sul dispositivo"?</string>
-    <string name="move_app_to_sdcard_dlg_title">"Spostare l'app sulla scheda SD ?"</string>
+    <string name="move_app_to_device_dlg_title">"Spostare l'app sul dispositivo?"</string>
+    <string name="move_app_to_sdcard_dlg_title">"Spostare l'app sulla scheda SD?"</string>
     <string name="move_app_dlg_text">Questo potrebbe richiedere qualche minuto. Non rimuovere la scheda SD durante questa operazione.</string>
     <string name="move_app_free_on_device">%1$s liberi sul dispositivo</string>
     <string name="move_app_free_on_sdcard">%1$s liberi sulla scheda SD</string>

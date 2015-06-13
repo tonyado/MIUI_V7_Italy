@@ -119,7 +119,7 @@
     <string name="preferences_title">Impostazioni launcher</string>
     <string name="preferences_general_title">Impostazioni generali</string>
     <string name="pref_keep_in_memory_title">Mantieni in memoria</string>
-    <string name="pref_keep_in_memory_summary">Mantieni l\'applicazione in memoria, in questo modo non verrà terminata.</string>
+    <string name="pref_keep_in_memory_summary">"Mantieni l'applicazione in memoria, in questo modo non verrà terminata."</string>
     <string name="pref_render_in_truecolor_title">Grafica di alta qualità</string>
     <string name="pref_render_in_truecolor_summary">Disabilitando questa opzione aumenterai le performance grafiche</string>   
     <string name="pref_enable_drawing_cache_title">Utilizzo Cache</string>
@@ -209,7 +209,7 @@
     <string name="free_style_edit_app">Applicazione</string>
     <string name="free_style_edit_drawer">Drawer</string>
     <string name="free_style_drawer_title">Tutte le applicazioni</string>
-    <string name="guide_install_app_title">Installa l\'applicazione</string>
+    <string name="guide_install_app_title">"Installa l'applicazione"</string>
     <string name="guide_install_app_msg">"Applicazione non installata. Vuoi cercare l'applicazione sul Play Store?"</string>
     <string name="menu_customize">Personalizza impostazioni</string>
     <string name="menu_picktheme">Seleziona tema</string>

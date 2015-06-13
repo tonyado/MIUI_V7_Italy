@@ -1214,7 +1214,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="version_text">versione %1$s</string>
     <string name="move_app">Sposta</string>
     <string name="move_app_to_internal">Sposta sul dispositivo</string>
-    <string name="move_app_to_sdcard">Sposta in archivio USB</string>
+    <string name="move_app_to_sdcard">Sposta sulla scheda SD</string>
     <string name="moving">Spostamento</string>
     <string name="insufficient_storage">Spazio di archiviazione insufficiente.</string>
     <string name="does_not_exist">"L'applicazione non esiste."</string>
