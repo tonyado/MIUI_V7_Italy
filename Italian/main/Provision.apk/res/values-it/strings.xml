@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="welcome">Benvenuto</string>
-    <string name="input_method_setting">Scegli tastiera</string>
-    <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di email, note, e tutto il resto. Successivamente potrai installare anche tastiere di terze parti."</string>
+    <string name="input_method_setting">Seleziona tastiera</string>
+    <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di email, note, e tutto il resto. Successivamente potrai installare tastiere di terze parti."</string>
     <string name="provision_inputmethod_policy_description">"
 Leggi questo documento per la tastiera: "</string>
     <string name="provision_inputmethod_policy_description1">Privacy</string>
