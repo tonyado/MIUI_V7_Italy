@@ -600,8 +600,8 @@
     <string name="auto_upload_guide_msssage">" "<Data> Carica automaticamente le foto dalle applicazioni a Mi Cloud. Controlla in Impostazioni > Galleria > Album Mi Cloud > Carica automaticamente. </Data>" "</string>
     <string name="not_now">Non adesso</string>
     <string name="go_setting">Vai alle impostazioni</string>
-    <string name="face_albumset_use_tip">Rileva e organizzi i volti delle persone, rendendo più semplice la visualizzazione e la gestione delle foto</string>
-    <string name="face_albumset_detecting_tip">Rilevo i volti... a breve potrai sfogliare gli album organizzati per volti</string>
+    <string name="face_albumset_use_tip">Rileva e organizza i volti delle persone, rendendo più semplice la visualizzazione e la gestione delle foto</string>
+    <string name="face_albumset_detecting_tip">Rilevo i volti… a breve potrai sfogliare gli album organizzati per volti</string>
     <string name="face_albumset_empty">"Nessun volto rilevato, scatta altre foto"</string>
     <string name="start_to_use_face_albumset">Utilizza Album Volti</string>
     <string name="enabling_face_feature">Attivazione…</string>
@@ -619,7 +619,7 @@
     <string name="merge_album_title">Unisci album</string>
     <string name="create_new_face">Nuovo volto</string>
     <string name="pick_from_contact">Scegli dai contatti</string>
-    <string name="preparing_data">Preparazione...</string>
+    <string name="preparing_data">Preparazione…</string>
     <string name="ignore_face">Ignora questo volto</string>
     <string name="who_is_this">Chi è?</string>
     <string name="view_face_album">Mostra album</string>
