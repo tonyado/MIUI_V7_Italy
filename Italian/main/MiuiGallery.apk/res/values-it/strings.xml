@@ -542,7 +542,7 @@
     <string name="home_page_tab_photo">Foto</string>
     <string name="home_page_tab_cloud">Mi Cloud</string>
     <string name="home_page_tab_local">Cartelle</string>
-    <string name="home_page_tab_face">Copertine</string>
+    <string name="home_page_tab_face">Volti</string>
     <string name="error_title">Errore di sincronizzazione</string>
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
     <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
@@ -632,7 +632,7 @@
     <string name="confirm_left_photo_will_move_out">Le foto sulla sinistra verranno rimosse da questo album.</string>
     <string name="confirm_all_photo_not_this_people_face">Nessuna corrispondenza?</string>
     <string name="face_album_long_tap_tip">"Per selezionare più persone o modificare le impostazioni di gruppo, tieni premuta un'immagine profilo"</string>
-    <string name="last_valentine_day">Ultimo Giorno di San Valentino</string>
+    <string name="last_valentine_day">Ultimo giorno di San Valentino</string>
     <string name="last_new_year">Ultimo Capodanno</string>
     <string name="last_chinese_new_year">Ultimo Capodanno Cinese</string>
     <string name="last_year_today">1 anno fa</string>
