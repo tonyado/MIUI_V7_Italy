@@ -17,7 +17,7 @@
     <string name="exception_updated">I dettagli di questo evento sono cambiati per la data: %s</string>
     <string name="policy_dont_allow_storage_cards">Non consentire schede di memoria</string>
     <string name="policy_dont_allow_unsigned_apps">Non consentire applicazioni non firmate</string>
-    <string name="policy_dont_allow_unsigned_installers">Non consentire installer app. non firmate</string>
+    <string name="policy_dont_allow_unsigned_installers">Non consentire installazione app. non firmate</string>
     <string name="policy_dont_allow_wifi">Non consentire Wi-Fi</string>
     <string name="policy_dont_allow_text_messaging">Non consentire messaggi di testo</string>
     <string name="policy_dont_allow_pop_imap">Non consentire account POP3 o IMAP</string>
