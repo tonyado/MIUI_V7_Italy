@@ -2,18 +2,18 @@
 <resources>
     <string name="cancel">Annulla</string>
     <string name="copy">Copia</string>
-    <string name="copyUrl">Copia URL</string>
+    <string name="copyUrl">Copia link</string>
     <string name="cut">Taglia</string>
     <string name="defaultVoiceMailAlphaTag">Segreteria</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Nessun numero di telefono)</string>
-    <string name="httpErrorBadUrl">Impossibile aprire la pagina. URL non valido.</string>
+    <string name="httpErrorBadUrl">Impossibile aprire la pagina. Link non valido.</string>
     <string name="httpErrorUnsupportedScheme">Protocollo non supportato.</string>
     <string name="no">Annulla</string>
     <string name="ok">OK</string>
     <string name="paste">Incolla</string>
     <string name="search_go">Cerca</string>
-    <string name="selectAll">Sel.tutto</string>
+    <string name="selectAll">Sel. tutto</string>
     <string name="unknownName">(Sconosciuto)</string>
     <string name="untitled">&lt;senza nome></string>
     <string name="VideoView_error_button">OK</string>
@@ -207,7 +207,7 @@
     <string name="serviceErased">Eliminazione effettuata.</string>
     <string name="passwordIncorrect">Password errata.</string>
     <string name="mmiComplete">MMI completo.</string>
-    <string name="badPin">Il PIN attuale digitato è errato.</string>
+    <string name="badPin">Il PIN digitato è errato.</string>
     <string name="badPuk">Il PUK digitato è errato.</string>
     <string name="mismatchPin">I PIN inseriti non corrispondono.</string>
     <string name="invalidPin">Il PIN deve essere di 4-8 numeri.</string>
@@ -294,7 +294,7 @@ Tentativi rimasti:"</string>
     <string name="contentServiceSync">Sinc</string>
     <string name="contentServiceSyncNotificationTitle">Sincronizzazione</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Troppe eliminazioni di %s.</string>
-    <string name="low_memory">Spazio di archiviazione del telefono esaurito. Elimina alcuni file per liberare spazio.</string>
+    <string name="low_memory">Spazio di archiviazione del dispositivo esaurito. Elimina alcuni file per liberare spazio.</string>
     <string name="me">Io</string>
     <string name="power_dialog">Opzioni telefono</string>
     <string name="silent_mode">Modalità silenziosa</string>

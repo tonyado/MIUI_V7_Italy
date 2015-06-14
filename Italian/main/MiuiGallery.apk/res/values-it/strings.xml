@@ -70,13 +70,21 @@
     <string name="multiface_crop_help">Tocca un volto per iniziare.</string>
     <string name="saving_image">Salvataggio foto…</string>
     <string name="recognizing_image">Riconoscimento immagine…</string>
+<<<<<<< HEAD
+    <string name="save_error">"Impossibile salvare l'immagine ritagliata."</string>
+=======
     <string name="save_error">Impossibile salvare l\'immagine ritagliata.</string>
+>>>>>>> upstream/master
     <string name="crop_label">Ritaglia</string>
     <string name="select_image">Seleziona foto</string>
     <string name="select_video">Seleziona video</string>
     <string name="camera_setas_wallpaper">Sfondo</string>
     <string name="delete">Elimina</string>
+<<<<<<< HEAD
+    <string name="confirm_delete">"Confermare l'eliminazione di %s file?"</string>
+=======
     <string name="confirm_delete">Confermare l\'eliminazione di %s file?</string>
+>>>>>>> upstream/master
     <string name="comfirm_delete_current_album">Eliminare questo album?</string>
     <string name="operation_delete_confirm_message_folder">"Il contenuto di tutte le cartelle verrà eliminato."</string>
     <string name="delete_folder">Eliminare %1$d cartelle?</string>
@@ -348,9 +356,14 @@
     <string name="retry_to_create_album">Riprova</string>
     <string name="share_current_album">Condividi questo album</string>
     <string name="cloud_be_shared_guide_title">Questo album è stato condiviso con te</string>
+<<<<<<< HEAD
+    <string name="cloud_be_shared_guide_message">"Le immagini condivise saranno visibili a te e a tutti i partecipanti di quest'album."</string>
+    <string name="cloud_owner_album_share_guide">"Puoi condividere questo album con gli amici"</string>
+=======
     <string name="cloud_be_shared_guide_message">Le immagini condivise saranno visibili a te e a tutti i partecipanti di quest\'album.</string>
     <string name="cloud_owner_album_share_guide">"Puoi condividere questo album 
 con gli amici"</string>
+>>>>>>> upstream/master
     <string name="view_sharers">View sharers</string>
     <string name="cloudfolder_name_reserved">Il nome della cartella è riservato.</string>
     <string name="cloudfolder_contain_invalidate_char">"Il nome della cartella non puo contenere '%s'"</string>
@@ -463,7 +476,11 @@ con gli amici"</string>
     <string name="system_album">Album di sistema</string>
     <string name="owner_album_subtitle">Condiviso con %1$s membri</string>
     <string name="album_quota_fulfiled">"Impossibile creare l'album, è stato raggiunto il numero massimo."</string>
+<<<<<<< HEAD
+    <string name="image_quota_fulfiled">"Impossibile creare l'immagine, è stato raggiunto il limite di spazio a disposizione."</string>
+=======
     <string name="image_quota_fulfiled">Impossibile creare l\'immagine, è stato raggiunto il limite di spazio a disposizione.</string>
+>>>>>>> upstream/master
     <string name="sharer_quota_fulfiled">"Impossibile aggiungere un partecipante, è stato raggiunto il numero massimo di condivisioni."</string>
     <string name="gallery_setting">Galleria</string>
     <string name="error_unknown_host">Hostname sconosciuto, controlla la connessione di rete!</string>
@@ -539,8 +556,7 @@ con gli amici"</string>
     <string name="download_fail_confirm_continue">Download di %s fallito. Continuare?</string>
     <string name="make_download_dir_fail">Impossibile creare una cartella!</string>
     <string name="delete_smb_file_fail">Impossibile eliminare il file smb</string>
-    <string name="new_device_tips">"Tocca per visualizzare
-il dispositivo"</string>
+    <string name="new_device_tips">"Tocca per visualizzare il dispositivo"</string>
     <string name="home_page_tab_photo">Foto</string>
     <string name="home_page_tab_cloud">Mi Cloud</string>
     <string name="home_page_tab_local">Cartelle</string>
@@ -602,8 +618,8 @@ il dispositivo"</string>
     <string name="auto_upload_guide_msssage">" "<Data> Carica automaticamente le foto dalle applicazioni a Mi Cloud. Controlla in Impostazioni > Galleria > Album Mi Cloud > Carica automaticamente. </Data>" "</string>
     <string name="not_now">Non adesso</string>
     <string name="go_setting">Vai alle impostazioni</string>
-    <string name="face_albumset_use_tip">Rileva e organizzi i volti delle persone, rendendo più semplice la visualizzazione e la gestione delle foto</string>
-    <string name="face_albumset_detecting_tip">Rilevo i volti... a breve potrai sfogliare gli album organizzati per volti</string>
+    <string name="face_albumset_use_tip">Rileva e organizza i volti delle persone, rendendo più semplice la visualizzazione e la gestione delle foto</string>
+    <string name="face_albumset_detecting_tip">Rilevo i volti… a breve potrai sfogliare gli album organizzati per volti</string>
     <string name="face_albumset_empty">"Nessun volto rilevato, scatta altre foto"</string>
     <string name="start_to_use_face_albumset">Utilizza Album Volti</string>
     <string name="enabling_face_feature">Attivazione…</string>
@@ -621,7 +637,7 @@ il dispositivo"</string>
     <string name="merge_album_title">Unisci album</string>
     <string name="create_new_face">Nuovo volto</string>
     <string name="pick_from_contact">Scegli dai contatti</string>
-    <string name="preparing_data">Preparazione...</string>
+    <string name="preparing_data">Preparazione…</string>
     <string name="ignore_face">Ignora questo volto</string>
     <string name="who_is_this">Chi è?</string>
     <string name="view_face_album">Mostra album</string>

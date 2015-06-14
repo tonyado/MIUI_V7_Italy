@@ -63,7 +63,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
     <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
     <string name="memory_clear_result">%1$sB liberati | %2$sB disponibili</string>
-    <string name="memory_clear_nothing_result">Memoria già ottimizzata</string>
+    <string name="memory_clear_nothing_result">RAM già ottimizzata</string>
     <string name="shutdown_confirm_title">Il dispositivo verrà spento.</string>
     <string name="shutdown_progress">Spegnimento…</string>
     <string name="reboot_confirm_title">Il dispositivo verrà riavviato.</string>
