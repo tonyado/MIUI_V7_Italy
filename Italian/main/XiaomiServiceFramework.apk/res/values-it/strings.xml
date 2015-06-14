@@ -80,5 +80,5 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_feature_mms_sync">Sincronizza MMS</string>
     <string name="activate_feature_call_log_sync">Sincronizza registro chiamate</string>
     <string name="activate_feature_find_device">Trova dispositivo</string>
-    <string name="activate_sms_postfix">[Questo SMS viene utilizzato per attivare il tuo dispositivo Mi.]</string>
+    <string name="activate_sms_postfix">Questo SMS viene utilizzato per attivare il tuo dispositivo.</string>
 </resources>
