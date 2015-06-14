@@ -31,7 +31,7 @@
     <string name="passport_email">Indirizzo email</string>
     <string name="passport_reg_type_other_ways"><u>Crea un account in altro modo</u></string>
     <string name="passport_reg_type_other_ways_title">Crea un account in altro modo</string>
-    <string name="passport_reg_type_email">Registrati con l'email</string>
+    <string name="passport_reg_type_email">"Registrati con l'email"</string>
     <string name="passport_reg_using_phone_number_prompt">Registrati con il numero di telefono</string>
     <string name="passport_reg_using_other_phone_number_prompt">Registrati con il numero di telefono</string>
     <string name="passport_reg_using_other_phone">Registrati con un altro numero di telefono</string>
@@ -82,7 +82,7 @@ Per attivare il tuo account, segui il
     <string name="passport_input_vcode_hint">Inserisci il codice di verifica</string>
     <string name="passport_confirm">Conferma</string>
     <string name="passport_login_notice">Accesso in corso…</string>
-    <string name="passport_failed_to_send_activate_email">Impossibile inviare l'email di attivazione</string>
+    <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_reging">Creazione account…</string>
     <string name="passport_reg_success">Account creato</string>
@@ -164,7 +164,7 @@ Per attivare il tuo account, segui il
     <string name="no_response_retry">Nessuna risposta, riprova.</string>
     <string name="verification_failed">Autenticazione fallita</string>
     <string name="error_network">Problemi con la connessione di rete</string>
-    <string name="error_ssl_hand_shake">Errore durante la connessione al server. Controlla che l'orario di sistema sia corretto.</string>
+    <string name="error_ssl_hand_shake">"Errore durante la connessione al server. Controlla che l'orario di sistema sia corretto."</string>
     <string name="error_device_id">"Impossibile ottenere l'IMEI"</string>
     <string name="error_server">Problemi con il server</string>
     <string name="error_unknown">Errore sconosciuto: %1$s</string>
@@ -218,10 +218,10 @@ Per attivare il tuo account, segui il
     <string name="binded">Collegato</string>
     <string name="nobind">Non collegato</string>
     <string name="button_unbind">Scollega</string>
-    <string name="unbind_weibo_description">Scollegando l'account non potrai sincronizzare i contatti e non potrai accedere al tuo Account Mi tramite Sina Weibo</string>
-    <string name="unbind_sns_description">Scollegando l'account non potrai accedere al tuo Account Mi tramite Sina Weibo</string>
+    <string name="unbind_weibo_description">"Scollegando l'account non potrai sincronizzare i contatti e non potrai accedere al tuo Account Mi tramite Sina Weibo"</string>
+    <string name="unbind_sns_description">"Scollegando l'account non potrai accedere al tuo Account Mi tramite Sina Weibo"</string>
     <string name="confirm_unbind">Confermi?</string>
-    <string name="binded_description" formatted="false">"%s collegato correttamente  Completa il tuo profilo utilizzando le informazioni personali su %s."</string>
+    <string name="binded_description" formatted="false">"%s collegato correttamente. Completa il tuo profilo utilizzando le informazioni personali su %s."</string>
     <string name="update_contacts">Aggiorna contatti</string>
     <string name="update_contacts_description">"Sina Weibo userà il tuo Account Mi per sincronizzare i dati tra le varie piattaforme."</string>
     <string name="updated_nothing">Non è stato aggiornato niente!</string>
@@ -291,13 +291,13 @@ Per attivare il tuo account, segui il
     <string name="phone_send_verify_code_prompt">Invia codice di verifica a %s</string>
     <string name="email_send_verify_code_prompt">"Invia un'email a %s
 Inserisci il codice di verifica contenuto nell'email"</string>
-    <string name="restart_email_bind_title">Cambia l'email di ripristino</string>
+    <string name="restart_email_bind_title">"Cambia l'email di ripristino"</string>
     <string name="restart_phone_bind_title">Cambia il numero di telefono di ripristino</string>
     <string name="restart_email_bind_message">"È necessario un po' di tempo per la ricezione dell'email, sei sicuro di voler cambiare l'email di ripristino?"</string>
     <string name="restart_phone_bind_message">"È necessario un po' di tempo per la ricezione dell'SMS, sei sicuro di voler cambiare il recapito telefonico di ripristino?"</string>
     <string name="restart_action">Riavvia</string>
     <string name="error_dup_binded_email">Questo indirizzo email è già associato ad un altro Account Mi.</string>
-    <string name="error_invalid_bind_address">L'email inserita non è valida.</string>
+    <string name="error_invalid_bind_address">"L'email inserita non è valida."</string>
     <string name="just_a_second">Un attimo…</string>
     <string name="trying_read_verify_code_sms">Ricezione codice di verifica…</string>
     <string name="get_phone_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questo numero. Aspetta 24 ore e riprova.</string>
