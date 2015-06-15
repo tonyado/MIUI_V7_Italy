@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Backup su Cloud</string>
+    <string name="app_name">Backup su Mi Cloud</string>
     <string name="button_cancel">Annulla</string>
     <string name="button_ok">OK</string>
     <string name="button_next">Avanti</string>
@@ -22,22 +22,22 @@
     <string name="cloud_app_backup_date">"Backup eseguito il "</string>
     <string name="cloud_app_total_size">Dimensione: %1$s</string>
     <string name="cloud_app_version_size">Versione: %1$s, Dimensione: %2$s</string>
-    <string name="cloud_app_restore_prompt">Il ripristino sovrascriverà i dati utente locali con quelli del backup su cloud.</string>
+    <string name="cloud_app_restore_prompt">Il ripristino sovrascriverà i dati utente locali con quelli del backup su Mi Cloud.</string>
     <string name="cloud_app_remove_prompt">%1$s di dati saranno cancellati.</string>
     <string name="cloud_app_restore_app_and_data">Ripristino app e dati utente</string>
     <string name="cloud_app_restore_data">Ripristina app installate in precedenza</string>
     <string name="cloud_app_dont_restore">Non ripristinare</string>
     <string name="cloud_app_restore_wifi_prompt">Devi essere connesso ad internet tramite Wi-Fi per eseguire il ripristino dei dati</string>
     <string name="cloud_app_no_data">Nessun dato</string>
-    <string name="cloud_app_invalid_op_when_removing">Non è possibile visualizzare i dati del cloud mentre vengono rimossi</string>
+    <string name="cloud_app_invalid_op_when_removing">Non è possibile visualizzare i dati di Mi Cloud mentre vengono rimossi</string>
     <string name="cloud_app_remove_pending">In attesa…</string>
-    <string name="cloud_app_remove_progress">Cancellazione…</string>
-    <string name="cloud_app_remove_success">App cancellate</string>
+    <string name="cloud_app_remove_progress">Eliminazione…</string>
+    <string name="cloud_app_remove_success">App eliminate</string>
     <string name="cloud_app_restore_pending">In attesa…</string>
     <string name="cloud_app_restore_progress">Ripristino…</string>
     <string name="cloud_app_backup_pending">In attesa…</string>
     <string name="cloud_app_backup_progress">Backup in corso…</string>
-    <string name="cloud_app_remove_error">Impossibile cancellare</string>
+    <string name="cloud_app_remove_error">Impossibile eliminare</string>
     <string name="cloud_app_restore_error">Ripristino fallito</string>
     <string name="cloud_app_restore_success">App ripristinate</string>
     <string name="cloud_app_backup_success">Backup applicazioni terminato</string>
@@ -51,10 +51,10 @@
     <string name="cloud_app_backup_cancel_prompt_message">Backup non terminato, annullare comunque?</string>
     <string name="cloud_app_restore_cancel_prompt_message">Ripristino non terminato, annullare comunque?</string>
     <string name="cloud_app_remove_cancel_prompt_message">Cancellazione non terminata, annullare comunque?</string>
-    <string name="cloud_app_check_data">Recupero dati dal Mi Cloud…</string>
+    <string name="cloud_app_check_data">Recupero dati da Mi Cloud…</string>
     <string name="cloud_app_no_network">Impossibile connettersi alla rete</string>
     <string name="button_restore">Ripristina</string>
-    <string name="button_delete">Cancella</string>
+    <string name="button_delete">Elimina</string>
     <string name="customization"><u>Personalizza</u></string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="self_phone">Questo dispositivo</string>
@@ -78,19 +78,19 @@
     <string name="start_recover">Recupero %s</string>
     <string name="latest_backup_time">Ultimo backup: %s</string>
     <string name="latest_backup_time_loading">Caricamento…</string>
-    <string name="start_backup_to_micloud">Esegui backup dei dati sul Mi Cloud</string>
+    <string name="start_backup_to_micloud">Esegui backup dei dati su Mi Cloud</string>
     <string name="backing_up_to_micloud">Esecuzione backup dati…</string>
     <string name="cloud_app_backup_size">Dimensione:</string>
     <string name="no_app_to_backup">Nessuna app di cui eseguire il backup</string>
-    <string name="restore_from_cloud">Ripristina dal Mi Cloud</string>
-    <string name="backup_to_cloud">Esegui backup sul Mi Cloud</string>
+    <string name="restore_from_cloud">Ripristina da Mi Cloud</string>
+    <string name="backup_to_cloud">Esegui backup su Mi Cloud</string>
     <string name="restoreing_file_tile">Ripristino di %d file</string>
     <string name="listview_empty_no_results">Nessun risultato</string>
     <string name="dialog_prompt_stop_backup">Fermare il backup?</string>
     <string name="menu_item_sort">Ordina per</string>
     <string name="menu_item_sort_name">Nome</string>
     <string name="menu_item_sort_size">Dimensione</string>
-    <string name="menu_item_managespace">gestisci spazio</string>
+    <string name="menu_item_managespace">Gestisci spazio</string>
     <string name="managespace_total_space">Spazio totale: %s</string>
     <string name="managespace_delete_backup">Elimina backup</string>
     <string name="error_unknown">Qualcosa è andato storto</string>
@@ -114,5 +114,5 @@
     <string name="download_settings">Download impostazioni Homescreen</string>
     <string name="recover_settings">Ripristina impostazioni Homescreen</string>
     <string name="cancel_recover_settings"><u>Annulla</u></string>
-    <string name="recover_settings_description">Mantieni il terminale acceso</string>
+    <string name="recover_settings_description">Mantieni il dispositivo acceso</string>
 </resources>

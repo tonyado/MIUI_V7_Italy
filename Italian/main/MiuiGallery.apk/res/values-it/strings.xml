@@ -574,7 +574,7 @@
     <string name="script">Script</string>
     <string name="mosaic">Mosaico</string>
     <string name="impunity_declaration_title">Avviso di rete</string>
-    <string name="impunity_declaration">La galleria può connettersi alla rete per fornire alcuni servizi. Continuare?</string>
+    <string name="impunity_declaration">"La galleria richiede l'accesso alla rete per fornire alcuni servizi. Continuare?"</string>
     <string name="impunity_declaration_ignore">Non chiedere più</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Mostra gli avvisi di rete</string>
