@@ -708,7 +708,7 @@ Scegli una delle seguenti opzioni:"</string>
 • Effettua il backup dei tuoi contatti in modo sicuro."</string>
     <string name="generic_no_account_prompt">Tieni al sicuro i tuoi contatti anche se perdi il telefono: sincronizzali con un servizio online.</string>
     <string name="generic_no_account_prompt_title">Aggiungi un account</string>
-    <string name="contact_editor_prompt_zero_accounts">Non verrà effettuato il backup del nuovo contatto. Aggiungere un account che effettua il backup dei contatti online?</string>
+    <string name="contact_editor_prompt_zero_accounts">Non verrà effettuato il backup del nuovo contatto. Vuoi aggiungere un account per gestire il backup dei contatti online?</string>
     <string name="contact_editor_prompt_one_account">Il nuovo contatto verrà sincronizzato con %1$s.</string>
     <string name="contact_editor_prompt_multiple_accounts">Puoi sincronizzare il nuovo contatto con uno dei seguenti account. Quale desideri utilizzare?</string>
     <string name="keep_local">Memorizza in locale</string>
@@ -748,8 +748,8 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="readingSimContacts">Lettura carta SIM…</string>
     <string name="importing_sim_contacts_miui">Importazione contatti da SIM…</string>
     <string name="import_sim_entries_finish">Importazione contatti da SIM eseguita</string>
-    <string name="deleting_sim_entry_miui">Cancellazione contatti sulla SIM…</string>
-    <string name="delete_sim_entries_finish">Cancellazione contatti sulla SIM completata</string>
+    <string name="deleting_sim_entry_miui">Elimino i contatti sulla SIM…</string>
+    <string name="delete_sim_entries_finish">Eliminazione contatti sulla SIM completata</string>
     <string name="simContacts_empty">Nessun contatto sulla SIM</string>
     <string name="sim_account_name">SIM</string>
     <string name="summary_kind_title">Sommario</string>
@@ -822,7 +822,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="blacklist">Blocca</string>
     <string name="empty_divider_title" />
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina i dati dei contatti usando l'account Xiaomi"</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina i dati dei contatti usando l'Account Mi"</string>
     <string name="recent_contacts_label">Recenti</string>
     <string name="noRecentContacts">Nessun contatto recente</string>
     <string name="loading_groups">Caricamento gruppi…</string>
@@ -856,7 +856,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="export_vcard_description">Esporta vCard sulla scheda SD</string>
     <string name="export_sim_contact_finish_failure">Trasferiti: %1$d Rimasti: %2$d</string>
     <string name="pref_title_account_import">Importa da account</string>
-    <string name="pref_title_import_from_account">Importa da un account Xiaomi</string>
+    <string name="pref_title_import_from_account">Importa da un Account Mi</string>
     <string name="pref_summary_import_from_account">Trasferisci contatti da account Google e Exchange al tuo account Xiaomi</string>
     <string name="import_to_xiaomi_account_confirm">Importa</string>
     <string name="import_to_xiaomi_account_progress_title">"Importa contatti sull'account Xiaomi"</string>
@@ -905,18 +905,18 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
     <string name="option_view_contact">Mostra</string>
     <string name="option_edit_contact">Modifica</string>
-    <string name="option_delete_contact">Cancella</string>
+    <string name="option_delete_contact">Elimina</string>
     <string name="option_send_to_desktop">Posizione nella Home</string>
     <string name="option_send_to_others">Inoltra</string>
     <string name="option_not_star">Rimuovi dai preferiti</string>
     <string name="option_not_in_group">Rimuovi</string>
     <string name="option_view_group">Mostra</string>
     <string name="option_rename_group">Rinomina</string>
-    <string name="option_delete_group">Cancella</string>
-    <string name="deleteConfirmation_title">Cancella</string>
+    <string name="option_delete_group">Elimina</string>
+    <string name="deleteConfirmation_title">Elimina</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contiene info da diversi account. Le info di account in sola lettura saranno nascoste nella tua lista contatti.</string>
-    <string name="multipleContactDeleteConfirmationDetail">Cancellando \"%s\" cancellerà le informazioni da diversi account.</string>
-    <string name="deleteConfirmationDetail">Cancellare \"%s\"?</string>
+    <string name="multipleContactDeleteConfirmationDetail">Eliminando \"%s\" cancellerà le informazioni da diversi account.</string>
+    <string name="deleteConfirmationDetail">Eliminare \"%s\"?</string>
     <string name="nickname_picker_name_column">Nome contatto</string>
     <string name="nickname_picker_nickname_column">Titolo</string>
     <string name="not_applied">Non applicato</string>
@@ -983,7 +983,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="btn_split_contact">Separa</string>
     <string name="use_photo_as_primary2">"Usa l'immagine del contatto %1$s"</string>
     <string name="label_custom_type">Personalizzato</string>
-    <string name="loading_accounts">Caricamento informazioni SIM...</string>
+    <string name="loading_accounts">Caricamento informazioni SIM…</string>
     <string name="pkgLabel">Contatti e tastierino</string>
     <string name="preference_smart_group_title">Gruppi intelligenti</string>
     <string name="preference_smart_group_company_title">Per azienda</string>
@@ -1095,7 +1095,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="remove_blacklist_dialog_title">Sblocca</string>
     <string name="close_dial_pad">Chiudi tastierino numerico</string>
     <string name="dial">Componi</string>
-    <string name="delete_dial_input">Cancella</string>
+    <string name="delete_dial_input">Elimina</string>
     <string name="clear_digits">Cancella numero di telefono</string>
     <string name="call_record_setting_miui">Impostazioni registrazione</string>
     <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
