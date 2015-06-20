@@ -123,7 +123,7 @@
     <string name="account_setup_failed_security_policies_unsupported">Il server richiede funzioni di sicurezza non supportate dal tuo dispositivo Android, fra cui: %s</string>
     <string name="account_setup_failed_tls_required">TLS richiesto ma non supportato dal server.</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Quando elimino da Posta in arrivo</string>
-    <string name="account_setup_incoming_delete_policy_label">Elimina email da server</string>
+    <string name="account_setup_incoming_delete_policy_label">Elimina email dal server</string>
     <string name="account_setup_incoming_delete_policy_never_label">Mai</string>
     <string name="account_setup_incoming_headline">Impostazioni server Posta in arrivo</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">Facoltativo</string>
@@ -187,8 +187,8 @@
     <string name="account_setup_username_uneditable_error">Non è possibile modificare il nome utente di un account. Per aggiungere un account con un altro nome utente, tocca Aggiungi account.</string>
     <string name="account_sync_off">Sincronizzazione account disattivata.</string>
     <string name="account_type_exchange">Exchange</string>
-    <string name="account_type_imap">Imap</string>
-    <string name="account_type_pop3">Pop3</string>
+    <string name="account_type_imap">IMAP</string>
+    <string name="account_type_pop3">POP3</string>
     <string name="account_waiting_for_folders_msg">Caricamento elenco cartelle…</string>
     <string name="accounts_welcome">Puoi configurare la posta elettronica per la maggior parte degli account con pochi passaggi.</string>
     <string name="actionbar_large_unread_count">%1$d+ non letto</string>
@@ -196,7 +196,7 @@
     <string name="activity_folder_selection">Seleziona una cartella</string>
     <string name="activity_mailbox_selection">Seleziona un account</string>
     <string name="add_account">Aggiungi account</string>
-    <string name="add_attachment">Attach Files</string>
+    <string name="add_attachment">Allega</string>
     <string name="add_bcc_label">Aggiungi Ccn</string>
     <string name="add_cc_label">Aggiungi Cc/Ccn</string>
     <string name="add_file_attachment">Allega file</string>
@@ -212,7 +212,7 @@
     <string name="all_folders_heading">Tutte le cartelle</string>
     <string name="allread">Tutto letto</string>
     <string name="always_bcc_myself">Mettimi sempre in Ccn nelle mail</string>
-    <string name="always_show_images">Mostra sempre immagini da questo mittente</string>
+    <string name="always_show_images">Mostra sempre le immagini da questo mittente</string>
     <string name="always_show_images_toast">Le immagini provenienti da questo mittente verranno sempre visualizzate.</string>
     <string name="annex_size">Allegati</string>
     <string name="app_name">Email</string>
@@ -234,8 +234,8 @@
     <string name="attachment_application_vnd_ms_powerpoint">Presentazione</string>
     <string name="attachment_audio">Audio</string>
     <string name="attachment_bar_title">Allegati</string>
-    <string name="attachment_canceling">Annullamento in corso, attendere prego!</string>
-    <string name="attachment_decoding">Allegato scaricato completamente, decodificazione in corso, attendere prego.</string>
+    <string name="attachment_canceling">Annullamento in corso, attendere…</string>
+    <string name="attachment_decoding">Allegato scaricato completamente, decodificazione in corso, attendere…</string>
     <string name="attachment_download_all">Scarica tutto</string>
     <string name="attachment_image">Immagine</string>
     <string name="attachment_mgr_name">Allegato</string>
@@ -600,7 +600,7 @@ CC: %4$s
     <string name="more_context">Altro</string>
     <string name="more_string">+%1$s</string>
     <string name="more_than_999">999+</string>
-    <string name="move_to_selection_dialog_title">Sposta in un\'altra cartella</string>
+    <string name="move_to_selection_dialog_title">"Sposta in un'altra cartella"</string>
     <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
     <string name="mute">Disattiva</string>
     <string name="name_or_number_is_error">Nome utente o errore password</string>
@@ -681,7 +681,7 @@ CC: %4$s
     <string name="permission_read_attachment_desc">"Consente all'applicazione di leggere i tuoi allegati email."</string>
     <string name="permission_read_attachment_label">Lettura allegati email</string>
     <string name="phone">telefono</string>
-    <string name="photo_load_failed">Non è stato possibile caricare l\'immagine</string>
+    <string name="photo_load_failed">"Non è stato possibile caricare l'immagine"</string>
     <string name="photo_view_count" formatted="false">%d di %d</string>
     <string name="please_fill_in_your_mailbox_information">Inserisci i dati del tuo account %s:</string>
     <string name="please_fill_in_your_mailbox_information2">Inserisci i dati del tuo account:</string>
@@ -912,7 +912,7 @@ CC: %4$s
     <string name="tryrefreshing">Aggiornamento\u2026</string>
     <string name="turn_auto_sync_on_dialog_body">Tutte le modifiche apportate ad applicazioni ed account, non solo Gmail, verranno sincronizzate tra web, i tuoi altri dispositivi ed il tuo %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Attiva</string>
-    <string name="turn_auto_sync_on_dialog_title">Attivare sincro. automatica?</string>
+    <string name="turn_auto_sync_on_dialog_title">Attivare sincron. automatica?</string>
     <string name="undo">Annulla</string>
     <string name="unread_from_someone">Non letto da [%s]</string>
     <string name="unread_string">Conversazione non letta</string>
@@ -922,11 +922,11 @@ CC: %4$s
     <string name="upload_log">Carica log</string>
     <string name="upload_log_failed">Caricamento log fallito</string>
     <string name="upload_log_no">Annulla</string>
-    <string name="upload_log_success">Log caricati correttaemnte</string>
+    <string name="upload_log_success">Log caricati correttamente</string>
     <string name="upload_log_title">Caricare adesso i log?</string>
     <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
-    <string name="upload_log_yes">CArica</string>
-    <string name="uploading_logs">Log in caricamento</string>
+    <string name="upload_log_yes">Carica</string>
+    <string name="uploading_logs">Caricamento…</string>
     <string name="validation_failed_prompt">Validazione fallita, imposta il server %s</string>
     <string name="via_domain">tramite %1$s</string>
     <string name="view_more_conversations">Mostra altre conversazioni</string>
@@ -943,8 +943,8 @@ Touch "Sincronizza adesso per sincronizzare una volta, o Modifica le impostazion
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_other_views">Altro</string>
-    <string name="wrong_password">Password sbagliata!</string>
+    <string name="wrong_password">Password errata!</string>
     <string name="yes">Sì</string>
-    <string name="you_are_in_mobile_network">You are using mobile network now</string>
+    <string name="you_are_in_mobile_network">Stai usando la rete dati cellulare</string>
     <string name="zip_viewer_no_file">Nessun file!</string>
 </resources>

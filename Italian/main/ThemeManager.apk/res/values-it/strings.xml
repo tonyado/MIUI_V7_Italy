@@ -31,7 +31,7 @@
     <string name="resource_my">Locali</string>
     <string name="resource_pack_price_info">%1$s Originale</string>
     <string name="resource_pack_discount_info">%1$s Salvato!</string>
-    <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti, vuoi continuare?</string>
+    <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti. Vuoi continuare?</string>
     <string name="resource_pack_warning">Attenzione! Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente.</string>
     <string name="resource_title">Dettagli</string>
     <string name="resource_download">Download</string>
@@ -39,9 +39,9 @@
     <string name="resource_waiting_download">In attesa del download…</string>
     <string name="resource_import_successful">Download completato.</string>
     <string name="resource_import_failed">Importazione fallita</string>
-    <string name="resource_delta_update_successful">Aggiornamento patch completato，risparmiati %1$s.</string>
-    <string name="resource_delta_update_failed">Aggiornamento patch fallito! Verrà scaricata la risorsa completa</string>
-    <string name="resource_delta_update_total">%1$d aggiornamenti patch. Salvati in totale %2$s</string>
+    <string name="resource_delta_update_successful">Aggiornamento integrativo completato. Hai risparmiato %1$s.</string>
+    <string name="resource_delta_update_failed">Aggiornamento integrativo fallito! Verrà scaricata la risorsa completa.</string>
+    <string name="resource_delta_update_total">%1$d aggiornamenti integrativi. Hai risparmiato in totale %2$s</string>
     <string name="resource_apply">Applica</string>
     <string name="resource_update">Aggiorna</string>
     <string name="resource_select">Seleziona</string>
@@ -53,7 +53,7 @@
     <string name="loading">Caricamento…</string>
     <string name="download_failed">Download fallito</string>
     <string name="download_preview_failed">Impossibile caricare anteprime</string>
-    <string name="resource_delete_confirm">Sicuro di voler eliminare questi elementi?</string>
+    <string name="resource_delete_confirm">Vuoi eliminare questi elementi?</string>
     <string name="all_resources">Tutto</string>
     <string name="resource_default_name">Elemento</string>
     <string name="resource_detail">Dettagli</string>
@@ -83,10 +83,10 @@
     <string name="resource_get_auth_not_official">I temi di terze parti non sono supportati</string>
     <string name="resource_get_auth_exceed_max_limit_title">Limite autorizzazioni superato</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Il tema non può essere eseguito su questo dispositivo, hai raggiunto il limite massimo di 10 installazioni, si prega di usare il tema su un altro dispositivo</string>
-    <string name="resource_server_out_of_service">Server attualmente non disponibile, si prega di riprovare più tardi.</string>
-    <string name="resource_get_auth_has_been_undercarriaged">Questo tem anon è più disponibile.</string>
+    <string name="resource_server_out_of_service">Server attualmente non disponibile. Riprova più tardi.</string>
+    <string name="resource_get_auth_has_been_undercarriaged">Questo tema non è più disponibile.</string>
     <string name="resource_pack_get_auth_has_been_undercarriaged">Questo tema non è più disponibile.</string>
-    <string name="resource_server_alert_dialog_title">Il servizio è momentaneamente non disponibile</string>
+    <string name="resource_server_alert_dialog_title">Il servizio non è momentaneamente disponibile</string>
     <string name="resource_purchase_getting_order">Recupero informazioni ordine…</string>
     <string name="resource_purchase_waiting_payment">In attesa delle informazioni di pagamento…</string>
     <string name="resource_purchase_verifying_payment">Verifica informazioni di pagamento…</string>
@@ -95,7 +95,7 @@
     <string name="resource_on_trial">Prova: %1$s</string>
     <string name="resource_trial_time">（Sessione di prova: %1$d minuti）</string>
     <string name="resource_trial_fail_title">Impossibile impostare la sessione di prova</string>
-    <string name="resource_trial_fail_message">"Assicurati che l'orologio il sistema sia impostato sull'ora corretta."</string>
+    <string name="resource_trial_fail_message">"Assicurati che l'orologio di sistema sia impostato sull'ora corretta."</string>
     <string name="resource_trial_fail_cancel">OK</string>
     <string name="resource_trial_fail_go_settings">Impostazioni</string>
     <string name="resource_trial_end_title">Prova scaduta</string>
@@ -106,7 +106,7 @@
     <string name="resource_title_select_ringtone">Seleziona suoneria</string>
     <string name="resource_tip_select_none">Nessuna selezione</string>
     <string name="resource_select_ringtone_confirm">Selezionare questa suoneria?</string>
-    <string name="resource_select_ringtone_confirm_picker">Selezionare quest suoneria?</string>
+    <string name="resource_select_ringtone_confirm_picker">Selezionare questa suoneria?</string>
     <string name="loading_resource_detail_info">Caricamento delle informazioni…</string>
     <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
     <string name="resource_expand_full_text">Espandi</string>
@@ -127,7 +127,7 @@
     <string name="resource_exchange_universal_finish">Utilizza questo codice per scaricare un tema dallo store temi MIUI.</string>
     <string name="resource_exchange_empty_format">Inserisci un codice!</string>
     <string name="resource_exchange_wrong_format_by_local">Codice non valido</string>
-    <string name="resource_exchange_wrong_format_by_server">Il codice non può essere validato. Verificalo e prova di nuovo.</string>
+    <string name="resource_exchange_wrong_format_by_server">Il codice non può essere validato. Verificalo e riprova.</string>
     <string name="resource_exchange_has_used">Questo codice è già stato utilizzato.</string>
     <string name="resource_exchange_has_expired">Questo codice è scaduto.</string>
     <string name="resource_exchange_unavailable">Il codice inserito non è valido per questo tema</string>
@@ -153,12 +153,12 @@
     <string name="resource_comment_current_version">Versione attuale</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_upload_hint">I commenti verranno mostrati dopo la moderazione.</string>
-    <string name="resource_comment_sending">Inserimento commento…</string>
+    <string name="resource_comment_sending">Inserimento…</string>
     <string name="resource_comment_upload_failed">Impossibile aggiungere commenti!</string>
     <string name="resource_comment_upload_success">Commento inviato! Il tuo commento verrà visualizzato dopo una rapida moderazione.</string>
     <string name="resource_comment_upload_data_invalid">Commento non valido!</string>
     <string name="resource_comment_upload_not_logined">"Effettua prima l'accesso"</string>
-    <string name="resource_comment_upload_not_bought">Utilizza questo tema prima di lasciare un commento.</string>
+    <string name="resource_comment_upload_not_bought">Scarica questo tema prima di lasciare un commento.</string>
     <string name="resource_comment_invalid">Tocca le stelle per dare una valutazione</string>
     <string name="resource_comment_expand_full_text">Mostra tutto il testo ▼</string>
     <string name="resource_comment_title">Commenti: %1$s</string>
@@ -171,12 +171,12 @@
     <string name="resource_comment_loading_list">Caricamento commenti…</string>
     <string name="resource_comment_rate">Valutazione:</string>
     <string name="resource_comment_entry_tips">Mostra commenti</string>
-    <string name="resource_comment_rating_star_tips">Toccare le stelle per votare:</string>
+    <string name="resource_comment_rating_star_tips">Tocca le stelle per votare:</string>
     <string name="resource_clear_search_history">Cancella la cronologia delle ricerche</string>
     <string name="resource_clear_search_history_dialog">Vuoi cancellare tutta la cronologia delle ricerche?</string>
     <string name="fail_to_add_account">Impossibile aggiungere account!</string>
     <string name="account_unactivated">Account non attivato.</string>
-    <string name="to_activate_the_account">Attiva il tuo account Xiaomi</string>
+    <string name="to_activate_the_account">Attiva il tuo Account Mi</string>
     <string name="resource_menu_refresh">Aggiorna</string>
     <string name="resource_unknow_error">Errore sconosciuto.</string>
     <string name="resource_user_know">OK</string>
@@ -193,7 +193,7 @@
     <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
     <string name="resource_tab_to_view">Tocca per vedere.</string>
     <string name="app_name">Temi</string>
-    <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere prego…</string>
+    <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere…</string>
     <string name="theme_changed_message">Applicato con successo!</string>
     <string name="theme_changed_failed_message">Cambio tema non riuscito!</string>
     <string name="backup_preference_title">Impostazioni Backup</string>
@@ -239,11 +239,11 @@
     <string name="mi_wallpaper">Sfondo MIUI</string>
     <string name="lockscreen_wallpaper">Schermata di blocco</string>
     <string name="change_wallpaper">Sfondo</string>
-    <string name="apply_font_tip">Il tema contiene dei font, quindi è necessario riavviare.</string>
+    <string name="apply_font_tip">Il tema contiene dei font. È necessario riavviare.</string>
     <string name="apply_font_btn_reboot">Applica e riavvia</string>
     <string name="apply_font_btn_exclude">Applica senza font</string>
     <string name="apply_default_font_tip">Vuoi continuare a utilizzare il font attuale del sistema?</string>
-    <string name="theme_yes">Si</string>
+    <string name="theme_yes">Sì</string>
     <string name="theme_no">No</string>
     <string name="title_component">Personalizza temi</string>
     <string name="theme_multiple_button_title_customize">Personalizza</string>
@@ -282,7 +282,7 @@
     <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
     <string name="apply_theme_with_ringtones">Utilizza la suoneria del tema</string>
     <string name="settings">Impostazioni</string>
-    <string name="theme_user_agreement_content1">"Toccando D'accordo, accetti i termini indicati nel nostro "</string>
+    <string name="theme_user_agreement_content1">"Premendo D'accordo, accetti i termini indicati nel nostro "</string>
     <string name="theme_user_agreement_content2">Accordo utente</string>
     <string name="theme_user_agreement_content3">" e "</string>
     <string name="theme_user_agreement_content4">Condizioni privacy</string>
@@ -301,8 +301,8 @@
     <string name="theme_favorite_delete_fail">Impossibile eliminare dai preferiti</string>
     <string name="theme_favorite_list_empty">Non hai aggiunto nessun tema ai preferiti</string>
     <string name="theme_favorite_delete">Non preferito</string>
-    <string name="theme_favorite_waiting">Solo un attimo…</string>
-    <string name="theme_empty_redirect">Torna al Theme Store</string>
+    <string name="theme_favorite_waiting">Un attimo…</string>
+    <string name="theme_empty_redirect">Torna allo Store dei Temi</string>
     <string name="theme_purchased_non_local">Online</string>
     <string name="theme_purchased_list_empty">Non hai acquistato nessun tema</string>
     <string name="gift_count_format">%1$s+</string>
@@ -322,7 +322,7 @@
     <string name="gift_present_success_dlg_content">Verrà inviato un SMS a questa persona quando il tema verrà consegnato.</string>
     <string name="gift_present_success_no_sms_dlg_content">Puoi trovare la cronologia dei regali nella pagina del tuo Account Temi.</string>
     <string name="gift_present_fail_dlg_title">Impossibile inviare il regalo</string>
-    <string name="gift_present_fail_dlg_content">"Non è stato possibil inviare il regalo. "</string>
+    <string name="gift_present_fail_dlg_content">"Non è stato possibile inviare il regalo."</string>
     <string name="gift_present_dlg_input_hint">ID/Telefono Mi Account</string>
     <string name="gift_present_dlg_no_fee">"Non sono previsti costi dal tuo operatore per l'invio dei regali"</string>
     <string name="gift_present_dlg_anonymous">Regalo anonimo</string>
@@ -333,9 +333,9 @@
     <string name="gift_unbind_fail_dlg_title">Impossibile creare il codice</string>
     <string name="gift_operation_fail_dlg_retry">Prova di nuovo</string>
     <string name="gift_operation_fail_dlg_abandon">Annulla</string>
-    <string name="gift_operation_waiting">Solo un attimo…</string>
+    <string name="gift_operation_waiting">Un attimo…</string>
     <string name="gift_purchased_list_empty_with_received_list_empty">Nessun regalo.</string>
     <string name="gift_purchased_list_empty">Non hai inviato alcun regalo.</string>
-    <string name="gift_received_list_empty">Non hai ricevuto alcun regalo</string>
+    <string name="gift_received_list_empty">Non hai ricevuto alcun regalo.</string>
     <string name="gift_received_notification_title">%s ti ha regalato un tema.</string>
 </resources>

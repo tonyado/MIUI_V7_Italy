@@ -2,22 +2,22 @@
 <resources>
     <string name="cancel">Annulla</string>
     <string name="copy">Copia</string>
-    <string name="copyUrl">Copia URL</string>
+    <string name="copyUrl">Copia link</string>
     <string name="cut">Taglia</string>
     <string name="defaultVoiceMailAlphaTag">Segreteria</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Nessun numero di telefono)</string>
-    <string name="httpErrorBadUrl">Impossibile aprire la pagina. URL non valido.</string>
+    <string name="httpErrorBadUrl">Impossibile aprire la pagina. Link non valido.</string>
     <string name="httpErrorUnsupportedScheme">Protocollo non supportato.</string>
     <string name="no">Annulla</string>
     <string name="ok">OK</string>
     <string name="paste">Incolla</string>
     <string name="search_go">Cerca</string>
-    <string name="selectAll">Sel.tutto</string>
+    <string name="selectAll">Sel. tutto</string>
     <string name="unknownName">(Sconosciuto)</string>
     <string name="untitled">&lt;senza nome></string>
     <string name="VideoView_error_button">OK</string>
-    <string name="VideoView_error_text_unknown">Spiacenti. Impossibile riprodurre il video.</string>
+    <string name="VideoView_error_text_unknown">Impossibile riprodurre il video.</string>
     <string name="VideoView_error_title">Impossibile riprodurre il video</string>
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attenzione</string>
@@ -207,12 +207,12 @@
     <string name="serviceErased">Eliminazione effettuata.</string>
     <string name="passwordIncorrect">Password errata.</string>
     <string name="mmiComplete">MMI completo.</string>
-    <string name="badPin">Il PIN attuale digitato è errato.</string>
+    <string name="badPin">Il PIN digitato è errato.</string>
     <string name="badPuk">Il PUK digitato è errato.</string>
     <string name="mismatchPin">I PIN inseriti non corrispondono.</string>
     <string name="invalidPin">Il PIN deve essere di 4-8 numeri.</string>
     <string name="invalidPuk">Digita un PUK formato da almeno 8 numeri.</string>
-    <string name="needPuk">La SIM è bloccata tramite PUK. Digita il codice PUK per sbloccarla.</string>
+    <string name="needPuk">La SIM è bloccata. Digita il codice PUK per sbloccarla.</string>
     <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
     <string name="enablePin">Errore. Abilita SIM/RUIM LOCK.</string>
     <string name="pinpuk_attempts">"
@@ -309,7 +309,7 @@ Tentativi rimasti:"</string>
     <string name="shutdown_confirm">Il telefono verrà spento.</string>
     <string name="shutdown_confirm_question">Spegnere?</string>
     <string name="reboot_safemode_title">Riavvia in safe mode</string>
-    <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
+    <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno riabilitate al riavvio successivo.</string>
     <string name="recent_tasks_title">Recenti</string>
     <string name="no_recent_tasks">Nessuna applicazione recente.</string>
     <string name="global_actions">Opzioni telefono</string>
@@ -760,11 +760,11 @@ Tentativi rimasti:"</string>
       <string name="keyguard_password_entry_touch_hint" />
     <string name="keyguard_password_enter_password_code">Inserisci password per sbloccare</string>
     <string name="keyguard_password_enter_pin_password_code">Inserisci PIN per sbloccare</string>
-    <string name="keyguard_password_wrong_pin_code">Codice PIN errato.</string>
+    <string name="keyguard_password_wrong_pin_code">Codice PIN errato!</string>
     <string name="keyguard_password_wrong_puk_code">Codice PUK errato!</string>
     <string name="keyguard_password_pin_failed">Operazione PIN fallita!</string>
     <string name="keyguard_password_puk_failed">Operazione PUK fallita!</string>
-    <string name="keyguard_pin_accepted">Codice Accettato!</string>
+    <string name="keyguard_pin_accepted">Codice accettato!</string>
     <string name="keyguard_label_text">Per sbloccare, premi Menu, poi 0.</string>
     <string name="emergency_call_dialog_number_for_display">Numero di emergenza</string>
     <string name="lockscreen_carrier_default">Nessun servizio.</string>
@@ -791,16 +791,16 @@ Tentativi rimasti:"</string>
 Contatta il fornitore del tuo servizio wireless per ricevere un'altra scheda SIM."</string>
     <string name="lockscreen_transport_prev_description">Pulsante traccia precedente</string>
     <string name="lockscreen_transport_next_description">Pulsante traccia successiva</string>
-    <string name="lockscreen_transport_pause_description">Pulsante Pausa</string>
-    <string name="lockscreen_transport_play_description">Pulsante Riproduci</string>
+    <string name="lockscreen_transport_pause_description">Pulsante pausa</string>
+    <string name="lockscreen_transport_play_description">Pulsante riproduci</string>
     <string name="lockscreen_transport_stop_description">Pulsante di arresto</string>
     <string name="emergency_calls_only">Chiamate di emergenza</string>
-    <string name="lockscreen_sim_error_message_short">Carta non Valida.</string>
+    <string name="lockscreen_sim_error_message_short">Carta non valida.</string>
     <string name="lockscreen_sim_error_message">La carta SIM non è valida.</string>
     <string name="lockscreen_network_locked_message">Rete bloccata</string>
     <string name="lockscreen_perso_locked_message">La SIM/RUIM è bloccata Perso</string>
     <string name="lockscreen_sim_puk_locked_message">La SIM è bloccata tramite PUK.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">PIN1 Bloccato. Inserire PUK1
+    <string name="lockscreen_sim_puk_locked_instructions">PIN1 bloccato. Inserire PUK1
 o 
 consulta il Manuale utente o contatta il servizio clienti.</string>
     <string name="lockscreen_sim_locked_message">La SIM è bloccata.</string>
@@ -811,16 +811,16 @@ Riprova fra %d secondi."</string>
     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"%d tentativi errati di inserimento della password. 
 
 Riprova tra %d secondi."</string>
-    <string name="lockscreen_sim_pin_blocked">PIN1 Bloccato! Inserire PUK1 per sbloccare PIN1.</string>
-    <string name="lockscreen_ruim_pin_blocked">PIN1 Bloccato! Inserire PUK1 per sbloccare PIN1.</string>
+    <string name="lockscreen_sim_pin_blocked">PIN1 bloccato! Inserire PUK1 per sbloccare PIN1.</string>
+    <string name="lockscreen_ruim_pin_blocked">PIN1 bloccato! Inserire PUK1 per sbloccare PIN1.</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"%d tentativi errati di inserimento del PIN. 
 
 Riprova tra %d secondi."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d tentativi di inserimento della sequenza di sblocco. Dopo altri %d tentativi falliti, ti verrà chiesto di sbloccare il telefono tramite i dati di accesso di Google. 
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d tentativi di inserimento della sequenza di sblocco. Dopo altri %d tentativi falliti, ti verrà chiesto di sbloccare il dispositivo tramite i dati di accesso di Google. 
 
 Riprova fra %d secondi."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Hai erroneamente tentato di sbloccare il telefono %d volte. Dopo altri %d tentativi non riusciti, il telefono verrà sottoposto a un ripristino dati di fabbrica e tutti i dati utente andranno persi.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Hai erroneamente tentato di sbloccare il telefono %d volte. Il telefono ora verrà sottoposto a un ripristino dati di fabbrica.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Hai erroneamente tentato di sbloccare il dispositivo %d volte. Dopo altri %d tentativi non riusciti, il dispositivo sarà ripristinato ai dati di fabbrica e tutti i dati utente andranno persi.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Hai erroneamente tentato di sbloccare il telefono %d volte. Il dispositivo sarà ripristinato ai dati di fabbrica.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Riprova fra %d secondi.</string>
     <string name="lockscreen_forgot_pattern_button_text">Hai dimenticato la sequenza?</string>
     <string name="lockscreen_glogin_forgot_pattern">Sblocco account</string>
@@ -1052,7 +1052,7 @@ Vuoi chiuderla?"</string>
     <string name="volume_music_hint_silent_ringtone_selected">Suoneria silenziosa selezionata</string>
     <string name="volume_call">Volume chiamate</string>
     <string name="volume_bluetooth_call">Volume chiamate Bluetooth</string>
-    <string name="volume_alarm">Volume allarme</string>
+    <string name="volume_alarm">Volume sveglie</string>
     <string name="volume_notification">Volume notifiche</string>
     <string name="volume_unknown">Volume</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
@@ -1068,8 +1068,8 @@ Vuoi chiuderla?"</string>
     <string name="wifi_available_sign_in">Accedi a rete Wi-Fi</string>
     <string name="wifi_available_sign_in_detailed">%1$s</string>
     <string name="wifi_watchdog_network_disabled">Impossibile connettersi alla rete Wi-Fi</string>
-    <string name="wifi_watchdog_network_disabled_detailed">" ha una connessione Internet debole."</string>
-    <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" ha una connessione internet debole."</string>
+    <string name="wifi_tether_configure_ssid_default">AndroidMIUI</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">Avvia funzionamento Wi-Fi Direct. Verrà disattivato il funzionamento con hotspot/client Wi-Fi.</string>
     <string name="wifi_p2p_failed_message">Avvio di Wi-Fi Direct non riuscito</string>
@@ -1128,7 +1128,7 @@ Vuoi chiuderla?"</string>
     <string name="usb_accessory_notification_title">Collegato a un accessorio USB</string>
     <string name="usb_notification_message">Tocca per altre opzioni USB</string>
     <string name="extmedia_format_title">Formatta archivio USB</string>
-    <string name="extmedia_format_message">"Formattare l'archivio USB cancellando tutti i file memorizzati al suo interno? Questa azione è irreversibile."</string>
+    <string name="extmedia_format_message">"Formattare l'archivio USB eliminando tutti i file memorizzati al suo interno? Questa azione è irreversibile."</string>
     <string name="extmedia_format_button_format">Formatta</string>
     <string name="adb_active_notification_title">Debug USB collegato</string>
     <string name="adb_active_notification_message">Seleziona per disattivare il debug USB.</string>
@@ -1159,8 +1159,8 @@ Vuoi chiuderla?"</string>
     <string name="permdesc_pkgUsageStats">Consente la modifica delle statistiche di utilizzo dei componenti raccolte. Da non usare per normali applicazioni.</string>
     <string name="permlab_copyProtectedData">Consente di invocare il servizio contenitore predefinito per la copia di contenuti. Da non usare per normali applicazioni.</string>
     <string name="permdesc_copyProtectedData">Consente di invocare il servizio contenitore predefinito per la copia di contenuti. Da non usare per normali applicazioni.</string>
-    <string name="permlab_route_media_output">Route media output</string>
-    <string name="permdesc_route_media_output">Allows an application to route media output to other external devices.</string>
+    <string name="permlab_route_media_output">Indirizzamento uscita media</string>
+    <string name="permdesc_route_media_output">"Consente a un'applicazione di indirizzare l'uscita di media verso altri dispositivi esterni."</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Tocca due volte per il comando dello zoom</string>
     <string name="gadget_host_error_inflating">"Errore durante l'ampliamento del widget"</string>
     <string name="ime_action_go">Vai</string>
@@ -1170,8 +1170,8 @@ Vuoi chiuderla?"</string>
     <string name="ime_action_done">Fine</string>
     <string name="ime_action_previous">Prec.</string>
     <string name="ime_action_default">Esegui</string>
-    <string name="managed_roaming_title">Roaming Gestito</string>
-    <string name="managed_roaming_dialog_content">Trovata Rete con Servizio limitato. Vuoi avviare una Ricerca di Rete?</string>
+    <string name="managed_roaming_title">Roaming gestito</string>
+    <string name="managed_roaming_dialog_content">Trovata Rete con Servizio limitato. Vuoi avviare una Ricerca di rete?</string>
     <string name="managed_roaming_dialog_ok_button">Si</string>
     <string name="managed_roaming_dialog_cancel_button">No</string>
     <string name="dial_number_using">"Componi numero 
@@ -1230,7 +1230,7 @@ per l'account %s"</string>
     <string name="gpsNotifTicker">Richiesta posizione da %s</string>
     <string name="gpsNotifTitle">Richiesta posizione</string>
     <string name="gpsNotifMessage">Richiesto da %1$s (%2$s)</string>
-    <string name="gpsVerifYes">Si</string>
+    <string name="gpsVerifYes">Sì</string>
     <string name="gpsVerifNo">No</string>
     <string name="sync_too_many_deletes">Limite di eliminazioni superato</string>
     <string name="sync_too_many_deletes_desc">Esistono %1$d elementi eliminati per %2$s, account %3$s. Cosa vuoi fare?</string>
