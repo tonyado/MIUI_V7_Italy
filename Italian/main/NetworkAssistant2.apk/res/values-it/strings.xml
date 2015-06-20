@@ -24,21 +24,21 @@ la connessione alla rete dati mobile"</string>
     <string name="main_primary_message_traffic_enough">"Sotto la soglia dell'utilizzo dati"</string>
     <string name="main_primary_message_traffic_warning">"Vicino alla soglia dell'utilizzo dati"</string>
     <string name="main_primary_message_traffic_overlimit">"Oltre la soglia dell'utilizzo dati"</string>
-    <string name="main_primary_message_traffic_overlimit_purchase">Hai bisogno di incrementare la soglia</string>
-    <string name="main_primary_message_traffic_purchase">Hai bisogno di incrementare la soglia</string>
+    <string name="main_primary_message_traffic_overlimit_purchase">È necessario incrementare la soglia</string>
+    <string name="main_primary_message_traffic_purchase">È necessario incrementare la soglia</string>
     <string name="main_primary_message_traffic_cur_normal">Sotto il limite dati</string>
     <string name="main_primary_message_traffic_cur_normal_warning">Avviso utilizzo dati</string>
     <string name="main_primary_message_traffic_cur_normal_overlimit">Limite dati superato</string>
     <string name="main_primary_message_traffic_cur_leisure">Uso dati in fascia alta</string>
     <string name="main_secondary_message_traffic_used_normal">%s dati usati in fascia alta</string>
-    <string name="main_secondary_message_traffic_used_leisure">%s dato usati in fascia bassa</string>
+    <string name="main_secondary_message_traffic_used_leisure">%s dati usati in fascia bassa</string>
     <string name="main_secondary_message_traffic_remain">Rimanenti</string>
     <string name="main_secondary_message_traffic_over">Oltre</string>
     <string name="main_secondary_message_traffic_detail_normal">"
 Fascia alta: %1$s%2$s rimanenti | %3$s usati"</string>
     <string name="main_secondary_message_traffic_detail_leisure">"
 Fascia bassa: %1$s rimanenti | %2$s usati"</string>
-    <string name="main_secondary_message_traffic_used_noleisure">%s dati usai in fascia alta | non ti rimangono altri dati in fascia bassa</string>
+    <string name="main_secondary_message_traffic_used_noleisure">%s dati usati in fascia alta | non ti restano altri dati in fascia bassa</string>
     <string name="main_alert_message_month_limit_error">Il limite impostato non è corretto</string>
     <string name="firewall_activity_lable">Limite utilizzo dati da applicazione</string>
     <string name="firewall_applist">Applicazioni</string>
@@ -462,9 +462,9 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="usbsharenet_exception_summary">Impossibile testare una rete condivisa con Mi PC Suite.</string>
     <string name="usbsharenet_pc_exception_summary">Impossibile collegarsi alla rete utilizzando la connessione USB condivisa. Controlla la connessione internet del tuo computer."</string>
     <string name="gateway_exception_title">Test router</string>
-    <string name="gateway_exception_summary">Controlla l tuo router e prova di nuovo.</string>
-    <string name="gateway_exception_summary2">Impossibile collegarsi al server server</string>
-    <string name="other_exception_title">rilevamento di altri problemi</string>
+    <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
+    <string name="gateway_exception_summary2">Impossibile collegarsi al server</string>
+    <string name="other_exception_title">Rilevamento di altri problemi</string>
     <string name="other_exception_summary">Non hai una connessione internet</string>
     <string name="see_detail">Dettagli</string>
     <string name="choose">Scegli</string>
@@ -489,50 +489,50 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="network_connected_exception_title">Test di rete</string>
     <string name="protocol_exception_title">Diagnostica portocollo di rete</string>
     <string name="protocol_loop_back_exception_summary">"Test loop back locale fallito. Per segnalare questo problema a MIUI vai nell'applicazione Report Bug ed invia il log dal tuo dispositivo."</string>
-    <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
-    <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
-    <string name="renew_ip">Retry</string>
-    <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
-    <string name="open_now">Allow app to use mobile data</string>
-    <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
-    <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+    <string name="ip_address_exception_summary">"Impossibile ottenere l'indirizzo IP. Se il problema persiste, prova usando un indirizzo IP statico."</string>
+    <string name="local_ip_exception_summary">"Impossibile ottenere l'indirizzo IP locale. Per segnalare questo problema a MIUI vai nell'applicazione Report Bug ed invia il log dal tuo dispositivo."</string>
+    <string name="renew_ip">Riprova</string>
+    <string name="network_permission_exception_tips">Impossibile usare la rete dati cellulare</string>
+    <string name="open_now">Consenti alle app di usare la rete dati cellulare</string>
+    <string name="network_roaming_exception_tips">Impossibile usare la rete dati cellulare in roaming</string>
+    <string name="network_mobile_exception_detail">Il tuo dispositivo non può connettersi ad internet:
 
- 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+ 1. Assicurati di non aver superato il limite del piano dati offerto dal tuo operatore.
 
- 2. If you just topped up your device's balance, reboot your device and try again.
+ 2. Se hai appena ricaricato il tuo numero di telefono, riavvia il dispositivo e riprova.
 
- 3. Your carrier's network's signal may be weak in your current location."</string>
-    <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
+ 3. La copertura di rete in questa zona potrebbe essere insufficiente.</string>
+    <string name="network_sim_exception_detail">"Potrebbe esserci un problema legato alla tua SIM:
 
- 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+ 1. Assicurati che non ci siano problemi sulla tua linea. Prova usando una SIM sicuramente funzionante e controlla la connettività.
 
- 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+ 2. Se stai usando 2 SIM, provale individualmente e controlla se riesci a collegarti ad internet.
 
- 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
-    <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
+ 3. Assicurati che sia la SIM che la slot sul dispositivo non siano danneggiate. Controlla che la SIM sia inserita correttamente.</string>
+    <string name="network_route_exception_detail">"Potrebbe esserci un problema sul router al quale sei collegato:
 
- "<b>"1. Public WLAN network issues
-"</b>"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ <b>1. Problemi comuni sulle Wi-Fi pubbliche</b>
+	Se sei connesso ad una rete Wi-Fi pubblica, il numero di utenti potrebbe incidere sulla stabilità della rete stessa. Cambia rete Wi-Fi e riprova.
 
- 2."<b>" Internet service provider issues
-M"</b>"ake sure that your account is in good standing with your Internet Service Provider.
+ <b>2. Problemi con l'internet provider</b>
+	Assicurati che il tuo abbonamento ad internet sia in regola con il tuo internet provider.
 
- 3."<b>" Router hardware issues
-T"</b>"ry rebooting your router or checking the admin settings for your router.
+ <b>3. Problemi hardware del router</b>
+	Prova a riavviare il router e controlla le impostazioni del tuo router.
 
- 4."<b>" Other router issues
-R"</b>"ead the instructions that came with your router and restore your router to its factory settings.
+ <b>4. Altri problemi del router</b>
+	Segui le istruzioni del tuo router per provare un reset delle impostazioni di fabbrica.
 
- 5."<b>" Make sure your router is connected properly
-T"</b>"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+ <b>5. Controlla che il router sia collegato correttamente</b>
+	Prova ad usare un altro cavo per collegare il tuo router. Se continui ad avere problemi con la connessione, contatta il tuo internet provider."</string>
     <string name="permission_exception_title">Mostra permessi di rete</string>
-    <string name="permission_exception_summary">Alcune applicazioni non hanno i permessi per cvollegarsi ad internet</string>
+    <string name="permission_exception_summary">Alcune applicazioni non hanno i permessi per collegarsi ad internet</string>
     <string name="networkchanged_exception_title">Connessione cambiata</string>
-    <string name="networkchanged_exception_summary">La connessione è cambiata. Testare di nuovo.</string>
+    <string name="networkchanged_exception_summary">La connessione è cambiata. Riprova.</string>
     <string name="miuishare_title_more">Altro</string>
     <string name="miuishare_title_share">Condividi</string>
     <string name="miuishare_wechat_timeline_title">Cronologia Wechat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="network_not_available">Impossibile connettersi alla rete</string>
-    <string name="no_network_btn">Prova di nuovo</string>
+    <string name="no_network_btn">Riprova</string>
 </resources>
