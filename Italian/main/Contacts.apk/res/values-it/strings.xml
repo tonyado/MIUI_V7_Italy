@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="select_all">Seleziona tutto</string>
-    <string name="deselect_all">Deseleziona tutto</string>
     <string name="resource_app_name">Sfoglia risorse</string>
     <string name="resource_delete">Elimina</string>
     <string name="resource_price_free">Gratis</string>
@@ -82,7 +80,7 @@
     <string name="resource_list_title">Ultimo selezionato</string>
     <string name="resource_get_auth_checking">Verifica autorizzazioni…</string>
     <string name="resource_get_auth_retrieving">Recupero autorizzazioni…</string>
-    <string name="resource_get_auth_missing">Il tema non è stato scaricato dal market ufficiale, prego scaricarne uno simile dal market ufficiale.</string>
+    <string name="resource_get_auth_not_official">I temi di terze parti non sono supportati</string>
     <string name="resource_get_auth_exceed_max_limit_title">Limite autorizzazioni superato</string>
     <string name="resource_get_auth_exceed_max_limit_tips">"Il tema non può essere eseguito su questo dispositivo, hai raggiunto il limite di 10 per dispositivo, prego usare un'altro dispositivo'"</string>
     <string name="resource_server_out_of_service">Il server in questo momento non è disponibile, prego riprovare più tardi.</string>
@@ -199,10 +197,10 @@
     <string name="config_export_file_suffix" />
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_extensions_to_consider" />
-    <string name="config_prohibited_phone_number_regexp"></string>
+    <string name="config_prohibited_phone_number_regexp" />
     <string name="help_url_people_main" />
     <string name="help_url_people_add" />
-    <string name="help_url_people_edit" />   
+    <string name="help_url_people_edit" />
     <string name="launcherDialer">Telefono</string>
     <string name="people">Contatti</string>
     <string name="contactsList">Contatti</string>
@@ -795,6 +793,8 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="date_time_set">Imposta</string>
     <string name="service_provider">Cartella</string>
     <string name="zero_items_selected">Seleziona voci</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="deselect_all">Deseleziona tutto</string>
     <string name="select_none">Nessuna selezione</string>
     <string name="toast_finish_delete_call_log">Registro chiamate cancellato</string>
     <string name="toast_finish_delete_selected_call_log">Registro chiamate selezionato cancellato</string>
@@ -1147,5 +1147,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="pull_to_refresh_pull_label">Trascina per aggiornare…</string>
     <string name="pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
-    <string name="phone_call_type_voip">VOIP</string>
+    <string name="phone_call_type_voip">VoIP</string>
+    <string name="cloud_recommend_msg">Tocca per sincronizzare i contatti con Mi Cloud.</string>
 </resources>

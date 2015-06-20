@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_title_more">Altro</string>
+    <string name="miuishare_title_share">Condividi</string>
+    <string name="miuishare_account_login_ok">Accedi</string>
+    <string name="miuishare_account_activate_ok">Attiva</string>
+    <string name="miuishare_account_login_cancel">Annulla</string>
+    <string name="miuishare_account_login_confirmation">Registrazione necessaria</string>
+    <string name="miuishare_account_activate_confirmation">Attivazione necessaria</string>
+    <string name="miuishare_account_need_login">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo account Xiaomi attualmente attivo. Accedere e condividere adesso?</string>
+    <string name="miuishare_account_need_activate">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo account Xiaomi attualmente non è attivo. Vuoi attivare il tuo account adesso?</string>
+    <string name="miuishare_wechat_timeline_title">Cronologia Wechat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuishare_publish">Invia</string>
+    <string name="miuishare_share_done">Contenuto condiviso inviato.</string>
+    <string name="miuishare_share_editor_title">Condividi</string>
+    <string name="miuishare_no_network">Nessuna rete disponibile per la condivisione</string>
     <string name="miui_search_notification_title">Cerca</string>
     <string name="miui_search_notification_message">Tocca per aprire la barra di ricerca.</string>
     <string name="miui_quicksearch_enable_pref_title">Barra di ricerca nel pannello delle notifiche</string>

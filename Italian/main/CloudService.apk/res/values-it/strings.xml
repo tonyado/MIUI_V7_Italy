@@ -143,6 +143,10 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">"Gestisci i tuoi contenuti su Duokan con l'applicazione Duokan."</string>
+    <string name="micloud_space_applist_title">Gestisci app</string>
+    <string name="micloud_space_applist_detail">Gestisci le app sula Home</string>
+    <string name="micloud_space_soundrecorder_title">Registrazioni</string>
+    <string name="micloud_space_soundrecorder_detail">Gestisci registrazioni archiviate sul tuo dispositivo</string>
     <string name="micloud_space_full_influence"><u>Cosa accade quando esaurisco lo spazio?</u></string>
     <string name="micloud_storage_usage" formatted="false">Utilizzato %s / Totale %s</string>
     <string name="micloud_title_dspt" formatted="false">"%s totale
@@ -223,7 +227,7 @@ Tocca il tasto Impostazioni per latre opzioni"</string>
     <string name="micloud_main_synced_data_count">%d dati sono sincronizzati</string>
     <string name="micloud_main_wlan_sync_data_count">%d dati verranno sincronizzati con Wi-Fi</string>
     <string name="micloud_main_space_full">Spazio esaurito</string>
-    <string name="micloud_main_space_risk">%d dati da sincronizzare. Libera spazio di archiviazione.</string>
+    <string name="micloud_main_space_low">Spazio quasi esaurito...</string>
     <string name="micloud_main_update_space">Aggiornamento spazio</string>
     <string name="micloud_detail_syncing">Sincronizzazione</string>
     <string name="micloud_detail_pending">In attesa</string>
