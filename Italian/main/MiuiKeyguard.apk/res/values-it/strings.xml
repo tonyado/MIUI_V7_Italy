@@ -33,7 +33,7 @@
     <string name="phone_locked_timeout_seconds_string">Prego riprovare tra %s secondi</string>
     <string name="phone_locked_timeout_minutes_string">Prego riprovare tra %s minuti</string>
     <string name="input_password_hint_text">Inserisci la password</string>
-    <string name="unlock_sim_string">Sblocco SIM</string>
+    <string name="unlock_sim_string">Sblocca SIM</string>
     <string name="lockscreen_glogin_submit_button">Accesso</string>
     <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
     <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>

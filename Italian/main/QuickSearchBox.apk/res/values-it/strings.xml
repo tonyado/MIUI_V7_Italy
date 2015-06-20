@@ -4,6 +4,18 @@
     <string name="search_in_app_store">Cerca nel Play Store</string>
     <string name="send_secret_code">Invia codice segreto</string>
     <string name="xiaomi_search_label">Risultati online</string>
+    <string name="cta_declaration_title">Termini del Servizio</string>
+    <string name="cta_declaration">Per il suo corretto funzionamento, questa funzione deve collegarsi ad internet, accedere alla posizione del dispositivo, accedere al registro chiamate ed ai contatti."</string>
+    <string name="cta_declaration_ignore">Non mostrare più</string>
+    <string name="cta_declaration_positive_text">Consenti</string>
+    <string name="cta_declaration_negative_text">Esci</string>
+    <string name="searchable_sources">Online</string>
+    <string name="searchable_lable_app">app</string>
+    <string name="searchable_lable_music">musica</string>
+    <string name="searchable_lable_video">video</string>
+    <string name="searchable_lable_browser">browser</string>
+    <string name="searchable_lable_duokan">duokan</string>
+    <string name="searchable_lable_o2o">o2o</string>
     <string name="apps_search_activity" />
     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -32,6 +44,7 @@
     <string name="clear_shortcuts_prompt">Questo rimuoverà tutti i collegamenti ai suggerimenti di ricerca recenti.(Per cancellare la Cronologia, usa le impostazioni del browser.)</string>
     <string name="clear_shortcuts_agree">Rimuovi collegamenti</string>
     <string name="clear_shortcuts_disagree">Non rimuovere i collegamenti</string>
+    <string name="recently_shortcut_label">Collegamenti recenti</string>
     <string name="menu_help">Aiuto</string>
     <string name="google_search_label">Google</string>
     <string name="google_app_label">Ricerca Google</string>
@@ -40,9 +53,4 @@
     <string name="voice_search_hint_title">Prova dicendo:</string>
     <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voice_search_hint_quotation_end">\"</string>
-    <string name="cta_declaration_title">Termini del Servizio</string>
-    <string name="cta_declaration">Per utilizzare le funzioni di ricerca potrebbe essere necessario connettersi ad internet, rilevare la posizione, accedere alla cronologia delle chiamate e alla lista dei contatti, etc. Vuoi consentire queste operazioni?</string>
-    <string name="cta_declaration_ignore">"Non chiedere più"</string>
-    <string name="cta_declaration_positive_text">OK e continua</string>
-    <string name="cta_declaration_negative_text">Esci</string>
 </resources>

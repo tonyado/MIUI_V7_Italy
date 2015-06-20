@@ -393,6 +393,7 @@
     <string name="need_download">Sincronizzazione…</string>
     <string name="found_wild_messages_title">Scarica messaggi</string>
     <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite Mi Cloud, vuoi scaricarli?</string>
+    <string name="found_wild_messages_guide_cloud_desc">Per sincronizzare i messaggi da Mi Cloud, accedi al tuo account Mi ed attiva la sincronizzazione SMS.</string>
     <string name="found_old_messages_title">Aggiorna Messaggi</string>
     <string name="found_old_messages">Resoconto: %1$s trovati nei vecchi account. Vuoi caricarli nel tuo attuale account: %2$s?</string>
     <string name="show_all_messages">Mostra tutti i messaggi</string>
@@ -444,6 +445,7 @@
     <string name="context_menu_add_to_browser_favorite">Aggiungi preferiti browser</string>
     <string name="restore_all_button_msg">Ripristina tutti i messaggi inviati da questo numero</string>
     <string name="no_block_button_msg">Non bloccare messaggi da questo numero</string>
+    <string name="reply_button_msg">Rispondi</string>
     <string name="restore_blocked_message">Ripristina messaggio bloccato</string>
     <string name="overwrite_edited_content">Il contenuto modificato verrà sovrascritto, continuare?</string>
     <string name="back_to_message_list">Torna alla lista messaggi</string>
@@ -460,6 +462,8 @@
     <string name="sp_conversation_title">Messaggi di notifica</string>
     <string name="title_show_sms_template">Controlla i codici di verifica tra gli SMS</string>
     <string name="pref_show_sms_template_summary">Copia ed inserisci automaticamente i codici di verifica</string>
+    <string name="title_show_blocked_messages">Mostra gli SMS bloccati</string>
+    <string name="pref_show_blocked_messages_summary">Mostra gli SMS bloccati nella lista delle conversazioni</string>
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
     <string name="sp_mark_as_read">Segnare tutti i messaggi come già letti?</string>
     <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso…</string>

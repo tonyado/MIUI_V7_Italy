@@ -313,4 +313,5 @@
     <string name="upgrade_waringing">Potrai ascoltare soltanto la musica archiviata in locale.</string>
     <string name="upgrade_immediate">Aggiorna adesso</string>
     <string name="i_know_it">OK</string>
+    <string name="atmd_music">Ultima</string>
 </resources>

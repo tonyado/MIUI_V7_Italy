@@ -610,9 +610,10 @@
     <string name="face_album_not_named">Senza nome</string>
     <string name="rename_face_album">Rinomina</string>
     <string name="rename_fail_msg">Impossibile rinominare</string>
-    <string name="merge_album_positive_button_text">Unisci</string>
     <string name="confirm_merge_face_albums">" "<Data> Unisci questo album all\'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<Data> Unire questi album con %s? </Data>" "</string>
+    <string name="not_is">Non è %s?</string>
+    <string name="is">"E' %s?"</string>
     <string name="ignore_alert_title">Mostrare questo album?</string>
     <string name="ignore_album">Ignora</string>
     <string name="merge_album">Unisci</string>
@@ -628,8 +629,9 @@
     <string name="face_move_dialog_title">Scegli un album con volto</string>
     <string name="confirm_face">Corrispondenza</string>
     <string name="confirm_not_face">Non è questa persona</string>
+    <string name="confirm_left_photo_will_move_out">%s non compare in nessuna delle foto rimanenti?</string>
+    <string name="confirm_left_photo_will_move_in">%s compare in tutte le foto rimanenti?</string>
     <string name="confirm_all_photo_are_this_people_face">Associare tutte le foto a questa persona?</string>
-    <string name="confirm_left_photo_will_move_out">Le foto sulla sinistra verranno rimosse da questo album.</string>
     <string name="confirm_all_photo_not_this_people_face">Nessuna corrispondenza?</string>
     <string name="face_album_long_tap_tip">"Per selezionare più persone o modificare le impostazioni di gruppo, tieni premuta un'immagine profilo"</string>
     <string name="last_valentine_day">Ultimo giorno di San Valentino</string>
@@ -650,6 +652,10 @@
     <string name="add_event">Aggiungi un evento</string>
     <string name="add_event_hint">"Inserisci un'etichetta"</string>
     <string name="event_manage_photos">Gestisci le foto</string>
+    <string name="rename_event">Rinomina evento</string>
+    <string name="event_create_long_photo">Creazione foto…</string>
+    <string name="wechat_timeline_title">Cronologia WeChat</string>
+    <string name="share_title_more">Altro</string>
     <string name="paint_crop_tips">"Per ritagliare un'immagine, puoi spostare e ridimensionare il riquadro sulle parte interessata"</string>
     <string name="saturation_abbr">S</string>
     <string name="highlight_abbr">H</string>

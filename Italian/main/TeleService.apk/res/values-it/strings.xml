@@ -639,6 +639,19 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="telocation_confim_delete_title">Cancellare questo messaggio?</string>
     <string name="telocation_error_message_number">%s supporta solo numeri</string>
     <string name="telocation_jituan_error_message_number">%s supporta solo numeri e caratteri jolly</string>
+    <string name="ivr_parameter_settings">Impostazioni IVR</string>
+    <string name="ivr_mo_area_code_settings">Codice della regione attuale</string>
+    <string name="ivr_mo_area_code_settings_hint">Inserire il codice della regione attuale</string>
+    <string name="ivr_type_settings">Impostazioni piano dati</string>
+    <string name="ivr_type_settings_hint">Inserisci il codice del tuo piano dati</string>
+    <string name="ivr_type_cm_1">M-Zone</string>
+    <string name="ivr_type_cm_2">GoTone</string>
+    <string name="ivr_type_cm_3">Easy own</string>
+    <string name="ivr_type_cu_1">China Unicom 3G</string>
+    <string name="ivr_type_cu_2">China Unicom 4G</string>
+    <string name="ivr_type_cu_3">China Unicom 2G</string>
+    <string name="ivr_type_ct_1">China Telecom VIP</string>
+    <string name="ivr_type_ct_2">China Telecom customer</string>
     <string name="call_description_recording">Registrazione chiamata…</string>
     <string name="call_record_auto_whitelist_no_item">Aggiungi un numero toccando il pulsante +</string>
     <string name="call_record_auto_whitelist">Lista utente</string>
@@ -683,7 +696,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="autoip_areacode_required_for_emergency_number">"Il prefisso dell'area locale è necessario per eseguire chiamate di emergenza"</string>
     <string name="emergency_call_area_code_edit_dialog_button">Chiama</string>
     <string name="dial_related_setting_catory">Componi</string>
-    <string name="t9_indexing_method_title">T9 search input</string>
+    <string name="t9_indexing_method_title">Ricerca tastiera T9</string>
     <string name="t9_indexing_method_pinyin">Pinyin</string>
     <string name="t9_indexing_method_zhuyin">Zhuyin</string>
     <string name="t9_indexing_rebuilding_message">Ricostruzione indici T9…</string>
@@ -869,10 +882,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="international_roaming_setting">Roaming internazionale</string>
     <string name="cdma_alert_title">UIM deve essere predefinita</string>
     <string name="cdma_alert_message">"Se utilizza un'altra scheda come predefinita per la connessione dati, non potrai utilizzare la tua Scheda UIM di China Telecom."</string>
-    <string name="remind_another_time">Non mostrare più</string>
-    <string name="not_change_default_data">Non cambiare</string>
-    <string name="change_default_data">Cambia</string>
-    <string name="change_default_data_alert_title">Devi utilizzare una scheda UIM come predefinita</string>
-    <string name="change_default_data_alert_message">Non potrai utilizzare la tua Scheda UIM di China Telecom.</string>
-    <string name="confirm_change_default_data">Cambia</string>
+    <string name="config_default_data_sim">Impostazioni</string>
+    <string name="got_it">OK</string>
+    <string name="can_not_use_for_not_data_sim">(Impossibile utilizzare: deve essere impostata come SIM predefinita per i dati)</string>
 </resources>
