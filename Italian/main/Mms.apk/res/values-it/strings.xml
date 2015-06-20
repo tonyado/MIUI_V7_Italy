@@ -384,12 +384,12 @@
     <string name="mx_activate_error_sim_change">Sembra che tu abbia cambiato le SIM. Per attivare i messaggi cloud, il tuo dispositivo deve inviare un SMS ai server di Xiaomi.</string>
     <string name="mx_activate_error_malformed_info">Devi riattivare i messaggi cloud per questa carta SIM.</string>
     <string name="mx_activate_error_server">Impossibile attivare la carta SIM</string>
-    <string name="mx_activate_hint_sim_change">Verrà inviato un SMS per riattivare i messaggi cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore.</string>
-    <string name="mx_activate_int_hint_sim_change">Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore.</string>
-    <string name="mx_activate_hint_malformed_info">Verrà inviato un SMS per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore.</string>
-    <string name="mx_activate_int_hint_malformed_info">Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore.</string>
-    <string name="mx_activate_hint_server">Verrà inviato un SMS per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore.</string>
-    <string name="mx_activate_int_hint_server">Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore.</string>
+    <string name="mx_activate_hint_sim_change">"Verrà inviato un SMS per riattivare i messaggi cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_int_hint_sim_change">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_hint_malformed_info">"Verrà inviato un SMS per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_int_hint_malformed_info">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_hint_server">"Verrà inviato un SMS per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_int_hint_server">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
     <string name="need_download">Sincronizzazione…</string>
     <string name="found_wild_messages_title">Scarica messaggi</string>
     <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite Mi Cloud, vuoi scaricarli?</string>
@@ -489,7 +489,7 @@
     <string name="menu_mark">Segnala</string>
     <string name="menu_yellowpage">Mostra %s</string>
     <string name="menu_more">Altro</string>
-    <string name="confirm_send_mms">Uno dei destinatari include un indirizzo email. Questo messaggio verrà inviato come MMS, verranno applicate le tariffe previste dall'operatore.</string>
+    <string name="confirm_send_mms">"Uno dei destinatari include un indirizzo email. Questo messaggio verrà inviato come MMS, verranno applicate le tariffe previste dall'operatore."</string>
     <string name="quick_reply">Rispondi</string>
     <string name="msglist_continue_to_pull_for_more">Trascina in basso per vedere altro</string>
     <string name="msglist_release_to_more">Rilascia per vedere altro</string>
