@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sina_share_pendding">Invio...</string>
+    <string name="sina_share_pendding">Invio…</string>
     <string name="sina_share_success">Inviato</string>
     <string name="sina_share_fail">FInvio fallito</string>
     <string name="sina_token_expired_warning">Account Weibo scaduto: ricollegarsi</string>
@@ -222,12 +222,12 @@ Tocca il tasto Impostazioni per latre opzioni"</string>
     <string name="micloud_main_detail">Mostra dettagli</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
     <string name="micloud_main_sync_init">Recupero informazioni</string>
-    <string name="micloud_main_syncing">Sincronizzazione dati...</string>
+    <string name="micloud_main_syncing">Sincronizzazione dati…</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizzazione</string>
     <string name="micloud_main_synced_data_count">%d dati sono sincronizzati</string>
     <string name="micloud_main_wlan_sync_data_count">%d dati verranno sincronizzati con Wi-Fi</string>
     <string name="micloud_main_space_full">Spazio esaurito</string>
-    <string name="micloud_main_space_low">Spazio quasi esaurito...</string>
+    <string name="micloud_main_space_low">Spazio quasi esaurito…</string>
     <string name="micloud_main_update_space">Aggiornamento spazio</string>
     <string name="micloud_detail_syncing">Sincronizzazione</string>
     <string name="micloud_detail_pending">In attesa</string>
@@ -250,7 +250,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_setting_browser_summary">Segnalibri, cronologia e schede</string>
     <string name="micloud_setting_music_summary">Playlist e preferiti</string>
     <string name="micloud_setting_wifi_summary">Impostazioni Wi-Fi</string>
-    <string name="micloud_setting_deskclock_summary">Impostazioni orologi</string>
+    <string name="micloud_setting_deskclock_summary">Impostazioni orologio</string>
     <string name="micloud_setting_antispam_summary">Eccezioni per Anti Disturbo e numeri di telefono bloccati.</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_tb">TB</string>
