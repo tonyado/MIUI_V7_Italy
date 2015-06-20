@@ -107,7 +107,7 @@
     <string name="android_ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
     <string name="loading">Caricamento…</string>
     <string name="app_name_which_call">Applicatione:%s</string>
-    <string name="app_version_which_call">Versione applicatione:%s</string>
+    <string name="app_version_which_call">Versione applicazione:%s</string>
     <string name="policy_name">Condizioni:%s</string>
     <string name="mibi_license">Termini del Servizio Mi Credit</string>
     <string name="license_host_unreachable">Impossibile collegarsi alla rete. Per accedere a queste informazioni, 
