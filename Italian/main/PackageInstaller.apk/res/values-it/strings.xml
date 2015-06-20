@@ -74,7 +74,6 @@ Consenti ora e in futuro?</string>
     <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione.
 
 Tutti i dati utente precedenti verranno salvati."</string>
-    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sostituirà la versione attuale (%3$s). I contenuti dell'utente verranno mantenuti. Sei sicuro di volerlo installare?"</string>
     <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema.
 
 Tutti i dati utente precedenti verranno salvati."</string>
