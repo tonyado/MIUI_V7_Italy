@@ -1624,7 +1624,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="tts_engine_error">Impossibile eseguire il motore scelto.</string>
     <string name="tts_engine_error_config">Configura</string>
     <string name="tts_engine_error_reselect">Scegli un altro motore</string>
-    <string name="tts_engine_security_warning">"Questo motore di sintesi vocale potrebbe essere in grado di raccogliere tutto il testo pronunciato, inclusi dati personali come password e numeri di carte di credito. Deriva dal motore %s. Abilitare l'uso di questo motore di sintesi vocale?"</string>
+    <string name="tts_engine_security_warning">"Questo motore di sintesi vocale potrebbe essere in grado di raccogliere il testo pronunciato, inclusi dati personali come password e numeri di carte di credito. Deriva dal motore %s. Abilitare l'uso di questo motore di sintesi vocale?"</string>
     <string name="tts_engine_network_required">"Questa lingua richiede una connessione di rete funzionante per l'output di sintesi vocale."</string>
     <string name="tts_default_sample_string">Questo è un esempio di sintesi vocale</string>
     <string name="tts_status_title">Stato della lingua predefinito</string>
