@@ -31,10 +31,8 @@
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test Chiamata audio</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
-    <string name="cit_x5_audio_lb_top_to_speaker_title">Test feedback microfono sueperiore</string>
     <string name="cit_audio_lb_phonecall_title">Simulation call test</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
-    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Test feedback microfono frontale</string>
     <string name="cit_headset_plug_detect_title">Test Rilevamento Cuffie</string>
     <string name="cit_headset_button_check_title">Test Cuffie</string>
     <string name="cit_headset_loopback_check_title">Test loopback cuffie</string>
@@ -102,18 +100,12 @@ Hold the phone as if you are making a call, speak to main microphone, you should
     <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
 Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
-    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test. 
-
-Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
     <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
 
 Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
     <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
 
  Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
-    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
-
-Turn the phone, Speak to microphone at the position of the receiver, you should hear voice in speaker"</string>
     <string name="cit_sd_plugin_check_summary">The text \"SD card detected, remove SD card now\" should be displayed below.</string>
     <string name="cit_sd_plugout_check_summary">When you remove the SD card, the text \"SD card has been removed, insert SD card now\" should be displayed below.</string>
     <string name="cit_keyboard_test_summary">When you push the buttons, the corresponding text on screen should turn green (note: the Home and the Power buttons are not included in the test).</string>
@@ -300,21 +292,21 @@ Touch the screen to start GPS…"</string>
     <string name="cit_tool_bluetooth_le_tx_l">Enter Bluetooth LE 2.402GHz Freq Test Mode</string>
     <string name="cit_tool_bluetooth_le_tx_ch19">Enter Bluetooth LE 2.440GHz Freq Test Mode</string>
     <string name="cit_tool_bluetooth_le_tx_h">Enter Bluetooth LE 2.480GHz Freq Test Mode</string>
-    <string name="cit_tool_bluetooth_off">Disable Bluetooth</string>
-    <string name="cit_tool_bluetooth_not_on">Bluetooth is NOT enabled</string>
-    <string name="cit_tool_wifi">WLAN test tool</string>
-    <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
+    <string name="cit_tool_bluetooth_off">Disattiva Bluetooth</string>
+    <string name="cit_tool_bluetooth_not_on">Bluetooth non abilitato</string>
+    <string name="cit_tool_wifi">Test Wi-Fi</string>
+    <string name="cit_tool_wifi_rx_chan">Rx: Canale</string>
     <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
-    <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
+    <string name="cit_tool_wifi_tx_bg_chan">canale:</string>
     <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
     <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
     <string name="cit_tool_wifi_tx_n">Tx: n</string>
     <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
     <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-    <string name="cit_tool_wifi_tx_n_chan">channel:</string>
+    <string name="cit_tool_wifi_tx_n_chan">canale:</string>
     <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
     <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
-    <string name="cit_tool_wifi_txrx_chain_selection">Select antenna</string>
+    <string name="cit_tool_wifi_txrx_chain_selection">Seleziona antenna</string>
     <string name="cit_tool_wifi_chain_1">1</string>
     <string name="cit_tool_wifi_chain_2">2</string>
     <string name="cit_tool_wifi_chain_1_2">1+2</string>
@@ -328,10 +320,14 @@ Touch the screen to start GPS…"</string>
     <string name="cit_tool_wifi_exit">Esci</string>
     <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
     <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
-    <string name="cit_tool_wifi_rxbg_test_channel">channel:</string>
+    <string name="cit_tool_wifi_rxbg_test_channel">canale:</string>
     <string name="cit_tool_wifi_rxn_test">Rx: n</string>
-    <string name="cit_tool_wifi_rxn_test_channel">channel:</string>
-    <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
-    <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
-    <string name="cit_tool_wifi_tx_st_chan">channel:</string>
+    <string name="cit_tool_wifi_rxn_test_channel">canale:</string>
+    <string name="cit_tool_wifi_rxn_test_bw">banda:</string>
+    <string name="cit_tool_wifi_tx_n_bandwidth">banda:</string>
+    <string name="cit_tool_wifi_tx_st_chan">canale:</string>
+    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Test del microfono frontale</string>
+    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Test del microfono superiore. Avvicina il dispositivo e parla al microfono superiore: dovresti sentire la tua voce nell'altoparlante"</string>
+    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Test del microfono frontale. Avvicina il dispositivo e parla al microfono del ricevitore: dovresti sentire la tua voce nell'altoparlante"</string>
+    <string name="cit_x5_audio_lb_top_to_speaker_title">Test feedback microfono superiore</string>
 </resources>
