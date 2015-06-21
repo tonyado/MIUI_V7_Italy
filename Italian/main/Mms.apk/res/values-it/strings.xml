@@ -4,8 +4,8 @@
     <string name="prefDefault_ringtone_repeat">1</string>
     <string name="pref_summary_manage_sim_messages">Gestisci i messaggi sulla tua scheda SIM</string>
     <string name="pref_title_manage_sim_messages">Gestisci messaggi SIM</string>
-    <string name="confirm_delete_all_SIM_messages">Tutti i messaggi sulla SIM verranno cancellati.</string>
-    <string name="confirm_delete_SIM_message">Questo messaggio sulla SIM verrà cancellato.</string>
+    <string name="confirm_delete_all_SIM_messages">Tutti i messaggi sulla SIM verranno eliminati.</string>
+    <string name="confirm_delete_SIM_message">Questo messaggio sulla SIM verrà eliminato.</string>
     <string name="sim_manage_messages_title">Messaggio su SIM</string>
     <string name="sim_empty">Nessun messaggio sulla SIM.</string>
     <string name="sim_full_title">SIM piena</string>
@@ -392,8 +392,8 @@
     <string name="mx_activate_int_hint_server">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
     <string name="need_download">Sincronizzazione…</string>
     <string name="found_wild_messages_title">Scarica messaggi</string>
-    <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite Mi Cloud, vuoi scaricarli?</string>
-    <string name="found_wild_messages_guide_cloud_desc">Per sincronizzare i messaggi da Mi Cloud, accedi al tuo account Mi ed attiva la sincronizzazione SMS.</string>
+    <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite Mi Cloud. Vuoi scaricarli?</string>
+    <string name="found_wild_messages_guide_cloud_desc">Per sincronizzare i messaggi da Mi Cloud accedi al tuo Account Mi ed attiva la sincronizzazione SMS.</string>
     <string name="found_old_messages_title">Aggiorna Messaggi</string>
     <string name="found_old_messages">Resoconto: %1$s trovati nei vecchi account. Vuoi caricarli nel tuo attuale account: %2$s?</string>
     <string name="show_all_messages">Mostra tutti i messaggi</string>
