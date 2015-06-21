@@ -215,7 +215,7 @@
     <string name="bluetooth_no_devices_found">Nessun dispositivo Bluetooth in vicinanze.</string>
     <string name="bluetooth_notif_ticker">Richiesta accoppiamento Bluetooth</string>
     <string name="bluetooth_notif_title">Richiesta accoppiamento</string>
-    <string name="bluetooth_notif_message">"Tocca per accoppiare con %1$s."</string>
+    <string name="bluetooth_notif_message">Tocca per accoppiare con %1$s.</string>
     <string name="bluetooth_show_received_files">Mostra file ricevuti</string>
     <string name="device_picker">Selettore dispositivo Bluetooth</string>
     <string name="bluetooth_permission_request">Richiesta autorizzazione Bluetooth</string>
@@ -265,7 +265,6 @@
     <string name="proxy_error_empty_host_set_port">Il campo Porta deve essere vuoto se il campo Host è vuoto.</string>
     <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
     <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
-    <string name="proxy_url">"URL PAC: "</string>
     <string name="radio_info_signal_location_label">Posizione:</string>
     <string name="radio_info_neighboring_location_label">CID adiacente:</string>
     <string name="radio_info_cellinfo_label">CellInfo:</string>
@@ -319,7 +318,6 @@
     <string name="language_picker_title">Lingua</string>
     <string name="activity_picker_label">Scegli attività</string>
     <string name="debug_intent_sender_label">Debug intent sender</string>
-    <string name="debug_view_attributes">Attiva vista attributi</string>
     <string name="device_info_label">Info dispositivo</string>
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
@@ -386,7 +384,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="security_passwords_title">Password</string>
     <string name="crypt_keeper_settings_title">Crittografia</string>
     <string name="crypt_keeper_encrypt_title">Esegui crittografia dispositivo</string>
-    <string name="crypt_keeper_encrypt_summary">Richiedi un PIN numerico o una password per decrittografare il dispositivo a ogni accensione</string>
     <string name="crypt_keeper_encrypted_summary">Crittografato</string>
     <string name="crypt_keeper_desc">"Puoi crittografare i tuoi account, le impostazioni, le applicazioni scaricate e i relativi dati, file multimediali e altri file. Una volta crittografato il dispositivo, devi digitare un PIN numerico o una password per decrittografarlo ogni volta che lo accendi. Non puoi decrittografare il dispositivo se non eseguendo un ripristino dati di fabbrica, eliminando tutti i tuoi dati.
 
@@ -461,11 +458,6 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="device_admin_title">Amministrazione dispositivo</string>
     <string name="manage_device_admin">Amministratori dispositivo</string>
     <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
-    <string name="manage_notification_access">Accesso alle notifiche</string>
-    <string name="manage_notification_access_summary_zero">Le app non possono leggere le notifiche</string>
-    <string name="no_notification_listeners">Nessun listener di notifica installato.</string>
-    <string name="notification_listener_security_warning_title">Attivare %1$s?</string>
-    <string name="notification_listener_security_warning_summary">%1$s sarà in grado di leggere tutte le notifiche pubblicate dal sistema o da qualsiasi app installata, le quali potrebbero includere informazioni personali come i nomi dei contatti e il testo dei messaggi ricevuti. Sarà inoltre in grado di ignorare tali notifiche o di attivare pulsanti di azione al loro interno.</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
@@ -655,8 +647,6 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_not_in_range">Fuori portata</string>
     <string name="wifi_wps_available_first_item">WPS disponibile</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibile)"</string>
-    <string name="wifi_secured_first_item">Protetta con %1$s</string>
-    <string name="wifi_secured_second_item">, protetta con %1$s</string>
     <string name="wifi_security_none">Nessuna</string>
     <string name="wifi_scan_always_turnon_message">"Per migliorare la precisione della posizione e per altri scopi, %1$s chiede di attivare la ricerca della rete, anche quando il Wi-Fi è disattivato.
 
@@ -693,7 +683,6 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_dns1">DNS 1</string>
     <string name="wifi_dns2">DNS 2</string>
     <string name="wifi_gateway">Gateway</string>
-    
     <string name="wifi_network_prefix_length">Lunghezza prefisso rete</string>
     <string name="wifi_p2p_settings_title">Wi‑Fi Direct</string>
     <string name="wifi_p2p_device_info">Informazioni dispositivo</string>
@@ -750,14 +739,12 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="home_settings">Pagina Home</string>
     <string name="display_settings_title">Schermo</string>
     <string name="sound_settings">Audio</string>
-    <string name="ringtone_title">Suoneria telefono</string>
     <string name="ringtone_summary" />
     <string name="all_volume_title">Volumi</string>
     <string name="musicfx_title">Effetti musicali</string>
     <string name="ring_volume_title">Volume suoneria</string>
     <string name="vibrate_in_silent_title">Vibra in modalità silenziosa</string>
     <string name="notification_sound_title">Suono di notifica predefinito</string>
-    <string name="notification_pulse_title">LED di notifica pulsante</string>
     <string name="incoming_call_volume_title">Suoneria</string>
     <string name="notification_volume_title">Notifica</string>
     <string name="checkbox_notification_same_as_incoming_call">Usa volume chiamate in entrata per le notifiche</string>
@@ -779,7 +766,6 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="volume_media_mute">Disattiva audio musica e altri contenuti multimediali</string>
     <string name="volume_notification_mute">Disattiva audio notifiche</string>
     <string name="volume_alarm_mute">Disattiva audio allarmi</string>
-    <string name="vibrate_when_ringing_title">Vibrazione quando squilla</string>
     <string name="dock_settings">Dock</string>
     <string name="dock_settings_title">Impostazioni dock</string>
     <string name="dock_audio_settings_title">Audio</string>
@@ -1046,7 +1032,6 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e mobili per stabilire la posizione</string>
     <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e mobili per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
-    <string name="location_loading_injected_setting">Recupero…</string>
     <string name="location_network_based">Posizione Wi‑Fi e rete mobile</string>
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
     <string name="location_neighborhood_level_wifi">Posizione determinata da Wi‑Fi</string>
@@ -1125,8 +1110,6 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="install_applications">Origini sconosciute</string>
     <string name="install_unknown_applications">"Consenti l'installazione di applicazioni da fonti sconosciute"</string>
     <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di applicazioni di origini sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
-    <string name="verify_applications">Verifica applicazioni</string>
-    <string name="verify_applications_summary">"Non consentire o avvisa prima dell'installazione di applicazioni che potrebbero causare danni"</string>
     <string name="advanced_settings">Impostazioni avanzate</string>
     <string name="advanced_settings_summary">Attiva altre impostazioni</string>
     <string name="application_info_label">Informazioni applicazione</string>
@@ -1361,9 +1344,6 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="keep_screen_on_summary">Lo schermo non va mai in stand-by se sotto carica</string>
     <string name="bt_hci_snoop_log">Attiva log di esame HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Acquisisci tutti i pacchetti HCI Bluetooth in un file</string>
-    <string name="select_runtime_title">Seleziona runtime</string>
-    <string name="select_runtime_dialog_title">Seleziona runtime</string>
-    <string name="select_runtime_warning_message">Riavviare per modificare runtime da %1$s a %2$s?</string>
     <string name="wifi_display_certification">Certificazione Display wireless</string>
     <string name="wifi_verbose_logging">Attiva registrazione dettagliata Wi-Fi</string>
     <string name="wifi_aggressive_handover">Wi-Fi aggressivo per passaggio a cellulare</string>
@@ -1408,7 +1388,6 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="testing_usage_stats">Statistiche di utilizzo</string>
     <string name="display_order_text">Ordina per:</string>
     <string name="app_name_label">Applicazione</string>
-    <string name="launch_count_label">Conteggio</string>
     <string name="usage_time_label">Tempo di utilizzo</string>
     <string name="accessibility_settings">Accessibilità</string>
     <string name="accessibility_settings_title">Impostazioni di accessibilità</string>
@@ -1478,8 +1457,6 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="disable_service_title">Interrompere %1$s?</string>
     <string name="disable_service_message">Se tocchi OK %1$s verrà interrotto.</string>
     <string name="accessibility_no_services_installed">Nessun servizio installato</string>
-    <string name="accessibility_service_no_apps_title">Hai bisogno di uno screen reader?</string>
-    <string name="accessibility_service_no_apps_message">"TalkBack fornisce commenti vocali per utenti non vedenti o con problemi di vista. Vuoi installare gratuitamente l'applicazione da Android Market?"</string>
     <string name="accessibility_service_default_description">Nessuna descrizione fornita.</string>
     <string name="settings_button">Impostazioni</string>
     <string name="print_settings">Stampa</string>
@@ -1608,9 +1585,6 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="voice_search_settings_title">Ricerca vocale</string>
     <string name="keyboard_settings_title">Tastiera Android</string>
     <string name="voice_category">Voce</string>
-    <string name="recognizer_title">Riconoscimento vocale</string>
-    <string name="recognizer_settings_title">Ricerca vocale</string>
-    <string name="recognizer_settings_summary">Impostazioni per \"%s\"</string>
     <string name="tts_settings">Impostazioni di sintesi vocale</string>
     <string name="tts_settings_title">Output sintesi vocale</string>
     <string name="use_default_tts_settings_title">Usa sempre mie imp.</string>
@@ -1732,7 +1706,6 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="device_admin_status">"Questo amministratore è attivo e consente all'applicazione %1$s di eseguire le seguenti operazioni:"</string>
     <string name="untitled_apn">Senza titolo</string>
     <string name="sound_category_sound_title">Generali</string>
-    <string name="sound_category_notification_title">Notifiche</string>
     <string name="sound_category_call_ringtone_vibrate_title">Suoneria e vibrazione chiamata</string>
     <string name="sound_category_system_title">Sistema</string>
     <string name="wifi_setup_title">Impostazione Wi-Fi</string>
@@ -1996,7 +1969,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="confirm_new_backup_pw_prompt">"Digita nuovamente  la nuova password di backup completo qui"</string>
     <string name="backup_pw_set_button_text">Imposta password di backup</string>
     <string name="backup_pw_cancel_button_text">Annulla</string>
-    <string name="percentage">%d%%</string>
     <string name="additional_system_update_settings_list_item_title">Aggiornamenti di sistema aggiuntivi</string>
     <string name="selinux_status_disabled">Disattivato</string>
     <string name="selinux_status_permissive">Permissivo</string>
@@ -2103,7 +2075,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="regulatory_info_text" />
     <string name="sim_status_title">Stato SIM</string>
     <string name="ringtone_title">Suoneria telefono</string>
-    <string name="vibrate_when_ringing_title">Vibra quando squilla</string>
+    <string name="vibrate_when_ringing_title">Vibrazione quando squilla</string>
     <string name="notification_pulse_title">LED di notifica pulsante</string>
     <string name="manage_notification_access_summary_zero">Le app non possono leggere le notifiche</string>
     <string name="no_notification_listeners">Nessun listener di notifica installato.</string>
@@ -2170,19 +2142,10 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="search_language">Lingua</string>
     <string name="search_about">Informazioni</string>
     <string name="search_power_mode">Profilo di consumo</string>
-    <string name="search_wifi_display">Schermo wifi</string>
-    <string name="search_display">Schermo</string>
-    <string name="search_font">Font</string>
-    <string name="search_handy_mode">Modalità mano singola</string>
-    <string name="search_battery">Batteria</string>
-    <string name="search_storage">Archiviazione</string>
-    <string name="search_accessibility">Accessibilità</string>
-    <string name="search_privacy">Privacy</string>
     <string name="debug_log">Programma esperienza utente</string>
     <string name="upload_debug_log_title">Programma esperienza utente</string>
     <string name="upload_debug_log_summary">"Aiuta Xiaomi a migliorare i suoi prodotti ed i suoi servizi inviando dati anonimi di diagnostica e sull'utilizzo"</string>
     <string name="device_miui_version">Versione MIUI</string>
-    <string name="cmcc_hardware_version">Versione Hardware</string>
     <string name="device_cpu">CPU</string>
     <string name="device_memory">RAM</string>
     <string name="device_internal_memory">Memoria interna</string>
@@ -2340,7 +2303,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="apn_save_msg">Salvare i cambiamenti degli APN?</string>
     <string name="activating">Attivazione in corso…</string>
     <string name="wifi_enable_watchdog_service_summary">Evita connessioni di scarsa qualità</string>
-    <string name="wifi_disabled_help">"Wi-Fi disconnesso a causa della scarsa qualità della connessione"</string>
+    <string name="wifi_disabled_help">Wi-Fi disconnesso a causa della scarsa qualità della connessione</string>
     <string name="wifi_wps_overlap_error">"È stata rilevata un'altra sessione Wi-Fi. Riprova fra qualche minuto."</string>
     <string name="wifi_p2p_wps_setup">Impostazione WPS</string>
     <string name="default_input_method">Scegli tastiera</string>
@@ -2479,11 +2442,8 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="wfd_disconnect_multiple_diag_message">Se termini la connessione al display wireless, la tua connessione con %1$s e altri %2$s dispositivi sarà terminata.</string>
     <string name="wfd_wps_keypad">Preferisco usare il pulsante</string>
     <string name="wfd_wps_pbc">Preferisco inserire il PIN</string>
-    <string name="virtual_sim_category_title">SIM virtuale</string>
-    <string name="virtual_sim_title">Rete dati roaming</string>
-    <string name="virtual_sim_description">Servizio di roaming internazionale affidabile</string>
     <string name="power_mode">Impostazioni alimentazione</string>
-    <string name="high_performance_title">"Sembra che stai eseguendo un test di benchmark. Imposta la modalità \"Alte Prestazioni\" per avere risultati migliori."</string>
+    <string name="high_performance_title">Sembra che stai eseguendo un test di benchmark. Imposta la modalità \"Alte Prestazioni\" per avere risultati migliori.</string>
     <string name="high_performance_notif_title">Avviso utilizzo della batteria</string>
     <string name="high_performance_notif_summary">La modalità Alte prestazioni è attiva.</string>
     <string name="skip_step">Salta</string>
@@ -2622,14 +2582,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="internal_media_format_title">Formatta memoria interna</string>
     <string name="internal_format">Formatta memoria interna</string>
     <string name="internal_format_summary">Elimina tutti i dati sulla tua memoria interna</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Genero il rapporto bug (richiede circa 1 minuto)</string>
-    <string name="bugreport_tool_log_toast">Registro salvato in %s</string>
-    <string name="bugreport_tool_log">Cattura segnalazioni bug</string>
-    <string name="modem_tool_log">Cattura registro del modem</string>
-    <string name="modem_tool_log_start">Avvia cattura</string>
-    <string name="modem_tool_log_stop">Interrompi cattura</string>
-    <string name="modem_tool_log_start_toast">"Inizio dump registro modem a %s"</string>
-    <string name="modem_tool_log_stop_toast">"Inizio dump registro modem da %s"</string>
     <string name="wifi_tether_setting_title">Impostazioni base</string>
     <string name="audio_profile_settings_title">Profili audio</string>
     <string name="enable_wifi_display">Abilita display wireless</string>
@@ -2766,8 +2718,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="alert_show_screensaver_when_not_charging_title">Uso della batteria</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Visualizzare lo screensaver aumenterà il consumo di batteria.</string>
     <string name="toast_need_login">Accedi al tuo Account Mi</string>
-    <string name="location_access_on">Attivato</string>
-    <string name="location_access_off">Disattivato</string>
     <string name="preferred_app_settings">Impostazioni predefinite</string>
     <string name="preferred_app_settings_default">Predefinite</string>
     <string name="preferred_app_settings_reset">Ripristino predefinite</string>
@@ -2808,8 +2758,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="launching_rep">Segnalazione bug in corso, attendere…</string>
     <string name="status_serialno">Numero di serie</string>
     <string name="provision_next">Avanti</string>
-    <string name="privacy_mode_title">Permessi</string>
-    <string name="privacy_mode_summary">I dati utente verranno nascosti</string>
     <string name="privacy_mode_dialog_title">Modalità ospite</string>
     <string name="privacy_mode_dialog_message">"Chiamate, note, immagini, messaggi e impostazioni del launcher saranno nascoste all'utente"</string>
     <string name="lockscreen_glogin_submit_button">Accedi</string>
@@ -2822,18 +2770,16 @@ Disabilitare le finestre flottanti?"</string>
     <string name="system_backup_section_title">Backup</string>
     <string name="local_backup_section_title">Backup in locale</string>
     <string name="local_backup_section_summary">Backup impostazioni di sistema, account e applicazioni</string>
+    <string name="other_personal_settings">Impostazioni aggiuntive</string>
     <string name="local_auto_backup_section_title">Backup automatico</string>
     <string name="local_auto_backup_on">On</string>
     <string name="local_auto_backup_off">Off</string>
-    <string name="other_personal_settings">Impostazioni aggiuntive</string>
     <string name="other_advanced_settings">Impostazioni aggiuntive</string>
     <string name="recent_location_requests_title">Accesso alla posizione</string>
     <string name="recent_location_requests_summary">"Le app seguenti richiedono l'accesso alla tua posizione"</string>
     <string name="permission_manager">Permessi</string>
     <string name="security_keyguard_category_name">Blocco schermo</string>
     <string name="security_password_category_name">Password</string>
-    <string name="device_security_settings_title">Sicurezza</string>
-    <string name="enable_crypt_keeper_encrypt">Attiva crittografia</string>
     <string name="bluetooth_unlock_title">Sblocca tramite dispositivo Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Disattivato</string>
     <string name="bluetooth_unlock_turned_on">Attivato</string>

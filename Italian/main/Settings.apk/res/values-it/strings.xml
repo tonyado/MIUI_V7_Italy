@@ -56,9 +56,9 @@
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
     <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
-    <string name="status_bar_settings_show_keyguard_notification">Mostra notifiche flottanti</string>
-    <string name="status_bar_settings_show_keyguard_notification_summary">Mostra notifiche flottanti nella lockscreen e in ogni altro punto</string>
-    <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazioni</string>
+    <string name="status_bar_settings_show_keyguard_notification">Mostra banner notifiche</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Mostra il banner notifiche nella lockscreen e in ogni altro punto</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
     <string name="status_bar_settings_notification_led">Luce di notifica</string>
     <string name="status_bar_settings_notification_bar">Barra notifiche</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
@@ -778,8 +778,8 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="volume_ring_mute">Disattiva audio suoneria e notifiche</string>
     <string name="volume_media_mute">Disattiva audio musica e altri contenuti multimediali</string>
     <string name="volume_notification_mute">Disattiva audio notifiche</string>
-    <string name="volume_alarm_mute">Disattiva audio allarmi</string>
-    <string name="vibrate_when_ringing_title">Vibrazione quando squilla</string>
+    <string name="volume_alarm_mute">Disattiva audio sveglie</string>
+    <string name="vibrate_when_ringing_title">Vibra quando squilla</string>
     <string name="dock_settings">Dock</string>
     <string name="dock_settings_title">Impostazioni dock</string>
     <string name="dock_audio_settings_title">Audio</string>
@@ -1624,7 +1624,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="tts_engine_error">Impossibile eseguire il motore scelto.</string>
     <string name="tts_engine_error_config">Configura</string>
     <string name="tts_engine_error_reselect">Scegli un altro motore</string>
-    <string name="tts_engine_security_warning">"Questo motore di sintesi vocale potrebbe essere in grado di raccogliere tutto il testo pronunciato, inclusi dati personali come password e numeri di carte di credito. Deriva dal motore %s. Abilitare l'uso di questo motore di sintesi vocale?"</string>
+    <string name="tts_engine_security_warning">"Questo motore di sintesi vocale potrebbe essere in grado di raccogliere il testo pronunciato, inclusi dati personali come password e numeri di carte di credito. Deriva dal motore %s. Abilitare l'uso di questo motore di sintesi vocale?"</string>
     <string name="tts_engine_network_required">"Questa lingua richiede una connessione di rete funzionante per l'output di sintesi vocale."</string>
     <string name="tts_default_sample_string">Questo è un esempio di sintesi vocale</string>
     <string name="tts_status_title">Stato della lingua predefinito</string>
@@ -1873,7 +1873,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_empty">Dati non usati da applicazioni in questo periodo.</string>
     <string name="data_usage_label_foreground">Primo piano</string>
     <string name="data_usage_label_background">Sfondo</string>
-    <string name="data_usage_app_restricted">limitato</string>
+    <string name="data_usage_app_restricted">Limitato</string>
     <string name="data_usage_disable_mobile">Disattivare i dati mobili?</string>
     <string name="data_usage_disable_mobile_limit">Imposta limite dati mobili</string>
     <string name="data_usage_disable_4g_limit">Imposta limite dati 4G</string>
