@@ -1873,7 +1873,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_empty">Dati non usati da applicazioni in questo periodo.</string>
     <string name="data_usage_label_foreground">Primo piano</string>
     <string name="data_usage_label_background">Sfondo</string>
-    <string name="data_usage_app_restricted">limitato</string>
+    <string name="data_usage_app_restricted">Limitato</string>
     <string name="data_usage_disable_mobile">Disattivare i dati mobili?</string>
     <string name="data_usage_disable_mobile_limit">Imposta limite dati mobili</string>
     <string name="data_usage_disable_4g_limit">Imposta limite dati 4G</string>
