@@ -73,7 +73,7 @@
     <string name="hints_large_file_header_left">File grandi: %d</string>
     <string name="hints_residual_header_left">Residui: %d</string>
     <string name="hints_installed_apps_header_left">App installate: %d</string>
-    <string name="toast_resolve_apk_error">Resolvi errore apk</string>
+    <string name="toast_resolve_apk_error">Risolvi errori APK</string>
     <string name="hints_apk_version">Versione: %s</string>
     <string name="apk_status_uninstalled">Non installata</string>
     <string name="apk_status_installed_old">Vecchia versione</string>
@@ -155,12 +155,12 @@
     <string name="dialog_msg_backup_and_uninstall_apps">Eseguire il backup e quindi disinstallare queste app?</string>
     <string name="toast_backup_is_running">"Backup già in esecuzione. Attendi un po' e riprova."</string>
     <string name="toast_backup_uninstall_failed">"Impossibile eseguire il backup di %d app. Attendi un po' e riprova."</string>
-    <string name="toast_backup_uninstall_failed2">"Couldn't back up"</string>
+    <string name="toast_backup_uninstall_failed2">Impossibile eseguire il backup</string>
     <string name="toast_backup_uninstall_success">Backup e disinstallazione completati</string>
     <string name="activity_title_cache_data">Cache</string>
     <string name="deepclean_cache_header_left">File in cache: %d</string>
     <string name="notification_title_of_garbage_cleanup">Avviso dimensione cestino</string>
-    <string name="notification_summary_of_garbage_cleanup">Ehi attenzione! Il cestino è oltre %s.</string>
+    <string name="notification_summary_of_garbage_cleanup">Attenzione! Il cestino è oltre %s.</string>
     <string name="notification_summary_after_auto_cleanup">Pulito %s.</string>
     <string name="toast_uninstall_success">Disinstallazione completata</string>
     <string name="toast_app_no_residual_on_sdcard">"L'applicazione non ha nessun file salvato sulla tua scheda SD"</string>

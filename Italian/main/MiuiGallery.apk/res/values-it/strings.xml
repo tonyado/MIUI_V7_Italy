@@ -243,7 +243,7 @@
     <string name="internal_sd_card">Scheda SD interna</string>
     <string name="internal_sd_card_hm">Memoria dispositivo</string>
     <string name="external_sd_card">Scheda SD</string>
-    <string name="external_usb_device">Terminale USB</string>
+    <string name="external_usb_device">Archiviazione USB</string>
     <string name="external_usb_device_hm">Memoria USB esterna</string>
     <string name="menu_item_sort">Ordina</string>
     <string name="menu_item_sort_name_asc">Per nome (A-Z)</string>
@@ -266,7 +266,7 @@
     <string name="operation_remove_from_face_album">Rimuovi copertina</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="global_setting">Impostazioni</string>
-    <string name="no_storage_disable_cloud_albums">Album Mi Cloud disabilitati; riprova quando sarà disponibile dello spazio sulla memoria esterna.</string>
+    <string name="no_storage_disable_cloud_albums">Album Mi Cloud disabilitati. Riprova quando sarà disponibile spazio sulla memoria esterna.</string>
     <string name="message_no_delete_access">Accesso negato. Impossibile eliminare file o cartella: %s</string>
     <string name="fail_init_gallery_db_helper">Applicazione chiusa, impossibile aprire il database della galleria; disco pieno.</string>
     <string name="crop_fail_to_load_image">"Impossibile caricare l'immagine da ritagliare".</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Backup app Home​</string>
-    <string name="settings_backup">Impostazioni di sistema</string>
-    <string name="deskclock_backup">Sveglia</string>
+    <string name="app_name">Backup</string>
+    <string name="settings_backup">Backup impostazioni</string>
+    <string name="deskclock_backup">Backup sveglie</string>
     <string name="button_cancel">Annulla</string>
     <string name="button_next">Avanti</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -10,11 +10,11 @@
     <string name="retry">Riprova</string>
     <string name="cloud_app_current_device">Dispositivo attuale</string>
     <string name="cloud_app_other_devices">Altri dispositivi</string>
-    <string name="cloud_app_restore_app_and_data">Ripristina il layout della Home e le app</string>
+    <string name="cloud_app_restore_app_and_data">Ripristina le app e i dati utente</string>
     <string name="cloud_app_restore_data">Ripristina le app installate in precedenza</string>
     <string name="cloud_app_dont_restore">Non ripristinare</string>
-    <string name="cloud_app_restore_wifi_prompt">TPer ripristinare le tue app collegati ad una rete Wi-Fi.</string>
-    <string name="cloud_app_no_data">Nessuna Home e applicazione</string>
+    <string name="cloud_app_restore_wifi_prompt">Collegati ad una rete Wi-Fi per ripristinare le app.</string>
+    <string name="cloud_app_no_data">Nessun salvataggio</string>
     <string name="cloud_app_restore_error">Impossibile ripristinare</string>
     <string name="cloud_app_restore_success">Applicazioni ripristinate</string>
     <string name="cloud_app_backup_success">Backup applicazioni completato</string>
@@ -23,16 +23,16 @@
     <string name="button_delete">Elimina</string>
     <string name="customization"><u>Personalizza</u></string>
     <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="self_phone">Questo telefono</string>
+    <string name="self_phone">Questo dispositivo</string>
     <string name="process_whole_recovery">Ripristino di \"%s\"</string>
     <string name="device_xiaomi">Telefono Mi</string>
     <string name="miui_device_name">Android</string>
     <string name="recovering">Ripristino %s</string>
     <string name="start_recover">Ripristino %s</string>
     <string name="latest_backup_time_loading">Caricamento…</string>
-    <string name="start_backup_to_micloud">Backup applicazioni su Mi Cloud</string>
+    <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>
     <string name="backing_up_to_micloud">Backup in corso…</string>
-    <string name="restore_from_cloud">RIrpistina da Mi Cloud</string>
+    <string name="restore_from_cloud">Ripristina da Mi Cloud</string>
     <string name="backup_to_cloud">Backup applicazioni</string>
     <string name="restoreing_file_tile">Ripristino di %d file</string>
     <string name="menu_item_sort">Ordina per</string>
@@ -57,18 +57,18 @@
     <string name="download_settings">Download impostazioni Home: %s%%</string>
     <string name="recover_settings">Ripristino impostazioni Home</string>
     <string name="cancel_recover_settings"><u>Annulla</u></string>
-    <string name="recover_settings_description">Tieni il dispositivo acceso</string>
+    <string name="recover_settings_description">Non spegnere il dispositivo</string>
     <string name="recover_miui_settings">Ripristina le impostazioni di sistema MIUI</string>
     <string name="wait_icon_download">Download icona applicazione</string>
     <string name="download_settings_fail">Download impostazioni Home fallito</string>
     <string name="backup_fail">Backup app Home fallito</string>
     <string name="backup_success">Backup app Home completato</string>
-    <string name="cloud_task_in_process">"E' in corso un processo di %s! Eliminando il backup su questo dispositivo verrà annullato il processo in corso, sicuro di volerlo eliminare?</string>
-    <string name="cloud_back_up_task">backup</string>
-    <string name="cloud_restore_task">ripristina</string>
-    <string name="cloud_restore_from_other_device">il ripristino da %s è in corso, eliminando il suo backup il processo verrà interrotto, sicuro di volerlo eliminare?</string>
-    <string name="back_up_task_in_process">backup in corso</string>
-    <string name="remove_task_in_process">rimozione</string>
-    <string name="remove_task_unfinished">rimozione incompleta</string>
-    <string name="back_up_task_unfinished">backup incompleto</string>
+    <string name="cloud_task_in_process">"È in corso un processo di %s! Eliminando il backup su questo dispositivo verrà annullato il processo in corso, sicuro di volerlo eliminare?</string>
+    <string name="cloud_back_up_task">Backup</string>
+    <string name="cloud_restore_task">Ripristina</string>
+    <string name="cloud_restore_from_other_device">Il ripristino da %s è in corso, eliminando il backup il processo verrà interrotto. Vuoi continuare?</string>
+    <string name="back_up_task_in_process">Backup in corso</string>
+    <string name="remove_task_in_process">Rimozione</string>
+    <string name="remove_task_unfinished">Rimozione incompleta</string>
+    <string name="back_up_task_unfinished">Backup incompleto</string>
 </resources>
