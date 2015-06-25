@@ -2195,7 +2195,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="lock_screen_unlock_show_summary">"Vai direttamente alla schermata Home o all'immissione password dopo lo sblocco"</string>
     <string name="date_time_settings">Data e ora</string>
     <string name="timezone_settings">Fuso orario</string>
-    <string name="security_privacy_settings_title">Sicurezza</string>
+    <string name="security_privacy_settings_title">Privacy</string>
     <string name="nearby_wifi">Reti disponibili</string>
     <string name="unlock_set_enter_system">Salta schermata di blocco</string>
     <string name="unlock_set_enter_system_summary">Vai direttamente alla schermata Home dopo lo sblocco</string>
