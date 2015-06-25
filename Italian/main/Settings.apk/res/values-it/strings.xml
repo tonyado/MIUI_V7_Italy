@@ -1714,7 +1714,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="active_device_admin_msg">Amministratore dispositivo</string>
     <string name="remove_device_admin">Disattiva</string>
     <string name="select_device_admin_msg">Amministratori dispositivo</string>
-    <string name="no_device_admins">Nessun amministratore dispositivo disponibile</string>
+    <string name="no_device_admins">Nessun amministratore disponibile</string>
     <string name="add_device_admin_msg">Attivare amministratore dispositivo?</string>
     <string name="add_device_admin">Attiva</string>
     <string name="device_admin_add_title">Amministratore dispositivo</string>

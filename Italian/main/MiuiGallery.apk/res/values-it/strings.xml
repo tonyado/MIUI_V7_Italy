@@ -76,7 +76,7 @@
     <string name="select_video">Seleziona video</string>
     <string name="camera_setas_wallpaper">Sfondo</string>
     <string name="delete">Elimina</string>
-    <string name="confirm_delete">"Confermare l'eliminazione di %s file?"</string>
+    <string name="confirm_delete">"Confermi l'eliminazione di %s file?"</string>
     <string name="comfirm_delete_current_album">Eliminare questo album?</string>
     <string name="operation_delete_confirm_message_folder">"Il contenuto di tutte le cartelle verrà eliminato."</string>
     <string name="delete_folder">Eliminare %1$d cartelle?</string>
@@ -273,13 +273,13 @@
     <string name="error_should_not_select_image">Attenzione: non selezionare un file immagine.</string>
     <string name="error_should_not_select_video">Attenzione: non selezionare un file video.</string>
     <string name="storage_all_volumes">Tutte le unità di memoria</string>
-    <string name="settings_i_xiaomi_com">Accedi a https://i.mi.com per vedere gli album Mi Cloud in qualsiasi momento</string>
+    <string name="settings_i_xiaomi_com">Accedi a <b>i.mi.com</b> per vedere gli album Mi Cloud in qualsiasi momento</string>
     <string name="big_screen_alertdialog_title">Lista dispositivi</string>
     <string name="comma">, </string>
     <string name="quotation">\"%s\"</string>
     <string name="cloud_gallery_space_full">Caricamento fallito! Archivio Mi Cloud pieno</string>
     <string name="share_album_space_full">Questo album condiviso è pieno. Eliminare alcune immagini.</string>
-    <string name="cloud_gallery_recyclebin_full">Cestino Mi Cloud pieno, svuota il cestino su https://i.mi.com.</string>
+    <string name="cloud_gallery_recyclebin_full">Cestino Mi Cloud pieno, svuota il cestino su <b>i.mi.com</b>.</string>
     <string name="sync_history_power_on">Sincronizza cronologia immagini solo quando in ricarica</string>
     <string name="sync_only_in_wifi_alert">Disattivando questa opzione può aumentare il traffico dati cellulare.</string>
     <string name="sync_only_in_wifi">Solo Wi-Fi</string>
@@ -600,10 +600,10 @@
     <string name="auto_upload_guide_msssage">" "<Data> Carica automaticamente le foto dalle applicazioni a Mi Cloud. Controlla in Impostazioni > Galleria > Album Mi Cloud > Carica automaticamente. </Data>" "</string>
     <string name="not_now">Non adesso</string>
     <string name="go_setting">Vai alle impostazioni</string>
-    <string name="face_albumset_use_tip">Rileva e organizza i volti delle persone, rendendo più semplice la visualizzazione e la gestione delle foto</string>
+    <string name="face_albumset_use_tip">Riconosce e organizza i volti delle persone, rendendo più semplice la visualizzazione e la gestione delle foto</string>
     <string name="face_albumset_detecting_tip">Rilevo i volti… a breve potrai sfogliare gli album organizzati per volti</string>
     <string name="face_albumset_empty">"Nessun volto rilevato, scatta altre foto"</string>
-    <string name="start_to_use_face_albumset">Utilizza Album Volti</string>
+    <string name="start_to_use_face_albumset">Attiva riconoscimento Volti</string>
     <string name="enabling_face_feature">Attivazione…</string>
     <string name="face_albumset_pending_enable_tip">Ordinerà le foto quando il dispositivo è collegato al Wi-Fi</string>
     <string name="face_albumset_loading_data">Caricamento…</string>
@@ -613,7 +613,7 @@
     <string name="confirm_merge_face_albums">" "<Data> Unisci questo album all\'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<Data> Unire questi album con %s? </Data>" "</string>
     <string name="not_is">Non è %s?</string>
-    <string name="is">"E' %s?"</string>
+    <string name="is">"È %s?"</string>
     <string name="ignore_alert_title">Mostrare questo album?</string>
     <string name="ignore_album">Ignora</string>
     <string name="merge_album">Unisci</string>

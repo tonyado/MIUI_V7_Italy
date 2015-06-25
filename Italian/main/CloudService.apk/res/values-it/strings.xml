@@ -28,7 +28,7 @@
     <string name="activate">Attiva</string>
     <string name="no_sim">SIM non rilevata</string>
     <string name="find_device_status_ok">Localizza il tuo dispositivo in ogni momento su i.mi.com</string>
-    <string name="find_device_status_ok_international">Trova il tuo telefono in qualsiasi momento su i.mi.com</string>
+    <string name="find_device_status_ok_international">Trova il tuo telefono in qualsiasi momento su <b>i.mi.com</b></string>
     <string name="account">Account</string>
     <string name="verify">Verifica</string>
     <string name="next">Avanti</string>
