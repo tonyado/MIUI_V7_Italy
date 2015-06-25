@@ -217,7 +217,7 @@
     <string name="passport_reg_using_phone_number_prompt">Registrati con il numero di cellulare</string>
     <string name="passport_reg_using_other_phone_number_prompt">Registrati usando un altro numero di cellulare</string>
     <string name="passport_reg_using_other_phone">Registrati con un altro numero di cellulare</string>
-    <string name="passport_reg_via_sms_alert">Il tuo gestore potrebbe addebitarti il costo di invio dell'SMS di attivazione.</string>
+    <string name="passport_reg_via_sms_alert">Il tuo gestore potrebbe addebitarti il costo di invio dell\'SMS di attivazione.</string>
     <string name="passport_reg_sms_send_prompt">Invia il codice di verifica a %s</string>
     <string name="passport_password_req_notice">La password deve essere compresa tra 8-16 caratteri e deve includere sia numeri che lettere (maiuscole e minuscole).</string>
     <string name="passport_error_email">"L'indirizzo email inserito non è valido"</string>
@@ -264,8 +264,8 @@
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_reging">Creazione account…</string>
     <string name="passport_reg_success">Account creato</string>
-    <string name="passport_reg_success_summary">%1$s è stato unito con il tuo account. Puoi utilizzarlo per effettuare l'accesso o resettare la password.</string>
-    <string name="passport_email_reg_success_summary">%1$s è stato unito con il tuo account. Puoi utilizzarlo per effettuare l'accesso o resettare la password.</string>
+    <string name="passport_reg_success_summary">%1$s è stato unito con il tuo account. Puoi utilizzarlo per effettuare l\'accesso o resettare la password.</string>
+    <string name="passport_email_reg_success_summary">%1$s è stato unito con il tuo account. Puoi utilizzarlo per effettuare l\'accesso o resettare la password.</string>
     <string name="passport_area_code_title">Codice paese</string>
     <string name="passport_area_code_hot">Usati di frequente</string>
     <string name="passport_user_agreement_p1">"Stai accettando il nostro
@@ -285,7 +285,7 @@
     <string name="passport_remove_unactivated_account_notice">"Il tuo account non è ancora stato attivato."</string>
     <string name="passport_remove_confirm">Esci</string>
     <string name="passport_find_password_on_web_msg">Visita <b>account.mi.com</b> per resettare la password.</string>
-    <string name="passport_relogin">Esegui di nuovo l'accesso</string>
+    <string name="passport_relogin">Esegui di nuovo l\'accesso</string>
     <string name="passport_skip_login">Salta il login</string>
     <string name="passport_checking_account">Controllo password…</string>
     <string name="passport_button_cancel">Annulla</string>
