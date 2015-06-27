@@ -2,7 +2,7 @@
 <resources>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="app_label">UI di sistema</string>
-    <string name="status_bar_no_recent_apps">Nessuna applicazione recente</string>
+    <string name="status_bar_no_recent_apps">Nessuna applicazione in esecuzione</string>
     <string name="battery_low_title">Collega il caricabatterie</string>
     <string name="battery_low_percent_format">%d%% rimanente</string>
     <string name="invalid_charger">"Ricarica tramite USB non supportata.
@@ -26,9 +26,9 @@ Utilizza solo il caricatore in dotazione."</string>
     <string name="usb_debugging_always">Consenti sempre per questo computer</string>
     <string name="screenshot_saving_ticker">Salvataggio screenshot…</string>
     <string name="screenshot_saving_title">Salvataggio screenshot…</string>
-    <string name="screenshot_saving_text">Screenshot in corso di salvataggio.</string>
+    <string name="screenshot_saving_text">Salvataggio screenshot in corso.</string>
     <string name="screenshot_saved_title">Screenshot acquisito.</string>
-    <string name="screenshot_saved_text">Tocca per visualizzare il tuo screenshot.</string>
+    <string name="screenshot_saved_text">Tocca per visualizzare lo screenshot.</string>
     <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
     <string name="accessibility_back">Indietro</string>
     <string name="accessibility_home">Home</string>
@@ -75,7 +75,7 @@ Utilizza solo il caricatore in dotazione."</string>
     <string name="accessibility_ringer_silent">Suoneria silenziosa.</string>
     <string name="data_usage_disabled_dialog_3g_title">Dati 2G-3G disattivati</string>
     <string name="data_usage_disabled_dialog_4g_title">Dati 4G disattivati</string>
-    <string name="data_usage_disabled_dialog_mobile_title">Dati mobili disattivati</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Dati cellulare disattivati</string>
     <string name="data_usage_disabled_dialog_title">Dati disattivati</string>
     <string name="data_usage_disabled_dialog">"Hai raggiunto il limite di utilizzo dei dati specificato.
 
@@ -102,7 +102,7 @@ scorri in basso per bloccare"</string>
     <string name="status_bar_recent_memory_info2"/>
     <string name="usb_mode_notification">Archiviazione USB</string>
     <string name="usb_mode_dont_ask">Non chiedere più</string>
-    <string name="usb_mode_mount_storage_title">Aprire archiviazione USB</string>
+    <string name="usb_mode_mount_storage_title">Apri archiviazione USB</string>
     <string name="mount_storage">Sì</string>
     <string name="dismount_storage">No</string>
     <string name="usb_notification">USB Connesso</string>
@@ -116,7 +116,7 @@ scorri in basso per bloccare"</string>
     <string name="user_guide_for_notification">Hai ricevuto una nuova notifica, trascina in basso la barra di stato per vedere i dettagli</string>
     <string name="user_guide_for_toggle">La lista dei comandi può essere spostata lateralmente</string>
     <string name="user_guide_for_toggle_list">Premi qui per personalizzare la lista comandi</string>
-    <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
+    <string name="return_to_incall_screen">Premi qui per tornare alla chiamata</string>
     <string name="call_status_dialing">Composizione</string>
     <string name="call_status_ringing">Chiamata in corso</string>
     <string name="reject_call">Rifiuta la chiamata</string>
@@ -151,9 +151,9 @@ scorri in basso per bloccare"</string>
     <string name="usb_storage_stop_notification_title">Disattivare archiviazione USB</string>
     <string name="usb_storage_stop_notification_message">Seleziona per disattivare archiviazione USB.</string>
     <string name="usb_storage_stop_title">Archiviazione USB in uso</string>
-    <string name="usb_storage_stop_message">"Prima di disattivare l'archiviazione USB assicurarsi di aver smontato (“scollegato”) il tuo dispositivo di archiviazione USB Android dal tuo computer."</string>
+    <string name="usb_storage_stop_message">"Prima di disattivare l'archiviazione USB assicurati di aver smontato (“scollegato”) il dispositivo di archiviazione USB Android dal tuo computer."</string>
     <string name="dlg_confirm_kill_storage_users_title">Attiva archiviazione USB</string>
-    <string name="dlg_confirm_kill_storage_users_text">"Se attivi l'archiviazione USB alcune applicazione in uso potrebbero interrompere il loro funzionamento e lo riprenderanno una volta disattivata l'archiviazione USB."</string>
+    <string name="dlg_confirm_kill_storage_users_text">"Se attivi l'archiviazione USB alcune applicazioni installate non saranno disponibili finché non si disattiva l'archiviazione USB."</string>
     <string name="dlg_error_title">Operazione USB fallita</string>
     <string name="dlg_ok">OK</string>
     <string name="ext_media_checking_notification_title">Preparazione archiviazione USB</string>
@@ -165,7 +165,7 @@ scorri in basso per bloccare"</string>
     <string name="ext_media_badremoval_notification_title">Archiviazione USB rimossa in modo inaspettato</string>
     <string name="ext_media_badremoval_notification_message">"Smonta l'archiviazione USB prima di rimuoverla per evitare perdite di dati."</string>
     <string name="ext_media_safe_unmount_notification_title">"Rimozione sicura dell'archiviazione USB"</string>
-    <string name="ext_media_safe_unmount_notification_message">"E' possibile rimuovere l'archiviazione USB."</string>
+    <string name="ext_media_safe_unmount_notification_message">"È possibile rimuovere l'archiviazione USB."</string>
     <string name="ext_media_nomedia_notification_title">Archiviazione USB rimossa</string>
     <string name="ext_media_nomedia_notification_message">Archiviazione USB rimossa.</string>
     <string name="ext_media_mountable_notification_title">Archiviazione USB connessa</string>
@@ -214,7 +214,7 @@ scorri in basso per bloccare"</string>
     <string name="battery_profiles">Profili utilizzo batteria</string>
     <string name="oldman_airplane_mode_text">aereo</string>
     <string name="oldman_incall_text">in chiamata</string>
-    <string name="notification_template_text">" ha un anotifica. Tocca per leggere."</string>
+    <string name="notification_template_text">" ha una notifica. Tocca per leggere."</string>
     <string name="audio_effect_settings">Imposta tipologia di cuffie</string>
     <string name="audio_effect_info">Ottimizza audio</string>
     <string name="audio_effect_custom">Imposta</string>
