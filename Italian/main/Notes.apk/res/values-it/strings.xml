@@ -50,6 +50,7 @@
     <string name="error_widget_exist_for_send_to_desktop">Questa nota è già presente sul desktop</string>
     <string name="error_unsupport_content">Nella nota è presente un contenuto non supportato, premi per aggiornare il sistema</string>
     <string name="error_contact_not_exist">Contatto inesistente</string>
+    <string name="sync_tips">Tocca per sincronizzare le note con Mi Cloud.</string>
     <string name="pref_title_font_size">Dimensione font</string>
     <string name="call_record_folder_name">Registro chiamate</string>
     <string name="hint_foler_name">Digita il nome</string>
@@ -97,6 +98,7 @@
     <string name="sns_hint_title">Soggetto (Opzionale)</string>
     <string name="sns_hint_content">Cosa hai in mente?</string>
     <string name="sns_footer_text">Creata con Mi Note</string>
+    <string name="dlg_info_creating_message">Creazione messaggio…</string>
     <string name="sns_message_disconnect">Impossibile collegarsi alla rete. Controlal la conenssione er prova di nuovo.</string>
     <string name="sns_content_default">Condividi foto</string>
     <string name="sns_toast_empty">Non puoi inviare un messaggio vuoto</string>

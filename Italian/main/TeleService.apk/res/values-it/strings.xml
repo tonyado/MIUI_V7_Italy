@@ -865,6 +865,10 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Internet, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Lo slot SIM 2 supporta solo reti GSM. LA rete preferita per questo slot è stata modificata in solo 2G.</string>
     <string name="msim_has_been_disabled">(Disattivato)</string>
+    <string name="msim_disable_sim_card_title">Non utilizzare più la SIM</string>
+    <string name="msim_disable_sim_card_summary_non_default_card">POtresti non essere più in grado di effettuare chiamate o utilizzare la connessione dati. Non utilizzare più la SIM %s?</string>
+    <string name="msim_disable_sim_card_summary_default_card">"Questa SIM è attualmente impostata com e predefinita. Se decidi di non utilizzarla più, non sarai più in grado di effettuare chiamate o utilizzare la connessione dati. Puoi smettere di utilizzare questa SIM dopo averne impostata un'altra come predefinita."</string>
+    <string name="msim_disable_sim_card_btn_text">OK</string>
     <string name="select_voice_call_sim">Prego scegliere</string>
     <string name="general_setting">Impostazioni</string>
     <string name="call_record_setting">Impostazioni registrazione chiamata</string>

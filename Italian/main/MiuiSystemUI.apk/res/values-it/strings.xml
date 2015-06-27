@@ -178,6 +178,9 @@ scorri in basso per bloccare"</string>
     <string name="status_bar_network_flow_limit">"   Limite mensile: %1$s"</string>
     <string name="drive_mode_tip">Modalità Auto - Guida con prudenza</string>
     <string name="no_notification_tips">Nessuna notifica</string>
+    <string name="expanded_notification_manager">Gestisci notifiche</string>
+    <string name="disable_notification_title">Blocca notifiche</string>
+    <string name="disable_notification_summary">Non mostrare mai notifiche per questa app.</string>
     <string name="notification_otg_mouse_in">Mouse connesso</string>
     <string name="notification_otg_keyboard_in">Tastiera connessa</string>
     <string name="notification_otg_gamestick_in">Gamepad connesso</string>
@@ -211,6 +214,7 @@ scorri in basso per bloccare"</string>
     <string name="battery_profiles">Profili utilizzo batteria</string>
     <string name="oldman_airplane_mode_text">aereo</string>
     <string name="oldman_incall_text">in chiamata</string>
+    <string name="notification_template_text">" ha un anotifica. Tocca per leggere."</string>
     <string name="audio_effect_settings">Imposta tipologia di cuffie</string>
     <string name="audio_effect_info">Ottimizza audio</string>
     <string name="audio_effect_custom">Imposta</string>
