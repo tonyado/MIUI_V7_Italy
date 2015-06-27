@@ -1027,7 +1027,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="cancel_import_dialog_message">"Fermare l'importazione dei contatti?"</string>
     <string name="title_paired_devices">Dispositivi accoppiati</string>
     <string name="title_other_devices">Altri dispositivi disponibili</string>
-    <string name="button_scan">Rieseguii scansione</string>
+    <string name="button_scan">Esegui di nuovo la scansione</string>
     <string name="button_cancel_scan">Ferma</string>
     <string name="device_other_title">Altro dispositivo</string>
     <string name="device_other_guide">Se il tuo dispositivo non è nella lista, segui i passi seguenti</string>
@@ -1039,7 +1039,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="device_import_progress_end_message">Importazione completata</string>
     <string name="device_import_progress_message">Importazione…</string>
     <string name="device_import_failed_message">Importazione fallita</string>
-    <string name="hint_distance"></string>
+    <string name="hint_distance" />
     <string name="hint_more_contact">Unisci contatti duplicati</string>
     <string name="device_import_account_dialog_title">Scegli un account</string>
     <string name="device_import_account_dialog_title_suffix">"

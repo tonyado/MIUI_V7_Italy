@@ -283,7 +283,6 @@
     <string name="face_beauty_age_alias_female_60_m">Donna 60+</string>
     <string name="simple_mode_button_text_face_beauty">Chiudi regolazione volto</string>
     <string name="pref_face_beauty_title">Modalità Bellezza</string>
-    <string name="pref_face_beauty_default">i:2</string>
     <string name="pref_face_beauty_close">i:0</string>
     <string name="pref_priority_storage_title">Salva su scheda SD</string>
     <string name="setting_top_text">Modalità fotocamera</string>
