@@ -17,7 +17,7 @@
     <string name="unknownName">(Sconosciuto)</string>
     <string name="untitled">&lt;senza nome></string>
     <string name="VideoView_error_button">OK</string>
-    <string name="VideoView_error_text_unknown">Spiacenti. Impossibile riprodurre il video.</string>
+    <string name="VideoView_error_text_unknown">Impossibile riprodurre il video.</string>
     <string name="VideoView_error_title">Impossibile riprodurre il video</string>
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attenzione</string>

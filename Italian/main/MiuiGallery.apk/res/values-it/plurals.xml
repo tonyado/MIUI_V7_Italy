@@ -5,32 +5,32 @@
         <item quantity="one">Eliminare %1$s album (%2$s totali)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Cancellare %s foto dal cloud?</item>
-        <item quantity="one">Cancellare %s foto dal cloud?</item>
+        <item quantity="other">Eliminare %s foto dal cloud?</item>
+        <item quantity="one">Eliminare %s foto dal cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Cancellare %s foto?</item>
-        <item quantity="one">Cancellare %s foto?</item>
+        <item quantity="other">Eliminare %s foto?</item>
+        <item quantity="one">Eliminare %s foto?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">Cancellare %s video dal cloud?</item>
-        <item quantity="one">Cancellare %s video dal cloud?</item>
+        <item quantity="other">Eliminare %s video da Mi Cloud?</item>
+        <item quantity="one">Eliminare %s video da Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">Cancellare %s video?</item>
-        <item quantity="one">Cancellare %s video?</item>
+        <item quantity="other">Eliminare %s video?</item>
+        <item quantity="one">Eliminare %s video?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Cancellare %s foto sia in locale che dal cloud?</item>
-        <item quantity="one">Cancellare %s foto sia in locale che dal cloud?</item>
+        <item quantity="other">Eliminare %s foto sia in locale che da Mi Cloud?</item>
+        <item quantity="one">Eliminare %s foto sia in locale che da Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Cancellare %s video sia in locale che dal cloud?</item>
-        <item quantity="one">Cancellare %s video sia in locale che dal cloud?</item>
+        <item quantity="other">Eliminare %s video sia in locale che da Mi Cloud?</item>
+        <item quantity="one">Eliminare %s video sia in locale che da Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
         <item quantity="other">Eliminare %1$d video da %2$d album?</item>
-        <item quantity="one">Delete %1$d video da %2$d album?</item>
+        <item quantity="one">Eliminare %1$d video da %2$d album?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d elementi</item>
@@ -55,8 +55,8 @@
         <item quantity="one">%d cartella</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">Non hai i permessi necessari per eliminare questi %d file.</item>
-        <item quantity="one">Non hai i permessi necessari per eliminare questo file</item>
+        <item quantity="other">Non hai i permessi per eliminare questi %d file.</item>
+        <item quantity="one">Non hai i permessi per eliminare questo file</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Puoi selezionare %d elementi</item>
