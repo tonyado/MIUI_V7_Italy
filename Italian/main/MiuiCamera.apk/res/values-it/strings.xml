@@ -206,7 +206,7 @@
     <string name="pref_camera_skinToneEnhancement_entry_disable">Disattiva</string>
     <string name="pref_camera_zsl_entry_off">Disattivato</string>
     <string name="pref_camera_zsl_entry_on">Attivato</string>
-    <string name="pref_camera_facedetection_title">Rilevamento volto</string>
+    <string name="pref_camera_facedetection_title">Rileva volti</string>
     <string name="pref_camera_hand_night_title">Notte</string>
     <string name="camera_settings_label">Fotocamera</string>
     <string name="pref_camera_settings_title">Impostazioni</string>
@@ -215,7 +215,7 @@
     <string name="pref_camera_volumekey_function_entry_shutter">Scatta foto</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_entry_exposure">Esposizione</string>
-    <string name="pref_camera_volumekey_function_title">Funzioni tasto volume</string>
+    <string name="pref_camera_volumekey_function_title">Comportamento tasti volume</string>
     <string name="error_fail_to_start_audio_capture">"Impossibile registrare audio: il microfono potrebbe essere in uso da un'altra applicazione."</string>
     <string name="toast_start_audio_capture">Riproduci un suono al momento dello scatto</string>
     <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
@@ -261,11 +261,11 @@
     <string name="face_analyze_info">%1$s, %2$s anni</string>
     <string name="face_analyze_info_male">Uomo</string>
     <string name="face_analyze_info_female">Donna</string>
-    <string name="face_beauty_intelligent_level_0">Disat.</string>
+    <string name="face_beauty_intelligent_level_0">Disatt.</string>
     <string name="face_beauty_intelligent_level_1">Basso</string>
     <string name="face_beauty_intelligent_level_2">Medio</string>
     <string name="face_beauty_intelligent_level_3">Alto</string>
-    <string name="pref_camera_show_gender_age_title">Rapporto riconoscimento volto</string>
+    <string name="pref_camera_show_gender_age_title">Rapporto riconoscimento volti</string>
     <string name="pref_camera_show_gender_age_entry_off">Disattivato</string>
     <string name="pref_camera_show_gender_age_entry_on">Mostra età e genere</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostra fascia di età</string>
