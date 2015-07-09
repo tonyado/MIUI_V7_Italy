@@ -2393,6 +2393,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="system_storage">Memoria interna</string>
     <string name="usage_log">Statistiche uso app</string>
     <string name="bluetooth_device_searchable">Visibile</string>
+    <string name="usb_charging_title">Velocizza la carica</string>
+    <string name="usb_charging_summary">Chiudi tutte le altre funzioni di connessione USB per velocizzare la carica.</string>
     <string name="usb_msd_title">Dispositivo di memorizzazione di massa</string>
     <string name="usb_msd_summary">Trasferimento file via Windows o OS X</string>
     <string name="usb_msd_driver_installer_title">Disco di installazione dei driver (MSD)</string>

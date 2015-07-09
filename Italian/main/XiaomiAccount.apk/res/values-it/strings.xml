@@ -303,6 +303,7 @@ Inserisci il codice di verifica contenuto nell'email"</string>
     <string name="get_phone_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questo numero. Aspetta 24 ore e riprova.</string>
     <string name="get_email_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questa email. Aspetta 24 ore e riprova.</string>
     <string name="mi_account_identity_title">Verifica la tua identità</string>
+    <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro Mi Account.</string>
     <string name="bind_settings">Account</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Collega account</string>
@@ -356,4 +357,7 @@ Inserisci il codice di verifica contenuto nell'email"</string>
     <string name="get_device_list_failed">Impossibile recuperare la lista dispositivi</string>
     <string name="delete_device_failed">Impossibile rimuovere il dispositivo</string>
     <string name="empty_device_list_notice">Nessun dispositivo</string>
+    <string name="account_vip_level">Livello Vip</string>
+    <string name="account_vip_task">Operazione</string>
+    <string name="vip_level_value">LV%d</string>
 </resources>
