@@ -112,6 +112,7 @@
     <string name="account_setup_failed_dlg_certificate_message">Impossibile connettersi in modo sicuro al server.</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Impossibile connettersi in modo sicuro al server.
 (%s)"</string>
+    <string name="account_setup_failed_dlg_device_locked">Il tuo indirizzo è stato bloccato dal dispositivo</string>
     <string name="account_setup_failed_dlg_edit_details_action">Modifica dettagli</string>
     <string name="account_setup_failed_dlg_server_message">Impossibile connettersi al server.</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Impossibile connettersi al server.
@@ -241,6 +242,8 @@
     <string name="attachment_mgr_name">Allegato</string>
     <string name="attachment_not_exists">Allegato non disponibile</string>
     <string name="attachment_not_found">"Impossibile scaricare l'allegato."</string>
+    <string name="attachment_open_SecurityException_hint">Verifica permessi, danni, etc.</string>
+    <string name="attachment_open_SecurityException_title">Impossibile aprire il file</string>
     <string name="attachment_stop_all">Interrompi</string>
     <string name="attachment_text">Testo</string>
     <string name="attachment_type_blocked">Purtroppo, non puoi salvare o aprire questo tipo di allegato.</string>
@@ -381,6 +384,7 @@
     <string name="dialog_account_auto_sync_setting_no_open">"Sincronizzazione mail disattivata, impossibile ricevere nuovi messaggi."</string>
     <string name="dialog_auto_download_failed">Impossibile completare il download automatico</string>
     <string name="dialog_auto_sync_setting_no_open">"La sincronizzazione è disattivata, impossibile ircevere nuovi messaggi."</string>
+    <string name="dialog_gmail_proxy_server_is_error">Errore del server proxy Gmail.</string>
     <string name="dialog_insufficient_space_for_single_account_on_internal">Spazio insufficiente per %s.</string>
     <string name="dialog_insufficient_space_on_external">Impossibile completare il download. Spazio insufficiente sull memoria esterna.</string>
     <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna on sufficiente</string>
@@ -772,13 +776,10 @@ CC: %4$s
     <string name="quote_divider_ks_web">________________________________________</string>
     <string name="quote_divider_qq_en">------------------ Originale ------------------</string>
     <string name="quote_divider_qq_zh">------------------ Messaggio originale ------------------</string>
-    <string name="quote_divider_wps_zh">Dal fondo di mail WPS</string>
-    <string name="quote_divider_wps_zh_hk">Dal fondo di email WPS</string>
-    <string name="quote_divider_xm_rsh">Отправлено с MiPhone</string>
-    <string name="quote_divider_xm_zh">Creato dal mio telefono Xiaomi</string>
-    <string name="quote_divider_xm_zh_hk">Creato dal mio telefono Xiaomi</string>
     <string name="quoted_text">Includi testo citato</string>
     <string name="quoted_text_label">Testo citato</string>
+    <string name="re_download_message_button">Tocca per scaricare di nuovo</string>
+    <string name="re_download_message_info">"Impossibile scaricare l'email"</string>
     <string name="read_string">Conversazione letta</string>
     <string name="recent_folders_heading">Cartelle recenti</string>
     <string name="recipient_needed">Aggiungi almeno un destinatario.</string>
@@ -855,6 +856,7 @@ CC: %4$s
     <string name="ser_resp_err_map_or">Oppure</string>
     <string name="ser_resp_err_map_pserr">Nome utente o password non corre</string>
     <string name="ser_resp_err_map_serclosed">Servizio chiuso</string>
+    <string name="ser_resp_err_map_serclosed_url_tag">Come risolvere?</string>
     <string name="ser_resp_err_map_ssl">"Prova a selezionare 'SSL/TLS (Accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
     <string name="set_network">Imposta rete</string>
     <string name="settings_activity_title">Impostazioni</string>
@@ -873,6 +875,7 @@ CC: %4$s
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
+    <string name="smtp_password_error">La password per il server di posta in uscita non è corretta</string>
     <string name="sort_attachment">Ordina per</string>
     <string name="status_network_error">Problema di connessione.</string>
     <string name="storage">Memoria</string>

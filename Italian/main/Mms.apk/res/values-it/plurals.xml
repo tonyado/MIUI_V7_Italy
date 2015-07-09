@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$s conversazioni verranno eliminate.</item>
-        <item quantity="one">Una conversazione verrà eliminata.</item>
+        <item quantity="other">Eliminare le %1$s conversazioni selezionate?</item>
+        <item quantity="one">Eliminare questa cinversazione?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s sec</item>
@@ -20,6 +20,16 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s contatti</item>
+        <item quantity="one">1 contatto</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d messaggi</item>
+        <item quantity="zero">0 messaggi</item>
+        <item quantity="one">1 messaggio</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d messaggi non sono statisincronizzati</item>
+        <item quantity="one">1 messaggio non è stato sincronizzato</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s messaggi</item>

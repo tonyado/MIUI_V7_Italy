@@ -39,6 +39,7 @@
     <string name="no_file">Nessun file</string>
     <string name="tab_category">Cerca</string>
     <string name="tab_path">CARTELLE</string>
+    <string name="tab_storage">ARCHIVIAZIONE</string>
     <string name="category_all">TUTTI</string>
     <string name="category_music">Musica</string>
     <string name="category_video">Video</string>
@@ -166,6 +167,7 @@
     <string name="decompress_success">Decompressione completata</string>
     <string name="decompress_fail">Decompressione fallita!</string>
     <string name="decompress_to_here">Decompressione…</string>
+    <string name="decompress_destination_error">Estrazione fallita: impossibile estrarre qui il file.</string>
     <string name="decompress_to">Decomprimi in:</string>
     <string name="decompress_confirm">Decomprimere?</string>
     <string name="decompress_cancel">Annulla</string>
@@ -339,4 +341,18 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="operation_agree">OK</string>
     <string name="never_notify_network_connect">Non chiedermi più</string>
     <string name="connect_network_setting_des">Chiedi quando accedo alla rete</string>
+    <string name="tab_source">APP</string>
+    <string name="tab_more">altro</string>
+    <string name="title_recent">Recenti</string>
+    <string name="title_more_source">Altre app</string>
+    <string name="expand_all">Tutto</string>
+    <string name="group_title">%2$s da %1$s</string>
+    <string name="sdcard">Scheda SD</string>
+    <string name="category_file">File</string>
+    <string name="sdcard_total">Totale %1$s</string>
+    <string name="sdcard_available">Disponibile %1$s</string>
+    <string name="archive_send_to">Invio a…</string>
+    <string name="wechat_video">Video a %s</string>
+    <string name="month_day_format">dd MMM</string>
+    <string name="year_month_day_format">dd MMM, yyyy</string>
 </resources>

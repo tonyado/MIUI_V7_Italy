@@ -408,6 +408,9 @@
     <string name="in_sms">Messaggio</string>
     <string name="sms_content">Contenuto del messaggio</string>
     <string name="hint_search_sms">%d sms</string>
+    <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
+    <string name="cloud_state_syncing">Sincronizzazione con Mi Cloud…</string>
+    <string name="cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
     <string name="search_show_more_results">Mostra altro</string>
     <string name="add_private_contact">Aggiungi Contatto privato</string>
     <string name="private_settings">Impostazioni Private</string>
@@ -508,6 +511,7 @@
     <string name="confirm_dlg__msg">Avviso CMCC: il servizio gratuito pos-service di CMCC non sarà fornito se annulli la registrazione al servizio. Sei certo di annullare?</string>
     <string name="alert_dlg_ok_button">OK</string>
     <string name="alert_dlg_cancel_button">Annulla</string>
+    <string name="cloud_recommend_msg">TOcca per sincronizzare i messaggi con Mi Cloud.</string>
     <string name="send_message_notification_tickerText">Richiesta di permessi per Gestione dispositivo</string>
     <string name="send_message_notification_title">Gestione dispositivo</string>
     <string name="send_message_notification_msg">Richiesta di permesso invio messaggio per Gestione dispositivo</string>
@@ -555,6 +559,7 @@
     <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>
     <string name="open_url_with_web">Aprire questo link nel browser?</string>
     <string name="block_messaging_entry_title">SMS bloccati</string>
+    <string name="mipub_messaging_entry_title">Mi Message</string>
     <string name="message_contact">Contatto:</string>
     <string name="message_number">Numero di telefono:</string>
     <string name="storage_dialog_mms">MMS: %d</string>

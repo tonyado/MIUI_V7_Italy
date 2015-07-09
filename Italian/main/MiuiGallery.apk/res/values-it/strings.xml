@@ -601,8 +601,9 @@ con gli amici"</string>
     <string name="auto_upload_guide_msssage">" "<Data> Carica automaticamente le foto dalle applicazioni a Mi Cloud. Controlla in Impostazioni > Galleria > Album Mi Cloud > Carica automaticamente. </Data>" "</string>
     <string name="not_now">Non adesso</string>
     <string name="go_setting">Vai alle impostazioni</string>
-    <string name="face_albumset_use_tip">Riconosce e organizza i volti delle persone, rendendo più semplice la visualizzazione e la gestione delle foto</string>
-    <string name="face_albumset_detecting_tip">Rilevo i volti… a breve potrai sfogliare gli album organizzati per volti</string>
+    <string name="face_albumset_use_tip">"Riconosce e organizza i volti delle persone, 
+rendendo più semplice la visualizzazione e la gestione delle foto"</string>
+    <string name="face_albumset_detecting_tip">Rilevazione dei volti… a breve potrai sfogliare gli album organizzati per volti</string>
     <string name="face_albumset_empty">"Nessun volto rilevato, scatta altre foto"</string>
     <string name="start_to_use_face_albumset">Attiva riconoscimento Volti</string>
     <string name="enabling_face_feature">Attivazione…</string>
@@ -630,10 +631,8 @@ con gli amici"</string>
     <string name="face_move_dialog_title">Scegli un album con volto</string>
     <string name="confirm_face">Corrispondenza</string>
     <string name="confirm_not_face">Non è questa persona</string>
-    <string name="confirm_left_photo_will_move_out">%s non compare in nessuna delle foto rimanenti?</string>
-    <string name="confirm_left_photo_will_move_in">%s compare in tutte le foto rimanenti?</string>
-    <string name="confirm_all_photo_are_this_people_face">Associare tutte le foto a questa persona?</string>
-    <string name="confirm_all_photo_not_this_people_face">Nessuna corrispondenza?</string>
+    <string name="recommanded_face_added_tip">Aggiunto a \"%s\"</string>
+    <string name="recommanded_face_abandon_tip">Rimuovi dai suggeriti</string>
     <string name="face_album_long_tap_tip">"Per selezionare più persone o modificare le impostazioni di gruppo, tieni premuta un'immagine profilo"</string>
     <string name="last_valentine_day">Ultimo giorno di San Valentino</string>
     <string name="last_new_year">Ultimo Capodanno</string>

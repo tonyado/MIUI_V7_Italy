@@ -48,4 +48,20 @@
         <item quantity="few">%1$d selezionati</item>
         <item quantity="many">%1$d selezionati</item>
     </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d elementi)</item>
+        <item quantity="zero"> (%1$d elementi)</item>
+        <item quantity="one"> (%1$d elemento)</item>
+        <item quantity="two"> (%1$d elementi)</item>
+        <item quantity="few"> (%1$d elementi)</item>
+        <item quantity="many"> (%1$d elementi)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d elementi)</item>
+        <item quantity="zero"> (%1$d elementi)</item>
+        <item quantity="one"> (%1$d elemento)</item>
+        <item quantity="two"> (%1$d elementi)</item>
+        <item quantity="few"> (%1$d elementi)</item>
+        <item quantity="many"> (%1$d elementi)</item>
+    </plurals>
 </resources>

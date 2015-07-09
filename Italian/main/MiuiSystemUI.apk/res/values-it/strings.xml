@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!--This Italian translation is licensed under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="app_label">UI di sistema</string>
     <string name="status_bar_no_recent_apps">Nessuna applicazione in esecuzione</string>
@@ -116,6 +117,9 @@ scorri in basso per bloccare"</string>
     <string name="user_guide_for_notification">Hai ricevuto una nuova notifica, trascina in basso la barra di stato per vedere i dettagli</string>
     <string name="user_guide_for_toggle">La lista dei comandi può essere spostata lateralmente</string>
     <string name="user_guide_for_toggle_list">Premi qui per personalizzare la lista comandi</string>
+    <string name="activate_usb_title">Attiva USB</string>
+    <string name="activate_usb_message">Per attivare questa funzione inserisci la SIM.</string>
+    <string name="usb_function_charging_text">Collegato in modalità carica</string>
     <string name="return_to_incall_screen">Premi qui per tornare alla chiamata</string>
     <string name="call_status_dialing">Composizione</string>
     <string name="call_status_ringing">Chiamata in corso</string>
