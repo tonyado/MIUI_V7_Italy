@@ -1489,9 +1489,9 @@ Utilizzare un volume molto alto per lunghi periodi può danneggiare l'udito."</s
     <string name="mediasize_iso_c9">ISO C9</string>
     <string name="mediasize_iso_c10">ISO C10</string>
     <string name="mediasize_na_letter">Lettera</string>
-    <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
+    <string name="mediasize_na_gvrnmt_letter">Lettera governativa</string>
     <string name="mediasize_na_legal">Legale</string>
-    <string name="mediasize_na_junior_legal">Legale 'junior'</string>
+    <string name="mediasize_na_junior_legal">Legale \'junior\'</string>
     <string name="mediasize_na_ledger">Ledger</string>
     <string name="mediasize_na_tabloid">Tabloid</string>
     <string name="mediasize_na_index_3x5">Scheda 7,6 x 12,7 cm</string>
