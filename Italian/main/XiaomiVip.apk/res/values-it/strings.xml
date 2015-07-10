@@ -41,7 +41,7 @@
     <string name="task_limit">Nessuna operazione rimanente per oggi, a domani!</string>
     <string name="no_task">Tutte le operazioni sono state completate</string>
     <string name="fail_reach_server">Impossibile collegarsi al server</string>
-    <string name="no_app">""Prima installa l'applicazione"</string>
+    <string name="no_app">"Prima installa l'applicazione"</string>
     <string name="use">Utilizza</string>
     <string name="already_used">Utilizzato</string>
     <string name="unlimited_task">Operazioni speciali</string>
