@@ -1555,7 +1555,6 @@ Utilizzare un volume molto alto per lunghi periodi può danneggiare l'udito."</s
     <string name="restr_pin_error_too_short">Il PIN è troppo corto. Deve avere almeno quattro cifre.</string>
     <string name="restr_pin_try_later">Riprova più tardi</string>
     <string name="immersive_mode_confirmation">"Scorri dall'alto verso il basso per uscire dalla modalità schermo intero."</string>
-    <string name="transient_navigation_confirmation">Scorri bordo schermo per visual. barra</string>
     <string name="transient_navigation_confirmation_long">Fai scorrere il dito dal bordo dello schermo per visualizzare la barra di sistema</string>
     <string name="stk_cc_ussd_to_dial">Richiesta USSD modificata in richiesta DIAL.</string>
     <string name="stk_cc_ussd_to_ss">Richiesta USSD modificata in richiesta SS.</string>
