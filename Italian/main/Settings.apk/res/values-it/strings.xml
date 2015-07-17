@@ -42,7 +42,7 @@
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
-    <string name="music_title_dolby_control"DOLBY</string>
+    <string name="music_title_dolby_control">DOLBY</string>
     <string name="music_dolby_mode_off">Disattivato</string>
     <string name="music_dolby_mode_music">Musica</string>
     <string name="music_dolby_mode_movie">Film</string>

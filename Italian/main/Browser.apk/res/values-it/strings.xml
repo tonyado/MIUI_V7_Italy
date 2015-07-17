@@ -163,7 +163,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="cloud_sync_closed_toast">Impossibile aggiornare perché la sincronizzazione è disattivata</string>
     <string name="close_cloud_tab_tip">Chiudere la scheda cloud su %s?</string>
     <string name="search_label">Browser</string>
-    <string name="homepage_base">https://www.google.com/webhp?client={CID}&source=android-home</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>
