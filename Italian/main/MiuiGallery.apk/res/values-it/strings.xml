@@ -601,8 +601,7 @@ con gli amici"</string>
     <string name="auto_upload_guide_msssage">" "<Data> Carica automaticamente le foto dalle applicazioni a Mi Cloud. Controlla in Impostazioni > Galleria > Album Mi Cloud > Carica automaticamente. </Data>" "</string>
     <string name="not_now">Non adesso</string>
     <string name="go_setting">Vai alle impostazioni</string>
-    <string name="face_albumset_use_tip">"Riconosce e organizza i volti delle persone, 
-rendendo più semplice la visualizzazione e la gestione delle foto"</string>
+    <string name="face_albumset_use_tip">Riconosce e organizza i volti delle persone, rendendo più semplice la visualizzazione e la gestione delle foto</string>
     <string name="face_albumset_detecting_tip">Rilevazione dei volti… a breve potrai sfogliare gli album organizzati per volti</string>
     <string name="face_albumset_empty">"Nessun volto rilevato, scatta altre foto"</string>
     <string name="start_to_use_face_albumset">Attiva riconoscimento Volti</string>
@@ -656,6 +655,8 @@ rendendo più semplice la visualizzazione e la gestione delle foto"</string>
     <string name="event_create_long_photo">Creazione foto…</string>
     <string name="wechat_timeline_title">Cronologia WeChat</string>
     <string name="share_title_more">Altro</string>
+    <string name="download_without_wifi_title">Avviso utilizzo dati</string>
+    <string name="download_without_wifi_msg">"L'utilizzo della connessione dati mobile per il downlaod delle foto farà incrementare il tuo consumo di dati. Se superi il limite previsto dal tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
     <string name="paint_crop_tips">"Per ritagliare un'immagine, puoi spostare e ridimensionare il riquadro sulle parte interessata"</string>
     <string name="saturation_abbr">S</string>
     <string name="highlight_abbr">H</string>

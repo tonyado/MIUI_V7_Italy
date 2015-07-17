@@ -4,6 +4,7 @@
     <string name="dialog_confirm_delete_the_download_item_message">Eliminare questi</string>
     <string name="dialog_confirm_delete_checkbox_message">Elimina anche i file locali</string>
     <string name="download_when_network_connected">Scarica utilizzando la rete dati mobile</string>
+    <string name="show_more">Altro(%s)</string>
     <string name="download_paused">Download in pausa</string>
     <string name="download_pending">Download in attesa</string>
     <string name="download_wait_connect">Download in attesa della connessione</string>
@@ -39,8 +40,11 @@
     <string name="pref_summary_max_bytes_limit_format">Chiedi autorizzazione se il file supera i %s</string>
     <string name="pref_summary_any_bytes_popup">Metti sempre in coda con rete Wi-Fi</string>
     <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
+    <string name="download">Download</string>
     <string name="download_in_process">In corso</string>
     <string name="download_complete">Scaricati</string>
+    <string name="downloading_empty">Nessun contenuto in download</string>
+    <string name="downloaded_empty">Nessun contenuto in download</string>
     <string name="download_speed_null" />
     <string name="download_list_get_free_vip">Prova Xunlei</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Sessione di prova Xunlei creata</string>

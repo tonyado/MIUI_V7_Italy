@@ -298,6 +298,14 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="call_transfer_block">Blocco chiamate inoltrate</string>
     <string name="call_transfer_block_type">Blocca chiamate inoltrate</string>
     <string name="call_transfer_info">Blocca chiamate inoltrate da numeri sconosciuti</string>
+    <string name="repeated_marked_number_title">Non bloccare chiamate segnalate più volte</string>
+    <string name="repeated_marked_number_summary">Non bloccare la seconda chiamata dallo stesso numero entro 3 minuti.</string>
+    <string name="mark_fraud_time_setting">Blocca i numeri segnalati come fraudolenti più di un certo numero di volte</string>
+    <string name="mark_agent_time_setting">Blocca i numeri segnalati come telemarketing più di un certo numero di volte</string>
+    <string name="mark_sell_time_setting">Blocca i numeri segnalati come venditori più di un certo numero di volte</string>
+    <string name="mark_harass_time_setting">Blocca i numeri segnalati come indesiderati più di un certo numero di volte</string>
+    <string name="mark_time_text">%d</string>
+    <string name="mark_time_setting_dialog_title">Reported times settings</string>
     <string name="sms_smart_engine_update">Aggiorna automaticamente il filtro SMS</string>
     <string name="mark_number_setting_guide_title">Blocca i numeri segnalati</string>
     <string name="mark_number_setting_guide_content1">Bloccare le chiamate dai numeri segnalati?</string>

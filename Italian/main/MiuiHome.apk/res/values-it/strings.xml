@@ -53,6 +53,7 @@
     <string name="status_paused">In pausa</string>
     <string name="status_downloaded">Scaricato</string>
     <string name="status_installing">Installazione</string>
+    <string name="app_already_exist">App già esistente</string>
     <string name="loading_desktop">Caricamento launcher</string>
     <string name="loading_wallpaper">Attendere…</string>
     <string name="start_activity_failed">Avvio non riuscito, riprova</string>
@@ -149,6 +150,7 @@
     <string name="global_search_hint">Inserire le parole da cercare</string>
     <string name="widget_global_search">Ricerca Globale</string>
     <string name="gadget_clear_button_label">Termina processi</string>
+    <string name="gadget_power_clear_button_label">Super Cleaner</string>
     <string name="gadget_clock_label">Orologio</string>
     <string name="gadget_clock_12_label">Orologio 1x2</string>
     <string name="gadget_clock_22_label">Orologio 2x2</string>
@@ -239,4 +241,9 @@
     <string name="app_category_sport">Sport</string>
     <string name="app_category_health">Salute</string>
     <string name="app_category_productivity">Produttività</string>
+    <string name="recommend_apps_notice">App consigliate</string>
+    <string name="recommend_apps_switch_title">App consigliate</string>
+    <string name="recommend_apps_switch_summary">MOstra le app consigliate in fondo allo schermo</string>
+    <string name="recommend_apps_default_title">Vuoto</string>
+    <string name="recommend_apps_tips">Questa funzione deve collegarsi ad internet per funzionare correttamente. Per disattivare questa funzione tocca il nome della cartella.</string>
 </resources>

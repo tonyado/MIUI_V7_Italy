@@ -37,10 +37,12 @@
     <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
     <string name="music_dirac_mode_piston_basic">Edizione Base</string>
     <string name="music_dirac_mode_piston_standard">Edizione standard</string>
+    <string name="music_dirac_mode_piston_youth">Youth Edition</string>
+    <string name="music_dirac_mode_headset">Mi Headphone</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
-    <string name="music_title_dolby_control">DOLBY</string>
+    <string name="music_title_dolby_control"DOLBY</string>
     <string name="music_dolby_mode_off">Disattivato</string>
     <string name="music_dolby_mode_music">Musica</string>
     <string name="music_dolby_mode_movie">Film</string>
@@ -2277,6 +2279,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="battery_settings">Batteria</string>
     <string name="battery_settings_title">Batteria</string>
     <string name="power_center">Consumo</string>
+    <string name="power_hide_mode_title">Modalità Nascosta</string>
+    <string name="power_hide_mode_summary">"Controllo dell'attività in background delle app, consente un significante risparmio di batteria</string>
     <string name="battery_indicator_style">Indicatore batteria</string>
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
