@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
+<resources>
+    <string-array name="wifi_proxy_settings">
+        <item>Nessuno</item>
+        <item>Manuale</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Posizione</item>
+        <item>Personali</item>
+        <item>Messaggi</item>
+        <item>Contenuti multimediali</item>
+        <item>Dispositivo</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>posizione approssimativa</item>
+        <item>posizione precisa</item>
+        <item>GPS</item>
+        <item>vibrazione</item>
+        <item>lettura contatti</item>
+        <item>modifica dei contatti</item>
+        <item>lettura del registro chiamate</item>
+        <item>modifica del registro chiamate</item>
+        <item>lettura calendario</item>
+        <item>modifica del calendario</item>
+        <item>scansione Wi-Fi</item>
+        <item>notifica</item>
+        <item>scansione cell</item>
+        <item>chiamate telefono</item>
+        <item>lettura SMS</item>
+        <item>scrittura SMS</item>
+        <item>ricezione SMS</item>
+        <item>ricezione SMS di emergenza</item>
+        <item>ricezione MMS</item>
+        <item>ricezione push WAP</item>
+        <item>invio SMS</item>
+        <item>lettura SMS ICC</item>
+        <item>scrittura SMS ICC</item>
+        <item>modifica delle impostazioni</item>
+        <item>traccia in alto</item>
+        <item>accesso a notifiche</item>
+        <item>fotocamera</item>
+        <item>registrazione audio</item>
+        <item>riproduzione audio</item>
+        <item>lettura degli appunti</item>
+        <item>modifica degli appunti</item>
+        <item>pulsanti contenuti multimediali</item>
+        <item>focus audio</item>
+        <item>volume principale</item>
+        <item>volume voce</item>
+        <item>volume suoneria</item>
+        <item>volume media</item>
+        <item>volume allarme</item>
+        <item>volume notifiche</item>
+        <item>volume bluetooth</item>
+        <item>mantieni attivo</item>
+        <item>monitora posizione</item>
+        <item>monitora localizzazione a consumo elevato</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Posizione</item>
+        <item>Posizione</item>
+        <item>Posizione</item>
+        <item>Vibrazione</item>
+        <item>Lettura contatti</item>
+        <item>Modifica dei contatti</item>
+        <item>Lettura del registro chiamate</item>
+        <item>Modifica del registro chiamate</item>
+        <item>Lettura calendario</item>
+        <item>Modifica del calendario</item>
+        <item>Posizione</item>
+        <item>Pubblicazione notifica</item>
+        <item>Posizione</item>
+        <item>Chiamate telefono</item>
+        <item>Lettura di SMS/MMS</item>
+        <item>Scrittura di SMS/MMS</item>
+        <item>Ricezione SMS/MMS</item>
+        <item>Ricezione SMS/MMS</item>
+        <item>Ricezione SMS/MMS</item>
+        <item>Ricezione SMS/MMS</item>
+        <item>Invio SMS/MMS</item>
+        <item>Lettura di SMS/MMS</item>
+        <item>Scrittura di SMS/MMS</item>
+        <item>Modifica delle impostazioni</item>
+        <item>Traccia in alto</item>
+        <item>Accesso a notifiche</item>
+        <item>Fotocamera</item>
+        <item>Registrazione audio</item>
+        <item>Riproduzione audio</item>
+        <item>Lettura degli appunti</item>
+        <item>Modifica degli appunti</item>
+        <item>Pulsanti media</item>
+        <item>Focus audio</item>
+        <item>Volume principale</item>
+        <item>Volume voce</item>
+        <item>Volume suoneria</item>
+        <item>Volume media</item>
+        <item>Volume allarme</item>
+        <item>Volume notifiche</item>
+        <item>Volume Bluetooth</item>
+        <item>Mantieni attivo</item>
+        <item>Posizione</item>
+        <item>Geolocalizzazione</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Breve</item>
+        <item>Medio</item>
+        <item>Lungo</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Predefinito</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Medio</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Nessuno</item>
+        <item>Contorno</item>
+        <item>Ombreggiatura</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Bianco su nero</item>
+        <item>Nero su bianco</item>
+        <item>Giallo su nero</item>
+        <item>Giallo su blu</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Usa Dalvik</item>
+        <item>Usa ART</item>
+        <item>Usa la build di debug ART</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Non verificare mai</item>
+        <item>Verifica solo per contenuti DRM</item>
+        <item>Verifica sempre</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Non utilizzare mai la verifica HDCP</item>
+        <item>Usa la verifica HDCP solo per contenuti DRM</item>
+        <item>Usa sempre la verifica HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animazione disattivata</item>
+        <item>Scala animazione 0,5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1,5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animazione disattivata</item>
+        <item>Scala animazione 0,5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1,5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animazione disattivata</item>
+        <item>Scala animazione 0,5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1,5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nessuno</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (sicuro)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (sicuro)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (sicuro)</item>
+        <item>1280x720 tvdpi a 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nessuna</item>
+        <item>Logcat</item>
+        <item>Systrace (grafica)</item>
+        <item>Stack di chiamate su glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Disattivo</item>
+        <item>Area ritaglio non rettangolare blu</item>
+        <item>Evidenzia cmd disegno test in verde</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Disattivo</item>
+        <item>Su schermo sotto forma di barre</item>
+        <item>Su schermo sotto forma di linee</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Disattivo</item>
+        <item>Mostra aree overdraw</item>
+        <item>Mostra aree con deuteranomalia</item>
+        <item>Mostra contatore overdraw</item>
+    </string-array>
+</resources>
