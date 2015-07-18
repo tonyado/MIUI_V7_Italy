@@ -12,7 +12,7 @@
     <string name="yellow_page_unable_send_sms">Impossibile inviare SMS</string>
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi Pad</string>
-    <string name="device_xiaomi">Mi Pad</string>
+    <string name="device_xiaomi">Mi Phone</string>
     <string name="miui_device_name">Dispositivo MIUI</string>
     <string name="solar_calendar"/>
     <string name="lunar_calendar"/>
