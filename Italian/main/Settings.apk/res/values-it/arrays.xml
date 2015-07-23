@@ -438,11 +438,6 @@
         <item>Medio</item>
         <item>Leggero</item>
     </string-array>
-    <string-array name="media_feedback_level_entries">
-        <item>Forte</item>
-        <item>Medio</item>
-        <item>Leggero</item>
-    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>
         <item>Percentuale</item>
@@ -598,12 +593,6 @@
     <string-array name="phone_call_noise_suppression_title">
      <item>Riduzione rumore a singolo microfono</item>
     <item>Riduzione rumore a doppio microfono</item>
-    </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Sblocca col sorriso</item>

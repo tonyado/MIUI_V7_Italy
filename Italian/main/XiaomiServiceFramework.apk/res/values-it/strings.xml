@@ -86,5 +86,4 @@ Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</s
     <string name="activate_feature_mms_sync">Sincronizza MMS</string>
     <string name="activate_feature_call_log_sync">Sincronizza registro chiamate</string>
     <string name="activate_feature_find_device">Trova dispositivo</string>
-    <string name="activate_sms_postfix">Questo SMS è utilizzato per attivare il tuo dispositivo Xiaomi.</string>
 </resources>

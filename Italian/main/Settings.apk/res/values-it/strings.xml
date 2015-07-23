@@ -663,9 +663,6 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_scan_always_turnon_message">"Per migliorare la precisione della posizione e per altri scopi, %1$s chiede di attivare la ricerca della rete, anche quando il Wi-Fi è disattivato.
 
 Consetirlo a tutte le app che vogliono eseguire la ricerca?"</string>
-    <string name="wifi_scan_always_turnon_message">"Per milgiorare la precisione della posizione per altri scopi, %1$s vuole attivare la scansione di rete, anche quando il Wi.Fi è attivato.
-
-Consentire a tutte le app che vogliono eseguire la scansione?"</string>
     <string name="wifi_scan_always_confirm_allow">Consenti</string>
     <string name="wifi_scan_always_confirm_deny">Rifiuta</string>
     <string name="wifi_connect">Connetti</string>
