@@ -250,6 +250,7 @@
     <string name="score_pts">%</string>
     <string name="btn_text_start_check">Verifica</string>
     <string name="btn_text_quick_cleanup">Pulizia</string>
+    <string name="btn_text_power_cleanup">Pulizia potenziata</string>
     <string name="btn_text_quick_scan">Scansiona</string>
     <string name="btn_text_done">Fatto</string>
     <string name="btn_text_quick_optimize">Ottimizza</string>
@@ -576,4 +577,5 @@
     <string name="month_report_network_dialog_title">Impossibile recuperare le informazioni del rapporto</string>
     <string name="month_report_network_dialog_description">Consenti a questa applicazione di collegarsi ad internet per recuperare le informazioni sul rapporto?</string>
     <string name="month_report_network_dialog_positive">Consenti</string>
+    <string name="history_details_title">Dettagli cronologia</string>
 </resources>

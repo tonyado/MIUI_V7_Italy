@@ -58,8 +58,8 @@
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
     <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
-    <string name="status_bar_settings_show_keyguard_notification">Mostra banner notifiche</string>
-    <string name="status_bar_settings_show_keyguard_notification_summary">Mostra il banner notifiche nella lockscreen e in ogni altro punto</string>
+    <string name="status_bar_settings_show_keyguard_notification">Notifiche mobili e lockscreen</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary" />
     <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
     <string name="status_bar_settings_notification_led">Luce di notifica</string>
     <string name="status_bar_settings_notification_bar">Barra notifiche</string>
@@ -78,6 +78,7 @@
     <string name="status_bar_settings_show_carrier">Mostra operatore</string>
     <string name="status_bar_settings_custom_carrier">"Modifica il nome dell'operatore"</string>
     <string name="status_bar_settings_no_carrier">Nessuna</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_show_carrier_summary">Mostra solo nella schermata di blocco</string>
     <string name="status_bar_settings_show_wifi_name">Mostra Wi-Fi</string>
     <string name="status_bar_settings_custom_wifi_name">Modifica nome rete Wi-Fi</string>
@@ -662,6 +663,9 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_scan_always_turnon_message">"Per migliorare la precisione della posizione e per altri scopi, %1$s chiede di attivare la ricerca della rete, anche quando il Wi-Fi è disattivato.
 
 Consetirlo a tutte le app che vogliono eseguire la ricerca?"</string>
+    <string name="wifi_scan_always_turnon_message">"Per milgiorare la precisione della posizione per altri scopi, %1$s vuole attivare la scansione di rete, anche quando il Wi.Fi è attivato.
+
+Consentire a tutte le app che vogliono eseguire la scansione?"</string>
     <string name="wifi_scan_always_confirm_allow">Consenti</string>
     <string name="wifi_scan_always_confirm_deny">Rifiuta</string>
     <string name="wifi_connect">Connetti</string>
@@ -695,7 +699,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_dns2">DNS 2</string>
     <string name="wifi_gateway">Gateway</string>
     
-    <string name="wifi_network_prefix_length">Lunghezza prefisso rete</string>
+    <string name="wifi_network_prefix_length">Lunghezza prefisso</string>
     <string name="wifi_p2p_settings_title">Wi‑Fi Direct</string>
     <string name="wifi_p2p_device_info">Informazioni dispositivo</string>
     <string name="wifi_p2p_persist_network">Memorizza questa connessione</string>
@@ -3001,4 +3005,5 @@ Disabilitare le finestre flottanti?"</string>
     <string name="choose_smartcover_type">Seleziona la tipologia di case</string>
     <string name="normal_smartcover_title">Front cover oscurata</string>
     <string name="smallwindow_smartcover_title">Front cover trasparente</string>
+    <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
 </resources>

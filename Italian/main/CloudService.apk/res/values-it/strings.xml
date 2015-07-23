@@ -85,9 +85,13 @@ Se cambi SIM, verrà inviato automaticamente un altro SMS per attivare questa fu
 
 Puoi attivare e disattivare questa funzione in qualsiasi momento nelle Impostazioni."</string>
     <string name="mx_dspt_provision_with_voip">Chiama gratuitamente altri utenti MIUI utilizzando al tua connessione Internet. Puoi attivare o disattivare questa funzione in qualsiasi momento nelle Impostazioni.</string>
+    <string name="mx_dspt_provision_with_voip2">Informativa sulla Privacy</string>
     <string name="mx_dspt_provision_privacy">"Questo servizio potrebbe richiedere il tuo numero. Il tuo operatore potrebbe addebitarti dei costi per l'SMS utilizzato per l'attivazione del servizio.
 
 Questa funziona crittografa ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"Questo servizio potrebbe richiedere il tuo numero. Il tuo operatore potrebbe addebitarti dei costi per l'SMS utilizzato per l'attivazione del servizio.
+
+Questa funziona crittografa ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>"</string>
     <string name="user_agreement_p6">"
 L'utilizzo di questa funzione è soggetto a "</string>
     <string name="user_agreement_p7">"Condizioni di Utilizzo Mi Cloud"</string>

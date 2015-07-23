@@ -6,8 +6,8 @@
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
-    <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora.
-</string>
+    <string name="sdcard_not_mounted_dialog_message">"Inserisci una scheda SD ora.
+"</string>
     <string name="resource_mute">Nessuna</string>
     <string name="resource_default">Suoneria predefinita</string>
     <string name="resource_ringtone_default">Suonerie</string>
@@ -357,4 +357,7 @@
     <string name="gift_received_list_empty">Non hai ricevuto alcun regalo.</string>
     <string name="gift_received_notification_title">%s ti ha regalato un tema.</string>
     <string name="vip_level_value">LV%d</string>
+    <string name="present_online_themes">Online</string>
+    <string name="present_local_themes">Scaricati</string>
+    <string name="choose_new_themes">Nuovi temi</string>
 </resources>

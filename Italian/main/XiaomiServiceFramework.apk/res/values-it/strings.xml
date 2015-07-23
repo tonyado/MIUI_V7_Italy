@@ -52,7 +52,9 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_popup_desc_new_2_sim_cards">"Le tue SIM sono cambiate. Verranno inviati due SMS per attivare le 2 nuove SIM in modo da abilitare funzioni come %s (costi legati all'operatore)"</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">"Le tue SIM sono cambiate. Verranno inviati due SMS internazionali per attivare le 2 SIM in modo da abilitare funzioni come %s (costi legati all'operatore)"</string>
     <string name="activate_popup_desc_new_sim_card_downlink">La tua SIM è cambiata. Inserisci il numero della SIM in modo da abilitare funzioni come %s</string>
-    <string name="activate_popup_title_register_account">Registra account</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">". VoIP è supportao da Weihui. Leggi la documentazione relativa a Weihui: "</string>
+    <string name="activate_popup_desc_voip_privacy">Informativa sulla Privacy</string>
+    <string name="activate_popup_title_register_account">Crea Mi Account</string>
     <string name="activate_popup_desc_register_account">Verrà inviato un SMS per registrare il tuo Account Mi</string>
     <string name="activate_popup_desc_register_account_intl">Verrà inviato un SMS internazionale per registrare il tuo Account Mi</string>
     <string name="activate_popup_desc_register_account_downlink">Inserisci il numero della tua SIM per registrare il tuo Account Mi</string>
@@ -80,7 +82,9 @@ Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</s
 Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">Riprova</string>
     <string name="activate_feature_mx">Messaggi Mi Cloud gratuiti</string>
+    <string name="activate_feature_mx_and_voip">Mi Message e Voce</string>
     <string name="activate_feature_mms_sync">Sincronizza MMS</string>
     <string name="activate_feature_call_log_sync">Sincronizza registro chiamate</string>
     <string name="activate_feature_find_device">Trova dispositivo</string>
+    <string name="activate_sms_postfix">Questo SMS è utilizzato per attivare il tuo dispositivo Xiaomi.</string>
 </resources>

@@ -36,6 +36,7 @@
     <string name="restore_telephony_hit">"(Nota: Il processo di ripristino riavvierà l'applicazione Telefono)"</string>
     <string name="restore_launcher_layout_hit">(Nota: Ripristina il layout del launcher)</string>
     <string name="settings_summary">Backup impostazioni telefono e messaggi</string>
+    <string name="camera_summary">Impostazioni fotocamera (non comprende le foto)</string>
     <string name="account_summary">Backup Gmail, Email e Account Xiaomi</string>
     <string name="cloud_app_name">Backup Online</string>
     <string name="cloud_home_title">Online</string>

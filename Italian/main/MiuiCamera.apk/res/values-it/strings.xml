@@ -228,7 +228,6 @@
     <string name="simple_mode_button_text_hand_night">Esci dalla modalità notte</string>
     <string name="simple_mode_button_text_panorama">Esci dalla modalità panorama</string>
     <string name="simple_mode_button_text_color_effect">Chiudi filtro</string>
-    <string name="simple_mode_button_text_audio_capture">Esci dalla modalità scatto vocale</string>
     <string name="simple_mode_button_text_slow_video">Esci dalla modalità time-lapse</string>
     <string name="simple_mode_button_text_fast_video">Esci dalla modalità slow-motion</string>
     <string name="pref_video_captrue_ability_title">Modalità cattura</string>
@@ -347,4 +346,7 @@
     <string name="pref_camera_peak_entry_on">Attivato</string>
     <string name="pref_camera_gradienter_title">Prospettiva</string>
     <string name="simple_mode_button_text_gradienter">Disattiva Prospettiva</string>
+    <string name="confirm_recording_fail_title">Impossibile registrare</string>
+    <string name="confirm_recording_fail_calling_alert">Impossibile registrare durante la chiamata</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">"Un'altra applicazione potrebbe utilizzare il microfono per la registrazine in questo momento."</string>
 </resources>

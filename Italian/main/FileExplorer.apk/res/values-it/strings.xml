@@ -355,4 +355,6 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="wechat_video">Video a %s</string>
     <string name="month_day_format">dd MMM</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
+    <string name="operation_del_fav">Rimozione dai preferiti…</string>
+    <string name="operation_add_fav">Aggiunto ai preferiti…</string>
 </resources>

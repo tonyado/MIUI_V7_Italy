@@ -362,8 +362,9 @@
     <string name="timed_message_in_total">… (%d in totale)</string>
     <string name="processing">Elaborazione…</string>
     <string name="title_date_type">Orario messaggio</string>
-    <string name="mx_msg">Messaggi cloud</string>
-    <string name="mx_enable">Abilita messaggi cloud</string>
+    <string name="mx_msg">Mi Message</string>
+    <string name="mx_enable">Mi Message</string>
+    <string name="mx_enable_ex">Mi Message e Voce</string>
     <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
     <string name="mx_on_sim_2">Mi Message SIM slot 2</string>
     <string name="mx_btn_enable">Attiva</string>
@@ -534,8 +535,10 @@
     <string name="view_hms_attachment_fail">Impossibile scaricare immagine</string>
     <string name="mx_type_guide">Invia e ricevi messaggi gratuitamente con gli utenti che utilizzano questa funzione</string>
     <string name="mx_dspt_provision">Mi Cloud Message ti consente di inviare messaggi ad altri utenti MIUI senza costi. Il tuo operatore potrebbe addebitarti il costo di un SMS necessario per attivare questo servizio.</string>
-    <string name="mx_activate_user_agreement_p1">"Utilizzando questo servizio, accetti "</string>
-    <string name="mx_activate_dlg_title">Attiva Mi Cloud Message</string>
+    <string name="mx_dspt_provision_ex">"Invia messaggi e chiama altri utenti MIUI senza costi aggiuntivi con il tuo operatore. VoIP supportato da Weihui. Leggi l'informativa sulla privacy di Weihui."</string>
+    <string name="mx_dspt_provision_ex2">Informativa sulla privacy</string>
+    <string name="mx_activate_dlg_title">Attiva Mi Message</string>
+    <string name="mx_activate_dlg_title_ex">Attiva Mi Message e Voce</string>
     <string name="resource_price_free">Gratis</string>
     <string name="menu_send_as_common">Invia come SMS</string>
     <string name="message_sent">Inviato</string>
@@ -570,7 +573,8 @@
     <string name="storage_dialog_available_space">Spazio disponibile:</string>
     <string name="storage_unavailable">Spazio non disponibile</string>
     <string name="security_alert_desc">"Il mittente non è tra i tuoi contatti. "<u><font color="red">Segnala questo numero</font></u></string>
-    <string name="security_alert_dialog_title">Segnala</string>
+    <string name="security_alert_desc_highlight">Segnala questo numero</string>   
+ <string name="security_alert_dialog_title">Segnala</string>
     <string name="security_alert_dialog_desc">Segnala questo numero (%s) ed i relativi messaggi inviandoli a Xiaomi per una verifica.</string>
     <string name="sms_report_failed">Impossibile inviare segnalazione</string>
     <string name="sms_report_success">Segnalazione inviata</string>

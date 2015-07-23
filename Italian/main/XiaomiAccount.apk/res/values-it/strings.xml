@@ -200,10 +200,6 @@ Per attivare il tuo account, segui il
     <string name="checking_account">Verifica account…</string>
     <string name="button_cancel">Annulla</string>
     <string name="mili_center">Mi Credit</string>
-    <string name="mibi_balance">%s Mi Credit</string>
-    <string name="loading_mili_center">Caricamento…</string>
-    <string name="hide_mibi_info">Le informazioni su Mi credit sono state nascoste</string>
-    <string name="failed_get_mibi_info">Impossibile recuperare informazioni su Mi Credit</string>
     <string name="mipay_center">Account bancari</string>
     <string name="mi_service">Supporto</string>
     <string name="sina_weibo">Sina Weibo</string>

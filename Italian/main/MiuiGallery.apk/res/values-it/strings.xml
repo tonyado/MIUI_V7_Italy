@@ -627,6 +627,8 @@ con gli amici"</string>
     <string name="view_face_album">Mostra album</string>
     <string name="name_wrong">Non è %s</string>
     <string name="face_album_rename_hint">Inserisci il nome</string>
+    <string name="face_album_new_name_hint">Nuovo nome</string>
+    <string name="face_choose_tip">Seleziona da un album esistente</string>
     <string name="face_move_dialog_title">Scegli un album con volto</string>
     <string name="confirm_face">Corrispondenza</string>
     <string name="confirm_not_face">Non è questa persona</string>
@@ -657,8 +659,21 @@ con gli amici"</string>
     <string name="share_title_more">Altro</string>
     <string name="download_without_wifi_title">Avviso utilizzo dati</string>
     <string name="download_without_wifi_msg">"L'utilizzo della connessione dati mobile per il downlaod delle foto farà incrementare il tuo consumo di dati. Se superi il limite previsto dal tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+    <string name="cloud_gallery_space_full_title">Mi Cloud è pieno</string>
+    <string name="upgrade_micloud_space">Aggiungi spazio</string>
+    <string name="cloud_gallery_space_full_buy_more">Impossibile sincronizzare le foto con Mi Cloud. Per sincronizzare è necessario aggiungere spazio.</string>
     <string name="paint_crop_tips">"Per ritagliare un'immagine, puoi spostare e ridimensionare il riquadro sulle parte interessata"</string>
     <string name="saturation_abbr">S</string>
     <string name="highlight_abbr">H</string>
     <string name="contrast_abbr">C</string>
+    <string name="hybrid_check_network">Impostazioni di rete</string>
+    <string name="hybrid_try_again">Prova di nuovo</string>
+    <string name="hybrid_network_unavaliable">Impossibile collegarsi alla rete</string>
+    <string name="hybrid_network_access_denied">Accesso di rete negato</string>
+    <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
+    <string name="hybrid_data_error">Si è verificatoun errore</string>
+    <string name="hybrid_locating_fail">Non è statopossibile individuare la tua posizione</string>
+    <string name="hybrid_pull_to_refresh_pull_label">Trascinaper aggiornare…</string>
+    <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Caricamento…</string>
 </resources>

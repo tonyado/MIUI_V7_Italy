@@ -232,6 +232,8 @@
     <string name="time_zone">Fuso orario</string>
     <string name="event_all_day_label">Tutto il giorno</string>
     <string name="today_no_events">Nessun evento oggi</string>
+    <string name="event_info_reminders_label_1">Promemoria</string>
+    <string name="event_info_reminders_label_more">Promemoria %d</string>
     <string name="event_account">Account calendario</string>
     <string name="event_show_more">Mostra</string>
     <string name="event_hide_more">Nascondi</string>

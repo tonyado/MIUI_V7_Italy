@@ -130,6 +130,27 @@
     <string name="recommend_failed">Fallito</string>
     <string name="recommend_paused">In pausa</string>
     <string name="recommend_loading">Caricamento…</string>
+    <string name="third_web_title">Salva</string>
+    <string name="third_web_filename_hint">Nome file</string>
+    <string name="third_web_filesize">Dimensione:</string>
+    <string name="third_web_savepath">Salva in</string>
+    <string name="third_web_default">Imposta come percorso predefinito, non chiedere più</string>
+    <string name="third_web_cancel">Annulla</string>
+    <string name="third_web_confirm">OK</string>
+    <string name="no_vip_info">Apri un account Xunlei per accedere ai privilegi</string>
+    <string name="no_vip_show_info">"Velocizza sia il telefono che il PC；
+Risparmia temp prezioso"</string>
+    <string name="vip_show_info">5milioni di utenti hanno scelto Xunlei\\per i suoi grandi vantaggi esclusivi</string>
+    <string name="vip_expire_show_info">Il tuo account Xunlei sta per scadere\\nrinnova adesso e risparmia il 95%</string>
+    <string name="vip_expire_today_show_info">Il tuo account Xunlei sta per scadere\\nrinnova adesso e risparmia il 95%</string>
+    <string name="expire_notification_msg">Il tuo account Xunlei sta per scadere, tocca Mostra Dettagli</string>
+    <string name="expire_today_notification_msg">Il tuo account Xunlei scade oggi, tocca Mostra Dettagli</string>
+    <string name="start_xunlei_speedup_info">Accedi automaticamente per utilizzare il servizio/string>
+    <string name="DOWNLOAD_UNIT_BIT">B</string>
+    <string name="DOWNLOAD_UNIT_KB">KB</string>
+    <string name="DOWNLOAD_UNIT_MB">MB</string>
+    <string name="DOWNLOAD_UNIT_GB">GB</string>
+    <string name="DOWNLOAD_UNIT_TB">TB</string>
     <string name="app_label">Download</string>
     <string name="download_title">Download</string>
     <string name="download_title_sorted_by_date">Download - Ordinati per data</string>

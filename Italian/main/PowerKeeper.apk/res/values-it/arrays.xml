@@ -50,14 +50,14 @@
         <item>set_keyguard_notification</item>
     </string-array>
     <string-array name="action_name_translate">
-        <item>Max screen brightness</item>
-        <item>MAX CPU Frequence</item>
-        <item>Screen mode</item>
-        <item>CPU usage</item>
-        <item>Data connection</item>
-        <item>Location</item>
-        <item>First message notification</item>
-        <item>Keyguard notification</item>
+        <item>Massima luminosità schermo</item>
+        <item>Massima frequenza CPU</item>
+        <item>MOdalitàschermo</item>
+        <item>Utilizzo CPU</item>
+        <item>Connessione dati</item>
+        <item>Posizione</item>
+        <item>Notifica primo messaggio</item>
+        <item>Notifica keyguard</item>
     </string-array>
     <string-array name="action_param">
         <item>none</item>

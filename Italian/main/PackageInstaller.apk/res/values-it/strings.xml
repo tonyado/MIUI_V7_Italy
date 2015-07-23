@@ -42,6 +42,11 @@
     <string name="virus_scan_caller_unknown">Sconosciuto</string>
     <string name="lift_ban_once">Consenti una volta</string>
     <string name="dlg_appstore_notice">Scarica questa app dal nostro &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u> ufficiale</string>
+    <string name="app_store_missing_title">App Store mancante</string>
+    <string name="reboot_time">Preparazione al riavvio……(%1$s)</string>
+    <string name="app_store_missing_message">"Abbiamo rilevato che lo Xiaomi App Store non è installato su questo dispositivo, consigliamo di installare l'App Store adesso."</string>
+    <string name="app_store_install_hint">Installa adesso</string>
+    <string name="app_store_installing_message">Installazione App Store……</string>
     <string name="app_name">Installazione pacchetti</string>
     <string name="install">Installa</string>
     <string name="done">Fine</string>
