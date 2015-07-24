@@ -29,8 +29,11 @@
     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
     <string name="widget_default_package_name"/>
     <string name="widget_default_class_name"/>
+    <string name="default_wallpaper_component">@null</string>
     <string name="config_networkLocationProviderPackageName">com.baidu.map.location</string>
     <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
+    <string name="config_geocoderProviderPackageName">@null</string>
+    <string name="config_geofenceProviderPackageName">@null</string>
     <string name="config_datause_iface">rmnet0</string>
     <string name="default_sms_application">com.android.mms</string>
     <string name="config_default_dns_server">8.8.8.8</string>
@@ -38,6 +41,9 @@
     <string name="mobile_provisioning_url"/>
     <string name="mobile_redirected_provisioning_url">http://google.com</string>
     <string name="gsm_alphabet_default_charset"/>
+    <string name="db_default_journal_mode">PERSIST</string>
+    <string name="db_default_sync_mode">FULL</string>
+    <string name="db_wal_sync_mode">FULL</string>
     <string name="config_useragentprofile_url"/>
     <string name="config_mms_user_agent">Android-Mms/2.0</string>
     <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
@@ -53,9 +59,6 @@
     <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
     <string name="config_customResolverActivity"/>
     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
-    <string name="config_partial_segment_expire_age">2592000000</string>
-    <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
-    <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
     <string name="month_day_year" formatted="false">%d %B %Y</string>
     <string name="time_of_day" formatted="false">%H:%M:%S</string>
@@ -68,6 +71,7 @@
     <string name="default_text_encoding">Latin-1</string>
     <string name="lock_pattern_view_aspect">square</string>
     <string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>
+    <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
@@ -1567,6 +1571,9 @@ Utilizzare un volume molto alto per lunghi periodi può danneggiare l'udito."</s
     <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
     <string name="permission_remember_choice">Remember</string>
     <string name="permission">Permission</string>
+    <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
+    <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
+    <string name="config_partial_segment_expire_age">2592000000</string>
     <string name="webviewchromium_actionbar_share">Share</string>
     <string name="webviewchromium_actionbar_web_search">Web search</string>
     <string name="webviewchromium_accessibility_content_view">Web View</string>
