@@ -397,8 +397,12 @@
     <string name="download_url_waiting">Recupero info sul link</string>
     <string name="debug_mode">Modalità Debug</string>
     <string name="debug_mode_desc">"Quando selezionato, mostra l'ID del video nell'angolo in alto a sinistra e mostra la pubblicità all'avvio dell'applicazione."</string>
+    <string name="app_wifi_mode">Aggiorna automaticamente con Wi-Fi</string>
+    <string name="app_wifi_mode_summary">"Quando in modalità Wi-Fi, aggiorna automaticamente all'ultima versione disponibile."</string>
     <string name="performance_mode">Impostazioni prestazioni</string>
     <string name="performance_mode_desc">Massimizza le prestazioni</string>
+    <string name="bmp_quality_mode">Modalità Qualità Immagine</string>
+    <string name="bmp_quality_mode_desc">Dopo il controllo sulla qualità viene visualizzata la modalitaà.</string>
     <string name="memory_mode_desc">"Riduci l'utilizzo di memoria"</string>
     <string name="ads_control">Controllo pubblicità</string>
     <string name="ads_control_desc">"Quando selezionato, mostra la pubblicità all'avvio dell'applicazione"</string>
@@ -417,7 +421,24 @@
     <string name="download_start_message">Scaricare ed installare %1$s?</string>
     <string name="hint_apk_title_update">Aggiornamento disponibile (%1$s)</string>
     <string name="hint_apk_text_update">Installa aggiornamento (%1$s) now?</string>
+    <string name="miwifi_app_download_title">Xiaomi Router</string>
+    <string name="miwifi_app_download_content">Download in corso...</string>
+    <string name="miwifi_app_update_title">"Devi aggiornare l'app del router per utilizzare questa funzione. Aggiornare adesso?"</string>
+    <string name="miwifi_app_update_content">Nota:qusta funzione richiede un router con versione 2.0 o superiore</string>
+    <string name="miwifi_app_update_button">Aggiorna</string>
     <string name="video_app_update">Aggiorna</string>
     <string name="install_apk">Installa</string>
     <string name="i_will_write_comments">Invia il tuo feedback</string>
+    <string name="select_tv">Canali</string>
+    <string name="forecast">Previsioni</string>
+    <string name="select_tv_empty_hint">Nessun canale</string>
+    <string name="forecast_empty_hint">Nessun Epg</string>
+    <string name="select_tvs">Canali</string>
+    <string name="forecasts">EPG</string>
+    <string name="key_back_down_toast">Premi di nuovo Indietro per uscire</string>
+    <string name="check_network">Rete non connessa, controlla la tua connessione</string>
+    <string name="empty_tv_exiting">In uscita...</string>
+    <string name="tv_channel_empty_hint">Nessun canale</string>
+    <string name="defaults">Predefinito</string>
+    <string name="fullscreen">Tutto schermo</string>
 </resources>

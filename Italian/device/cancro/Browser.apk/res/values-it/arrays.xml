@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Bianco</item>
+        <item>Giallo</item>
+        <item>Grigio</item>
+        <item>Marrone</item>
+        <item>Verde</item>
+        <item>Blu</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+	<item>Pagina iniziale di default</item>
+        <item>Personalizzata</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Sempre attivo</item>
+        <item>Su richiesta</item>
+        <item>Non attivo</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Cinese (GBK)</item>
+        <item>Cinese (Big5)</item>
+        <item>Giapponese (ISO-2022-JP)</item>
+        <item>Giapponese (SHIFT_JIS)</item>
+        <item>Giapponese (EUC-JP)</item>
+        <item>Coreano (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Mai</item>
+        <item>Solo su WiFi</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Mai</item>
+        <item>Solo su Wi-Fi</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Pagina precedente/successiva</item>
+        <item>Scheda precedente/successiva</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Pagina precedente/successiva</item>
+        <item>Cambia finestra</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Lontano</item>
+        <item>Medio</item>
+        <item>Chiudi</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Mai</item>
+        <item>Solo su Wi-Fi</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+    </string-array>
+</resources>
