@@ -36,6 +36,12 @@
     <string name="install_package">Installa %1$s per altre funzioni</string>
     <string name="some_app_taking">(%1$s sta già utilizzando questa funzione…)</string>
     <string name="reset_function_msg">"La riapertura della funzione interromperà l'operazione di %1$s"</string>
+    <string name="notify_device_lose_connection_title">Il dispositivo %1$s si è disconnesso</string>
+    <string name="notify_device_lose_connection_text">%1$s si è disconnesso per un lungo periodo, tocca per disaccoppiare.</string>
+    <string name="unbind_device_alert_title">Disaccoppia dispositivo</string>
+    <string name="unbind_device_alert_content">Il dispositivo %1$s si è disconnesso per un lungo periodo di tempo, disaccoppiandolo migliorerai le prestazioni. Vuoi disaccoppiare?</string>
+    <string name="unbind_device_alert_ok">OK</string>
+    <string name="unbind_device_alert_cancel">Annulla</string>
     <string name="miui_transfer_history_title">Trasferimenti Bluetooth</string>
     <string name="miui_transfer_inbound_title">Ricevuti</string>
     <string name="miui_transfer_outbound_title">Inviati</string>

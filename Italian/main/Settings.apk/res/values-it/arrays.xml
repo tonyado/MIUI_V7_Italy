@@ -91,7 +91,7 @@
         <item>Operazione non riuscita</item>
         <item>Bloccato</item>
         <item>Al momento vengono evitate connessioni deboli</item>
-    </string-array>
+        </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pulsante di comando</item>
         <item>PIN del dispositivo peer</item>

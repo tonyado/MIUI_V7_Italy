@@ -2579,6 +2579,7 @@ ed esegui il software."</string>
     <string name="screen_color_temperature_and_saturation">Temperatura e saturazione colori</string>
     <string name="screen_effect">Contrasto e colori</string>
     <string name="screen_optimize">Contrasto</string>
+    <string name="screen_color_and_optimize">Colore e Contrasto</string>
     <string name="screen_paper_mode_title">Modalità Lettura</string>
     <string name="screen_paper_mode_summary">Riduce la luminosità di fondo</string>
     <string name="screen_paper_mode_turn_on">Attivato</string>
