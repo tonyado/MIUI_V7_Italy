@@ -1,98 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
 <resources>
-    <plurals name="pinpuk_attempts">
-        <item quantity="other">Ti restano %d tentativi prima che la SIM venga bloccata.</item>
-        <item quantity="one">Ti resta %d tentativo prima che la SIM venga bloccata.</item>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Ti mancano %1$d tocchi epr la modalità sviluppatore.</item>
+        <item quantity="one">Ti manca %1$d tocco per la modalità sviluppatore.</item>
     </plurals>
-    <plurals name="num_seconds_ago">
-        <item quantity="other">%d secondi fa</item>
-        <item quantity="one">1 secondo fa</item>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">La password deve contenere almeno %d lettere.</item>
+        <item quantity="one">La password deve contenere almeno 1 lettera.</item>
     </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d minuti fa</item>
-        <item quantity="one">1 minuto fa</item>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">La password deve contenere almeno %d lettere minuscole.</item>
+        <item quantity="one">La password deve contenere almeno 1 lettera minuscola.</item>
     </plurals>
-    <plurals name="num_hours_ago">
-        <item quantity="other">%d ore fa</item>
-        <item quantity="one">1 ora fa</item>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">La password deve contenere almeno %d lettere maiuscole.</item>
+        <item quantity="one">La password deve contenere almeno 1 lettera maiuscola.</item>
     </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">Ultimi %d giorni</item>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">La password deve contenere almeno %d numeri.</item>
+        <item quantity="one">La password deve contenere almeno 1 numero.</item>
     </plurals>
-    <plurals name="num_days_ago">
-        <item quantity="other">%d giorni fa</item>
-        <item quantity="one">ieri</item>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">La password deve contenere almeno %d caratteri speciali.</item>
+        <item quantity="one">La password deve contenere almeno 1 carattere speciale.</item>
     </plurals>
-    <plurals name="in_num_seconds">
-        <item quantity="other">da %d secondi</item>
-        <item quantity="one">da 1 secondo</item>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">La password deve contenere almeno %d caratteri non alfabetico.</item>
+        <item quantity="one">La password deve contenere almeno 1 carattere non alfabetico.</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">da %d minuti</item>
-        <item quantity="one">da 1 minuto</item>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d app possono leggere le notifiche</item>
+        <item quantity="one">%d app può leggere le notifiche</item>
     </plurals>
-    <plurals name="in_num_hours">
-        <item quantity="other">da %d ore</item>
-        <item quantity="one">da 1 ora</item>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">PIN sbagliato, ti restano %d tentativi.</item>
+        <item quantity="one">PIN sbagliato, ti restano %d tentativi prima di dover contattare il tuo operatore per lo sblocco del dispositivo.</item>
     </plurals>
-    <plurals name="in_num_days">
-        <item quantity="other">da %d giorni</item>
-        <item quantity="one">domani</item>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s stampanti trovate</item>
+        <item quantity="one">%1$s stampante trovata</item>
     </plurals>
-    <plurals name="abbrev_num_seconds_ago">
-        <item quantity="other">%d sec fa</item>
-        <item quantity="one">1 sec fa</item>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Ti mancano %1$d tocchi per visualizzare le info del telefono.</item>
+        <item quantity="one">Ti manca %1$d tocco per visualizzare le info del telefono.</item>
     </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min fa</item>
-        <item quantity="one">1 min fa</item>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Ti mancano %1$d tocchi per avviare il CIT.</item>
+        <item quantity="one">Ti manca %1$d tocco per avviare il CIT.</item>
     </plurals>
-    <plurals name="abbrev_num_hours_ago">
-        <item quantity="other">%d ore fa</item>
-        <item quantity="one">1 ora fa</item>
-    </plurals>
-    <plurals name="abbrev_num_days_ago">
-        <item quantity="other">%d giorni fa</item>
-        <item quantity="one">ieri</item>
-    </plurals>
-    <plurals name="abbrev_in_num_seconds">
-        <item quantity="other">tra %d sec</item>
-        <item quantity="one">tra 1 sec</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">tra %d min</item>
-        <item quantity="one">tra 1 min</item>
-    </plurals>
-    <plurals name="abbrev_in_num_hours">
-        <item quantity="other">tra %d ore</item>
-        <item quantity="one">tra 1 ora</item>
-    </plurals>
-    <plurals name="abbrev_in_num_days">
-        <item quantity="other">tra %d giorni</item>
-        <item quantity="one">domani</item>
-    </plurals>
-    <plurals name="duration_seconds">
-        <item quantity="other">%d secondi</item>
-        <item quantity="one">1 secondo</item>
-    </plurals>
-    <plurals name="duration_minutes">
-        <item quantity="other">%d minuti</item>
-        <item quantity="one">1 minuto</item>
-    </plurals>
-    <plurals name="duration_hours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">1 ora</item>
-    </plurals>
-    <plurals name="wifi_available">
-        <item quantity="other">Reti Wi-Fi disponibili</item>
-        <item quantity="one">Rete Wi-Fi disponibile</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">Reti Wi-Fi aperte disponibili</item>
-        <item quantity="one">Rete Wi-Fi aperta disponibile</item>
-    </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d di %2$d</item>
-        <item quantity="one">1 corrispondenza</item>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Ti mancano %1$d tocchi per avviare il bug report.</item>
+        <item quantity="one">Ti manca %1$d tocco per avviare il bug report.</item>
     </plurals>
 </resources>

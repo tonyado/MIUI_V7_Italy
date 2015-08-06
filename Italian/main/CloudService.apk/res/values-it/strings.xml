@@ -191,11 +191,6 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="sync_sub_2_sms">Verranno inviati due SMS per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
     <string name="sync_sub_2_intl_sms">Verranno inviati due SMS internazionali per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
     <string name="sync_sub_1_sms_1_intl_sms">Verranno inviati un SMS internazionali e uno nazionale per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
-    <string name="sync_setting">Sincronizza impostazioni</string>
-    <string name="sync_standard">Sincronizza le piccole cose</string>
-    <string name="only_in_wlan">Utilizza solo Wi-Fi per sincronizzare</string>
-    <string name="cloud_sync_setting_summary_standard">Utilizza la connessione dati mobile per sincronizzare SMS, informazioni dei Contatti e Registro Chiamate. Utilizza la rete Wi-Fi per sincronizzare Foto, Video, MMS, dai applicazioni, Foto profilo dei contatti ed altro.</string>
-    <string name="cloud_sync_setting_summary_wlan">Sincronizza solo quando collegato a Wi-Fi</string>
     <string name="sync_item_calllog_title">Sincronizza registro chiamate</string>
     <string name="sync_item_calllog_summary">Sincronizza le chiamate effettuate e ricevute su questo telefono</string>
     <string name="view_storage_title">Mostra spazio cloud</string>

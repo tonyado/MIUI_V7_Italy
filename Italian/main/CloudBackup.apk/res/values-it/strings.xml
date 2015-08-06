@@ -6,7 +6,7 @@
     <string name="button_cancel">Annulla</string>
     <string name="button_next">Avanti</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="dir_date_format">HHmmss_MMddyyyy</string>
+    <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="retry">Riprova</string>
     <string name="cloud_app_current_device">Dispositivo attuale</string>
     <string name="cloud_app_other_devices">Altri dispositivi</string>

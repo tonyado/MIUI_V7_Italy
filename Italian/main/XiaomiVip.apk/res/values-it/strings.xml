@@ -12,7 +12,7 @@
     <string name="app_name">XiaomiVip</string>
     <string name="level">Livello</string>
     <string name="level_exp_value" formatted="false">%d/%d</string>
-    <string name="level_detail">LImite operazioni giornaliere: %d</string>
+    <string name="level_detail">Limite operazioni giornaliere: %d</string>
     <string name="action">Mostra</string>
     <string name="task">Operazioni</string>
     <string name="today_task">Operazioni giornaliere</string>
@@ -56,4 +56,5 @@
     <string name="exp_buff">+%s%% esperienza</string>
     <string name="upgraded">Livello aumentato!</string>
     <string name="experience">Esp</string>
+    <string name="giveup">Abbandona</string>
 </resources>
