@@ -76,7 +76,7 @@ Sincronizza le foto, i contatti, le note e molto altro su tutti i tuoi dispositi
     <string name="find_device_dspt_provision">"Trova Telefono
 Localizza, blocca o cancella il dispositivo da "</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">" . Puoi attivare questa funzione in qualsiasi momento in Impostazioni."</string>
     <string name="find_device_dspt_provision_4">Se cambi SIM verrà inviato automaticamente un SMS per riattivare questa funzione.</string>
     <string name="find_device_send_sms_alert">"
@@ -204,10 +204,10 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="photo">Foto</string>
     <string name="micloud_first_login_title" />
     <string name="micloud_first_login_summary" />
-    <string name="micloud_unlogin_for_time_title">Attiva Mi Cloud</string>
+    <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
     <string name="micloud_unlogin_for_time_summary" />
-    <string name="micloud_main_sync_stop">Interrompi sincronizzazione</string>
-    <string name="micloud_main_sync_pause">Sospendi sincronizzazione</string>
+    <string name="micloud_main_sync_stop">Dincronizzazione interrotta</string>
+    <string name="micloud_main_sync_pause">Sincronizzazione in pausa</string>
     <string name="micloud_main_sync_exception">Errore di sincronizzazione</string>
     <string name="micloud_main_stop_sync">Interrompi sincronizzazione</string>
     <string name="micloud_main_suggest_sync">Alcuni elementi devono essere sincronizzati con il tuo Mi Cloud.</string>
@@ -262,10 +262,10 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="total_space_upgraded_to">Spazio totale:%s</string>
     <string name="apple_cloud">Apple iCloud</string>
     <string name="google_cloud">Google Drive</string>
-    <string name="microsoft_cloud">OneDrive</string>
+    <string name="microsoft_cloud">Microsoft Cloud Service</string>
     <string name="apple_cloud_eng">iCloud</string>
     <string name="google_cloud_eng">Google Drive</string>
-    <string name="microsoft_cloud_eng">OneDrive</string>
+    <string name="microsoft_cloud_eng">One Drive</string>
     <string name="apple_10gb">20 GB</string>
     <string name="google_100gb">100 GB</string>
     <string name="apple_cloud_price">"Circa 72 RMB all'anno"</string>
@@ -306,7 +306,7 @@ Visita <b>i.mi.com</b> per avere spazio di archiviazione aggiuntivo."</string>
     <string name="micloud_member_pay_order_error_toast">Errore dati</string>
     <string name="micloud_member_pay_miid_error_toast">Errore account</string>
     <string name="micloud_member_refresh_button">Aggiorna</string>
-    <string name="share_miliao_not_installed">MiTalk non è installato.</string>
+    <string name="share_miliao_not_installed">Mi Talk non è installato.</string>
     <string name="share_weibo_not_installed">Weibo non è installato.</string>
     <string name="share_weixin_not_installed">Wechat non è installato.</string>
     <string name="share_success">Condiviso</string>
