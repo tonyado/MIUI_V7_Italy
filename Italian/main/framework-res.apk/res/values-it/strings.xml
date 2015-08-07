@@ -25,10 +25,10 @@
     <string name="selectTextMode">Seleziona testo…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="config_ethernet_iface_regex">eth\\d</string>
-    <string name="config_tether_apndata"/>
+    <string name="config_tether_apndata" />
     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
-    <string name="widget_default_package_name"/>
-    <string name="widget_default_class_name"/>
+    <string name="widget_default_package_name" />
+    <string name="widget_default_class_name" />
     <string name="config_networkLocationProviderPackageName">com.google.android.gms</string>
     <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
     <string name="config_datause_iface">rmnet0</string>
@@ -41,27 +41,27 @@
     <string name="config_useragentprofile_url"/>
     <string name="config_mms_user_agent">Android-Mms/2.0</string>
     <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-    <string name="config_isoImagePath"/>
+    <string name="config_isoImagePath" />
     <string name="config_ntpServer">2.android.pool.ntp.org</string>
-    <string name="config_wimaxServiceJarLocation"/>
-    <string name="config_wimaxNativeLibLocation"/>
-    <string name="config_wimaxManagerClassname"/>
-    <string name="config_wimaxServiceClassname"/>
-    <string name="config_wimaxStateTrackerClassname"/>
+    <string name="config_wimaxServiceJarLocation" />
+    <string name="config_wimaxNativeLibLocation" />
+    <string name="config_wimaxManagerClassname" />
+    <string name="config_wimaxServiceClassname" />
+    <string name="config_wimaxStateTrackerClassname" />
     <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
     <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
     <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
-    <string name="config_customResolverActivity"/>
+    <string name="config_customResolverActivity" />
     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
     <string name="month_day_year" formatted="false">%d %B %Y</string>
     <string name="time_of_day" formatted="false">%H:%M:%S</string>
     <string name="date_and_time" formatted="false">%H:%M:%S %d/%b/%Y</string>
     <string name="date_time">%2$s %1$s</string>
-    <string name="common_name_prefixes"/>
-    <string name="common_name_suffixes"/>
-    <string name="common_last_name_prefixes"/>
-    <string name="common_name_conjunctions"/>
+    <string name="common_name_prefixes" />
+    <string name="common_name_suffixes" />
+    <string name="common_last_name_prefixes" />
+    <string name="common_name_conjunctions" />
     <string name="default_text_encoding">Latin-1</string>
     <string name="lock_pattern_view_aspect">square</string>
     <string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>
@@ -219,7 +219,7 @@
     <string name="permgroupdesc_network">"Consentono l'accesso delle applicazioni a varie funzionalità di rete."</string>
     <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
     <string name="permgroupdesc_bluetoothNetwork">Access devices and networks through Bluetooth.</string>
-    <string name="permgrouplab_audioSettings">Audio Settings</string>
+    <string name="permgrouplab_audioSettings">Impostazioni audio</string>
     <string name="permgroupdesc_audioSettings">Change audio settings.</string>
     <string name="permgrouplab_affectsBattery">Affects Battery</string>
     <string name="permgroupdesc_affectsBattery">Use features that can quickly drain battery.</string>
