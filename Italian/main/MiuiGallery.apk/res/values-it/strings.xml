@@ -84,8 +84,8 @@
     <string name="delete_files_and_folders">Eliminare %1$d file e %2$d cartelle?</string>
     <string name="confirm_delete_init_title">Suggerimento</string>
     <string name="confirm_delete_init_message">"L'immagine verrà eliminata da questo dispositivo e dal tuo Mi Cloud. Se vuoi eliminarla solo in locale, esegui l'operazione localmente."</string>
-    <string name="confirm_delete_has_cloud_local_image_video">Eliminare %s elemento(i) in &lt;b>locale e su Mi Cloud&lt;/b>?</string>
-    <string name="confirm_delete_has_cloud_image_video">Eliminare %s elemento(i) in &lt;b>Mi Cloud&lt;/b>?</string>
+    <string name="confirm_delete_has_cloud_local_image_video">Eliminare %s elemento(i) in locale e su Mi Cloud?</string>
+    <string name="confirm_delete_has_cloud_image_video">Eliminare %s elemento(i) in Mi Cloud?</string>
     <string name="confirm_delete_has_local_image_video">Eliminare %s elemento(i)?</string>
     <string name="cancel">Annulla</string>
     <string name="select_all">Seleziona tutto</string>
@@ -95,7 +95,7 @@
     <string name="details_title">%1$d elementi su %2$d:</string>
     <string name="close">Chiudi</string>
     <string name="select_item">Seleziona elemento</string>
-    <string name="select_item_face">Seleziona le immagini appartenenti a %1</string>
+    <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
     <string name="show_on_map">Mostra sulla mappa</string>
     <string name="no_map_app">Nessuna applicazione per le mappe</string>
     <string name="no_such_item">"Impossibile trovare l'elemento."</string>
@@ -279,7 +279,7 @@
     <string name="quotation">\"%s\"</string>
     <string name="cloud_gallery_space_full">Caricamento fallito! Archivio Mi Cloud pieno</string>
     <string name="share_album_space_full">Questo album condiviso è pieno. Eliminare alcune immagini.</string>
-    <string name="cloud_gallery_recyclebin_full">Cestino Mi Cloud pieno, svuota il cestino su <b>i.mi.com</b>.</string>
+    <string name="cloud_gallery_recyclebin_full">Cestino Mi Cloud pieno, svuota il cestino su www.mi.com/micloud.</string>
     <string name="sync_history_power_on">Sincronizza cronologia immagini solo quando in ricarica</string>
     <string name="sync_only_in_wifi_alert">Disattivando questa opzione può aumentare il traffico dati cellulare.</string>
     <string name="sync_only_in_wifi">Solo Wi-Fi</string>
@@ -312,7 +312,7 @@
     <string name="add_to_cloud_type_not_support_message">Tipo di file non supportato.</string>
     <string name="add_to_cloud_image_limit_exceeded_message">Limite memoria raggiunto.</string>
     <string name="file_not_exist_message">File non esistente.</string>
-    <string name="add_to_cloud_failed_message_with_count">Impossibile aggiungere %s elemento(i) su Mi Cloud</string>
+    <string name="add_to_cloud_failed_message_with_count">%2$s elementi non possono essereaggiunti a Mi Cloud: %1$s.</string>
     <string name="add_to_cloud_reasons" />
     <string name="add_to_cloud_unknow_reasons">Si è verificato un errore sconosciuto</string>
     <string name="add_to_secret_successfully_message">"Aggiunto all'album privato"</string>
@@ -492,7 +492,7 @@ con gli amici"</string>
     <string name="mishop_saved_folder_display_name">Salvataggi MiShop</string>
     <string name="demo_video_folder_display_name">Video demo</string>
     <string name="ucdownloads_screenshot">UC Browser</string>
-    <string name="tencent_mobile_qq_img_save">QQ2012</string>
+    <string name="tencent_mobile_qq_img_save">QQ</string>
     <string name="androidesk_wallpapers">Sfondi Android</string>
     <string name="dcim_opaipic">Opaipic</string>
     <string name="mtxx">MTXX</string>
@@ -534,9 +534,9 @@ con gli amici"</string>
     <string name="picker_select_album_title_empty">Seleziona un album</string>
     <string name="picker_no_album_selected">Nessun album selezionato</string>
     <string name="download">Download</string>
-    <string name="confirm_download">Devi scaricare %s. Questo suggerimento non verrà più visualizzato.</string>
+    <string name="confirm_download">Devi scaricare %s.</string>
     <string name="download_fail">Download fallito!</string>
-    <string name="download_fail_confirm_continue">Download di %s fallito. Continuare?</string>
+    <string name="download_fail_confirm_continue">Impossibilescaricare %s.</string>
     <string name="make_download_dir_fail">Impossibile creare una cartella!</string>
     <string name="delete_smb_file_fail">Impossibile eliminare il file smb</string>
     <string name="new_device_tips">"Tocca per visualizzare il dispositivo"</string>
@@ -611,7 +611,7 @@ con gli amici"</string>
     <string name="face_album_not_named">Senza nome</string>
     <string name="rename_face_album">Rinomina</string>
     <string name="rename_fail_msg">Impossibile rinominare</string>
-    <string name="confirm_merge_face_albums">" "<Data> Unisci questo album all\'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_merge_face_albums">" "<Data> Unire questoalbum con %s? </Data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<Data> Unire questi album con %s? </Data>" "</string>
     <string name="not_is">Non è %s?</string>
     <string name="is">"È %s?"</string>

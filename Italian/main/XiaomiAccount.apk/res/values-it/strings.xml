@@ -206,7 +206,7 @@ Per attivare il tuo account, segui il
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>
     <string name="bind_sns_description">Completa il tuo profilo utilizzando le informazioni personali su %s.</string>
-    <string name="add_account">Aggiungi account</string>
+    <string name="add_account">Accedic con %s</string>
     <string name="qq">QQ</string>
     <string name="bind_qq">Collega con il tuo account QQ</string>
     <string name="facebook">Facebook</string>
