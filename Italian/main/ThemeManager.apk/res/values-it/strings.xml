@@ -345,7 +345,7 @@
     <string name="gift_present_dlg_no_fee">"Non sono previsti costi dal tuo operatore per l'invio dei regali"</string>
     <string name="gift_present_dlg_anonymous">Regalo anonimo</string>
     <string name="gift_present_dlg_share">Crea un codice e condividi il regalo</string>
-    <string name="gift_present_dlg_present_max_limit">Un tema non può essere regalato più di %1&s volte.</string>
+    <string name="gift_present_dlg_present_max_limit">Un tema non può essere regalato più di %1$s volte.</string>
     <string name="gift_use_confirmation_dlg_title">Inviare questo regalo?</string>
     <string name="gift_use_fail_dlg_title">Qualcosa è andato storto</string>
     <string name="gift_unbind_fail_dlg_title">Impossibile creare il codice</string>
