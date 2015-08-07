@@ -222,7 +222,7 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
     <string name="micloud_main_sync_init">Recupero informazioni</string>
     <string name="micloud_main_syncing">Sincronizzazione dati…</string>
-    <string name="micloud_main_last_sync_time">Ultima sincronizzazione</string>
+    <string name="micloud_main_last_sync_time">Ultima sincronizzazione %s</string>
     <string name="micloud_main_synced_data_count">%d dati sono sincronizzati</string>
     <string name="micloud_main_wlan_sync_data_count">%d dati verranno sincronizzati con Wi-Fi</string>
     <string name="micloud_main_space_full">Spazio esaurito</string>
