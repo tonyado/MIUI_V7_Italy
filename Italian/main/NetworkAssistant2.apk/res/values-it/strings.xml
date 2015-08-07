@@ -15,7 +15,7 @@
     <string name="main_traffic_used">%s utilizzati</string>
     <string name="main_traffic_used_text">utilizzati</string>
     <string name="main_traffic_remian_text">rimanenti</string>
-    <string name="main_traffic_overlimit_text">%s oltre soglia</string>
+    <string name="main_traffic_overlimit_text">oltre</string>
     <string name="main_traffic_used_only">Utilizzati: %s</string>
     <string name="main_alert_message_no_mobile_package">"Limite dati rete mobile non impostato"</string>
     <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
@@ -194,7 +194,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="network_assistant_upgraded_title">Aggiornamento completato</string>
     <string name="network_assistant_upgraded_body">"Tocca per limitare l'utilizzo dei dati."</string>
     <string name="lock_screen_traffic_warn_title">Avviso utilizzo dati a schermo spento</string>
-    <string name="lock_screen_traffic_notify_body">Bloccato per %1$s | Usato %2$s di dati mobili</string>
+    <string name="lock_screen_traffic_notify_body">Bloccato per %2$s a %1$s | Dati usati %3$s</string>
     <string name="timeshow_h_m">%1$d ore %2$d min</string>
     <string name="timeshow_m_s">%1$d min %2$d sec</string>
     <string name="timeshow_s">%d s</string>
@@ -209,7 +209,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="traffic_protection_label">Avviso utilizzo dati</string>
     <string name="traffic_protection_summary">"Imposta avvisi quando l'utilizzo dei dati raggiunge un certo livello" </string>
     <string name="traffic_protection_unknown">Imposta più tardi</string>
-    <string name="traffic_protection_text_hint">Imposta limite utilizzo dati</string>
+    <string name="traffic_protection_text_hint">Imposta limite utilizzo dati per %s</string>
     <string name="traffic_protection_next">Avanti</string>
     <string name="traffic_protection_data_usage_summary">"L'utilizzo dei dati oltre la soglia prevista dal tuo piano potrebbe comportare costi aggiuntivi."</string>
     <string name="traffic_protection_use_data">Dati attivati</string>
@@ -388,7 +388,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="tc_sms_report_get_default">Non avrai costi per gli SMS di richiesta saldo dal tuo operatore.</string>
     <string name="tc_sms_report_toast_text">Recupero informazioni…</string>
     <string name="privacy_declare_dialog_title">Termini e Condizioni</string>
-    <string name="privacy_declare_dialog_message">Utilizzando questo servizio accetti i &lt;a href=http://max.oupeng.com/eula.html> Termini e Condizioni&lt;/a> di Opera."</string>
+    <string name="privacy_declare_dialog_message">Utilizzando questo servizio accetti i &lt;a href=%s> Termini e Condizioni&lt;/a> di Opera."</string>
     <string name="sc_allow_network_dialog_tiltle">Impossibile utilizzare la funzione di risparmio dati</string>
     <string name="sc_allow_network_dialog_message">Devi consentire a questa applicazione di accedere ad Internet perché funzioni correttamente.</string>
     <string name="privacy_prompt_upload">Notifica privacy</string>
@@ -450,7 +450,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="traffic_setting_step_num">Impostazioni piano dati</string>
     <string name="traffic_setting_open">Attivato</string>
     <string name="traffic_setting_app_count">%d applicazioni</string>
-    <string name="traffic_warning_purchase_title">Il traffico rimanente è inferiore al %d%%</string>
+    <string name="traffic_warning_purchase_title">Avviso traffico dati mobile</string>
     <string name="traffic_purchase_body">Risparmia il 50% ricaricando adesso.</string>
     <string name="traffic_purchse_suggestion">"E' il momento di ricaricare"</string>
     <string name="traffic_over_purchase_title">Limite dati superato</string>

@@ -104,7 +104,7 @@
     <string name="monthly_on_day_count">Mensile (ogni %1$s %2$s)</string>
     <string name="monthly">Mensile</string>
     <string name="yearly_plain">Annuale</string>
-    <string name="monthly_on_day">Mensile (il giorno %s)</string>
+    <string name="monthly_on_day">Mensile (stesso giorno)</string>
     <string name="yearly">Annuale (%s)</string>
     <string name="custom">Personalizzato… (non sul telefono)</string>
     <string name="modify_event">Cambia solo questo evento.</string>
@@ -206,7 +206,7 @@
     <string name="topic_list_header_label">Lista</string>
     <string name="setting_wifi_mode">Iscriviti solo sotto copertura Wi-Fi</string>
     <string name="user_notice_online_title">Termini e Condizioni</string>
-    <string name="user_notice_online_agreement">Stai per accedere ad un calendario tramite MIUI, questo è un servizio per cui è richiesta una connessione Internet. Utilizzando questo servizio dichiari di accettare %1$ e 2$s.</string>
+    <string name="user_notice_online_agreement">Stai per accedere ad un calendario tramite MIUI, questo è un servizio per cui è richiesta una connessione Internet. Utilizzando questo servizio dichiari di accettare %1$s e %2$s.</string>
     <string name="user_notice_online_ok">Accetta e continua</string>
     <string name="data_notice_online_large_image">La sottoscrizione al calendario a grandi pagine è stata impostata con sincronizzazione solo con Wi-Fi per risparmiare traffico dati.</string>
     <string name="data_notice_change_settings">Impostazioni modificate</string>
@@ -281,10 +281,10 @@
     <string name="anniversary_term">Anniversario</string>
     <string name="birthday_metric" />
     <string name="anniversary_metric" />
-    <string name="birthday_notification_title_today">Compleanno di %1$s</string>
+    <string name="birthday_notification_title_today">%3$s di %1$s</string>
     <string name="birthday_notification_text_today">Oggi è il suo compleanno!</string>
-    <string name="birthday_notification_title_three_days_later">Si avvicina il compleanno di %1$s</string>
-    <string name="birthday_notification_text_three_days_later">Mancano 3 giorni al suo compleanno!</string>
+    <string name="birthday_notification_title_three_days_later">Si avvicina il 2%$s di %1$s</string>
+    <string name="birthday_notification_text_three_days_later">Mancano 3 giorni a %3$s (%4$s)</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_event_description">Oggi: %4$s di %1$s!</string>

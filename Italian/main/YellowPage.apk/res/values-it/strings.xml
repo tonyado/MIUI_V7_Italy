@@ -19,7 +19,7 @@
     <string name="locating_fail">Impossibile localizzare, verifica i servizi di localizzazione e riprova.</string>
     <string name="no_more_result">Nessun altro risultato</string>
     <string name="downloading">Download in corso…</string>
-    <string name="download_completed">Download completato</string>
+    <string name="download_completed">Download salvato in %s</string>
     <string name="download_failed">Download fallito</string>
     <string name="download_failed_storage">Download fallito,si prega di verificare la propria scheda SD</string>
     <string name="download_failed_network">Download fallito,si prega di verificare le impostazioni di rete</string>
@@ -31,7 +31,7 @@
     <string name="download_failed_blocked">Download fallito, non è possibile connettersi alla rete</string>
     <string name="yellow_page_website">Sito ufficiale</string>
     <string name="menu_copy_text">Copia negli appunti</string>
-    <string name="menu_call_ip_number">Effettua chiamata IP (chiama %s)</string>
+    <string name="menu_call_ip_number">Effettua chiamata IP</string>
     <string name="toast_text_copied">Testo copiato</string>
     <string name="confirm_to_send_to_desktop">"Confermi l'invio di %s al desktop？"</string>
     <string name="sending_shortcut">Invio in corso…</string>
@@ -53,7 +53,7 @@
     <string name="no_price">Nessuna informazione sui prezzi</string>
     <string name="no_evaluation">Nessuna recensione</string>
     <string name="no_brief">Nessuna introduzione</string>
-    <string name="average_price">Media %s RMB</string>
+    <string name="average_price">Media %d RMB</string>
     <string name="minimum_price">Da %d RMB</string>
     <string name="more_coupons">Tutti i coupon</string>
     <string name="coupon_bought_count">%d coupon</string>
@@ -177,7 +177,7 @@ Totale: RMB%3$s"</string>
     <string name="express_inquiry">Tracciamento</string>
     <string name="express_inquiry_serial_number_indication">Numero tracciamento</string>
     <string name="express_inquiry_button_text">Traccia</string>
-    <string name="express_inquiry_serial_number_prefix">"Numero seriale: "</string>
+    <string name="express_inquiry_serial_number_prefix">Numero: %s</string>
     <string name="express_inquiry_logistics_prefix">Corriere: %s</string>
     <string name="express_inquiry_no_result">Nessun risultato.</string>
     <string name="express_inquiry_internal_failure">"Si è verificato un errore.
@@ -307,7 +307,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="order_merchant_title">I miei ordini</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
     <string name="order_status">%s</string>
-    <string name="order_product_name_label">Nome prodotto：</string>
+    <string name="order_product_name_label">Nome prodotto： %1$s</string>
     <string name="order_status_label">Stato ordine：%s</string>
     <string name="order_price_label">Prezzo ordine：%s</string>
     <string name="order_id_label">Id ordine：%s</string>
@@ -326,9 +326,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="general_menu_unfollow">Non seguire</string>
     <string name="general_btn_follow_ok">Seguito</string>
     <string name="general_btn_follow">Segui</string>
-    <string name="general_follow_hint">"Quando segui %1$s, puoi ricevere informazioni da %1$s ed utilizzare altri servizi con %1$s.
-
-Confirmi di seguire questo elemento?"</string>
+    <string name="general_follow_hint">Segui %1$s per ricevere aggiornamenti importanti</string>
     <string name="general_unfollow_hint">Sicuro di non voler seguire %1$s?</string>
     <string name="general_cancel_followed_ok">Non seguito</string>
     <string name="general_follow_hint_title">Suggerimento</string>

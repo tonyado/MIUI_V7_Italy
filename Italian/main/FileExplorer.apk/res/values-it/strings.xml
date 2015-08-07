@@ -135,12 +135,12 @@
     <string name="no_more_space">Spazio esaurito</string>
     <string name="sd_full">La scheda SD è piena</string>
     <string name="file_too_large">Il file è troppo grande e non può essere caricato</string>
-    <string name="create_new_folder_failed">Impossibile creare cartella %1$s</string>
+    <string name="create_new_folder_failed">Impossibile creare la cartella</string>
     <string name="user_guide_save_file">SAlvataggio di foto e file in Kuaipan.</string>
     <string name="user_guide_kuaipan_copy">Accedi ai tuoi file da vari dispositivi utilizzando Mi Drive</string>
     <string name="user_guide_upload_to_kuaipan">Dal tuo telefono, copia e incolla semplicemente nel Mi Drive</string>
     <string name="user_guide_download_other_version">"Puoi anche scaricare Mi Drive per il tuo PC o Mac"</string>
-    <string name="user_guide_other_version">Scarica varie versioni di Kuaipan</string>
+    <string name="user_guide_other_version">Accedi con il tuo Mi Account (%1$s) e scarica su mi.kuaipan.cn.</string>
     <string name="user_guide_kuaipan_lable">Kuaipan ti ringrazia</string>
     <string name="user_guide_continue_use">OK</string>
     <string name="upload_file_toolarge_message">%1$d file più grandi di 300M non possono essere caricati. Controlla Gestione Trasferimenti per maggiori dettagli.</string>

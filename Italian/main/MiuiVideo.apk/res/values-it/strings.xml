@@ -11,7 +11,7 @@
     <string name="day">Giorno</string>
     <string name="update">Aggiornato</string>
     <string name="count_ji_quan">Tutti %d Ep.</string>
-    <string name="update_to_count_ji">"Aggiornato all'ep. %d"</string>
+    <string name="update_to_count_ji">"Aggiornato all'ep. %1$s"</string>
     <string name="update_to_count_qi">Aggiornato a %s</string>
     <string name="count_qi">Ep. %s</string>
     <string name="score_by">Punteggio: %s</string>
@@ -248,8 +248,8 @@
     <string name="media_name_comment">%s commento</string>
     <string name="comment_edit_et_hint">Inserisci un commento</string>
     <string name="comment_edit_start_hint">Clicca una stella per votare:</string>
-    <string name="comment_count_less_tip">Devi scrivere almeno d% caratteri</string>
-    <string name="comment_count_much_tip">Il tuo commento non può superare i d% caratteri</string>
+    <string name="comment_count_less_tip">Devi scrivere almeno %1$s caratteri</string>
+    <string name="comment_count_much_tip">Il tuo commento non può superare i %1$s caratteri</string>
     <string name="click_star_rate">Clicca una stella per votare</string>
     <string name="tab_loading"><cdata>...</cdata></string>
     <string name="reload_title_ep">Impossibile recuperare tutta la serie</string>
@@ -366,7 +366,7 @@
     <string name="video_count">%d video</string>
     <string name="updatedalready">Aggiornato</string>
     <string name="hint_apk_install">Download applicazione</string>
-    <string name="hint_apk_download">Tocca \"%1$s\" per scaricare ed installare questa applicazione</string>
+    <string name="hint_apk_download">Installare questa applicazione</string>
     <string name="offline_already_in">\"%1$s\" è presente nella coda download</string>
     <string name="offline_created_order">\"%1$s\" aggiunto alla coda download, posizione: %2$s</string>
     <string name="offline_add_queue_fail">Impossibile scaricare \"%1$s\", riprova più tardi</string>

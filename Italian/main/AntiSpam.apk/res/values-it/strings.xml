@@ -64,7 +64,7 @@
     <string name="dlg_retore">"Ripristinare nell'app Messaggi?"</string>
     <string name="dlg_retore_ok">Ripristina</string>
     <string name="toast_keyword_blank">Parola chiave vuota</string>
-    <string name="toast_keyword_exist">Parola chiave: %s già esistente</string>
+    <string name="toast_keyword_exist">Parola aggiunta</string>
     <string name="toast_keyword_invalid">Parola non valida</string>
     <string name="dlg_antispam_mode_delete_title">Elimina regole personalizzate</string>
     <string name="dlg_antispam_mode_delete_message">Non puoi ripristinare le regole personalizzate per la Lista Blocco dopo la loro eliminazione.</string>
@@ -155,6 +155,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_title_not_sim">Vuoto</string>
     <string name="st_sum_call_wait">Se il segnale di occupato non è quello predefinito potrebbe confondere il chiamante.</string>
     <string name="sim_not_ready">SIM non pronta</string>
+    <string name="sim_not_ready_toast">SIM non pronta, impostazione fallita</string>
     <string name="st_antispam_bw_man_add">Aggiungi numero di telefono</string>
     <string name="st_antispam_bw_head_add">Aggiungi prefisso</string>
     <string name="st_antispam_bw_pick_add">Seleziona un contatto</string>
@@ -215,7 +216,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="report_success">Messaggio segnalato</string>
     <string name="report_error">Impossibile segnalare il messaggio</string>
     <string name="report_error_not_net">Impossibile connettersi alla rete</string>
-    <string name="report_warning">"Segnalare %1$s SMS a Mi? Questi messaggi ed i numeri telefonici associati verranno inviati ai server Mi per l'analisi. Ogni informazione personale resterà comunque anonima."</string>
+    <string name="report_warning">"Segnalare %1$s SMS a Xiaomi? Questi messaggi ed i numeri telefonici associati verranno inviati ai server Mi per l'analisi. Ogni informazione personale resterà comunque anonima."</string>
     <string name="report_warning_title">Segnala SMS</string>
     <string name="menu_report_block">Segna come spam</string>
     <string name="st_sub_title_customize_mode_name">Nome modalità</string>
@@ -324,4 +325,5 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="quiet_important_interruptions_mode">Consenti solo le eccezioni</string>
     <string name="quiet_mode">Silenzia gli indesiderati</string>
     <string name="quiet">Silenzia</string>
+    <string name="quiet_group">Non disturbare</string>
 </resources>

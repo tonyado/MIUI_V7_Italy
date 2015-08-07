@@ -20,10 +20,10 @@
     <string name="record_list_cloud">Registrazioni Cloud</string>
     <string name="record_list_cloud_fm">Registrazioni FM Cloud</string>
     <string name="record_list_cloud_call">Registrazioni Chiamate Cloud</string>
-    <string name="call_record">Registrazione chiamata</string>
-    <string name="fm_record">Registrazione FM (%d)</string>
-    <string name="cloud_record">Registrazione in cloud(%d)</string>
-    <string name="no_file">Nessuna registrazione</string>
+    <string name="call_record">Chiamate registratre(%d)</string>
+    <string name="fm_record">Registrazioni radio (%d)</string>
+    <string name="cloud_record">%d sincronizzate</string>
+    <string name="no_file">Vuoto</string>
     <string name="alert_message_delete_record">Vuoi eliminare la registrazione selezionata?</string>
     <string name="rename">Rinomina</string>
     <string name="delete">Elimina</string>
@@ -79,7 +79,7 @@
     <string name="sync_only_in_wifi">Sincronizza solo se sei in Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">"Il registratore utilizzerà la tua connessione dati per scaricare o caricare registrazioni quando l'opzione è disattivata"</string>
     <string name="wifi_recommended_title">Avviso traffico</string>
-    <string name="wifi_recommended_body" formatted="false">"UL'utilizzo della rete dati mobile per il downlaod di questo file aumenterà il consumo dei dati. Se superi il limite previsto dal piano dell tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il downlaod di questo file tocca %s.</string>
+    <string name="wifi_recommended_body" formatted="false">"L'utilizzo della rete dati mobile per il downlaod di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano dell tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il downlaod di questo file tocca %s.</string>
     <string name="button_queue_for_wifi">Coda</string>
     <string name="button_start_now">Download</string>
     <string name="notification_title_all_paused">Download in pausa</string>

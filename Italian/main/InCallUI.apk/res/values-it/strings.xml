@@ -472,8 +472,7 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="voicemail_settings">Impostazioni Segreteria</string>
     <string name="voicemail_number_not_set">&lt;non impostato></string>
     <string name="other_settings">Altre impostazioni chiamate</string>
-    <string name="calling_via_template">"Chiama tramite ^1
-"</string>
+    <string name="calling_via_template">Chiama tramite %s</string>
     <string name="contactPhoto">Foto contatto</string>
     <string name="goPrivate">Vai in privato</string>
     <string name="selectContact">Seleziona contatto</string>

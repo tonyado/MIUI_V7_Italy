@@ -24,7 +24,7 @@
     <string name="delete_backup_process">Eliminazione in corso…</string>
     <string name="backup_error">Errore Backup</string>
     <string name="delete_failed_backup_confirm">Si è verificato un errore, impossibile ripristinare da questo backup</string>
-    <string name="batch_delete_backup_confirm">Eliminare %d backup?</string>
+    <string name="batch_delete_backup_confirm">Eliminare i backup selezionati?</string>
     <string name="start_restore">Ripristina</string>
     <string name="backup_file_error">Errore con il backup, operazione non valida.</string>
     <string name="unit_byte">"Byte"</string>

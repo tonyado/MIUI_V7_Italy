@@ -214,7 +214,7 @@
     <string name="download_later">Download attualmente non disponibile. Riprova più tardi.</string>
     <string name="select_audio">Seleziona audio</string>
     <string name="copy_to_sdcard">Copia allegato in scheda SD</string>
-    <string name="copy_to_sdcard_success">Allegato copiato in scheda SD</string>
+    <string name="copy_to_sdcard_success">Allegato salvao come %s</string>
     <string name="copy_to_sdcard_fail">"Copia dell'allegato nella scheda SD non riuscita"</string>
     <string name="save_ringtone">Salva come suoneria</string>
     <string name="saved_ringtone">Suoneria salvata</string>
@@ -372,7 +372,7 @@
     <string name="ex_type_mx">Messaggio cloud</string>
     <string name="mx_dspt">"Invia messaggi tramite Internet tra MIUI, l'attivazione per invio tramite Operatore è fallita una volta"</string>
     <string name="mx_current_status">Stato attuale: Online</string>
-    <string name="mx_count_dspt">Dalla sua attivazione, MIUI ha inviato %d messaggi Mi Cloud</string>
+    <string name="mx_count_dspt">%1$d SMS e %2$d MMS inviati</string>
     <string name="mx_auto_resend_sms">Invia come SMS</string>
     <string name="mx_auto_resend_sms_summary">"Invia come SMS quando i messaggi Mi Cloud non sono disponibili. Verranno applicate le tariffe previste dall'operatore"</string>
     <string name="mx_auto_resend_mms">Reinvio automatico MMS</string>

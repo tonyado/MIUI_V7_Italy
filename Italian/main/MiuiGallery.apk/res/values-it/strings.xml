@@ -459,7 +459,7 @@ con gli amici"</string>
     <string name="album_share_subtitle_normal">Condiviso da %1$s</string>
     <string name="album_share_subtitle_accepting">Accettazione invito da %1$s…</string>
     <string name="album_share_subtitle_denying">Rifiuto invito da %1$s…</string>
-    <string name="album_share_subtitle_quitting">Chiusura invito da %1$s…</string>
+    <string name="album_share_subtitle_quitting">Chiusura…</string>
     <string name="system_album">Album di sistema</string>
     <string name="owner_album_subtitle">Condiviso con %1$s membri</string>
     <string name="album_quota_fulfiled">"Impossibile creare l'album, è stato raggiunto il numero massimo."</string>

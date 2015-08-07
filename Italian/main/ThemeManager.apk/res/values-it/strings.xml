@@ -38,8 +38,8 @@
     <string name="resource_downloading">Download in corso</string>
     <string name="resource_waiting_download">In attesa del download…</string>
     <string name="resource_import_successful">Download completato.</string>
-    <string name="resource_import_failed">Importazione fallita</string>
-    <string name="resource_delta_update_successful">Aggiornamento integrativo completato. Hai risparmiato %1$s.</string>
+    <string name="resource_import_failed">Impossibile importare</string>
+    <string name="resource_delta_update_successful">Tema aggiornato</string>
     <string name="resource_delta_update_failed">Aggiornamento integrativo fallito! Verrà scaricata la risorsa completa.</string>
     <string name="resource_delta_update_total">%1$d aggiornamenti integrativi. Hai risparmiato in totale %2$s</string>
     <string name="resource_apply">Applica</string>
@@ -174,7 +174,7 @@
     <string name="resource_comment_name_default">Utente %1$s</string>
     <string name="resource_comment_loading_list">Caricamento commenti…</string>
     <string name="resource_comment_rate">Valutazione:</string>
-    <string name="resource_comment_entry_tips">Mostra commenti</string>
+    <string name="resource_comment_entry_tips">Commenti (%1$s)</string>
     <string name="resource_comment_rating_star_tips">Tocca le stelle per votare:</string>
     <string name="resource_clear_search_history">Cancella la cronologia delle ricerche</string>
     <string name="resource_clear_search_history_dialog">Vuoi cancellare tutta la cronologia delle ricerche?</string>
@@ -215,7 +215,7 @@
     <string name="theme_changed_failed_message">Cambio tema non riuscito!</string>
     <string name="backup_preference_title">Impostazioni Backup</string>
     <string name="backup_theme_dialog_ok">Backup</string>
-    <string name="backup_theme_dialog_message">Backup tema corrente in %1$s</string>
+    <string name="backup_theme_dialog_message">eseguire il backup del tema corrente?</string>
     <string name="backup_theme_progress_message">Backup in corso, attendere prego…</string>
     <string name="backup_theme_success_message">Backup tema eseguito correttamente</string>
     <string name="backup_theme_fail_trial_rights_message">Impossibile eseguire il backup dei temi in prova</string>
@@ -291,8 +291,8 @@
     <string name="theme_batch_updating_text">%1$d temi sono stati aggiornati</string>
     <string name="theme_batch_update_all">Aggiorna tutto</string>
     <string name="theme_batch_update_dlg_title">Aggiorna</string>
-    <string name="theme_batch_update_dlg_content">Vuoi aggiornare adesso?</string>
-    <string name="theme_batch_update_dlg_content_single">Aggiornare adesso?</string>
+    <string name="theme_batch_update_dlg_content">Vuoi aggiornare %1$s ed altri %2$d temi adesso?</string>
+    <string name="theme_batch_update_dlg_content_single">Aggiornare %1$s adesso?</string>
     <string name="theme_current_using_has_update">Il tema attuale è stato aggiornato, premi qui per applicare</string>
     <string name="theme_immediately_apply_tip">Il tema è stato aggiornato, applicare subito?</string>
     <string name="theme_name">%1$s</string>
@@ -345,7 +345,7 @@
     <string name="gift_present_dlg_no_fee">"Non sono previsti costi dal tuo operatore per l'invio dei regali"</string>
     <string name="gift_present_dlg_anonymous">Regalo anonimo</string>
     <string name="gift_present_dlg_share">Crea un codice e condividi il regalo</string>
-    <string name="gift_present_dlg_present_max_limit">Un tema non può essere regalato più di %$1s volte.</string>
+    <string name="gift_present_dlg_present_max_limit">Un tema non può essere regalato più di %1&s volte.</string>
     <string name="gift_use_confirmation_dlg_title">Inviare questo regalo?</string>
     <string name="gift_use_fail_dlg_title">Qualcosa è andato storto</string>
     <string name="gift_unbind_fail_dlg_title">Impossibile creare il codice</string>

@@ -167,7 +167,7 @@ Per attivare il tuo account, segui il
     <string name="error_ssl_hand_shake">"Errore durante la connessione al server. Controlla che l'orario di sistema sia corretto."</string>
     <string name="error_device_id">"Impossibile ottenere l'IMEI"</string>
     <string name="error_server">Problemi con il server</string>
-    <string name="error_unknown">Errore sconosciuto: %1$s</string>
+    <string name="error_unknown">Impossibile accedere</string>
     <string name="error_invalid_dev_id">ID dispositivo non valido</string>
     <string name="error_user_name">Nome utente non valido!</string>
     <string name="quick_login_title">"È richiesta l'autenticazione, inserisci la password."</string>
@@ -206,7 +206,7 @@ Per attivare il tuo account, segui il
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>
     <string name="bind_sns_description">Completa il tuo profilo utilizzando le informazioni personali su %s.</string>
-    <string name="add_account">Accedic con %s</string>
+    <string name="add_account">Aggiungi account</string>
     <string name="qq">QQ</string>
     <string name="bind_qq">Collega con il tuo account QQ</string>
     <string name="facebook">Facebook</string>
@@ -215,7 +215,7 @@ Per attivare il tuo account, segui il
     <string name="nobind">Non collegato</string>
     <string name="button_unbind">Scollega</string>
     <string name="unbind_weibo_description">"Scollegando l'account non potrai sincronizzare i contatti e non potrai accedere al tuo Account Mi tramite Sina Weibo"</string>
-    <string name="unbind_sns_description">"Scollegando l'account non potrai accedere al tuo Account Mi tramite Sina Weibo"</string>
+    <string name="unbind_sns_description">"Scollegando l'account non potrai accedere alle informazioni del tuo Account %s per accedere al tuo Mi Account"</string>
     <string name="confirm_unbind">Confermi?</string>
     <string name="binded_description" formatted="false">"%s collegato correttamente. Completa il tuo profilo utilizzando le informazioni personali su %s."</string>
     <string name="update_contacts">Aggiorna contatti</string>

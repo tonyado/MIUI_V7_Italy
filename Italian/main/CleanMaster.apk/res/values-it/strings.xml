@@ -5,7 +5,7 @@
     <string name="button_optimizer">OK</string>
     <string name="name_optimizer">Informativa sulla Privacy di Cheetah Mobile</string>
     <string name="title_optimizer">Pulizia</string>
-    <string name="header_optimizer">Utilizzando questa funzione accetti i <a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">Termini del Servizio</a> di Clean Master.</string>
+    <string name="header_optimizer">Utilizzando questa funzione accetti %s.</string>
     <string name="activity_title_garbage_cleanup">Pulizia</string>
     <string name="empty_title_garbage_cache">Cache vuota</string>
     <string name="empty_title_ad">Nessuna pubblicità trovata</string>
