@@ -50,6 +50,7 @@
     <string name="desktop_recovering">Ripristino</string>
     <string name="desktop_wait_wifi">In attesa di rete Wi-Fi</string>
     <string name="recover_from_micloud">Ripristina utilizzando Mi Cloud</string>
+    <string name="click_try_to_restore_again">Tocca per riprovare</string>
     <string name="open_wifi">Attiva Wi-Fi adesso</string>
     <string name="open_wifi_description">Collegati ad una rete Wi-Fi per ripristinare le applicazioni</string>
     <string name="open_wifi_setting">Impostazioni Wi-Fi</string>

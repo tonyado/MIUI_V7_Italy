@@ -13,10 +13,11 @@
     <string name="sync_item_sms_summary">Attiva dopo che i messaggi sono stati sincronizzati</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizza MMS solo con Wi-Fi</string>
     <string name="sub_sync_item_sms_summary">Non utilizzare la rete dati mobile per sincronizzare i messaggi multimediali</string>
-    <string name="pref_title_sync_my_profile_title">Sincronizza profilo</string>
     <string name="pref_title_sync_contacts_title">Sincronizza i contatti</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Mostra foto solo con Wi-Fi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Non utilizzare la rete dati mobile per sincronizzare le foto dei contatti</string>
+    <string name="pref_title_sync_video_on_wifi_only">Only use WLAN to sync video</string>
+    <string name="pref_summary_sync_video_on_wifi_only">"Only sync contacts' profile videos when you're connected to a WLAN network"</string>
     <string name="find_device_stop_noise">Interrompi</string>
     <string name="find_device_noise_title">Suono di localizzazione telefono</string>
     <string name="error_title">Errore di sincronizzazione</string>
@@ -229,6 +230,8 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_space_low">Spazio quasi esaurito…</string>
     <string name="micloud_main_update_space">Aggiornamento spazio</string>
     <string name="micloud_detail_syncing">Sincronizzazione</string>
+    <string name="micloud_detail_upload_syncing">Upload %s</string>
+    <string name="micloud_detail_download_syncing">Download %s</string>
     <string name="micloud_detail_pending">In attesa</string>
     <string name="micloud_detail_success">Sincronizzato</string>
     <string name="micloud_detail_fail">Fallita</string>
@@ -288,7 +291,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="loading_hint">Caricamento</string>
     <string name="buy_space_expire">Lo spazio acquistato scadrà tra %s</string>
     <string name="buy_space_expire_concat">%1$s al %2$s</string>
-    <string name="buy_more_space_b_class">"Accedi su <b>i.mi.com</b> per avere spazio di archiviazione aggiuntivo.
+    <string name="buy_more_space_b_class">"Accedi su i.mi.com per avere spazio di archiviazione aggiuntivo.
 Ti servirà la carta di credito di una banca cinese per acquista spazio aggiunto."</string>
     <string name="buy_more_space_c_class">"Questa funzione richiede la carta di credito di una banca cinese.
 Visita mi.com/micloud per avere spazio di archiviazione aggiuntivo."</string>
