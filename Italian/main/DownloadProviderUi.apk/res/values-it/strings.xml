@@ -92,8 +92,8 @@
     <string name="member_cost">Canone annuo account</string>
     <string name="original_price">(Original_price</string>
     <string name="mi_money_">mi_money)</string>
-    <string name="xunlei_member_one_month">Membro Xunlei per un mese (platino)</string>
-    <string name="xunlei_member_annual_fee">Membro Xunlei per un anno (platino)</string>
+    <string name="xunlei_member_one_month">1 mese</string>
+    <string name="xunlei_member_annual_fee">1 anno</string>
     <string name="disable">Disattiva</string>
     <string name="Only_the_wifi">Effettivo solo con il Wi-Fi</string>
     <string name="all_the_internet">Tutta la rete</string>
@@ -106,7 +106,7 @@
     <string name="add_flow_fail_haveget_msg">Spiacente, hai esaurito il tuo traffico ad alta velocità per questo mese</string>
     <string name="download_list_open_xl_title">Apri il motore di download Xunlei</string>
     <string name="download_list_open_xl_message">Apri il motore di download Xunlei，servizio di accelerazione download,  immediatamente.</string>
-    <string name="download_list_open_xl_ok">Ok</string>
+    <string name="download_list_open_xl_ok">OK</string>
     <string name="download_list_open_xl_cancel">Annulla</string>
     <string name="download_list_intoAuth">Accesso alla pagina di autorizzazione MIUI</string>
     <string name="download_list_intoAuthAlert">Attendere</string>
@@ -137,12 +137,15 @@
     <string name="third_web_default">Imposta come percorso predefinito, non chiedere più</string>
     <string name="third_web_cancel">Annulla</string>
     <string name="third_web_confirm">OK</string>
-    <string name="no_vip_info">Apri un account Xunlei per accedere ai privilegi</string>
-    <string name="no_vip_show_info">"Velocizza sia il telefono che il PC；
-Risparmia temp prezioso"</string>
-    <string name="vip_show_info">5milioni di utenti hanno scelto Xunlei\\per i suoi grandi vantaggi esclusivi</string>
-    <string name="vip_expire_show_info">Il tuo account Xunlei sta per scadere\\nrinnova adesso e risparmia il 95%</string>
-    <string name="vip_expire_today_show_info">Il tuo account Xunlei sta per scadere\\nrinnova adesso e risparmia il 95%</string>
+     <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
+    <string name="no_vip_show_info">"Speed up downloads
+across all your devices with Xunlei"</string>
+    <string name="vip_show_info">"5 million members.
+Accelerate downloads across all your devices."</string>
+    <string name="vip_expire_show_info">"Xunlei membership expired.
+Renew now and get 5% off."</string>
+    <string name="vip_expire_today_show_info">"Xunlei membership expired.
+Renew now and get 5% off."</string>
     <string name="expire_notification_msg">Il tuo account Xunlei sta per scadere, tocca Mostra Dettagli</string>
     <string name="expire_today_notification_msg">Il tuo account Xunlei scade oggi, tocca Mostra Dettagli</string>
     <string name="start_xunlei_speedup_info">Accedi automaticamente per utilizzare il servizio</string>
