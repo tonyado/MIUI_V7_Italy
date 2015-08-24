@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="timer_message_with_minutes">
-        <item quantity="other">%1$d minuti</item>
-        <item quantity="one">%1$d minuto</item>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d ore "</item>
+        <item quantity="one">"%1$d ora "</item>
     </plurals>
-    <plurals name="timer_message_with_seconds">
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minuti "</item>
+        <item quantity="one">"%1$d minuto "</item>
+    </plurals>
+    <plurals name="timer_message_second">
         <item quantity="other">%1$d secondi</item>
         <item quantity="one">%1$d secondo</item>
     </plurals>

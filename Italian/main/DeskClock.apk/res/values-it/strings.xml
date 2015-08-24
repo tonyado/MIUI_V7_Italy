@@ -37,10 +37,7 @@
     <string name="vibrate_when_ringing">Vibra quando suona</string>
     <string name="start_up">Avvia</string>
     <string name="cancel">Stop</string>
-    <string name="timer_message_00">%1$d minuto e %2$d secondo</string>
-    <string name="timer_message_01">%1$d minuto e %2$d secondi</string>
-    <string name="timer_message_10">%1$d minuti e %2$d secondo</string>
-    <string name="timer_message">%1$d minuti e %2$d secondi</string>
+    <string name="timer_item_picker_hour">Ora</string>
     <string name="timer_item_picker_minute">Min</string>
     <string name="timer_item_picker_second">Sec</string>
     <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
@@ -66,6 +63,8 @@
     <string name="snooze_confirm_cancel">Annulla sospensione</string>
     <string name="menu_item_sort_by_gmt_offset">Ordina per data</string>
     <string name="menu_item_sort_by_name">Ordina per nome</string>
+    <string name="birthday_alarm">Birthday alarm</string>
+    <string name="birthday_alarm_summary">Play \"Happy Birthday\" instead of default alarm sound on your birthday</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>
