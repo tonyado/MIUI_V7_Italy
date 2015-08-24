@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="st_antispam_mode_smart_state">11111111</string>
+    <string name="st_antispam_mode_blacklist_state">11112121</string>
+    <string name="st_antispam_mode_only_contacts_state">11110000</string>
+    <string name="st_antispam_mode_only_whitelist_state">11000000</string>
+    <string name="st_antispam_mode_only_all_deny_state">10000000</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
+    <string name="empty_activity_title">" "</string>
+    <string name="create_table_report_sms">create table reportSms( id TEXT NOT NULL );</string>
+    <string name="create_table_report_sms_pending">create table reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+    <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT, callType INTEGER NOT NULL DEFAULT 0 );</string>
+    <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0 );</string>
+    <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL, cloudUid TEXT DEFAULT NULL, type TEXT DEFAULT 0 );</string>
+    <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
+    <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
     <string name="app_name">AntiSpam</string>
     <string name="fw_blocked">Lista blocco</string>
     <string name="fw_blocked_count">"Bloccati "</string>
@@ -44,7 +58,8 @@
     <string name="dlg_add_blacklist_warn_conflict_title">Attenzione</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$s ed altri %2$s contatti sono già tra le tue eccezioni.</string>
     <string name="dlg_remove_blacklist">Rimuovere questo numero dalla blacklist?</string>
-    <string name="dlg_remove_whitelist">Rimuovere questo numero dalle eccezioni?</string>
+    <string name="dlg_remove_whitelist_title">Remove</string>
+    <string name="dlg_remove_whitelist_content">Remove these numbers from exceptions?</string>
     <string name="dlg_remove_address_blacklist">Rimuovi questo elemento dalla lista blocco e ripristinare i relativi messaggi?</string>
     <string name="dlg_remove_address_whitelist">Rimuovere questo elemento dalle eccezioni?</string>
     <string name="dlg_remove_blacklist_ok">Rimuovi</string>
@@ -287,6 +302,10 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="mark_fraud_block">Segnalato come truffa</string>
     <string name="mark_agent_block">Segnalato come venditore</string>
     <string name="mark_sell_block">Segnalato come telemarketing</string>
+    <string name="mark_harass_block">Reported as harassment</string>
+    <string name="mark_fraud_block_large">Fraud</string>
+    <string name="mark_agent_block_large">Intermediary</string>
+    <string name="mark_sell_block_large">Telemarketer</string>
     <string name="mark_harass_block">Segnalato come indesiderato</string>
     <string name="mark_number_info">Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai realmente cercando qualcosa da acquistare). Blocca soltanto i numeri da cui non vuoi mai ricevere chiamate.</string>
     <string name="dlg_title_not_open_stranger_identify">Attiva Identificazione numeri sconosciuti</string>
@@ -326,4 +345,15 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="quiet_mode">Silenzia gli indesiderati</string>
     <string name="quiet">Silenzia</string>
     <string name="quiet_group">Non disturbare</string>
+    <string name="name">Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="organization">Organization</string>
+    <string name="im">IM</string>
+    <string name="sip_phone">SIP Phone</string>
+    <string name="birthday">Birthday</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="note">Note</string>
 </resources>
