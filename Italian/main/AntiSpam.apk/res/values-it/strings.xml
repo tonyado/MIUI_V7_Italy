@@ -302,7 +302,6 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="mark_fraud_block">Segnalato come truffa</string>
     <string name="mark_agent_block">Segnalato come venditore</string>
     <string name="mark_sell_block">Segnalato come telemarketing</string>
-    <string name="mark_harass_block">Reported as harassment</string>
     <string name="mark_fraud_block_large">Fraud</string>
     <string name="mark_agent_block_large">Intermediary</string>
     <string name="mark_sell_block_large">Telemarketer</string>
