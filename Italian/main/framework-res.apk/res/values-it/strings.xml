@@ -30,7 +30,7 @@
     <string name="widget_default_package_name" />
     <string name="widget_default_class_name" />
     <string name="config_networkLocationProviderPackageName">com.google.android.gms</string>
-    <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
+    <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
     <string name="config_datause_iface">rmnet0</string>
     <string name="default_sms_application">com.android.mms</string>
     <string name="config_default_dns_server">8.8.8.8</string>
@@ -54,9 +54,9 @@
     <string name="config_customResolverActivity" />
     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
-    <string name="month_day_year" formatted="false">%d %B %Y</string>
-    <string name="time_of_day" formatted="false">%H:%M:%S</string>
-    <string name="date_and_time" formatted="false">%H:%M:%S %d/%b/%Y</string>
+    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
     <string name="date_time">%2$s %1$s</string>
     <string name="common_name_prefixes" />
     <string name="common_name_suffixes" />
@@ -1121,7 +1121,7 @@ Vuoi chiuderla?"</string>
     <string name="sms_control_message"><b>%1$s</b> sta inviando un gran numero di SMS. Vuoi consentire il proseguimento di questa attività?</string>
     <string name="sms_control_yes">OK</string>
     <string name="sms_control_no">Annulla</string>
-    <string name="sms_short_code_confirm_message"><b>%1$s</b> would like to send a message to <b>%2$s</b>.</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> would like to send a message to &lt;b>%2$s&lt;/b>.</string>
     <string name="sms_short_code_details">This may cause charges on your mobile account.</string>
     <string name="sms_premium_short_code_details">This will cause charges on your mobile account.</string>
     <string name="sms_short_code_confirm_allow">Send</string>
