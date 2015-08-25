@@ -102,11 +102,8 @@
     <string name="default_folder_title_game">Giochi</string>
     <string name="default_folder_title_security">Sistema</string>
     <string name="wallpaper_settings">Impostazioni sfondo</string>
-    <string name="wallpaper_settings_for_pad">Sfondo</string>
     <string name="choose_wallpaper">Scegli sfondo</string>
     <string name="current_preview">Anteprima</string>
-    <string name="choose_theme">Tema</string>
-    <string name="default_theme_name">Predefinito</string>
     <string name="wallpaper">Sfondo</string>
     <string name="mi_wallpaper">Sfondo MIUI</string>
     <string name="show_all">Mostra tutto</string>
@@ -249,4 +246,7 @@
     <string name="recommend_apps_switch_summary">MOstra le app consigliate in fondo allo schermo</string>
     <string name="recommend_apps_default_title">Vuoto</string>
     <string name="recommend_apps_tips">Questa funzione deve collegarsi ad internet per funzionare correttamente. Per disattivare questa funzione tocca il nome della cartella.</string>
+    <string name="children_folder_title">Kids</string>
+    <string name="children_mode_exit">Exit</string>
+    <string name="wallpaper_auto_change_title">Lock screen</string>
 </resources>

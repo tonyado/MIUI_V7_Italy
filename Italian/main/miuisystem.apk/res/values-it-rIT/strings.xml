@@ -112,4 +112,7 @@
     <string name="mibi_license">Termini del Servizio Mi Credit</string>
     <string name="license_host_unreachable">Impossibile collegarsi alla rete. Per accedere a queste informazioni, 
 vai su %s"</string>
+    <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
+    <string name="cloud_state_finished">Synced with Mi Cloud</string>
+    <string name="cloud_state_syncing">Synced with Mi Cloud</string>
 </resources>

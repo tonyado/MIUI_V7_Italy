@@ -84,10 +84,6 @@
         <item quantity="other">" %1$d contatti aggiunti"</item>
         <item quantity="one">%1$d contatto aggiunto</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">%d contatti copiati</item>
-        <item quantity="one">%d contatto copiato</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Elimina %d contatti</item>
         <item quantity="one">Delete contact</item>
@@ -120,5 +116,13 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Ha squillato %d volte</item>
         <item quantity="one">Ha squillato %d volta</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d contatti</item>
+        <item quantity="one">%1$d contatto</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d contatti non sono stati sincronizzati</item>
+        <item quantity="one">"1 contatto non è stato sincronizzato"</item>
     </plurals>
 </resources>
