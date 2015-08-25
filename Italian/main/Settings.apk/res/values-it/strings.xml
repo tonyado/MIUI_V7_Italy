@@ -38,7 +38,7 @@
     <string name="music_dirac_mode_piston_basic">Edizione Base</string>
     <string name="music_dirac_mode_piston_standard">Edizione standard</string>
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-    <string name="music_dirac_mode_headset">Mi Headphone</string>
+    <string name="music_dirac_mode_headset">Cuffie Mi</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
@@ -57,6 +57,8 @@
     <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
     <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
+    <string name="status_bar_settings_notification_priority">Priority</string>
+    <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
     <string name="status_bar_settings_show_keyguard_notification">Notifiche mobili e lockscreen</string>
     <string name="status_bar_settings_show_keyguard_notification_summary" />
@@ -640,6 +642,7 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_speed">Velocità di collegamento</string>
     <string name="wifi_ip_address">Indirizzo IP</string>
     <string name="wifi_eap_method">Metodo EAP</string>
+
     <string name="please_select_phase2">Fase 2 di autenticazione</string>
     <string name="wifi_eap_ca_cert">Certificato CA</string>
     <string name="wifi_eap_user_cert">Certificato utente</string>
@@ -697,7 +700,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_gateway">Gateway</string>
     
     <string name="wifi_network_prefix_length">Lunghezza prefisso</string>
-    <string name="wifi_p2p_settings_title">Wi‑Fi Direct</string>
+    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_device_info">Informazioni dispositivo</string>
     <string name="wifi_p2p_persist_network">Memorizza questa connessione</string>
     <string name="wifi_p2p_menu_search">Cerca dispositivi</string>
@@ -875,7 +878,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="status_signal_strength">Intensità segnale</string>
     <string name="status_roaming">Roaming</string>
     <string name="status_operator">Rete</string>
-    <string name="status_wifi_mac_address">Indirizzo MAC Wi‑Fi</string>
+    <string name="status_wifi_mac_address">Indirizzo MAC Wi-Fi</string>
     <string name="status_bt_address">Indirizzo Bluetooth</string>
     <string name="status_serial_number">Numero di serie</string>
     <string name="status_unavailable">Non disponibile</string>
@@ -1389,12 +1392,12 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="allow_bind_app_widget_activity_allow_bind_title">"Creare il widget e consentire l'accesso?"</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Dopo che avrai creato il widget, %1$s potrà accedere a tutti i relativi dati.</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Consenti sempre a %1$s di creare widget e accedere ai relativi dati</string>
-    <string name="battery_history_days">%1$d g %2$d h %3$d m %4$d s</string>
-    <string name="battery_history_hours">%1$d h %2$d m %3$d s</string>
+    <string name="battery_history_days">%1$d g %2$d o %3$d m %4$d s</string>
+    <string name="battery_history_hours">%1$d o %2$d m %3$d s</string>
     <string name="battery_history_minutes">%1$d m %2$d s</string>
     <string name="battery_history_seconds">%1$d s</string>
-    <string name="battery_history_days_no_seconds">%1$d g %2$d h %3$d m</string>
-    <string name="battery_history_hours_no_seconds">%1$d h %2$d m</string>
+    <string name="battery_history_days_no_seconds">%1$d g %2$d o %3$d m</string>
+    <string name="battery_history_hours_no_seconds">%1$d o %2$d m</string>
     <string name="battery_history_minutes_no_seconds">%1$d m</string>
     <string name="usage_stats_label">Statistiche di utilizzo</string>
     <string name="testing_usage_stats">Statistiche di utilizzo</string>
@@ -1950,8 +1953,8 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="vpn_ipsec_server_cert">Certificato server IPSec</string>
     <string name="vpn_show_options">Mostra opzioni avanzate</string>
     <string name="vpn_search_domains">Domini di ricerca DNS</string>
-    <string name="vpn_dns_servers">Server DNS (ad es. 8.8.8.8)</string>
-    <string name="vpn_routes">Indirizzi di inoltro (ad es. 10.0.0.0/8)</string>
+    <string name="vpn_dns_servers">Server DNS</string>
+    <string name="vpn_routes">Indirizzi di inoltro</string>
     <string name="vpn_username">Nome utente</string>
     <string name="vpn_password">Password</string>
     <string name="vpn_save_login">Salva informazioni account</string>
@@ -2078,8 +2081,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_restrictions_controlled_by">Controllate da %1$s</string>
     <string name="app_not_supported_in_limited">Questa app non è supportata nei profili con limitazioni</string>
     <string name="app_sees_restricted_accounts">Questa app può accedere ai tuoi account</string>
-    <string name="restriction_wifi_config_title">Wi‑Fi e mobile</string>
-    <string name="restriction_wifi_config_summary">Consenti la modifica di impostazioni Wi‑Fi e rete mobile</string>
+    <string name="restriction_wifi_config_title">Wi-Fi e mobile</string>
+    <string name="restriction_wifi_config_summary">Consenti la modifica di impostazioni Wi-Fi e rete mobile</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_bluetooth_config_summary">Consenti la modifica di impostazioni e accoppiamenti Bluetooth</string>
     <string name="restriction_nfc_enable_title">NFC</string>
@@ -2116,6 +2119,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="dndm_mute_all">Silenzia chiamate e messaggi</string>
     <string name="dndm_special_call_setting_group">Eccezioni</string>
     <string name="dndm_vip_call_setting_title">Impostazione eccezioni</string>
+    <string name="dndm_vip_call_setting_detal">Accetta sempre le chiamate dalle eccezioni</string>
     <string name="dndm_vip_call_summary_none">Tocca per configurare</string>
     <string name="dndm_vip_call_summary_custom">%d eccezioni</string>
     <string name="dndm_vip_call_summary_contact">Tutti i contatti</string>
@@ -2129,6 +2133,16 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="dndm_repeated_call_summary_3min">Se lo stesso numero ti richiama entro tre minuti il dispositivo squillerà</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
+    <string name="dndm_wristband">Mi Band</string>
+    <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
+    <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
+    <string name="legal_workday_message">(Skip holidays)</string>
+    <string name="repeat">Repeat</string>
+    <string name="every_day">Every day</string>
+    <string name="legal_workday">Legal workdays</string>
+    <string name="never">Never</string>
+    <string name="dndm_wristband_detailed">"Turn on Do Not Disturb if Mi Band detects you're sleeping within an hour before scheduled start time"</string>
+    <string name="dndm_wristband_detailed2">"Turn off Do Not Disturb if Mi Band detects you've woken up within an hour before scheduled end time"</string>
     <string name="search_airplane">Modalità aereo</string>
     <string name="search_network">Rete</string>
     <string name="search_wifi">Wi-fi</string>
@@ -2422,6 +2436,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="font_size_medium">Medio</string>
     <string name="font_size_large">Grande</string>
     <string name="font_size_huge">Molto grande</string>
+    <string name="font_size_exhuge">Enorme</string>
     <string name="virus_scanner_title">Scanner virus</string>
     <string name="virus_scanner_scanning">Scansione in corso…</string>
     <string name="virus_scanner_scan">Tocca per scansionare</string>
@@ -2666,6 +2681,9 @@ Disabilitare le finestre flottanti?"</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi tocca il contenuto che vuoi inviare.</string>
     <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
     <string name="bt_trace_log_summary">Abilita trace log del Bluetooth</string>
+    <string name="bluetooth_ask_enablement_detected">" wants to turn on Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_discovery_detected">" wants to turn on Bluetooth and make your phone visible to other devices for %1$d seconds."</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings."</string>
     <string name="wifi_share">Condivisione Wi-Fi</string>
     <string name="wifi_share_turn_on">Attivato</string>
     <string name="wifi_share_turn_off">Disattivato</string>
@@ -2905,6 +2923,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="layout_size_normal">Normale</string>
     <string name="layout_size_medium">Medio</string>
     <string name="layout_size_large">Grande</string>
+    <string name="layout_size_huge">Molto grande</string>
+    <string name="layout_size_exhuge">Enorme</string>
     <string name="page_layout_confirm_title">Cambia impostazioni di visualizzazione</string>
     <string name="page_layout_confirm_message">Il tuo dispositivo deve essere riavviato per poter applicare queste modifiche. Il tempo richiesto è di circa 1 minuto.</string>
     <string name="provision_page_layout_confirm_message">Il tuo dispositivo deve essere riavviato per poter applicare queste modifiche. Il tempo richiesto è di circa 1 minuto.</string>
@@ -2931,10 +2951,12 @@ Disabilitare le finestre flottanti?"</string>
     <string name="page_layout_25">Charles Babbage</string>
     <string name="page_layout_26">Lin Bin</string>
     <string name="page_layout_27">Manu Jain</string>
-    <string name="page_layout_28">Tim Berners Lee</string>
-    <string name="page_layout_29">Jai Mani</string>
-    <string name="page_layout_30">Frank Santo</string>
-    <string name="page_layout_31">Katie Whitman</string>
+    <string name="page_layout_28">Clinton Jeff</string>
+    <string name="page_layout_29">Santi Kuan</string>
+    <string name="page_layout_30">Jai Mani</string>
+    <string name="page_layout_31">Jack Tang</string>
+    <string name="page_layout_32">Play Store</string>
+    <string name="page_layout_33">Google</string>
     <string name="smartcover_sensitive_title">Modalità Smartcover</string>
     <string name="oldman_mode_entry_title">Modalità semplificata</string>
     <string name="oldman_mode_entry_name">Modalità semplificata</string>
@@ -3003,5 +3025,21 @@ Disabilitare le finestre flottanti?"</string>
     <string name="choose_smartcover_type">Seleziona la tipologia di case</string>
     <string name="normal_smartcover_title">Front cover oscurata</string>
     <string name="smallwindow_smartcover_title">Front cover trasparente</string>
+    <string name="theme_settings_title">Temi</string>
     <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
+    <string name="children_mode_title">Child mode</string>
+    <string name="children_mode_tips_on">After turning Child mode off, tap the Home button to return to Home screen</string>
+    <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen</string>
+    <string name="children_mode_enable_title">Child mode</string>
+    <string name="children_mode_set_apps_title">Accessible apps</string>
+    <string name="set_password_title">Set password</string>
+    <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="confirm_action">OK</string>
+    <string name="set_password_action">Set password</string>
+    <string name="deny_sms_title">Lock SMS</string>
+    <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
+    <string name="experience_optimization_category">Optimization</string>
+    <string name="advanced_text_layout">Enable advanced text layouts</string>
+    <string name="pref_edge_handgrip">Edge handgrip</string>
 </resources>
