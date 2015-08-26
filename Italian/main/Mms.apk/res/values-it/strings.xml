@@ -58,6 +58,7 @@
     <string name="unsupported_media_format">Formato %1$s non supportato.</string>
     <string name="select_different_media">Scegli un %1$s diverso.</string>
     <string name="exceed_message_size_limitation">Limite di dimensione del messaggio raggiunto.</string>
+    <string name="exceed_message_text_limitation">Message text length limit reached.</string>
     <string name="message_too_big_for_video">Dimensioni del messaggio troppo grandi per poter allegare un video.</string>
     <string name="failed_to_add_media">Impossibile aggiungere %1$s al messaggio.</string>
     <string name="failed_to_resize_image">Immagine non ridimensionata.</string>
@@ -128,8 +129,10 @@
     <string name="confirm_restore_all_title">Ripristinare tutti i messaggi da questo numero?</string>
     <string name="confirm_no_block_title">Non bloccare numero e ripristinare tutti i messaggi?</string>
     <string name="confirm_no_block_positive">Non bloccare e ripristina</string>
-    <string name="confirm_restore_positive">Ripristina</string>
-    <string name="confirm_restore_title">Ripristinare tutti i messaggi selezionati?</string>
+    <string name="confirm_restore_checkbox">Restore blocked messages</string>   
+    <string name="confirm_restore_title">Ripristinare tutti i messaggi selezionati?</string>    
+    <string name="confirm_restore_message">Restore selected messages?</string>
+    <string name="confirm_restore_positive">Restore</string>    
     <string name="delete_unlocked">Elimina messaggi bloccati</string>
     <string name="delete">Elimina</string>
     <string name="stick">Evidenzia</string>
@@ -291,6 +294,7 @@
     <string name="pref_sms_theme_title">Impostazioni tema</string>
     <string name="pref_time_auto_group_title">Gruppo</string>
     <string name="pref_time_auto_group_summary">Raggruppa per orario</string>
+    <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>    
     <string name="bookmark_list_title">Preferiti</string>
     <string name="delete_bookmark">Elimina messaggio</string>
     <string name="view_bookmark">Mostra messaggio originale</string>
@@ -379,6 +383,9 @@
     <string name="mx_auto_resend_mms_summary">"Invia un MMS quando i messaggi Mi Cloud non sono disponibili. Verranno applicate le tariffe previste dall'operatore"</string>
     <string name="msg_type_hint_sms">Messaggio di testo</string>
     <string name="msg_type_hint_mms">Messaggio multimediale</string>
+    <string name="msg_type_hint_sms_omit">SMS</string>
+    <string name="msg_type_hint_mms_omit">MMS</string>
+    <string name="msg_type_hint_mx_omit">Mi Msg</string>
     <string name="msg_type_hint_mx">Messaggio Mi Cloud</string>
     <string name="mx_reactivate">Riattiva messaggi Mi Cloud</string>
     <string name="mx_activate_error_title">Impossibile attivare la carta SIM</string>
@@ -465,6 +472,8 @@
     <string name="pref_collapse_sp_messages_summary">"Raccogli i messaggi del provider in un'unica lista"</string>
     <string name="sp_conversation_title">Messaggi di notifica</string>
     <string name="title_show_sms_template">Controlla i codici di verifica tra gli SMS</string>
+    <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
+    <string name="title_show_sms_template_in">Check SMS for OTP</string>
     <string name="pref_show_sms_template_summary">Copia ed inserisci automaticamente i codici di verifica</string>
     <string name="title_show_blocked_messages">Mostra gli SMS bloccati</string>
     <string name="pref_show_blocked_messages_summary">Mostra gli SMS bloccati nella lista delle conversazioni</string>
@@ -578,4 +587,10 @@
     <string name="security_alert_dialog_desc">Segnala questo numero (%s) ed i relativi messaggi inviandoli a Xiaomi per una verifica.</string>
     <string name="sms_report_failed">Impossibile inviare segnalazione</string>
     <string name="sms_report_success">Segnalazione inviata</string>
+    <string name="voip_enable">Mi Message and Voice</string>
+    <string name="voip_enable_popup_msg">"Make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
+    <string name="voip_enable_popup_msg2">Privacy Policy</string>
+    <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
+    <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
+    <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
 </resources>
