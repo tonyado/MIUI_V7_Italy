@@ -207,7 +207,7 @@
 	<string name="setting_wifi_mode">Iscriviti solo sotto copertura Wi-Fi</string>
     <string name="notice_title_agreement">Termini e Condizioni</string>
     <string name="notice_button_ok_and_go_on">Accetta e continua</string>
-    <string name="online_notice_message">""Devi accedere ad un calendario e accettare %1$s e %2$s prima di utilizzare il servizio.L'accesso ad un calendario richiede la connessione internet. Sei d'accordo?</string>
+    <string name="online_notice_message">"Devi accedere ad un calendario e accettare %1$s e %2$s prima di utilizzare il servizio.L'accesso ad un calendario richiede la connessione internet. Sei d'accordo?"</string>
     <string name="birthday_notice_message">"E' necessaria una connessione internet per la visualizzazione dei compleanni. Consentire?""</string>
 	<string name="data_notice_online_large_image">La sottoscrizione al calendario a grandi pagine è stata impostata con sincronizzazione solo con Wi-Fi per risparmiare traffico dati.</string>
 	<string name="data_notice_change_settings">Impostazioni modificate</string>
@@ -362,7 +362,7 @@
     <string name="travel_event_add_unsuccessfully">"Impossibile creare l'evento"</string>
     <string name="travel_event_added">Evento creato</string>
     <string name="travel_event_delete_successfully">Evento eliminato</string>
-    <string name="travel_event_delete_unsuccessfully">""Non è stato possibile eliminare l'evento"</string>
+    <string name="travel_event_delete_unsuccessfully">"Non è stato possibile eliminare l'evento"</string>
     <string name="travel_event_title_flight">Volo: %1$s-%2$s %3$s</string>
     <string name="travel_event_title_train">Treno: %1$s-%2$s %3$s</string>
     <string name="travel_event_title_train_only_dep">Treno: %1$s %2$s</string>
