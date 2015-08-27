@@ -318,9 +318,6 @@
     <string name="confirm_send_title">Inviare il messaggio?</string>
     <string name="contact_content_provider">Contact Content Provider</string>
     <string name="contact_edit_set_black_list">Imposta blacklist</string>
-    <string name="contact_edit_set_black_list_from">Elimina tutte le email di questo mittente</string>
-    <string name="contact_edit_set_black_list_receive">Elimina tutte le email di queato destinatario (di solito email di gruppo)</string>
-    <string name="contact_edit_set_black_list_receive_summary">Solo le liste A/Cc contengono questo destinatario</string>
     <string name="contact_edit_set_phone_contact">Modifica contatti telefono</string>
     <string name="contact_edit_set_pop_up_tips">Suggerimenti popup</string>
     <string name="contact_edit_set_unread_top">Mostra prima email non lette</string>

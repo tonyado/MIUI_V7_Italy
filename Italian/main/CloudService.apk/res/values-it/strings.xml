@@ -16,8 +16,8 @@
     <string name="pref_title_sync_contacts_title">Sincronizza i contatti</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Mostra foto solo con Wi-Fi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Non utilizzare la rete dati mobile per sincronizzare le foto dei contatti</string>
-    <string name="pref_title_sync_video_on_wifi_only">Only use WLAN to sync video</string>
-    <string name="pref_summary_sync_video_on_wifi_only">"Only sync contacts' profile videos when you're connected to a WLAN network"</string>
+    <string name="pref_title_sync_video_on_wifi_only">Utilizza solo Wi-Fi per la sincronizzazione video</string>
+    <string name="pref_summary_sync_video_on_wifi_only">"Sincronizza solo i video del profilo contatti quando sei collegato ad una rete Wi-Fi"</string>
     <string name="find_device_stop_noise">Interrompi</string>
     <string name="find_device_noise_title">Suono di localizzazione telefono</string>
     <string name="error_title">Errore di sincronizzazione</string>
@@ -206,7 +206,7 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="micloud_first_login_summary" />
     <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
     <string name="micloud_unlogin_for_time_summary" />
-    <string name="micloud_main_sync_stop">Dincronizzazione interrotta</string>
+    <string name="micloud_main_sync_stop">Sincronizzazione interrotta</string>
     <string name="micloud_main_sync_pause">Sincronizzazione in pausa</string>
     <string name="micloud_main_sync_exception">Errore di sincronizzazione</string>
     <string name="micloud_main_stop_sync">Interrompi sincronizzazione</string>

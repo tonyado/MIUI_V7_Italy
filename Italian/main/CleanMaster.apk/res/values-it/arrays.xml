@@ -25,24 +25,24 @@
     </string-array>
     <string-array name="auto_process_mode">
         <item>Show</item>
-        <item>"Don't show"</item>
-        <item>Show after</item>
+        <item>Non mostrare</item>
+        <item>MOstra più tardi</item>
     </string-array>
     <string-array name="cache_clean_menu">
-        <item>Clean up</item>
+        <item>Pulizia</item>
         <item>File</item>
-        <item>Exception</item>
+        <item>Eccezioni</item>
     </string-array>
     <string-array name="apk_clean_menu">
-        <item>Clean up</item>
+        <item>Pulizia</item>
         <item>File</item>
-        <item>Exception</item>
-        <item>Install</item>
+        <item>Eccezioni</item>
+        <item>Installa</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Details</item>
+        <item>Dettagli</item>
         <item>File</item>
-        <item>Back up and uninstall</item>
-        <item>Uninstall</item>
+        <item>Backup e disinstalla</item>
+        <item>Disinstalla</item>
     </string-array>
 </resources>

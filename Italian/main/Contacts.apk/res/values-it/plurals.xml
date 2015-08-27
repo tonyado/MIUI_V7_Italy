@@ -86,7 +86,7 @@
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Elimina %d contatti</item>
-        <item quantity="one">Delete contact</item>
+        <item quantity="one">Elimina contatto</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d persone</item>

@@ -57,7 +57,7 @@
     <string name="local_restore_window_title">Ripristino Locale</string>
     <string name="account_login">Login</string>
     <string name="miliao_account_login">Login Mi Talk</string>
-    <string name="miliao_account_guide">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
+    <string name="miliao_account_guide">Utilizza il tuo Mi Account per accedere a Mi Cloud, MIUI Theme Store ed altri servizi da dove vuoi.</string>
     <string name="auto_backup">Backup Automatico</string>
     <string name="contact_title">Contatti</string>
     <string name="call_title">Registro chiamate</string>
