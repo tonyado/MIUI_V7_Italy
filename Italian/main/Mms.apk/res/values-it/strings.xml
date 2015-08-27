@@ -474,7 +474,6 @@
     <string name="title_show_sms_template">Controlla i codici di verifica tra gli SMS</string>
     <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
     <string name="title_show_sms_template_in">Check SMS for OTP</string>
-    <string name="pref_show_sms_template_summary">Copia ed inserisci automaticamente i codici di verifica</string>
     <string name="title_show_blocked_messages">Mostra gli SMS bloccati</string>
     <string name="pref_show_blocked_messages_summary">Mostra gli SMS bloccati nella lista delle conversazioni</string>
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
