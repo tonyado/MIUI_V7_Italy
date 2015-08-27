@@ -21,8 +21,8 @@
     <string name="status_bar_toggle_quiet_mode">Anti-disturbo</string>
     <string name="status_bar_toggle_paper_mode">Mod. Lettura</string>
     <string name="miui">MIUI</string>   
-    <string name="perm_send_push_dspt">Allow Mi push messages</string>
-    <string name="perm_send_push_lab">Send push message</string>
+    <string name="perm_send_push_dspt">Consenti messaggi Mi push</string>
+    <string name="perm_send_push_lab">Invia messagio push</string>
     <string name="select">Seleziona</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="cut">Taglia</string>
@@ -71,12 +71,12 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="unknown_caller">Numero sconosciuto</string>
     <string name="handy_mode_title">Modalità mano singola</string>
     <string name="handy_mode_summary">Tocca lo spazio vuoto per chiudere</string>
-    <string name="handy_mode_enter_dlg_title">Enter One-handed mode</string>
-    <string name="handy_mode_enter_dlg_msg">Enter One-handed mode?</string>
-    <string name="permlab_manageLocationPolicy">manage location policy</string>
-    <string name="permdesc_manageLocationPolicy">Allows the app to manage location policies and define app-specific rules.</string>
-    <string name="location_usage_restricted_title">Background location restricted</string>
-    <string name="location_usage_restricted_body">Touch to remove restriction.</string>
-    <string name="fc_dialog_body">Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
-    <string name="fc_dialog_jump_to_preview">View the summary</string>
+    <string name="handy_mode_enter_dlg_title">Inserisci modalità mano singola</string>
+    <string name="handy_mode_enter_dlg_msg">Attivare modalità Mano Singola?</string>
+    <string name="permlab_manageLocationPolicy">Gestisci autorizzazioni sulla posizione</string>
+    <string name="permdesc_manageLocationPolicy">"Consenti all'applicazione di gestire le autorizzazioni sulla posizione e definisci regole specifiche per ogni app."</string>
+    <string name="location_usage_restricted_title">Localizzazione in background limitata</string>
+    <string name="location_usage_restricted_body">Tocca per rimuovere limitazioni.</string>
+    <string name="fc_dialog_body">"Inviare il bug report a Xiaomi per l'analisi? Questo rapporto potrebbe contenere informazioni di identificazione personale. Il tuo rapporto verrà utilizzato per aiutare la risoluzione di questo bug non verrà mai condiviso in nessun conteso commerciale."</string>
+    <string name="fc_dialog_jump_to_preview">Mostra il riassunto</string>
 </resources>

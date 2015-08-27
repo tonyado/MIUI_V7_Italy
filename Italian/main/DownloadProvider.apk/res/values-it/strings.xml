@@ -25,16 +25,16 @@
     <string name="notification_download_failed">Download non riuscito.</string>
     <string name="notification_download_success_more">%1$d file scaricati</string>
     <string name="notification_download_failed_more">%1$d file non scaricati</string>
-    <string name="insufficient_space">"Not enough space on your device's internal storage"</string>
-    <string name="enter_garbage_clean">Clean up internal storage.</string>
-    <string name="recommended_file_one_in_mobile">Using your mobile data connection to download this file (%s ) will increase your mobile data usage.</string>
-    <string name="recommended_file_more_in_mobile" formatted="false">Using your mobile data connection to download these %s files (%s ) will increase your mobile data usage.</string>
-    <string name="recommended_file_size_download_in_mobile" formatted="false">"You're not connected to WLAN at the moment. %s
+    <string name="insufficient_space">Spazio insufficiente sul tuo dispositivo</string>
+    <string name="enter_garbage_clean">Cancella memoria interna.</string>
+    <string name="recommended_file_one_in_mobile">Utilizzando la tua connessione dati mobile per scaricare questo file (%s ) aumenterà il consumo dei dati.</string>
+    <string name="recommended_file_more_in_mobile" formatted="false">Utilizzando la tua connessione dati mobile per scaricare questi %s file (%s ) aumenterà il consumo dei dati.</string>
+    <string name="recommended_file_size_download_in_mobile" formatted="false">"Non sei collegato ad una rete Wi-Fi in questo momento. %s
 
-Can't get file size info. To use your mobile data connection to download this file, tap %s. To wait and download this file when you're connected to WLAN, tap %s."</string>
-    <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Can't get file size info. To use your mobile data connection to download this file, tap %s. To wait and download this file when you're connected to WLAN, tap %s."</string>
-    <string name="button_wait_for_wifi">Wait</string>
-    <string name="button_download_now">Download now</string>
+Impossibile recuperare le dimensioni del file. Per utilizzare la tua connessione dati mobile per il download del file, tocca %s. Per attendere la connessione ad una rete Wi-Fi,tocca %s."</string>
+    <string name="recommended_no_file_size_download_in_mobile" formatted="false">Impossibile recuperare le dimensioni del file. Per utilizzare la tua connessione dati mobile per il download del file, tocca %s. Per attendere la connessione ad una rete Wi-Fi,tocca %s."</string>
+    <string name="button_wait_for_wifi">Attendi</string>
+    <string name="button_download_now">Scarica adesso</string>
     <string name="app_label">Gestione download</string>
     <string name="permlab_downloadManager">Accesso alla gestione dei download.</string>
     <string name="permdesc_downloadManager">"Consente all'applicazione di accedere a gestione dei download e di utilizzarla per scaricare file. Le applicazioni dannose possono farne uso per disturbare i download e accedere a informazioni private."</string>

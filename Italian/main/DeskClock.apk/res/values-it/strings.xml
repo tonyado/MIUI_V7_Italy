@@ -63,8 +63,8 @@
     <string name="snooze_confirm_cancel">Annulla sospensione</string>
     <string name="menu_item_sort_by_gmt_offset">Ordina per data</string>
     <string name="menu_item_sort_by_name">Ordina per nome</string>
-    <string name="birthday_alarm">Birthday alarm</string>
-    <string name="birthday_alarm_summary">Play \"Happy Birthday\" instead of default alarm sound on your birthday</string>
+    <string name="birthday_alarm">Suoneria compleanno</string>
+    <string name="birthday_alarm_summary">Riproduci \"Buon compleanno\" al posto della suoneria predefinita</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>
@@ -98,7 +98,7 @@
     <string name="snooze_duration_title">Durata sospensione</string>
     <string name="auto_silence_title">Disattivazione automatica</string>
     <string name="auto_silence_summary">La sveglia verrà disattivata dopo %d minuti</string>
-    <string name="auto_silence_never">Off</string>
+    <string name="auto_silence_never">Disattivato</string>
     <string name="done">Fatto</string>
     <string name="revert">Ripristina</string>
     <string name="delete">Elimina</string>

@@ -79,7 +79,7 @@
     <string name="open_xunlei_speed_service">Avvia il servizio Xunlei Highspeed</string>
     <string name="bind_xunlei_account">Associa un account Xunlei</string>
     <string name="choose_open_time">"Prego selezionare l'orario di apertura"</string>
-    <string name="experience_xunlei_account_speed">Xunlei members to accelerate service experience</string>
+    <string name="experience_xunlei_account_speed">I membri Xunlei possono provare l'esperienza del download accelerato.</string>
     <string name="high_speed_channel">Canale Highspeed</string>
     <string name="free_high_speed_channel">Canale gratuito Highspeed</string>
     <string name="dredge_xunlei_account">Accedi come utente Xunlei</string>
@@ -137,15 +137,15 @@
     <string name="third_web_default">Imposta come percorso predefinito, non chiedere più</string>
     <string name="third_web_cancel">Annulla</string>
     <string name="third_web_confirm">OK</string>
-     <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
-    <string name="no_vip_show_info">"Speed up downloads
-across all your devices with Xunlei"</string>
-    <string name="vip_show_info">"5 million members.
-Accelerate downloads across all your devices."</string>
-    <string name="vip_expire_show_info">"Xunlei membership expired.
-Renew now and get 5% off."</string>
-    <string name="vip_expire_today_show_info">"Xunlei membership expired.
-Renew now and get 5% off."</string>
+     <string name="no_vip_info">Registrati a Xunlei per accelerare i tuoi download</string>
+    <string name="no_vip_show_info">"Accelera i download
+su tutti i tuoi dispositivi grazie a Xunlei"</string>
+    <string name="vip_show_info">"5 milioni di membri.
+Accelerate i download su tutti i tuoi dispositivi."</string>
+    <string name="vip_expire_show_info">"Registrazione Xunlei scaduta.
+Rinnovala adesso con il 5% di sconto."</string>
+    <string name="vip_expire_today_show_info">"Registrazione Xunlei scaduta.
+Rinnovala adesso con il 5% di sconto."</string>
     <string name="expire_notification_msg">Il tuo account Xunlei sta per scadere, tocca Mostra Dettagli</string>
     <string name="expire_today_notification_msg">Il tuo account Xunlei scade oggi, tocca Mostra Dettagli</string>
     <string name="start_xunlei_speedup_info">Accedi automaticamente per utilizzare il servizio</string>
@@ -157,7 +157,7 @@ Renew now and get 5% off."</string>
     <string name="app_label">Download</string>
     <string name="download_title">Download</string>
     <string name="download_title_sorted_by_date">Download - Ordinati per data</string>
-    <string name="download_title_sorted_by_size">Download - Ordinati per dimesione</string>
+    <string name="download_title_sorted_by_size">Download - Ordinati per dimensione</string>
     <string name="no_downloads">Nessun download</string>
     <string name="missing_title">&lt;Sconosciuto></string>
     <string name="button_sort_by_size">Ordina per dimensione</string>
@@ -172,8 +172,8 @@ Renew now and get 5% off."</string>
     <string name="dialog_title_queued_body">File non ancora disponibile</string>
     <string name="dialog_queued_body">Questo file è accodato per essere scaricato in futuro.</string>
     <string name="dialog_file_missing_body">Impossibile trovare il file scaricato.</string>
-    <string name="dialog_insufficient_space_on_external">"Imposibile terminare il download. Non c'è abbastanza spazio sulla memoria esterna."</string>
-    <string name="dialog_insufficient_space_on_cache">"Imposibile terminare il download. Non c'è abbastanza spazio sulla memoria interna."</string>
+    <string name="dialog_insufficient_space_on_external">"Impossibile terminare il download. Non c'è abbastanza spazio sulla memoria esterna."</string>
+    <string name="dialog_insufficient_space_on_cache">"Impossibile terminare il download. Non c'è abbastanza spazio sulla memoria interna."</string>
     <string name="dialog_cannot_resume">Download interrotto. Impossibile riprendere.</string>
     <string name="dialog_file_already_exists">Impossibile scaricare. Il file di destinazione esiste già.</string>
     <string name="dialog_media_not_found">Impossibile scaricare. Il supporto esterno non è disponibile.</string>

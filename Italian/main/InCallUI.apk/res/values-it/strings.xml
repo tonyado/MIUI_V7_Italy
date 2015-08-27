@@ -209,7 +209,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="throttle_rate">Norme velocità dati</string>
     <string name="throttle_help">Ulteriori informazioni</string>
     <string name="throttle_status_subtext">"%1$s (%2$d٪) di %3$s periodo massimo.
-Il prossimo periodo iniziatra %4$d giorni (%5$s)"</string>
+Il prossimo periodo inizia tra %4$d giorni (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) di %3$s periodo massimo</string>
     <string name="throttle_data_rate_reduced_subtext">"%1$s max superato.
 Velocità dati ridotta a %2$d Kb/s"</string>
@@ -477,7 +477,7 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="goPrivate">Vai in privato</string>
     <string name="selectContact">Seleziona contatto</string>
     <string name="sip_settings">Impostazioni chiamata internet</string>
-    <string name="sip_accounts">Internet calling (SIP) accounts</string>
+    <string name="sip_accounts">Account chiamate internet (SIP)</string>
     <string name="sip_accounts_title">Account</string>
     <string name="sip_receive_calls">Ricevi chiamate in entrata</string>
     <string name="sip_receive_calls_summary">Riduce la durata della batteria</string>
@@ -503,8 +503,8 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="registration_status_registering">Registrazione…</string>
     <string name="registration_status_still_trying">Tentativo in corso…</string>
     <string name="registration_status_not_receiving">Impossibile ricevere chiamate</string>
-    <string name="registration_status_no_data">"La registrazione account si è interrotta perchè non c'è connessione internet"</string>
-    <string name="registration_status_no_wifi_data">"La registrazione account si è interrotta perchè non c'è connessione Wi-Fi"</string>
+    <string name="registration_status_no_data">"La registrazione account si è interrotta perché non c'è connessione internet"</string>
+    <string name="registration_status_no_wifi_data">"La registrazione account si è interrotta perché non c'è connessione Wi-Fi"</string>
     <string name="registration_status_not_running">Registrazione account fallita</string>
     <string name="registration_status_done">Le chiamate verranno ricevute</string>
     <string name="registration_status_failed_try_later">La registrazione account è fallita: (%s); riproverà più tardi</string>
@@ -547,7 +547,7 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="display_name">DisplayName</string>
     <string name="proxy_address">ProxyAddress</string>
     <string name="port">Port</string>
-    <string name="transport">Protocol</string>
+    <string name="transport">Protocollo</string>
     <string name="send_keepalive">SendKeepAlive</string>
     <string name="set_primary">SetPrimary</string>
     <string name="advanced_settings_container">advanced settings container</string>
@@ -615,7 +615,7 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="non_ivr_menu_collapse_menu">Chiudi menu</string>
     <string name="fraud_call_answer">Rispondi</string>
     <string name="fraud_call_decline">Rifiuta</string>
-    <string name="fraud_call_waring">"Sii produente: dovresti sempre verificare l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
+    <string name="fraud_call_waring">"Sii prudente: dovresti sempre verificare l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
     <string name="online_check_provider_info">Identificato da %s</string>
     <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
     <string name="online_check_warning_info_by_cmb">"Verifica sempre l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
@@ -633,12 +633,12 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="jeejen_card_title_incoming_call">Chiamata in arrivo</string>
     <string name="jeejen_card_title_call_cancel">Chiamata annullata</string>
     <string name="jeejen_card_title_call_ended">Chiamata terminata</string>
-    <string name="miprofile_stranger_card">Stranger card</string>
-    <string name="description_image_button_answer">Swipe up to answer</string>
-    <string name="description_image_button_reject">Swipe up to decline</string>
-    <string name="description_image_button_message_enter">Swipe up to reply with message</string>
-    <string name="description_image_button_message_exit">Hide messages</string>
-    <string name="description_image_button_hangup">End</string>
-    <string name="description_image_button_dialpad">Dialpad</string>
-    <string name="description_image_button_tools">Options</string>
+    <string name="miprofile_stranger_card">Scheda straniera</string>
+    <string name="description_image_button_answer">Scorri in alto per rispondere</string>
+    <string name="description_image_button_reject">Scorri in alto per rifiutare</string>
+    <string name="description_image_button_message_enter">Scorri in alto per rispondere con SMS</string>
+    <string name="description_image_button_message_exit">Nascondi messaggi</string>
+    <string name="description_image_button_hangup">Fine</string>
+    <string name="description_image_button_dialpad">Tastierino</string>
+    <string name="description_image_button_tools">Opzioni</string>
 </resources>
