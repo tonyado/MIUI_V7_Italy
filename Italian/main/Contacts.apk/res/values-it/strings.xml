@@ -695,7 +695,7 @@ Le schede contatti sono disattivate"</string>
     <string name="in_call_show_video_pick">Scegli</string>
     <string name="in_call_show_video_pick_filter">"l video deve essere minore di 3 MB e deve durare meno di 20 secondi. "</string>
     <string name="in_call_show_view_play_error">Si è verificato un errore durante la riproduzione del video, riprova</string>
-    <string name="in_call_show_camera_open_error">""Si è verificato un errore nell'apertura della fotocamera, riprovare""</string>
+    <string name="in_call_show_camera_open_error">"Si è verificato un errore nell'apertura della fotocamera, riprovare"</string>
     <string name="summary_kind_title">Sommario</string>
     <string name="callrecordview_item_newcontact">Nuovo contatto</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
