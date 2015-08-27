@@ -348,9 +348,9 @@
     <string name="simple_mode_button_text_gradienter">Disattiva Prospettiva</string>
     <string name="confirm_recording_fail_title">Impossibile registrare</string>
     <string name="confirm_recording_fail_calling_alert">Impossibile registrare durante la chiamata</string>
-    <string name="confirm_recording_fail_recorder_busy_alert">"Un'altra applicazione potrebbe utilizzare il microfono per la registrazine in questo momento."</string>
-    <string name="camera_snap_mode_title">Quick snap mode</string>
-    <string name="camera_snap_mode_title_detail">Tap to view details</string>
-    <string name="pref_camera_snap_enable_title">Quick snap mode</string>
-    <string name="pref_camera_snap_enable_summary">When the display is off, press &amp; hold the Volume Down button to enter Quick snap mode. Press it again to take a photo.</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">"Un'altra applicazione potrebbe utilizzare il microfono per la registrazione in questo momento."</string>
+    <string name="camera_snap_mode_title">Modalità Quick Snap</string>
+    <string name="camera_snap_mode_title_detail">Tocca per i dettagli</string>
+    <string name="pref_camera_snap_enable_title">Modalità Quick Snap</string>
+    <string name="pref_camera_snap_enable_summary">Quando lo schermo p disattivato, tieni premuto il tasto Volume - per entrare in Modalità Quick Snap. Premilo di nuovo per scattare una foto.</string>
 </resources>

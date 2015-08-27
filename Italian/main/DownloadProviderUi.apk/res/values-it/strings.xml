@@ -79,7 +79,7 @@
     <string name="open_xunlei_speed_service">Avvia il servizio Xunlei Highspeed</string>
     <string name="bind_xunlei_account">Associa un account Xunlei</string>
     <string name="choose_open_time">"Prego selezionare l'orario di apertura"</string>
-    <string name="experience_xunlei_account_speed">I membri Xunlei possono provare l'esperienza del download accelerato.</string>
+    <string name="experience_xunlei_account_speed">"I membri Xunlei possono provare l'esperienza del download accelerato.""</string>
     <string name="high_speed_channel">Canale Highspeed</string>
     <string name="free_high_speed_channel">Canale gratuito Highspeed</string>
     <string name="dredge_xunlei_account">Accedi come utente Xunlei</string>

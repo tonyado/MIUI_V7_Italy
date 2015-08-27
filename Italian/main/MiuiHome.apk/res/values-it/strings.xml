@@ -243,10 +243,10 @@
     <string name="app_category_productivity">Produttività</string>
     <string name="recommend_apps_notice">App consigliate</string>
     <string name="recommend_apps_switch_title">App consigliate</string>
-    <string name="recommend_apps_switch_summary">MOstra le app consigliate in fondo allo schermo</string>
+    <string name="recommend_apps_switch_summary">Mostra le app consigliate in fondo allo schermo</string>
     <string name="recommend_apps_default_title">Vuoto</string>
     <string name="recommend_apps_tips">Questa funzione deve collegarsi ad internet per funzionare correttamente. Per disattivare questa funzione tocca il nome della cartella.</string>
-    <string name="children_folder_title">Kids</string>
-    <string name="children_mode_exit">Exit</string>
-    <string name="wallpaper_auto_change_title">Lock screen</string>
+    <string name="children_folder_title">Ragazzi</string>
+    <string name="children_mode_exit">Uscita</string>
+    <string name="wallpaper_auto_change_title">Lockscreen</string>
 </resources>
