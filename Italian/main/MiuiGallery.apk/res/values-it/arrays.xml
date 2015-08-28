@@ -7,4 +7,16 @@
         <item>1 ora</item>
         <item>Infinito</item>
     </string-array>
+    <string-array name="baby_sexy">
+        <item>Bambino</item>
+        <item>Bambina</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Padre</item>
+        <item>Madre</item>
+        <item>Nonno paterno</item>
+        <item>Nonna paterna</item>
+        <item>Nonno materno</item>
+        <item>Nonna materna</item>
+    </string-array>
 </resources>
