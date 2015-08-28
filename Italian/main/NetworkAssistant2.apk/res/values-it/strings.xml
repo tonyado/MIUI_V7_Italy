@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Utilizzo dati</string>
-    <string name="app_name">Utilizo dati</string>
     <string name="list_empty_text">Vuoto</string>
     <string name="dialog_title_attention">Attenzione</string>
     <string name="main_button_normal_traffic">Soglia</string>
