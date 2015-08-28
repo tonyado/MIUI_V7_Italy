@@ -38,6 +38,7 @@
     <string name="music_dirac_mode_piston_basic">Edizione Base</string>
     <string name="music_dirac_mode_piston_standard">Edizione standard</string>
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
+    <string name="music_dirac_mode_piston_color">Color Edition</string>
     <string name="music_dirac_mode_headset">Cuffie Mi</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
@@ -2104,8 +2105,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="do_not_disturb_mode">Anti-disturbo</string>
     <string name="dndm_notification">Anti-disturbo abilitato.</string>
     <string name="dndm_open">Anti-disturbo</string>
-	<string name="dndm_alarm_content_not_all">Tutto consentito</string>
-    <string name="dndm_summary">"Quando l'Anti-disturbo è attivo le chiamate e le notifiche che arrivano durante lo stand-by saranno ignorate"</string>
+    <string name="dndm_alarm_content_not_all">Tutto consentito</string>
     <string name="dndm_auto_setting_group">Programmato</string>
     <string name="dndm_auto_button_title">Ora</string>
     <string name="dndm_auto_time_setting">Impostazioni orario</string>

@@ -373,4 +373,6 @@
     <string name="theme_provision_default_theme_title">Predefinito</string>
     <string name="theme_precast_update_notification_title">Aggiorna a MIUI 7</string>
     <string name="theme_precast_update_notification_content">Tocca per vedere nuovi temi.</string>
+    <string name="theme_precast_update_notification_title">Temi MIUI 7 aggiornati</string>
+    <string name="theme_precast_update_notification_content">Tocca per vedere gli aggiornamenti.</string>
 </resources>

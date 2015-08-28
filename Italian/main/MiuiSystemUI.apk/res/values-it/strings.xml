@@ -88,6 +88,11 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="gps_notification_found_text">Posizione stabilita dal GPS</string>
     <string name="accessibility_clear_all">Rimuovi tutte le notifiche.</string>
     <string name="status_bar_notification_inspect_item_title">Informazioni app</string>
+    <string name="screen_pinning_title">Schermo spuntato</string>
+    <string name="screen_pinning_description">In questo modo resterà visualizzato fino a che non toglierai la spunta. Tieni premuto Indietro e Panoramica contemporaneamente per togliere la spunta.</string>
+    <string name="screen_pinning_description_accessible">In questo modo resterà visualizzato fino a che non toglierai la spunta. Tieni premuto IPanoramica per togliere la spunta.</string>
+    <string name="screen_pinning_positive">Ho capito</string>
+    <string name="screen_pinning_negative">No grazie</string>
     <string name="status_bar_date_format">d/M, E</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
@@ -175,7 +180,7 @@ scorri in basso per bloccare"</string>
     <string name="ext_media_mountable_notification_title">Archiviazione USB connessa</string>
     <string name="ext_media_mountable_notification_message">Apri media esterno con File Explorer</string>
     <string name="ext_media_safe_remove">Rimozione sicura</string>
-
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="status_bar_network_flow_today">Oggi: %1$s</string>

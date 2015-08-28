@@ -499,6 +499,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="set_default">Imposta come predefinito</string>
     <string name="clear_default">Cancella impostazione predefinita</string>
     <string name="toast_text_copied">Testo copiato</string>
+    <string name="cancel_confirmation_dialog_title">Annulla</string>
     <string name="cancel_confirmation_dialog_message">Annullare le modifiche?</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">Imposta il mio profilo</string>
@@ -800,7 +801,7 @@ Le schede contatti sono disattivate"</string>
     <string name="delete_duplicate_message">Unione contatti…</string>
     <string name="label_no_duplicate_contacts">Nessun duplicato rilevato</string>
     <string name="quit_dialog_confirm_title">Nessun contatto unito</string>
- <string name="quit_dialog_confirm_message">Non hai unito nessun contatto</string>
+    <string name="quit_dialog_confirm_message">Non hai unito nessun contatto</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">Importa/Esporta</string>
     <string name="preference_import_export_title">Importa/Esporta contatti</string>

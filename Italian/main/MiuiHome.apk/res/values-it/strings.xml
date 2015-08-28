@@ -248,5 +248,7 @@
     <string name="recommend_apps_tips">Questa funzione deve collegarsi ad internet per funzionare correttamente. Per disattivare questa funzione tocca il nome della cartella.</string>
     <string name="children_folder_title">Ragazzi</string>
     <string name="children_mode_exit">Uscita</string>
+    <string name="children_mode_tips">"Ritorna alle Impostazioni e gestisci l'accesso alle app."</string>
     <string name="wallpaper_auto_change_title">Lockscreen</string>
+    <string name="wallpaper_scaling_message">Ridimensionamento alla dimensione impostata</string>
 </resources>
