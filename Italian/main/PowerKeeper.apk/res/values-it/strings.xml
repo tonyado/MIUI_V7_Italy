@@ -115,4 +115,6 @@
     <string name="power_hide_mode_app_list_title">Choose apps to restrict</string>
     <string name="power_hide_mode_app_list_summary">App settings</string>
     <string name="power_hide_mode_app_list_total">%d apps</string>
+    <string name="empty_title_apps_container_list">No apps</string>
+    <string name="hints_loading_text">Just a sec…</string>
 </resources>

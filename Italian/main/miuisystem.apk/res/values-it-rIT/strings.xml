@@ -6,7 +6,7 @@
     <string name="presentation_private">Numero privato</string>
     <string name="presentation_unknown">Numero sconosciuto</string>
     <string name="yellow_page_module_sms_sent">SMS inviato</string>
-    <string name="yellow_page_sms_disabled_in_privacy_mode">Non è possibile invare messaggi in Modalità Ospite</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">Non è possibile inviare messaggi in Modalità Ospite</string>
     <string name="yellow_page_sms_send_failed">SMS non inviato</string>
     <string name="yellow_page_sms_sending">Invio in corso…</string>
     <string name="yellow_page_unable_send_sms">Impossibile inviare SMS</string>
@@ -100,19 +100,19 @@
     <string name="group_name_friends">Amici</string>
     <string name="group_name_family">Famiglia</string>
     <string name="group_name_coworkers">Colleghi</string>
-    <string name="no_notification_tips">Nesuna notifica.</string>
+    <string name="no_notification_tips">Nessuna notifica.</string>
     <string name="maml_component_customization_title">Impostazioni</string>
     <string name="default_name">Predefinito</string>
     <string name="resource_select">Seleziona</string>
     <string name="android_ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
     <string name="loading">Caricamento…</string>
-    <string name="app_name_which_call">Applicatione:%s</string>
+    <string name="app_name_which_call">Applicazione:%s</string>
     <string name="app_version_which_call">Versione applicazione:%s</string>
     <string name="policy_name">Condizioni:%s</string>
     <string name="mibi_license">Termini del Servizio Mi Credit</string>
     <string name="license_host_unreachable">Impossibile collegarsi alla rete. Per accedere a queste informazioni, 
 vai su %s"</string>
-    <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
-    <string name="cloud_state_finished">Synced with Mi Cloud</string>
-    <string name="cloud_state_syncing">Synced with Mi Cloud</string>
+    <string name="cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
+    <string name="cloud_state_finished">Sincronizzato con Mi Cloud</string>
+    <string name="cloud_state_syncing">Sincronizzato con Mi Cloud</string>
 </resources>

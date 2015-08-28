@@ -216,4 +216,8 @@ Impossibile inviare il feedback"</string>
     <string name="welcom_title">Benvenuto in MIUI 6</string>
     <string name="welcom_message">"Sei pronto per iniziare!"</string>
     <string name="welcom_button">OK</string>
+    <string name="sogou_uninstall_title">Compatibilità tastiera</string>
+    <string name="sogou_uninstall_msg">Tastiera Sogou(Mi Edition) non è compatibile con MIUI 7. Cambia tastiera o aggiorna ad una versione più recente di Sogou.</string>
+    <string name="sogou_uninstall_positive_button">Cambia tastiera</string>
+    <string name="sogou_uninstall_negative_button">Aggiorna Sogou</string>
 </resources>

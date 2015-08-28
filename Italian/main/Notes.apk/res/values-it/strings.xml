@@ -71,7 +71,7 @@
     <string name="toast_message_add_text_warn">Questo tipo di file non è supportato</string>
     <string name="toast_folder_privacy_mode">Impossibile modificare cartella in modalità Guard</string>
     <string name="toast_note_privacy_mode">Impossibile creare note in modalità Ospite</string>
-    <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perchè troppo lungo.</string>
+    <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>
     <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
     <string name="snippet_image_stub">[Image]</string>
     <string name="snippet_image_template">[Image %1$s]</string>
@@ -99,19 +99,19 @@
     <string name="sns_hint_content">Cosa hai in mente?</string>
     <string name="sns_footer_text">Creata con Mi Note</string>
     <string name="dlg_info_creating_message">Creazione messaggio…</string>
-    <string name="sns_message_disconnect">Impossibile collegarsi alla rete. Controlal la conenssione er prova di nuovo.</string>
+    <string name="sns_message_disconnect">Impossibile collegarsi alla rete. Controlla la connessione e prova di nuovo.</string>
     <string name="sns_content_default">Condividi foto</string>
     <string name="sns_toast_empty">Non puoi inviare un messaggio vuoto</string>
     <string name="sns_toast_over_limit">Invia come immagine (oltre il limite del testo)</string>
     <string name="sns_desc_preview_weibo">Anteprima messaggio Weibo</string>
-    <string name="sns_desc_preview_wechat">Anteprima meggaggio WeChat</string>
+    <string name="sns_desc_preview_wechat">Anteprima messaggio WeChat</string>
     <string name="sns_choose_quality_title">"Scegli la qualità dell'immagine"</string>
     <string name="sns_choose_quality_high">Alta (%1$s)</string>
     <string name="sns_choose_quality_low">Bassa</string>
     <string name="welcome_note_for_cm">"E molte altre fantastiche funzioni!
   - Sincronizzazione con Mi Cloud
   - Salvataggio all'uscita
-  - Impostazionea avvisi
+  - Impostazione avvisi
 
 Per saperne di più, visita
 http://www.miui.it/forum

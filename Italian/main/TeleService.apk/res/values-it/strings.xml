@@ -776,6 +776,8 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="cfnrc_title">Inoltra se non sei raggiungibile</string>
     <string name="cfnry_title">Inoltra se non hai risposto</string>
     <string name="disable_all_cf">Disabilita tutti gli intoltri di chiamate</string>
+    <string name="incoming_video_show_pref_title">Mostra video profilo chiamante</string>
+    <string name="incoming_video_show_pref_summary">Mostra il video profilo impostato dal chiamante. Per utilizzare questa funzione, attiva le schede di contatto.</string>
     <string name="call_settings_category">Chiamate</string>
     <string name="connect_disconnect_vibrate_title">Vibra su risposta</string>
     <string name="connect_disconnect_vibrate_summary">Vibra quando la persona da te chiamata risponde</string>
@@ -884,6 +886,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
     <string name="telephony_setting">Impostazioni chiamata</string>
     <string name="international_roaming_setting">Roaming internazionale</string>
+    <string name="overseas_roaming_setting">Roaming internazionale</string>
     <string name="cdma_alert_title">UIM deve essere predefinita</string>
     <string name="cdma_alert_message">"Se utilizzi un'altra scheda come predefinita per la connessione dati, non potrai utilizzare la tua Scheda UIM di China Telecom."</string>
     <string name="config_default_data_sim">Impostazioni</string>

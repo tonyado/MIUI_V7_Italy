@@ -20,7 +20,7 @@
     <string name="record_list_cloud">Registrazioni Cloud</string>
     <string name="record_list_cloud_fm">Registrazioni FM Cloud</string>
     <string name="record_list_cloud_call">Registrazioni Chiamate Cloud</string>
-    <string name="call_record">Chiamate registratre(%d)</string>
+    <string name="call_record">Chiamate registrate(%d)</string>
     <string name="fm_record">Registrazioni radio (%d)</string>
     <string name="cloud_record">%d sincronizzate</string>
     <string name="no_file">Vuoto</string>
@@ -81,11 +81,11 @@
     <string name="sync_only_in_wifi">Sincronizza solo se sei in Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">"Il registratore utilizzerà la tua connessione dati per scaricare o caricare registrazioni quando l'opzione è disattivata"</string>
     <string name="wifi_recommended_title">Avviso traffico</string>
-    <string name="wifi_recommended_body" formatted="false">"L'utilizzo della rete dati mobile per il downlaod di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano dell tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il downlaod di questo file tocca %s.</string>
+    <string name="wifi_recommended_body" formatted="false">"L'utilizzo della rete dati mobile per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
     <string name="button_queue_for_wifi">Coda</string>
     <string name="button_start_now">Download</string>
     <string name="notification_title_all_paused">Download in pausa</string>
-    <string name="notification_message_all_paused">"Potrebbe aumentare l'utilizo dei dati su rete mobile."</string>
+    <string name="notification_message_all_paused">"Potrebbe aumentare l'utilizzo dei dati su rete mobile."</string>
     <string name="toast_file_is_downloading">Questo file è in download, attendere prego</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="data_connection_title">Avviso utilizzo dati</string>

@@ -188,10 +188,10 @@ scorri in basso per bloccare"</string>
     <string name="expanded_notification_manager">Gestisci notifiche</string>
     <string name="disable_notification_title">Blocca notifiche</string>
     <string name="disable_notification_summary">Non mostrare mai notifiche per questa app.</string>
-    <string name="expanded_confirm_disable_notification">Confirm</string>
-    <string name="block_record_notification_title">Block record</string>
-    <string name="block_record_notification_text">%1$s. Touch to view</string>
-    <string name="block_record_notification_more_text">%1$s %2$d apps. Touch to view</string>
+    <string name="expanded_confirm_disable_notification">Conferma</string>
+    <string name="block_record_notification_title">Blocca elemento</string>
+    <string name="block_record_notification_text">%1$s. Tocca per vedere</string>
+    <string name="block_record_notification_more_text">%1$s %2$d app. Tocca per vedere</string>
     <string name="notification_otg_mouse_in">Mouse connesso</string>
     <string name="notification_otg_keyboard_in">Tastiera connessa</string>
     <string name="notification_otg_gamestick_in">Gamepad connesso</string>
@@ -236,6 +236,6 @@ scorri in basso per bloccare"</string>
     <string name="vpn_title_long">Connettiti alla VPN utilizzando %s</string>
     <string name="vpn_text">Tocca per vedere le impostazioni.</string>
     <string name="vpn_text_long">Connesso a %s. Tocca per vedere i dettagli.</string>
-    <string name="screen_button_notification_title">Navigation buttons are turned off</string>
-    <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
+    <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
+    <string name="screen_button_notification_text">Per attivarli, premi Home e Accensione contemporaneamente.</string>
 </resources>

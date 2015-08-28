@@ -360,4 +360,17 @@
     <string name="present_online_themes">Online</string>
     <string name="present_local_themes">Scaricati</string>
     <string name="choose_new_themes">Nuovi temi</string>
+    <string name="lockscreen_magazine_title">Lockscreen giornalieri</string>
+    <string name="lockscreen_magazine_summary">Ricevi ogni giorno degli sfondi direttamente sulla tua lockscreen.</string>
+    <string name="lockscreen_magazine_subscribe">%1$s follower</string>
+    <string name="lockscreen_magazine_system_title">Predefinito</string>
+    <string name="lockscreen_magazine_system_subscribe">%1$s sfondi</string>
+    <string name="theme_apply_success">Lockscreen installato</string>
+    <string name="theme_apply_failured">Impossibile installare lo sfondo per la lockscreen</string>
+    <string name="theme_applying">Instalalzione…</string>
+    <string name="theme_provision_loading_tips">Solo un secondo…</string>
+    <string name="theme_provision_title">Scegli un tema</string>
+    <string name="theme_provision_default_theme_title">Predefinito</string>
+    <string name="theme_precast_update_notification_title">Aggiorna a MIUI 7</string>
+    <string name="theme_precast_update_notification_content">Tocca per vedere nuovi temi.</string>
 </resources>
