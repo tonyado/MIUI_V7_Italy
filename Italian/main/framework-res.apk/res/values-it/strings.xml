@@ -196,7 +196,7 @@
     <string name="global_action_power_off">Spegni</string>
     <string name="global_action_bug_report">Bug report</string>
     <string name="bugreport_title">Crea un bug report</string>
-    <string name="bugreport_message">""Questa procedura raccoglierà informazioni sullo stato del tuo dispositivo e verrà inviato come messaggio e-mail. Richiederà un po' di tempo prima che sia pronto per l'invio; sii paziente."</string>
+    <string name="bugreport_message">"Questa procedura raccoglierà informazioni sullo stato del tuo dispositivo e verrà inviato come messaggio e-mail. Richiederà un po' di tempo prima che sia pronto per l'invio; sii paziente."</string>
     <string name="global_action_toggle_silent_mode">Modalità silenziosa</string>
     <string name="global_action_silent_mode_on_status">Audio non attivo</string>
     <string name="global_action_silent_mode_off_status">Audio attivo</string>
@@ -398,7 +398,7 @@
     <string name="permlab_bindAccessibilityService">associazione ad un servizio di accessibilità</string>
     <string name="permdesc_bindAccessibilityService">"Consente al titolare di collegare all'interfaccia di primo livello di un servizio di accessibilità. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_bindPrintService">collega ad un servizio di stampa</string>
-    <string name="permdesc_bindPrintService">""Consente al proprietario di collegare l'interfaccia di primo livello ad un servizio di stampa. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
+    <string name="permdesc_bindPrintService">"Consente al proprietario di collegare l'interfaccia di primo livello ad un servizio di stampa. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_bindPrintSpoolerService">collegare ad un servizio spooler di stampa</string>
     <string name="permdesc_bindPrintSpoolerService">"Consente al proprietario di collegarsi all'interfaccia di primo livello di un servizio spooler di stampa. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_bindNfcService">collegare ad un serfizio NFC</string>
@@ -1025,7 +1025,7 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="low_internal_storage_view_title">Spazio in esaurimento</string>
     <string name="low_internal_storage_view_text">Spazio di archiviazione del telefono in esaurimento.</string>
     <string name="app_running_notification_title">%1$s è in esecuzione</string>
-    <string name="app_running_notification_text">""Tocca per altre informazioni o per interrompere l'app."</string>
+    <string name="app_running_notification_text">"Tocca per altre informazioni o per interrompere l'app."</string>
     <string name="loading">Caricamento…</string>
     <string name="capital_on">ON</string>
     <string name="capital_off">OFF</string>
