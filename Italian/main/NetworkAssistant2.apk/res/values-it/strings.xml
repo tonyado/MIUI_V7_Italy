@@ -504,7 +504,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="load_fail">Caricamento fallito</string>
     <string name="notify_weekly_traffic_title">Utilizzati %s questa settimana</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilizzati %2$s questa settimana</string>
-    <string name="notify_weekly_traffic_body">Per limitare automaticamente l'utilizzo dei dati, imposta il tuo piano dat mensile.</string>
+    <string name="notify_weekly_traffic_body">"Per limitare automaticamente l'utilizzo dei dati, imposta il tuo piano dati mensile."</string>
     <string name="notify_daily_data_usage_body">%s utilizzati oggi. Tocca per impostare la soglia.</string>
     <string name="notify_month_traffic_title">%s utilizzati questo mese</string>
     <string name="notify_month_traffic_title_for_slotnum">%1$s utilizzati %2$s questo mese</string>
