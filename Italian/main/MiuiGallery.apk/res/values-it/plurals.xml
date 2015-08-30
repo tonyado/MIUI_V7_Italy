@@ -9,28 +9,28 @@
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
         <item quantity="other">&lt;Data>Gli elementi selezionati includono foto su, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto sia dal dispositivo che da Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Gli elementi selezionati includono foto su Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto sia dal dispositivo che da Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>"L'elemento selezionato è una foto su Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto sia dal dispositivo che da Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
         <item quantity="other">&lt;Data>Gli elementi selezionati includono video su Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video sia dal dispositivo che da Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Gli elementi selezionati includono video su Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> vide sia dal dispositivo che da Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>"L'elemento selezionato è un video su Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video sia dal dispositivo che da Mi Cloud?&lt;/Data>"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Selected items are photos or videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Gli elementi selezionati includono foto o video su Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> questi elementi da Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>Selected items are photos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos from Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Selected item is photo in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Gli elementi selezionati includono foto su Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto da Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>"L'elemento selezionato è una foto su Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto da Mi Cloud?&lt;/Data>"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">&lt;Data>Selected items are videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos from Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Selected item is video in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Gli elementi selezionati includono video su Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video da Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>"L'elemento selezionato è un video Mi Cloud, eliminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video da Mi Cloud?&lt;/Data>"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from this album?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Eleminare &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> elementi da questo album?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
-        <item quantity="other">Delete %s items?</item>
+        <item quantity="other">Eliminare %s elementi?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">Eliminare %s foto dal cloud?</item>
@@ -97,35 +97,35 @@
         <item quantity="one">%1$d file</item>
     </plurals>
     <plurals name="seconds">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">1 second</item>
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">1 secondo</item>
     </plurals>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Don't show these faces?"</item>
-        <item quantity="one">"Don't show this face?"</item>
+        <item quantity="other">Non vuoi mostrare questi volti?</item>
+        <item quantity="one">Non vuoi mostrare questo volto?</item>
     </plurals>
     <plurals name="more_face">
         <item quantity="other">%1$s nuovi volti potrebbero appartenere a %2$s >></item>
         <item quantity="one">%1$s nuovo volto potrebbe appartenere a %2$s >></item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d photos of %2$s to be added</item>
-        <item quantity="one">%1$d photo of %2$s to be added</item>
+        <item quantity="other">%1$d foto di %2$s da aggiungere</item>
+        <item quantity="one">%1$d foto di %2$s da aggiungere</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d photos of %2$s to be added</item>
-        <item quantity="one">%1$d photo of %2$s to be added</item>
+        <item quantity="other">%1$d foto di %2$s da aggiungere</item>
+        <item quantity="one">%1$d foto di %2$s da aggiungere</item>
     </plurals>
     <plurals name="baby_age_subtitle_year">
-        <item quantity="other">"%1$d years "</item>
-        <item quantity="one">"%1$d year "</item>
+        <item quantity="other">"%1$d anni "</item>
+        <item quantity="one">"%1$d anno "</item>
     </plurals>
     <plurals name="baby_age_subtitle_month">
-        <item quantity="other">"%1$d months "</item>
-        <item quantity="one">"%1$d month "</item>
+        <item quantity="other">"%1$d mesi "</item>
+        <item quantity="one">"%1$d mese "</item>
     </plurals>
     <plurals name="baby_age_subtitle_day">
-        <item quantity="other">%1$d days</item>
-        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d giorni</item>
+        <item quantity="one">%1$d giorno</item>
     </plurals>
 </resources>

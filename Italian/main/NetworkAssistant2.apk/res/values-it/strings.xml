@@ -19,6 +19,7 @@
     <string name="main_traffic_overlimit_text">oltre</string>
     <string name="main_traffic_used_only">Utilizzati: %s</string>
     <string name="main_alert_message_no_mobile_package">"Limite dati rete mobile non impostato"</string>
+    <string name="main_message_no_package_by_dual">Imposta limite dati per %s</string>
     <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
     <string name="main_alert_message_slot_no_data_connection">"Lo slot SIM non supporta
 la connessione alla rete dati mobile"</string>
@@ -501,13 +502,13 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="pay_charge">Acquista dati aggiuntivi</string>
     <string name="replace_dns">Sostituisci automaticamente i DNS</string>
     <string name="load_fail">Caricamento fallito</string>
-    <string name="notify_weekly_traffic_title">Used %s this week</string>
-    <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
-    <string name="notify_weekly_traffic_body">To limit data usage automatically, set up your monthly data plan.</string>
+    <string name="notify_weekly_traffic_title">Utilizzati %s questa settimana</string>
+    <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilizzati %2$s questa settimana</string>
+    <string name="notify_weekly_traffic_body">Per limitare automaticamente l'utilizzo dei dati, imposta il tuo piano dat mensile.</string>
     <string name="notify_daily_data_usage_body">%s utilizzati oggi. Tocca per impostare la soglia.</string>
-    <string name="notify_month_traffic_title">Used %s this month</string>
-    <string name="notify_month_traffic_title_for_slotnum">%1$s used %2$s this month</string>
-    <string name="notify_month_traffic_body">Set a data usage limit to prevent going over your monthly data plan.</string>
+    <string name="notify_month_traffic_title">%s utilizzati questo mese</string>
+    <string name="notify_month_traffic_title_for_slotnum">%1$s utilizzati %2$s questo mese</string>
+    <string name="notify_month_traffic_body">Imposta un limite di utilizzo dati pe prerevenire il superamento della soglia mensile.</string>
     <string name="notify_daily_limit_title">Imposta una soglia dati quotidiana</string>
     <string name="notify_daily_limit_title_for_slotnum">Imposta limite dati giornaliero per %s</string>
     <string name="notify_daily_limit_body">%s utilizzati questa settimana. Tocca per impostare la soglia.</string>

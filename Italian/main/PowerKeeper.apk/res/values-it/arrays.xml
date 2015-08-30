@@ -77,19 +77,19 @@
         <item>bg_delay_screen_off</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>No operations</item>
-        <item>Standard</item>
-        <item>Picture</item>
-        <item>Movie</item>
-        <item>Battery saving</item>
-        <item>Balance</item>
-        <item>Performance</item>
+        <item>Nessuna</item>
+        <item>Predefinita</item>
+        <item>Immagine</item>
+        <item>Film</item>
+        <item>Risparmio batteria</item>
+        <item>Bilanciato</item>
+        <item>Prestazioni</item>
         <item>Enable</item>
         <item>Disable</item>
-        <item>Immediately</item>
-        <item>After 10 min</item>
-        <item>After 30 min</item>
-        <item>When display is off</item>
+        <item>Immediatamente</item>
+        <item>Dopo 10 min</item>
+        <item>Dopo 30 min</item>
+        <item>Quando lo schermo è disattivato</item>
     </string-array>
     <string-array name="shown_mandatory_event_name">
         <item>foreground_change</item>
@@ -121,9 +121,9 @@
         <item>bg_delay_10_mins</item>
     </string-array>
     <string-array name="app_groups">
-        <item>selected</item>
-        <item>unselected</item>
-        <item>other selected</item>
+        <item>selezionati</item>
+        <item>deselezionati</item>
+        <item>altri selezionati</item>
     </string-array>
     <array name="read_enable" />
     <string-array name="read_disable">
