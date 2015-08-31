@@ -714,7 +714,7 @@ con gli amici"</string>
     <string name="invite_sharer_again_confirm_button_text">Invita di nuovo</string>
     <string name="relation_text_empty_alert">Aggiungi informazione di relazione</string>
     <string name="phone_number_empty_alert">Aggiungi numero di telefono</string>
-    <string name="send_invitation_fail">""Non è sto possibile inviare l'invito""</string>
+    <string name="send_invitation_fail">"Non è sto possibile inviare l'invito</string>
     <string name="invite_send_sms_tip">"Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato per mandare questo invito."</string>
     <string name="baby_album_picker_default_title">"Seleziona il volto di %1$s"</string>
     <string name="baby_album_new_photo_page_title">"Album di %1$s"</string>
