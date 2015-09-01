@@ -2252,7 +2252,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="title_font_current2">Scegli carattere di sistema</string>
     <string name="title_layout_current2">Scegli dimensione carattere</string>
     <string name="handy_mode">Modalità Mano Singola</string>
-    <string name="handy_mode_enable">Modalità Mano Singola</string>
+    <string name="handy_mode_enter_ask">Chiedi prima di entrare in modalità Mano Singola</string>
     <string name="handy_mode_tips">Scorri a sinistra o a destra dal tasto Home per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
     <string name="handy_mode_size">Dimensione schermo</string>
     <string name="key_settings_title">Tasti</string>
