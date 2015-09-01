@@ -130,6 +130,12 @@
     <string name="recommend_failed">Fallito</string>
     <string name="recommend_paused">In pausa</string>
     <string name="recommend_loading">Caricamento…</string>
+    <string name="about">Informazioni</string>
+    <string name="version">Versione %s</string>
+    <string name="new_add">Nuovo</string>
+    <string name="pref_download_storage_path">Crea una nuova cartella per i downlaod</string>
+    <string name="pref_download_revert_default">Predefinito</string>
+    <string name="file_picker">Scegli un percorso</string>
     <string name="third_web_title">Salva</string>
     <string name="third_web_filename_hint">Nome file</string>
     <string name="third_web_filesize">Dimensione:</string>
@@ -137,7 +143,7 @@
     <string name="third_web_default">Imposta come percorso predefinito, non chiedere più</string>
     <string name="third_web_cancel">Annulla</string>
     <string name="third_web_confirm">OK</string>
-     <string name="no_vip_info">Registrati a Xunlei per accelerare i tuoi download</string>
+    <string name="no_vip_info">Registrati a Xunlei per accelerare i tuoi download</string>
     <string name="no_vip_show_info">"Accelera i download
 su tutti i tuoi dispositivi grazie a Xunlei"</string>
     <string name="vip_show_info">"5 milioni di membri.
@@ -154,6 +160,30 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="DOWNLOAD_UNIT_MB">MB</string>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
     <string name="DOWNLOAD_UNIT_TB">TB</string>
+    <string name="start_download">Download</string>
+    <string name="starting_analysis">Recupero informazioni...</string>
+    <string name="network_error">Impossibile collegarsi alla rete</string>
+    <string name="start_analysis">Controllo</string>
+    <string name="create_task">Crea operazione</string>
+    <string name="input_valid_address">Inserisci il percorso di un file</string>
+    <string name="invalid_address">Il percorso inserito non è valido</string>
+    <string name="do_not_support_url">Questo tipo di URL non è supportato</string>
+    <string name="edit_hint"> Iserisci un URL (http o https)</string>
+    <string name="revert_download_path">Utilizzare il percorso predefinito per i downlaod?</string>
+    <string name="save_path">"Salva i downlaod in: "</string>
+    <string name="cancel">Annulla</string>
+    <string name="confirm">OK</string>
+    <string name="download_auth">Recupero autorizzazione...</string>
+    <string name="setting_open_debug">Modalità debug attivata. Tocca qui 6 volte per disattivare la modalità debug.</string>
+    <string name="setting_close_debug">Modalità debug disattivata</string>
+    <string name="setting_debug_fail">Impossibile inserire la modalità debug</string>
+    <string name="auth_fail">"Impossibile ottener el'autorizzazione"</string>
+    <string name="install">Installa</string>
+    <string name="downloading">Download in corso...</string>
+    <string name="downloaded">Downlaod completato</string>
+    <string name="paused">Pausa</string>
+    <string name="installing">Instalalzione...</string>
+    <string name="open">Aperto</string>
     <string name="app_label">Download</string>
     <string name="download_title">Download</string>
     <string name="download_title_sorted_by_date">Download - Ordinati per data</string>
@@ -187,4 +217,10 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="select_all">Seleziona tutti</string>
     <string name="selected_count">Selezionati %1$d di %2$d</string>
     <string name="download_share_dialog">Condividi con</string>
+    <string name="app_name">File Exporer</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="storage_internal">Memoria interna</string>
+    <string name="storage_sd_card">SchedaSD</string>
+    <string name="storage_usb">Archiviazione USB</string>
+    <string name="revert_default">Ripristina</string>
 </resources>

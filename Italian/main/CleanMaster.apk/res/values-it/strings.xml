@@ -238,4 +238,7 @@
     <string name="hints_cleanfinish">Pulizia terminata</string>
     <string name="hints_num">0</string>
     <string name="mainbtn_text_quick_cleanup">Pulizia %s</string>
+    <string name="pref_title_open_optimizer_memory_scan">Pulizia memoria</string>
+    <string name="pref_summary_open_optimizer_memory_scan">Controlla e pulisci automaticamente la memoria</string>
+    <string name="toast_select_white_need_remove">Seleziona gli elementi da rimuovere</string>
 </resources>
