@@ -3051,7 +3051,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="dndm_alarm_content_event">Notifiche</string>
     <string name="dndm_alarm_content_event_and_call">otifiche e chiamate</string>
     <string name="dndm_alarm_content_event_and_sms">Notifiche e messaggi</string>
-    <string name="dndm_alarm_content_sms"><news</string>
+    <string name="dndm_alarm_content_sms">News</string>
     <string name="wifi_dialog_remind_type_title">Dati rete mobile</string>
     <string name="wifi_switch_to_gsm_message">La conenssione Wi-Fi è stata aggiornata. Utilizzare la rete dati mobile?</string>
     <string name="wifi_switch_to_gsm_title">Solo GSM?</string>
