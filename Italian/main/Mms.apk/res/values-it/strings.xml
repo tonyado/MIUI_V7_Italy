@@ -521,7 +521,7 @@
     <string name="confirm_dlg__msg">Avviso CMCC: il servizio gratuito pos-service di CMCC non sarà fornito se annulli la registrazione al servizio. Sei certo di annullare?</string>
     <string name="alert_dlg_ok_button">OK</string>
     <string name="alert_dlg_cancel_button">Annulla</string>
-    <string name="cloud_recommend_msg">TOcca per sincronizzare i messaggi con Mi Cloud.</string>
+    <string name="cloud_recommend_msg">Tocca per sincronizzare i messaggi con Mi Cloud.</string>
     <string name="send_message_notification_tickerText">Richiesta di permessi per Gestione dispositivo</string>
     <string name="send_message_notification_title">Gestione dispositivo</string>
     <string name="send_message_notification_msg">Richiesta di permesso invio messaggio per Gestione dispositivo</string>
