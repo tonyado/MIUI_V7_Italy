@@ -578,7 +578,7 @@
     <string name="month_report_network_dialog_title">Impossibile recuperare le informazioni del rapporto</string>
     <string name="month_report_network_dialog_description">Consenti a questa applicazione di collegarsi ad internet per recuperare le informazioni sul rapporto?</string>
     <string name="month_report_network_dialog_positive">Consenti</string>
-    <string name="antivirus_choose_engine_settings">Impostazioni definizione virus/string>
+    <string name="antivirus_choose_engine_settings">Impostazioni definizione virus</string>
     <string name="antivirus_choose_engine_title">Definizioni</string>
     <string name="antivirus_choose_engine_disable_toast">Impossibile cambiare le definizioni quando la scansione è in corso</string>
     <string name="antivirus_choose_engine_dialog_title">Scegli le definizioni</string>
@@ -593,5 +593,5 @@
     <string name="antivirus_privacy_dialog_cloudscan_description">Carica e scansiona i nomi e dettagli delle applicazioni utilizzando le definizioni dei virus online.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_more_engine_dialog_title">Attenzione</string>
-    <string name="antivirus_more_engine_dialog_summary">L'utilizzo di più definizioni virus può richiedere maggior tempo per la scansione.</string>
+    <string name="antivirus_more_engine_dialog_summary">"L'utilizzo di più definizioni virus può richiedere maggior tempo per la scansione."</string>
 </resources>

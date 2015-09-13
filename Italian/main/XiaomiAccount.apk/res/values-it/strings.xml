@@ -3,7 +3,7 @@
     <string name="passport_app_name">Mi Account</string>
     <string name="passport_account_hint_text">Email o numero di telefono</string>
     <string name="passport_phone_num_hint_text">Numero di telefono</string>
-    <string name="passport_login">Accedi con un account esistente</string
+    <string name="passport_login">Accedi con un account esistente</string>
     <string name="passport_login_short">Accedi</string>
     <string name="passport_login_with_email_or_id"><u>Accedi con email o Mi ID</u></string>
     <string name="passport_email_or_id_hint_text">Email o Mi ID</string>
