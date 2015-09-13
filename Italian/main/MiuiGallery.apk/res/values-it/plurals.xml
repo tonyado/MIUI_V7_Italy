@@ -48,13 +48,13 @@
         <item quantity="other">Eliminare %s video?</item>
         <item quantity="one">Eliminare %s video?</item>
     </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Eliminare %s foto sia in locale che da Mi Cloud?</item>
-        <item quantity="one">Eliminare %s foto sia in locale che da Mi Cloud?</item>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">&lt;Data>"Elimina &amp;lt;xliff:g id=ITEM>%1$d video&amp;lt;/xliff:g> dall'album %2$d?&lt;/Data>"</item>
+        <item quantity="one">&lt;Data>"Elimina &amp;lt;xliff:g id=ITEM>%1$d video&amp;lt;/xliff:g> dall'album %2$d?&lt;/Data>"</item>
     </plurals>
-    <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Eliminare %s video sia in locale che da Mi Cloud?</item>
-        <item quantity="one">Eliminare %s video sia in locale che da Mi Cloud?</item>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Data>"Elimina &amp;lt;xliff:g id=ITEM>%1$d immagini&amp;lt;/xliff:g> dall'album %2$d?&lt;/Data>"</item>
+        <item quantity="one">&lt;Data>"Elimina &amp;lt;xliff:g id=ITEM>%1$d immagine&amp;lt;/xliff:g> dall'album %2$d?&lt;/Data>"</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d elementi</item>
@@ -127,5 +127,29 @@
     <plurals name="baby_age_subtitle_day">
         <item quantity="other">%1$d giorni</item>
         <item quantity="one">%1$d giorno</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d foto in attesa di sincronizzazione</item>
+        <item quantity="one">1 foto da caricare</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d video in attesa di sincronizzazione</item>
+        <item quantity="one">1 video da caricare</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d elementi in attesa di sincronizzazione</item>
+        <item quantity="one">1 elemento in attesa di sincronizzazione</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Sincronizzazione di %1$d foto…</item>
+        <item quantity="one">Sincronizzazione di 1 foto…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Sincronizzazione di %1$d video…</item>
+        <item quantity="one">Sincronizzazione di 1 video…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Sincronizzazione di %1$d elementi…</item>
+        <item quantity="one">Sincronizzazione di 1 elemento…</item>
     </plurals>
 </resources>

@@ -196,7 +196,6 @@
     <string name="contact_photo">Foto contatto</string>
     <string name="projection">Proiezione</string>
     <string name="cut">Taglia e salva</string>
-    <string name="more">Altro</string>
     <string name="deleting_files">Eliminazione file…</string>
     <string name="bigscreen_slide_playing">La presentazione è in esecuzione su questo dispositivo: %s</string>
     <string name="bigscreen_slide_exit">Esci dalla presentazione su TV</string>
@@ -625,6 +624,7 @@ con gli amici"</string>
     <string name="ignore_face">Ignora questo volto</string>
     <string name="who_is_this">Chi è?</string>
     <string name="view_face_album">Mostra album</string>
+    <string name="name_wrong">"Questo non è %s"</string
     <string name="face_album_rename_hint">Inserisci il nome</string>
     <string name="face_album_new_name_hint">Nuovo nome</string>
     <string name="face_choose_tip">Seleziona da un album esistente</string>
@@ -649,10 +649,11 @@ con gli amici"</string>
     <string name="baby_birthday">Compleanno</string>
     <string name="choose_baby_sexy">Genere</string>
     <string name="choose_owner_relation">Relazione</string>
-    <string name="auto_upload_face_summary">"Confronta ed aggiungi automaticamente le foto all'album del bambino"</string>
-    <string name="auto_upload_face_summary_with_people_name_when_on">Aggiungi automaticamente le foto di \"%1$s\" a questo album</string>
-    <string name="auto_upload_face_summary_with_people_name_when_off">Add photos Aggiungi automaticamente le foto di \"%1$s\" a questo album</string>
-    <string name="auto_upload_face">Aggiungi foto automaticamente</string>
+    <string name="auto_update_face_summary">"Confronta ed aggiungi automaticamente le foto all'album del bambino"</string>
+    <string name="auto_update_face">Aggiungi le foto automaticamente</string>
+    <string name="auto_update_on">Attivato</string>
+    <string name="auto_update_off">Disattivato</string>
+    <string name="associate_face_album">Scegli un album</string>
     <string name="finish_fill_baby">Crea</string>
     <string name="create_baby_album_dialog_msg">Crea un album per \"%s\"?</string>
     <string name="input_nickname_toast">Inserisci il nome del bambino</string>
@@ -730,6 +731,9 @@ con gli amici"</string>
     <string name="baby_lock_wallpaper_at_least_one_selected">Scegli un album</string>
     <string name="set_as_baby_lock_wallpaper">Imposta come sfondo lockscreen</string>
     <string name="baby_album_sharers_page_title">Condividi con i familiari</string>
+    <string name="more">Altro</string>
+    <string name="sync_ok">Sincronizza</string>
+    <string name="need_to_turn_on_sync">Attiva la sincronizzazione con il Mi Cloud ora.</string>
     <string name="paint_crop_tips">"Per ritagliare un'immagine, puoi spostare e ridimensionare il riquadro sulle parte interessata"</string>
     <string name="saturation_abbr">S</string>
     <string name="highlight_abbr">H</string>
