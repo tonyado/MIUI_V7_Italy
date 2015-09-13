@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="category_default_number_text">(0)</string>
-    <string name="download_current_progress">%1$d/100</string>
+    <string name="download_current_progress">%1$d%%</string>
     <string name="delete_folder">\u0020Eliminare questa cartella?</string>
     <string name="delete_folders">\u0020Eliminare %1$d?</string>
     <string name="delete_file">Eliminare questo file?</string>
@@ -345,6 +345,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="tab_source">APP</string>
     <string name="tab_more">altro</string>
     <string name="title_recent">Recenti</string>
+    <string name="title_expire_video">Per scadere</string>
     <string name="title_more_source">Altre app</string>
     <string name="expand_all">Tutto</string>
     <string name="group_title">%2$s da %1$s</string>
@@ -360,6 +361,9 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="no_recent_files">Nessun file recente</string>
     <string name="storage_info">%1$s disponibile</string>
     <string name="kuaipan_info">File KuaiPan</string>
+    <string name="group_title_extra_new">Nuovo</string>
+    <string name="group_title_extra_expire">Per scadere</string>
+    <string name="group_title_extra_backup">Backup</string>
     <string name="just_now">poco fa</string>
     <string name="yesterday">ieri</string>
     <string name="month_day_format">dd MMM</string>
@@ -417,4 +421,25 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="smb_loading">Solo un attimo...</string>
     <string name="online_not_support">In questomomento non è possibile vedere il file.</string>
     <string name="delete_file_error">Non è stato possibile eliminare il file</string>
+    <string name="notification_content_hint">Tocca per visualizzare</string>
+    <string name="notification_wechat_title">Notify me when a WeChat video is about to expire</string>
+    <string name="backup_title">Backup video di WeChat</string>
+    <string name="backup_confirm">Backup ora</string>
+    <string name="backup_cancel">No grazie</string>
+    <string name="backup_success_title">Backup eseguito</string>
+    <string name="backup_success_message">Backup di %1$s</string>
+    <string name="backup_success_cancel">OK</string>
+    <string name="backup_success_confirm">Visualizza</string>
+    <string name="connection_error">Impossibile connettersi</string>
+    <string name="app_name_bluetooth">Bluetooth</string>
+    <string name="app_name_screenshot">Screenshot</string>
+    <string name="app_name_downloadedrom">Pacchetti</string>
+    <string name="app_name_downloads">Download</string>
+    <string name="app_name_camera">Fotocamera</string>
+    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miuimusic">Musica</string>
+    <string name="app_name_market">App Store</string>
+    <string name="app_name_miuiwallpaper">Sfondi</string>
+    <string name="app_name_miuiringtone">Suonerie</string>
+    <string name="app_name_midrop">Mi Drop</string>
 </resources>
