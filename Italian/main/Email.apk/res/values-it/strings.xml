@@ -526,8 +526,6 @@
     <string name="outbox_alert_description_reject_by_server">Rifiutata da %s</string>
     <string name="outbox_alert_description_sent_failed">"Le dimensioni dell'allegato superano quelle massime del destinatario"</string>
     <string name="outbox_alert_description_time_out">Connessione di rete fallita</string>
-    <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the server's limit."</string>
-    <string name="outbox_alert_description_time_out">Network connection timed out</string>    
     <string name="outbox_alert_duplicate_click">Non toccare di nuovo, mail in sincronizzazione</string>
     <string name="outbox_alert_edit_resend">Modifica e reinvia</string>
     <string name="outbox_alert_failed_edit_resend">Invio fallito, modifica e reinvia</string>
@@ -669,7 +667,6 @@
     <string name="report_rendering_improvement_desc">This message looks good.</string>
     <string name="report_rendering_problem">Looks bad</string>
     <string name="report_rendering_problem_desc">This message looks bad.</string>
-    <string name="report_spam">Report spam</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
     <string name="respond_inline">Risposta incorporata</string>
     <string name="save_action">Salva</string>
@@ -783,7 +780,6 @@
     <string name="view_more_conversations">Mostra altre conversazioni</string>
     <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
 Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
-    <string name="wait_for_sync_title">Waiting for sync</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_other_views">Altro</string>
