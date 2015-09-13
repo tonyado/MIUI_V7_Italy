@@ -624,7 +624,7 @@ con gli amici"</string>
     <string name="ignore_face">Ignora questo volto</string>
     <string name="who_is_this">Chi è?</string>
     <string name="view_face_album">Mostra album</string>
-    <string name="name_wrong">"Questo non è %s"</string
+    <string name="name_wrong">"Questo non è %s"</string>
     <string name="face_album_rename_hint">Inserisci il nome</string>
     <string name="face_album_new_name_hint">Nuovo nome</string>
     <string name="face_choose_tip">Seleziona da un album esistente</string>

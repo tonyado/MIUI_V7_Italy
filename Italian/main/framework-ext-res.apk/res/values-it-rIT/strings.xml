@@ -46,6 +46,8 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="global_actions_reboot">Riavvia</string>
     <string name="global_actions_shutdown">Spegni</string>
     <string name="global_actions_silent_mode">Modalità silenziosa</string>
+    <string name="reboot_info_auto_boot">Il telefono si avvierà alle %s grazie alla pianificazione di avvio automatico</string>
+    <string name="reboot_info_shutdown_alarm">Il telefono si avvierà e suonerà alle %s</string>
     <string name="key_btn_space">Spazio</string>
     <string name="key_btn_ok">OK</string>
     <string name="lockscreen_access_pattern_start">Sequenza avviata</string>
@@ -79,4 +81,10 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="location_usage_restricted_body">Tocca per rimuovere limitazioni.</string>
     <string name="fc_dialog_body">"Inviare il bug report a Xiaomi per l'analisi? Questo rapporto potrebbe contenere informazioni di identificazione personale. Il tuo rapporto verrà utilizzato per aiutare la risoluzione di questo bug non verrà mai condiviso in nessun conteso commerciale."</string>
     <string name="fc_dialog_jump_to_preview">Mostra il riassunto</string>
+    <string name="internal_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali</string>
+    <string name="international_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate internazionali</string>
+    <string name="all_call_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali e internazionali </string>
+    <string name="internal_remain_mins">%1$s minuti rimasti (chiamate nazionali)</string>
+    <string name="international_remain_mins">%1$s minuti rimasti (%2$s chiamate)</string>
+    <string name="all_call_livetalk_remain_mins">Minuti rimasti: (%1$s nazionali) | %2$s (%3$s)</string>
 </resources>
