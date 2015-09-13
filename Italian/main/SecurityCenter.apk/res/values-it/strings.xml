@@ -334,6 +334,7 @@
     <string name="hints_scan_result_virus">Virus rilevati</string>
     <string name="hints_virus_scan_result_descx">Questa app è un grande rischio per la sicurezza del tuo telefono</string>
     <string name="hints_unknown_virus_name">Sconosciuto</string>
+    <string name="descx_quick_scan_preparation">Attendi un secondo…</string>
     <string name="descx_quick_scan_done">Scansione terminata</string>
     <string name="descx_quick_scan_cancel">Scansione interrotta</string>
     <string name="hints_scanning_virus_by_cloud">Scansione del cloud…</string>
@@ -395,7 +396,6 @@
     <string name="Settings_title_anti_virus">Impostazioni antivirus</string>
     <string name="settings_title_permission">Impostazioni permessi</string>
     <string name="pref_category_title_virus_lib_auto_update">Impostazioni definizioni virus</string>
-    <string name="menu_item_virus_lib_auto_update_title">Aggiorna automaticamente</string>
     <string name="pref_category_title_reference_settings">Impostazioni correlate</string>
     <string name="menu_item_virus_cloud_scan_title">Definizioni virus su cloud</string>
     <string name="menu_item_virus_cloud_scan_summary">Usa definizioni online per la scansione</string>
@@ -510,6 +510,7 @@
     <string name="summary_network_switch">"Consenti all'applicazione Sicurezza di collegarsi ad internet"</string>
     <string name="title_power_optimizer">Risparmio batteria</string>
     <string name="summary_power_optimizer">Riduci le prestazioni del tuo dispositivo quando la batteria è scarica</string>
+    <string name="history_details_title">Dettagli cronologia</string>    
     <string name="title_data_flow">"Imposta un avviso per l'utilizzo dei dati"</string>
     <string name="summary_data_flow">Evita di superare il limite mensile previsto dal tuo piano</string>
     <string name="title_telecom_operator">Utilizza il conteggio del gestore</string>
@@ -577,5 +578,20 @@
     <string name="month_report_network_dialog_title">Impossibile recuperare le informazioni del rapporto</string>
     <string name="month_report_network_dialog_description">Consenti a questa applicazione di collegarsi ad internet per recuperare le informazioni sul rapporto?</string>
     <string name="month_report_network_dialog_positive">Consenti</string>
-    <string name="history_details_title">Dettagli cronologia</string>
+    <string name="antivirus_choose_engine_settings">Impostazioni definizione virus/string>
+    <string name="antivirus_choose_engine_title">Definizioni</string>
+    <string name="antivirus_choose_engine_disable_toast">Impossibile cambiare le definizioni quando la scansione è in corso</string>
+    <string name="antivirus_choose_engine_dialog_title">Scegli le definizioni</string>
+    <string name="antivirus_choose_engine">Utilizza le definizioni da %s</string>
+    <string name="antivirus_update_db">%s</string>
+    <string name="antivirus_none_engine_dialog_title">Sgegli le definizioni</string>
+    <string name="antivirus_none_engine_dialog_ok">OK</string>
+    <string name="antivirus_privacy_dialog_title">Privacy Policy</string>
+    <string name="antivirus_privacy_dialog_summary">Questa caratteristica cifra e carica il ID del dispositivo sul server (%s) di AVL e Tencent.</string>
+    <string name="antivirus_privacy_dialog_summary_link">visualizza le Privacy Policy</string>
+    <string name="antivirus_privacy_dialog_cloudscan">Carica i nomi e i dettagli delle applicazioni</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">Carica e scansiona i nomi e dettagli delle applicazioni utilizzando le definizioni dei virus online.</string>
+    <string name="antivirus_privacy_dialog_ok">OK</string>
+    <string name="antivirus_more_engine_dialog_title">Attenzione</string>
+    <string name="antivirus_more_engine_dialog_summary">L'utilizzo di più definizioni virus può richiedere maggior tempo per la scansione.</string>
 </resources>
