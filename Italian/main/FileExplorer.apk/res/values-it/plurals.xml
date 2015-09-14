@@ -121,12 +121,12 @@
         <item quantity="many">trovato %1$d nuovi file</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Ricevuto %1$d file dall'App %2$s</item>
-        <item quantity="zero">Ricevuto %1$d file dall'App %2$s</item>
-        <item quantity="one">Ricevuto %1$d file dall'App %2$s</item>
-        <item quantity="two">Ricevuto %1$d file dall'App %2$s</item>
-        <item quantity="few">Ricevuto %1$d file dall'App %2$s</item>
-        <item quantity="many">Ricevuto %1$d file dall'App %2$s</item>
+        <item quantity="other">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="zero">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="one">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="two">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="few">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="many">Ricevuto %1$d file dall\'App %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
         <item quantity="other">Ricevuto %1$d file da WeChat</item>
