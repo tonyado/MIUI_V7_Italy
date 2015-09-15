@@ -14,8 +14,8 @@
     <string name="sensitivity_title">Sensibilità</string>
     <string name="content_sensitive_bright_title">Luminosità sensibile al contenuto</string>
     <string name="content_sensitive_bright_summary">Regola la luminosità in base al contenuto dello schermo</string>
-    <string name="readability_enhancer_title">Milgioramento della lettura</string>
-    <string name="readability_enhancer_summary">Migliora la lettura dei contenuti in base alla lumnosità ambientale</string>
+    <string name="readability_enhancer_title">Miglioramento della lettura</string>
+    <string name="readability_enhancer_summary">Migliora la lettura dei contenuti in base alla luminosità ambientale</string>
     <string name="display_effect_categroy">Effetti schermo</string>
     <string name="mode_categroy">Modalità</string>
     <string name="clear_motion_title">ClearMotion</string>
@@ -34,14 +34,14 @@
     <string name="basic_color_header">Regolazione base del colore</string>
     <string name="basic_color_item_contrast">Contrasto</string>
     <string name="basic_color_item_saturation">Saturazione</string>
-    <string name="basic_color_item_brightness">Luminosità imagine</string>
+    <string name="basic_color_item_brightness">Luminosità immagine</string>
     <string name="advance_color_header">Regolazione avanzata</string>
     <string name="advance_color_item_sharpness">Definizione</string>
     <string name="advance_color_item_temperature">Temperatura colore</string>
     <string name="lcd_header">Pannello OverDrive</string>
     <string name="lcd_item">Tempo di risposta LCD</string>
     <string name="overdrive_intro">Velocità di risposta LCD veloce e pannello overdrive</string>
-    <string name="contrast_header">Milgioramento del contrasto</string>
+    <string name="contrast_header">Miglioramento del contrasto</string>
     <string name="contrast_item">Contrasto dinamico</string>
     <string name="reset_item">Ripristina impostazioni predefinite</string>
     <string name="reset_dialog_message">Tutte le impostazioni MiraVision™ verranno ripristinate</string>
