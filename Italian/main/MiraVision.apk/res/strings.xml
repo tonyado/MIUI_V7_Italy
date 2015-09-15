@@ -8,8 +8,8 @@
     <string name="picture_mode_user">Modalità utente</string>
     <string name="user_mode_warning_msg">La modalità utente ti consente di regolare manualmente e a tuo piacimento gli effetti nella visualizzazione delle immagini.</string>
     <string name="not_remind_again">Non ricordarmelo più.</string>
-    <string name="light_sensitive_bright_title"Luminosità foto-sensibile</string>
-    <string name="light_sensitive_bright_summary">Regola la lumonostità in base alla luce ambientale</string>
+    <string name="light_sensitive_bright_title">Luminosità foto-sensibile</string>
+    <string name="light_sensitive_bright_summary">Regola la luminosità in base alla luce ambientale</string>
     <string name="brightess_title">Luminosità</string>
     <string name="sensitivity_title">Sensibilità</string>
     <string name="content_sensitive_bright_title">Luminosità sensibile al contenuto</string>
