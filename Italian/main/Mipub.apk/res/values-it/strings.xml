@@ -166,7 +166,7 @@
     <string name="sim_card1">SIM 1</string>
     <string name="sim_card2">SIM 2</string>
     <string name="pref_forward_title">Inoltra</string>
-    <string name="pref_title_fwd_sender_info">FInoltra informazioni mittente</string>
+    <string name="pref_title_fwd_sender_info">Inoltra informazioni mittente</string>
     <string name="pref_title_card_format">Formato condivisione scheda</string>
     <string name="pref_title_miui_card">Invia tramite scheda</string>
     <string name="pref_title_vcard">Invia trmaite vCard</string>
@@ -223,7 +223,7 @@
     <string name="network_error">Errore di rete</string>
     <string name="follow_finished">Numero seguito</string>
     <string name="service_unavailiable">Servizio non disponibile</string>
-    <string name="already_followed">Stai già seguento questo numero</string>
+    <string name="already_followed">Stai già seguendo questo numero</string>
     <string name="follow_forbidden">Impossibile seguire questo numero</string>
     <string name="migrate_db_loading">Caricamento...</string>
     <string name="empty_mipub_list">Vuoto</string>
@@ -231,7 +231,7 @@
     <string name="try_again">Riprova</string>
     <string name="followed_accounts">Account seguiti</string>
     <string name="mipub_message_block">Nessun messaggio ricevuto da %s</string>
-    <string name="mipub_message_receive">Messaggi ricevuti da da %s</string>
+    <string name="mipub_message_receive">Messaggi ricevuti da %s</string>
     <string name="mipub_message_block_already">Tu hai impostato di non ricevere sempre i messaggi</string>
     <string name="current_service_number">numero servizio attuale</string>
     <string name="menu_more_service">Altro</string>
