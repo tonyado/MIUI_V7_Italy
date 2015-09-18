@@ -687,6 +687,7 @@ Le schede contatti sono disattivate"</string>
     <string name="in_call_show_delete_message">Eliminare il tuo video?</string>
     <string name="in_call_show_save_failed">Non è stato possibile salvare il video</string>
     <string name="in_call_show_save_completed">Video profilo salvato</string>
+    <string name="in_call_show_preview_reshoot">Riprova</string>
     <string name="in_call_show_tap_to_show_demo">"Tocca per l'anteprima"</string>
     <string name="in_call_show_demo_present">Anteprima</string>
     <string name="in_call_show_guide_start_recording">Registra adesso</string>
@@ -727,6 +728,7 @@ Le schede contatti sono disattivate"</string>
     <string name="callrecordview_menu_add_call_note">Aggiungi nota alla chiamata</string>
     <string name="callrecordview_menu_edit_call_note">Modifica nota della chiamata</string>
     <string name="menu_dialpad_text">Tastierino</string>
+    <string name="emergency_number_label">Numero di emergenza</string>
     <string name="dialer_empty_text_no_search_result">Nessun contatto trovato</string>
     <string name="dialer_empty_text_loading">Caricamento…</string>
     <string name="dialer_empty_text_no_call_log">Nessun contatto recente</string>

@@ -82,6 +82,8 @@
     <string name="repeat">Riprova</string>
     <string name="user_begin">Scarica</string>
     <string name="recovery_failed_title">Usa Mi PC Suite per aggiornare il sistema</string>
+    <string name="recovery_power_not_enough_title">Batteria scarica</string>
+    <string name="recovery_power_not_enough_msg">Collega ad un carica batteria se sei sotto il 30% di batteria</string>
     <string name="recovery_failed_msg">"Il dispositivo non ha sufficiente memoria per andare in modalità Recovey ed aggiornare il sistema. Prova ad utilizzare Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>
@@ -212,8 +214,8 @@ Prova a d accedere di nuovo nel tuo Mi Account."</string>
     <string name="vote_error4">Hai già inviato il tuo feedback</string>
     <string name="vote_error5">"Qualcosa è andato storto
 Impossibile inviare il feedback"</string>
-    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Go to MIUI forum</a>" "</string>
-    <string name="welcom_title">Benvenuto in MIUI 6</string>
+    <string name="miui_BBS">" "<a href="http://www.miui.it/forum">Vai sul forum di MIUI Italia</a>" "</string>
+    <string name="welcom_title">Benvenuto in MIUI 7</string>
     <string name="welcom_message">"Sei pronto per iniziare!"</string>
     <string name="welcom_button">OK</string>
     <string name="sogou_uninstall_title">Compatibilità tastiera</string>

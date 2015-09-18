@@ -24,4 +24,12 @@
         <item quantity="other">Sospendi per %d minuti</item>
         <item quantity="one">Sospendi per %d minuto</item>
     </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Sospensione per %d minuti.</item>
+        <item quantity="one">Sospensione per %d minuto.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">LE sveglie verranno silenziate dopo %d minuti</item>
+        <item quantity="one">Le sveglie verranno solenziate dopo %d minuto</item>
+    </plurals>
 </resources>

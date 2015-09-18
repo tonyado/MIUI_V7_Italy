@@ -593,4 +593,5 @@
     <string name="mx_and_voip_enable">Mi Message e Voce</string>
     <string name="mx_and_voip_enable_popup_msg">"Invia messaggi e chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Infomrativasull Privacy di Weihui."</string>
     <string name="mx_and_voip_enable_popup_msg2">Informativa sulla Privacy</string>
+    <string name="mx_b2c_message_desc">Notifiche di rete</string>
 </resources>

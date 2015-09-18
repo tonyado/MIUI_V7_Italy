@@ -184,6 +184,12 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="paused">Pausa</string>
     <string name="installing">Instalalzione...</string>
     <string name="open">Aperto</string>
+    <string name="title_tips">Attenzione</string>
+    <string name="xiaomi_account_not_exist_message">Questo Mi Account non esiste</string>
+    <string name="xunlei_account_has_unbind_message">Account Xunlei rimosso</string>
+    <string name="quit_btn">Esci</string>
+    <string name="rebind_btn">Aggiuni di nuovo</string>
+    <string name="title_unbind_xunlei">Rimuovi il tuo account Xunlei</string>
     <string name="app_label">Download</string>
     <string name="download_title">Download</string>
     <string name="download_title_sorted_by_date">Download - Ordinati per data</string>

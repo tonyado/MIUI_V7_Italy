@@ -97,7 +97,6 @@
     <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>
     <string name="snooze_duration_title">Durata sospensione</string>
     <string name="auto_silence_title">Disattivazione automatica</string>
-    <string name="auto_silence_summary">La sveglia verrà disattivata dopo %d minuti</string>
     <string name="auto_silence_never">Disattivato</string>
     <string name="done">Fatto</string>
     <string name="revert">Ripristina</string>
