@@ -9,7 +9,6 @@
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Invia</string>
     <string name="abc_searchview_description_voice">Ricerca vocale</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Account duplicato</string>
     <string name="account_name_toast">Nome già esistente, rinominare</string>
@@ -262,7 +261,6 @@
     <string name="contextmenu_send_mail">Invia email</string>
     <string name="contextmenu_sharelink">Condividi link</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="conversation_folder_moved">Spostata in %1$s</string>
     <string name="conversation_item_mark_read">Letta</string>
     <string name="conversation_item_mark_unread">Non letta</string>
@@ -366,8 +364,7 @@
     <string name="forward_attribution">---------- Messaggio inoltrato ----------<br/>Da: %1$s<br/>Data: %2$s<br/>Oggetto: %3$s<br/>A: %4$s<br/></string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="forward_download_failed_ticker">Impossibile inoltrare uno o più allegati.</string>
-    <string name="forward_download_failed_title">Allegato non inoltrato</string>
-    <string name="forward_subject_label">I:</string>    
+    <string name="forward_download_failed_title">Allegato non inoltrato</string>  
     <string name="from_heading">"Da: "</string>
     <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
     <string name="general_preference_confirm_delete_summary">Messaggi</string>
@@ -663,10 +660,6 @@
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
     <string name="report_phishing">Segnala phishing</string>
     <string name="report_spam">Segnala come spam</string>
-    <string name="report_rendering_improvement">Looks good</string>
-    <string name="report_rendering_improvement_desc">This message looks good.</string>
-    <string name="report_rendering_problem">Looks bad</string>
-    <string name="report_rendering_problem_desc">This message looks bad.</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
     <string name="respond_inline">Risposta incorporata</string>
     <string name="save_action">Salva</string>

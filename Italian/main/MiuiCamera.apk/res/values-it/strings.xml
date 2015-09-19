@@ -307,7 +307,6 @@
     <string name="accessibility_panorama_review_cancel">Controllo annullamento panorama</string>
     <string name="simple_mode_button_text_manual">Esci dalla modalità Manuale</string>
     <string name="pref_qc_focus_position_title">Focus</string>
-    <string name="pref_front_mirror_entry_auto">Auto</string>
     <string name="pref_front_mirror_entry_auto">Quando il viso viene rilevato</string>
     <string name="pref_front_mirror_entry_on">Attivato</string>
     <string name="pref_front_mirror_entry_off">Disattivato</string>
