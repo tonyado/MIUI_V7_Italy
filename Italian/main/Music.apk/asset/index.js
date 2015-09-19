@@ -7260,7 +7260,7 @@ var colorize = {
 };
 
 function tag() {
-  (0, _util.request)('http://music.search.xiaomi.net/v61/topQueries?count=16').then(function (res) {
+  (0, _util.request)('http://music.search.xiaomi.net/v61/topQueries?count=1').then(function (res) {
     (0, _dom2['default'])('.hot_tag .bd').innerHTML = res.result.map(function (_ref) {
       var name = _ref.name;
 
