@@ -29,8 +29,20 @@
         <item>Via messaggio Cloud</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>Tramite messaggio</item>
-        <item>Tramite messaggio Cloud</item>
+        <item>SMS</item>
+        <item>Mi Message</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Non impostato</item>
+        <item>1 ora</item>
+        <item>6 ore</item>
+        <item>12 ore</item>
+        <item>1 giorno</item>
+        <item>Massimo</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Massimo</item>
+        <item>2 giorni</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 secondo</item>
@@ -43,7 +55,7 @@
         <item>8 secondi</item>
         <item>9 secondi</item>
         <item>10 secondi</item>
-        <item>Altro…</item>
+        <item>Altro</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
