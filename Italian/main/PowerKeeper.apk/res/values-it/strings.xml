@@ -22,9 +22,9 @@
     <string name="power_event_view_event_title">Comandi</string>
     <string name="hide_mode">Gestisci utilizzo batteri app</string>
     <string name="hide_mode_desc_title">Gestisci utilizzo batteri app</string>
-    <string name="hide_mode_desc">RIsparmia batteria limitando i processi in background delle singole applicazioni, Ei-Fi, connessione dati mobile e GPS"</string>
+    <string name="hide_mode_desc">Risparmia batteria limitando i processi in background delle singole applicazioni, Wi-Fi, connessione dati mobile e GPS</string>
     <string name="normal">Modalità predefinita</string>
-    <string name="reading">MOdalità lettura</string>
+    <string name="reading">Modalità lettura</string>
     <string name="media">Media mode</string>
     <string name="action_bar_delete">Delete</string>
     <string name="operation_create_group">Name</string>
