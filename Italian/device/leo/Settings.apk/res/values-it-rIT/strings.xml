@@ -3369,8 +3369,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="other_advanced_settings">Impostazioni aggiuntive</string>
     <string name="recent_location_requests_title">Accesso alla posizione</string>
     <string name="recent_location_requests_summary">"Le app seguenti richiedono l'accesso alla tua posizione"</string>
-    <string name="background_location_requests_title">COnsenti posizione in background</string>
-    <string name="background_location_requests_summary">COnsenti alle app di utilizzare la tua posizione anche quando non le utilizzi</string>
+    <string name="background_location_requests_title">Consenti posizione in background</string>
+    <string name="background_location_requests_summary">Consenti alle app di utilizzare la tua posizione anche quando non le utilizzi</string>
     <string name="background_location_control_title">Accesso posizione in background</string>
     <string name="background_location_control_summary">"Consenti o previeni l'accesso in background alla tua posizione da parte delle app"</string>
     <string name="background_location_select_apps">Seleziona tutto</string>
