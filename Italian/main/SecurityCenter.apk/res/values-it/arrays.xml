@@ -4,6 +4,7 @@
         <item>Tra 1 minuto</item>
         <item>Tra 5 minuti</item>
         <item>Tra 10 minuti</item>
+        <item>Tra 30 minuti</item>
         <item>Mai</item>
     </string-array>
     <string-array name="preferred_app_entries">
@@ -15,6 +16,7 @@
         <item>Galleria</item>
         <item>Musica</item>
         <item>Email</item>
+        <item>Video</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Dopo 1 minuto</item>
