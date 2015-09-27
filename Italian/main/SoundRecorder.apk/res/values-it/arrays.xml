@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>
     <string-array name="record_scenes_entries">
         <item>Musica</item>
         <item>Voce</item>
@@ -8,5 +12,15 @@
         <item>Musica</item>
         <item>Voce</item>
         <item>Intervista</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Alta</item>
+        <item>Standard</item>
+        <item>Bassa</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192 kbit/s, ~90 MB/h</item>
+        <item>MP3, ~100 kbit/s, ~45 MB/h</item>
+        <item>MP3, ~75 kbit/s, ~32 MB/h</item>
     </string-array>
 </resources>

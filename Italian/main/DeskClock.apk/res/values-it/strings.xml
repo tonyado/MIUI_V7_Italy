@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="slider_text">Scorri per silenziare</string>
+    <string name="snooze_confirm_cancel">Annulla sospensione</string>
+    <string name="timer_alarm_cancel_pad">Tocca per interrompere la suoneria</string>
+    <string name="timer_alarm_alert_pad">%s</string>
     <string name="common_settings">Impostazioni</string>
     <string name="alarm_settings">Impostazioni Sveglia</string>
     <string name="edit_systemtime">"Modifica l'orario di sistema"</string>
@@ -59,8 +63,6 @@
     <string name="default_alarm_title">Suoneria predefinita</string>
     <string name="alarm_alert">Imposta suoneria</string>
     <string name="alarm_screen">Imposta stile sveglia</string>
-    <string name="slider_text">Scorri in alto per spegnere</string>
-    <string name="snooze_confirm_cancel">Annulla sospensione</string>
     <string name="menu_item_sort_by_gmt_offset">Ordina per data</string>
     <string name="menu_item_sort_by_name">Ordina per nome</string>
     <string name="birthday_alarm">Suoneria compleanno</string>

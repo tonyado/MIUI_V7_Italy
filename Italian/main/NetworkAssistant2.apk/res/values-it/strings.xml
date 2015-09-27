@@ -52,6 +52,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="firewall_fragment_nonesys_listempty">Vuoto</string>
     <string name="firewall_service_network_blocked">"A %1$s è stato impedito l'accesso alla rete %2$s"</string>
     <string name="firewall_network_restrict_notify_title">"%1$s non è autorizzato a collegarsi a %2$s."</string>
+    <string name="firewall_network_restrict_notify_mobile">Dati rete mobile</string>
     <string name="firewall_network_restrict_notify_message">Tocca per cambiare le impostazioni.</string>
     <string name="usage_sorted_activity_lable">Utilizzo dati</string>
     <string name="usage_sorted_loading_text">Caricamento…</string>
@@ -97,7 +98,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="pref_check_network_diagnostics">Verifica il corretto funzionamento della connessione dati</string>
     <string name="pref_category_title_other">Impostazioni aggiuntive</string>
     <string name="pref_title_update_notification">Mostra notifiche utilizzo dati</string>
-    <string name="pref_title_diagnostics_dont_show_float_notification">Mostra gli avvisi nel pannello delle notifiche</string>
+    <string name="pref_title_diagnostics_show_float_notification">Messaggi di notifica</string>
     <string name="pref_title_traffic_speed_state">Mostra velocità di rete nella barra di stato</string>
     <string name="pref_show_mobile_traffic">"Quando sblocchi il telefono, mostra l'utilizzo dati per il periodo di blocco (se maggiore di 3 minuti)"</string>
     <string name="pref_title_mobile_traffic">Mostra utilizzo dati quando bloccato</string>

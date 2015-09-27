@@ -219,6 +219,8 @@
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
+    <string name="compose_attachment_number_limit">Non puoi inserire più di 10 allegati!</string>
+    <string name="compose_picturesexceedlimits">Non puoi inserire più di 5 immagini!</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">Conferma</string>
@@ -237,6 +239,8 @@
     <string name="contact_edit_set_black_list_receive_summary">Delete mail that includes this recipient in the To or Cc field</string>
     <string name="contact_edit_set_phone_contact">Modifica contatti telefono</string>
     <string name="contact_edit_title_phone_contact">Lista contatti telefono</string>
+    <string name="contact_in_filter_call_phone_str">chiama: %s</string>
+    <string name="contact_in_filter_title">Da lui/lei.</string>
     <string name="contact_info_string">Mostra informazioni di contatto per %1$s</string>
     <string name="contact_info_string_default">Mostra informazioni di contatto</string>
     <string name="contact_list_add_btn">Aggiungi</string>
@@ -245,7 +249,7 @@
     <string name="contact_select">Seleziona contatti</string>
     <string name="content_description">%1$s circa %2$s, %3$s su %4$s, %5$s</string>
     <string name="content_description_today">%1$s circa %2$s, %3$s a %4$s, %5$s</string>
-    <string name="contextmenu_add">Aggiungi ai contatti</string>    
+    <string name="contextmenu_add">Aggiungi ai contatti</string>
     <string name="contextmenu_add_contact">Aggiungi contatto</string>
     <string name="contextmenu_call">Chiama</string>
     <string name="contextmenu_copy">Copia</string>
@@ -517,6 +521,8 @@
     <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
     <string name="outbox_alert_description_auth_error">Errore di autorizzazione sincronizzazione della posta in arrivo</string>
     <string name="outbox_alert_description_cannot_authenticate">%s Errore sistema mail</string>
+    <string name="outbox_alert_description_email_size_error">"E' stato raggiunta la dimensione massima per le Email."</string>
+    <string name="outbox_alert_description_fail_authentication">Username o password sbagliata.</string>
     <string name="outbox_alert_description_http_error">Errore HTTP nella sincronizzazione della posta in arrivo</string>
     <string name="outbox_alert_description_insufficient_storage_error">Spazio insufficiente nel server mail</string>
     <string name="outbox_alert_description_provision_error">Erore durante la sincronizzazione della posta in uscita</string>
@@ -617,7 +623,6 @@
     <string name="quick_reply_hint_cc">(In Cc)</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
     <string name="quote_divider_1">-------- Messaggio originale --------</string>
-    <string name="quote_divider_10">-----------------------------------</string>
     <string name="quote_divider_11">----- Originale -----</string>
     <string name="quote_divider_12"> Messaggio originale </string>
     <string name="quote_divider_2">---Messaggio originale---</string>
@@ -700,9 +705,9 @@
     <string name="ser_resp_err_map_or">Oppure</string>
     <string name="ser_resp_err_map_pserr">Nome utente o password non corre</string>
     <string name="ser_resp_err_map_serclosed">Servizio chiuso</string>
-    <string name="ser_resp_err_map_serclosed_url_tag">Come risolvere?</string>
     <string name="ser_resp_err_map_ssl">"Prova a selezionare 'SSL/TLS (Accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
     <string name="set_network">Imposta rete</string>
+   <string name="setting_default_lable" />
     <string name="settings_activity_title">Impostazioni</string>
     <string name="share_choose">Scegli cosa condivedere</string>
     <string name="sharing">Condividi</string>
@@ -714,7 +719,6 @@
 
 
 %s"</string>
-    <string name="signin">Accedi</string>
     <string name="silent_ringtone">Silenzioso</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>

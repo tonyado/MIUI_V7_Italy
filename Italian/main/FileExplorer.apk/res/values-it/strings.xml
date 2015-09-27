@@ -449,4 +449,9 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="app_name_miuiwallpaper">Sfondi</string>
     <string name="app_name_miuiringtone">Suonerie</string>
     <string name="app_name_midrop">Mi Drop</string>
+    <string name="data_consumption_title">Connessione internet</string>
+    <string name="data_consumption_message">Questa app deve collegarsi alla rete tramite Wi-Fi per funzionare correttamente.</string>
+    <string name="data_consumption_checkbox_hint">Non mostrare più</string>
+    <string name="data_consumption_confirm">OK</string>
+    <string name="data_consumption_cancel">Esci</string>
 </resources>

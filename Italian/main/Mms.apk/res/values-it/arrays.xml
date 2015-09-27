@@ -21,8 +21,8 @@
         <item>Note</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Mostra ora di ricezione</item>
-        <item>Mostra ora di invio (Usa orario server)</item>
+        <item>Ricezione</item>
+        <item>Invio</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Via messaggio</item>

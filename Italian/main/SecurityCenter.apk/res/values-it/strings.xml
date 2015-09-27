@@ -304,8 +304,7 @@
     <string name="activity_title_memory">Memoria</string>
     <string name="activity_title_trash">Cache</string>
     <string name="system_check_content">%1$d contenuti sospetti</string>
-    <string name="memeory_check_content">%1$d app, memoria %2$s</string>
-    <string name="cache_check_content">%1$d app, cache %2$s</string>
+    <string name="memory_check_content_none">Vuoto</string>
     <string name="system_header_title">Pulizia di %1$d processi per liberare %2$s di memoria</string>
     <string name="cache_header_title">Pulizia di %1$d file in cache per liberare %2$s di spazio</string>
     <string name="activity_title_virus">Virus</string>
@@ -326,6 +325,7 @@
     <string name="hints_last_virus_scan_risk">Scansionato %d giorni fa: Sospetto</string>
     <string name="hints_last_virus_scan_virus">Scansionato %d giorni fa: Pericoloso</string>
     <string name="hints_need_quick_scan">Esegui una scansione rapida</string>
+    <string name="hints_need_regular_scan">Scansiona periodicamente il tuo dispositivo</string>
     <string name="hints_handle_item_text_safe">Sicuro</string>
     <string name="hints_handle_item_text_risk">Rischi: %d</string>
     <string name="hints_handle_item_text_virus">Virus: %d</string>
