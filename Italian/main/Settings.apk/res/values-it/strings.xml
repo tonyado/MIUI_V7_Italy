@@ -2932,7 +2932,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="layout_size_medium_text">Medio</string>
     <string name="layout_size_large_text">Grande</string>
     <string name="layout_size_huge_text">Molto grande</string>
-    <string name="layout_size_exhuge_text">XXL</string>>
+    <string name="layout_size_exhuge_text">XXL</string>
     <string name="page_layout_confirm_title">Cambia impostazioni di visualizzazione</string>
     <string name="page_layout_confirm_message">Il tuo dispositivo deve essere riavviato per poter applicare queste modifiche. Il tempo richiesto è di circa 1 minuto.</string>
     <string name="provision_page_layout_confirm_message">Il tuo dispositivo deve essere riavviato per poter applicare queste modifiche. Il tempo richiesto è di circa 1 minuto.</string>
