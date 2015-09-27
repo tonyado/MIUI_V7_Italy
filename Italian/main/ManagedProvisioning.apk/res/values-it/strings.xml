@@ -33,8 +33,8 @@
     <string name="setup_device">Imposta il dispositivo</string>
     <string name="progress_data_process">Dati in elaborazione...</string>
     <string name="progress_connect_to_wifi">Connessione alla rete Wi-Fi...</string>
-    <string name="progress_download">"Download l'applicazione di amministrazione..."</string>
-    <string name="progress_install">Installazione applicazione di amministrazione...</string>
+    <string name="progress_download">Download app admin...</string>
+    <string name="progress_install">Installazione app admin...</string>
     <string name="progress_set_owner">Impostando proprietario del dispositivo...</string>
     <string name="device_owner_cancel_title">Interrompi la creazione?</string>
     <string name="device_owner_cancel_message">"Sei sicuro di voler interrompere l'installazione e cancellare i dati del dispositivo?"</string>
@@ -45,10 +45,10 @@
     <string name="device_owner_error_already_provisioned">Questo dispositivo è già impostato</string>
     <string name="device_owner_error_wifi">Impossibile connettersi alla rete Wi-Fi</string>
     <string name="device_owner_error_hash_mismatch">"Impossibile utilizzare l'app admin a causa di un errore con il checksum. Contatta il dipartimento IT."</string>
-    <string name="device_owner_error_download_failed">"Impossibile scaricare l'applicazione di amministrazione"</string>
-    <string name="device_owner_error_package_invalid">"Non è possibile utilizzare l'applicazione di amministrazione. Alcuni componenti sono mancanti o danneggiati. Contatta il reparto IT."</string>
-    <string name="device_owner_error_installation_failed">"Impossibile installare l'applicazione di amministrazione"</string>
-    <string name="device_owner_error_package_not_installed">"L'applicazione di amministrazione non può essere installata sul dispositivo"</string>
+    <string name="device_owner_error_download_failed">"Impossibile scaricare l'app admin"</string>
+    <string name="device_owner_error_package_invalid">"Non è possibile utilizzare l'app admin. Alcuni componenti sono mancanti o danneggiati. Contatta il reparto IT."</string>
+    <string name="device_owner_error_installation_failed">"Impossibile installare l'app admin"</string>
+    <string name="device_owner_error_package_not_installed">"L'app admin non può essere installata sul dispositivo"</string>
     <string name="profile_owner_cancel_title">Interrompi la creazione?</string>
     <string name="profile_owner_cancel_message">Sei sicuro di voler interrompere la creazione?</string>
     <string name="profile_owner_cancel_cancel">No</string>
