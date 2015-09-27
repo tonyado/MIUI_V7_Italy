@@ -281,7 +281,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="action_menu_text_refresh">Aggiorna</string>
     <string name="action_menu_text_copy_url">Copia URL</string>
     <string name="action_menu_text_create_qr_code">Codice QR</string>
-    <string name="action_menu_text_find_in_page">Trova nlla pagina</string>
+    <string name="action_menu_text_find_in_page">Trova nella pagina</string>
     <string name="action_menu_text_add_bookmark">Aggiungi segnalibro</string>
     <string name="action_menu_text_bookmark_added">Segnalibro aggiunto</string>
     <string name="action_menu_text_share">Condividi</string>

@@ -42,7 +42,7 @@
     <string name="user_manual">Guida utente</string>
     <string name="license_host_unreachable">Impossibile collegarsi alla rete. Tper leggere queste informazioni vai su %s.</string>
     <string name="perm_payment_lab">Servizio di pagamento Xiaomi</string>
-    <string name="perm_payment_dspt">COnsenti alle applicazioni di effettuare pagamenti tramite il servizio di pagamento Xiaomi</string>
+    <string name="perm_payment_dspt">Consenti alle applicazioni di effettuare pagamenti tramite il servizio di pagamento Xiaomi</string>
     <string name="sync_one_time_sync">Tocca per sincronizzare （ %1$s )</string>
     <string name="no_sim">Nessuna SIM selezionata.</string>
     <string name="activating">Attivazione…</string>
