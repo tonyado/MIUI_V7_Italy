@@ -62,5 +62,5 @@
     <plurals name="recurrence_end_count">
         <item quantity="other">Per %d eventi</item>
         <item quantity="one">Per %d evento</item>
-</plurals>
+    </plurals>
 </resources>

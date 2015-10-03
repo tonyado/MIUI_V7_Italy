@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
-    <string name="full_wday_month_day_no_year">EEEEMMMMd</string>
+    <string name="worldclock_empty_text">Nessun orario internazionale</string>
+    <string name="delete_timezone_title">Elimina fuso orario</string>
+    <string name="delelte_selected_timezone">Eliminare il fuso orario selezionato?</string>
+    <string name="system_time_setting">Impostazioni orario</string>
+    <string name="menu_add_worldclock">Aggiungi fuso orario</string>
+    <string name="timezone_exist_error_message">Questo fuso orario è già presente.</string>
+    <string name="current_zone">Fuso orario attuale</string>
+    <string name="zone_time_offset_ahead">%1$d ore e %2$d minuti avanti</string>
+    <string name="zone_time_offset_behind">%1$d ore e %2$d minuti indietro</string>
+    <string name="zone_time_offset_ahead_only_hour">"%d ora(e) avanti"</string>
+    <string name="zone_time_offset_behind_only_hour">"%d ora(e) indietro"</string>
+    <string name="workday_alarm_clock">Sveglia giorni lavorativi</string>
+    <string name="add_time_zone">Aggiungi fuso orario</string>
+    <item type="string" name="circle_radius_multiplier">0.82</item>
+    <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
+    <item type="string" name="selection_radius_multiplier">0.16</item>
+    <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
+    <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
+    <item type="string" name="text_size_multiplier_normal">0.17</item>
+    <item type="string" name="text_size_multiplier_inner">0.14</item>
+    <item type="string" name="text_size_multiplier_outer">0.11</item>
+    <string name="done_label">Fine</string>
+    <string name="hour_picker_description">Dispositivo di scorrimento circolare per le ore</string>
+    <string name="minute_picker_description">Dispositivo di scorrimento per i minuti</string>
+    <string name="select_hours">Seleziona le ore</string>
+    <string name="select_minutes">Seleziona i minuti</string>
+    <string name="day_picker_description">Griglia del mese suddivisa per giorni</string>
+    <string name="year_picker_description">Elenco degli anni</string>
+    <string name="select_day">Seleziona mese e giorno</string>
+    <string name="select_year">Seleziona anno</string>
+    <string name="item_is_selected">Elemento selezionato: %1$s</string>
+    <string name="deleted_key">%1$s eliminato</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+    <string name="abbrev_wday_month_day_no_year">dMMMMEEE</string>
+    <string name="full_wday_month_day_no_year">dMMMMEEEE</string>
     <string name="default_clock_style">digital</string>
     <string name="app_label">Orologio</string>
     <string name="alarm_list_title">Allarmi</string>
@@ -167,43 +206,4 @@
     <string name="alarm_time_12_hours_format">h:mm <font size="14" face="sans-serif-condensed"><b>a</b></font></string>
     <string name="no_alarms">Nessun allarme</string>
     <string name="no_upcoming_alarms">NESSUN ALLARME PROSSIMO</string>
-    <string name="worldclock_empty_text">Nessun orario internazionale</string>
-    <string name="delete_timezone_title">Elimina fuso orario</string>
-    <string name="delelte_selected_timezone">Eliminare il fuso orario selezionato?</string>
-    <string name="system_time_setting">Impostazioni orario</string>
-    <string name="menu_add_worldclock">Aggiungi fuso orario</string>
-    <string name="timezone_exist_error_message">Questo fuso orario è già presente.</string>
-    <string name="current_zone">Fuso orario attuale</string>
-    <string name="zone_time_offset_ahead">%1$d ore e %2$d minuti avanti</string>
-    <string name="zone_time_offset_behind">%1$d ore e %2$d minuti indietro</string>
-    <string name="zone_time_offset_ahead_only_hour">"%d ora(e) avanti"</string>
-    <string name="zone_time_offset_behind_only_hour">"%d ora(e) indietro"</string>
-    <string name="workday_alarm_clock">Sveglia giorni lavorativi</string>
-    <string name="add_time_zone">Aggiungi fuso orario</string>
-    <item type="string" name="circle_radius_multiplier">0.82</item>
-    <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
-    <item type="string" name="selection_radius_multiplier">0.16</item>
-    <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
-    <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
-    <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
-    <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
-    <item type="string" name="text_size_multiplier_normal">0.17</item>
-    <item type="string" name="text_size_multiplier_inner">0.14</item>
-    <item type="string" name="text_size_multiplier_outer">0.11</item>
-    <string name="done_label">Fine</string>
-    <string name="hour_picker_description">Dispositivo di scorrimento circolare per le ore</string>
-    <string name="minute_picker_description">Dispositivo di scorrimento per i minuti</string>
-    <string name="select_hours">Seleziona le ore</string>
-    <string name="select_minutes">Seleziona i minuti</string>
-    <string name="day_picker_description">Griglia del mese suddivisa per giorni</string>
-    <string name="year_picker_description">Elenco degli anni</string>
-    <string name="select_day">Seleziona mese e giorno</string>
-    <string name="select_year">Seleziona anno</string>
-    <string name="item_is_selected">Elemento selezionato: %1$s</string>
-    <string name="deleted_key">%1$s eliminato</string>
-    <string name="time_placeholder">--</string>
-    <string name="time_separator">:</string>
-    <string name="radial_numbers_typeface">sans-serif</string>
-    <string name="sans_serif">sans-serif</string>
-    <string name="day_of_week_label_typeface">sans-serif</string>
 </resources>

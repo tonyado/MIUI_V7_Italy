@@ -19,9 +19,4 @@
         <item>Pagina iniziale predefinita</item>
         <item>Personalizzata</item>
     </string-array>
-    <string-array name="menu_theme_setting">
-        <item>Bianco</item>
-        <item>Giallo</item>
-        <item>Nero</item>
-    </string-array>
 </resources>
