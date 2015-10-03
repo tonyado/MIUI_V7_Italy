@@ -82,8 +82,6 @@
     <string name="pref_camera_picture_format_title">Formato Immagine</string>
     <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
     <string name="pref_camera_picture_format_entry_raw">RAW</string>
-    <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
-    <string name="pref_camera_picture_format_value_raw">raw</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
@@ -91,8 +89,6 @@
     <string name="pref_camera_histogram_title">Istogramma</string>
     <string name="pref_camera_histogram_entry_enable">Abilita</string>
     <string name="pref_camera_histogram_entry_disable">Disabilita</string>
-    <string name="pref_camera_histogram_value_enable">enable</string>
-    <string name="pref_camera_histogram_value_disable">disable</string>
     <string name="pref_camera_focusmode_title">Messa a fuoco</string>
     <string name="pref_camera_focusmode_entry_auto">Auto</string>
     <string name="pref_camera_focusmode_entry_normal">Normale</string>
@@ -117,13 +113,6 @@
     <string name="pref_camera_whitebalance_entry_cloudy">Nuvoloso</string>
     <string name="pref_camera_whitebalance_entry_manual">Manuale</string>
     <string name="pref_camera_whitebalance_entry_measure">Misura</string>
-    <string name="pref_camera_whitebalance_entryvalue_auto">auto</string>
-    <string name="pref_camera_whitebalance_entryvalue_incandescent">incandescent</string>
-    <string name="pref_camera_whitebalance_entryvalue_daylight">daylight</string>
-    <string name="pref_camera_whitebalance_entryvalue_fluorescent">fluorescent</string>
-    <string name="pref_camera_whitebalance_entryvalue_cloudy">cloudy-daylight</string>
-    <string name="pref_camera_whitebalance_entryvalue_manual">manual-cct</string>
-    <string name="pref_camera_whitebalance_entryvalue_measure">measure</string>
     <string name="pref_camera_coloreffect_title">Filtri</string>
     <string name="pref_camera_coloreffect_entry_sepia">Seppia</string>
     <string name="pref_camera_coloreffect_entry_negative">Negativo</string>
@@ -186,13 +175,6 @@
     <string name="pref_camera_iso_entry_iso800">ISO800</string>
     <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
     <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
-    <string name="pref_camera_iso_value_auto">auto</string>
-    <string name="pref_camera_iso_value_iso100">ISO100</string>
-    <string name="pref_camera_iso_value_iso200">ISO200</string>
-    <string name="pref_camera_iso_value_iso400">ISO400</string>
-    <string name="pref_camera_iso_value_iso800">ISO800</string>
-    <string name="pref_camera_iso_value_iso1600">ISO1600</string>
-    <string name="pref_camera_iso_value_iso3200">ISO3200</string>
     <string name="pref_camera_iso_prefix">ISO</string>
     <string name="pref_camera_antibanding_title">Anti Banding</string>
     <string name="pref_camera_antibanding_entry_0">Disattivato</string>
@@ -214,9 +196,6 @@
     <string name="pref_video_speed_entry_normal">Normale</string>
     <string name="pref_video_speed_entry_fast">Veloce</string>
     <string name="pref_video_speed_entry_slow">Lento</string>
-    <string name="pref_video_speed_value_normal">normal</string>
-    <string name="pref_video_speed_value_fast">fast</string>
-    <string name="pref_video_speed_value_slow">slow</string>
     <string name="pano_too_fast_prompt">Troppo Veloce</string>
     <string name="pano_how_to_use_prompt">Premi il tasto per iniziare la foto panoramica</string>
     <string name="pano_how_to_use_prompt_to_move">"Mantenere il telefono in posizione fissa durante l'esecuzione"</string>
@@ -284,8 +263,6 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_zsl_title">Scatto rapido</string>
     <string name="pref_camera_zsl_entry_off">Disattivato</string>
     <string name="pref_camera_zsl_entry_on">Attivato</string>
-    <string name="pref_camera_zsl_value_off">off</string>
-    <string name="pref_camera_zsl_value_on">on</string>
     <string name="pref_camera_facedetection_title">Riconoscimento Viso</string>
     <string name="pref_camera_facedetection_entry_off">Disattivato</string>
     <string name="pref_camera_facedetection_entry_on">Attivato</string>
