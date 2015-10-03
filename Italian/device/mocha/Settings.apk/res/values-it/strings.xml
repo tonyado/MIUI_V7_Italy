@@ -157,10 +157,10 @@
     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="no_network">"Can't connect to the network"</string>
-    <string name="retry">Retry</string>
-    <string name="select_all">Select all</string>
-    <string name="deselect_all">Deselect all</string>
-    <string name="reverse_all">Clear all</string>
+    <string name="retry">Riprova</string>
+    <string name="select_all">Seleziona tutti</string>
+    <string name="deselect_all">Deseleziona tutti</string>
+    <string name="reverse_all">Cancella tutti</string>
     <string name="refresh">Refresh</string>
     <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
     <string name="total_num">%d items,</string>
@@ -197,8 +197,8 @@
     <string name="backup_data">Choose items to back up</string>
     <string name="sd_not_available">Insert SD card now</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="never">Never</string>
-    <string name="every_day">Every day</string>
+    <string name="never">Mai</string>
+    <string name="every_day">Tutti i giorni</string>
     <string name="select_storage_location">Choose backup location</string>
     <string name="current_phone_location">Phone</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
@@ -2040,11 +2040,9 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="status_wimax_mac_address">Indirizzo MAC 4G</string>
     <string name="enter_password">"Digita la password per decrittografare l'archivio"</string>
     <string name="try_again">Riprova.</string>
-    <string name="delete">Elimina</string>
     <string name="misc_files">File vari</string>
     <string name="misc_files_selected_count">selezionati %1$d di %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s su %2$s</string>
-    <string name="select_all">Seleziona tutti</string>
     <string name="hdcp_checking_title">Verifica HDCP</string>
     <string name="hdcp_checking_dialog_title">Comportamento di verifica HDCP</string>
     <string name="debug_debugging_category">Debug</string>
@@ -2388,9 +2386,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="legal_workday_invalidate_message">Tocca per aggiornare le festività.</string>
     <string name="legal_workday_message">(Salta festività)</string>
     <string name="repeat">Ripeti</string>
-    <string name="every_day">Tutti i giorni</string>
     <string name="legal_workday">Giorni lavorativi</string>
-    <string name="never">Mai</string>
     <string name="dndm_wristband_detailed">"Attiva la modalità Anti-Disturbo se Mi Band rileva che stai dormendo entro un'ora prima dell'orario programmato"</string>
     <string name="dndm_wristband_detailed2">"Disattiva la modalità Anti-Disturbo se Mi Band rileva che ti sei svegliato un'ora prima della fine dell'orario programmato"</string>
     <string name="search_airplane">Modalità aereo</string>
@@ -2886,7 +2882,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wps_category">WPS</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router supporti il WPS e che sia abilitato</string>
-    <string name="retry">Riprova</string>
     <string name="brightness_auto_adjust_off">La luminosità dello schermo rimarrà invariata in ogni condizione di luce</string>
     <string name="brightness_auto_adjust_on">La luminosità dello schermo varierà in relazione alla luce ambientale</string>
     <string name="private_sms_need_to_unlock">Password richiesta:</string>
