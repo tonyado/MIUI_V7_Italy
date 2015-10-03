@@ -27,7 +27,7 @@
     <string name="title_settings">Radio</string>
     <string name="category_account">ACCOUNT</string>
     <string name="title_account">Mi Account</string>
-    <string name="category_tone_quality">QUALITA' AUDIO</string>
+    <string name="category_tone_quality">"QUALITA' AUDIO"</string>
     <string name="title_tone_quality">Qualità audio</string>
     <string name="summary_tone_quality">Stream audio at different bit rates</string>
     <string name="category_sleep_mode">SLEEP TIMER</string>
