@@ -199,6 +199,13 @@
         <item>Scheda SD rimovibile</item>
         <item>Impostazione di sistema</item>
     </string-array>
+    <string-array name="app_ops_categories">
+        <item>Posizione</item>
+        <item>Personali</item>
+        <item>Messaggi</item>
+        <item>Media</item>
+        <item>Dispositivo</item>
+    </string-array>
     <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
         <item>posizione precisa</item>
@@ -496,7 +503,7 @@
         <item>Viola</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
-	    <item>Nessuna</item>
+	<item>Nessuna</item>
         <item>Lancia task manager</item>
         <item>Lancia assistente vocale</item>
         <item>Lancia Google now</item>
@@ -524,7 +531,6 @@
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
-        <item>Bassi consumi</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP e versioni precedenti di Windows</item>
