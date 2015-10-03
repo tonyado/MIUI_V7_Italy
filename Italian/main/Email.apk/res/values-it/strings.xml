@@ -380,9 +380,9 @@
     <string name="general_preference_text_zoom_small">Testo piccolo</string>
     <string name="general_preference_text_zoom_tiny">Testo molto piccolo</string>
     <string name="generic_attachment_problem">Impossibile allegare il file.</string>
-    <string name="get_database_exception">"Clear this app's data in Settings > System apps and try again."</string>
-    <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
-    <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
+    <string name="get_database_exception">"Per pulire i dati di questa applicazione andare in Impostazioni > Applicazioni di sistema e riprovare."</string>
+    <string name="gmail_acceleration">"Utilizza un server di proxy per l'account di Gmail"</string>
+    <string name="gmail_login_confirm_to_use_proxy">Vuoi utilizzare un server di proxy per accedere al tuo account di Gmail?</string>
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Sign in to Gmail</string>
     <string name="header_category_account">Account</string> 
@@ -394,9 +394,9 @@
     <string name="hint_quick_reply_all">Rispondi a tutti</string>
     <string name="ignore_spam_warning">Ignora, messaggio sicuro</string>
     <string name="imap_name">IMAP</string>
-    <string name="imap_password_error">Password for incoming mail server is incorrect</string>
+    <string name="imap_password_error">La password per il server di posta in entrata non è corretta</string>
     <string name="inline_picture_deleted">"Impossibile trovare l'immagine,download in corso…"</string>
-    <string name="input_password_prompt">Enter your password</string>   
+    <string name="input_password_prompt">Inserisci la tua password</string>   
     <string name="invalid_recipient">"L'indirizzo %s non è valido."</string>
     <string name="invalid_recipient_title">Destinatario non valido</string>
     <string name="load_from_remote">Continua a cercare sul server</string>
@@ -558,7 +558,7 @@
     <string name="phone">telefono</string>
     <string name="photo_load_failed">"Non è stato possibile caricare l'immagine"</string>
     <string name="photo_view_count" formatted="false">%d di %d</string>
-    <string name="please_fill_in_your_mailbox_information">Inserisci i dati del tuo account %s:</string>
+	<string name="please_fill_in_your_mailbox_information2">Inserisci i dati del tuo account</string>
     <string name="policy_app_blacklist">Revoca permessi app specifiche</string>
     <string name="policy_app_whitelist">Consenti app specifiche</string>
     <string name="policy_bluetooth_restricted">Limita utilizzo Bluetooth</string>
@@ -647,7 +647,7 @@
     <string name="re_download_message_info">"Impossibile scaricare l'email"</string>
     <string name="read_string">Conversazione letta</string>
     <string name="recipient_needed">Aggiungi almeno un destinatario.</string>
-    <string name="recipient_needed_title">Warn</string>
+    <string name="recipient_needed_title">Avviso</string>
     <string name="reduce_the_receiving_frequencye_summary">"Frequenza di sincronizzazione e-mail più bassa nell'orario preimpostato"</string>
     <string name="reduce_the_receiving_frequencye_title">Frequenza sincronizzazione ridotta</string>
     <string name="refresh">Aggiorna</string>
