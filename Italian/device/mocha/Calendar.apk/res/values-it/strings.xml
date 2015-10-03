@@ -255,5 +255,5 @@
     <string name="daily">Tutti i giorni</string>
     <string name="weekly">Ogni settimana (ogni %s)</string>
     <string name="query_empty">" "</string>
-    <string name="xiaomi_calendar_display_name">Calendario MiAccount</string>
+    <string name="xiaomi_calendar_display_name">Calendario Mi Account</string>
 </resources>
