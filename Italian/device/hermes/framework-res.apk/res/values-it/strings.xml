@@ -172,7 +172,6 @@
     <string name="global_action_bug_report">Segnalazione di bug</string>
     <string name="bugreport_title">Apri segnalazione bug</string>
     <string name="bugreport_message">"Raccoglierà informazioni sullo stato corrente del dispositivo che verranno inviate sotto forma di messaggio email. Passerà un po' di tempo prima che la segnalazione di bug aperta sia pronta per essere inviata; ti preghiamo di avere pazienza."</string>
-   
     <string name="global_action_toggle_silent_mode">Modalità silenziosa</string>
     <string name="global_action_silent_mode_on_status">Audio non attivo</string>
     <string name="global_action_silent_mode_off_status">Audio attivo</string>

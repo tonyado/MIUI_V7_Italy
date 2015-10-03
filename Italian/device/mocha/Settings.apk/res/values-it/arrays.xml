@@ -549,6 +549,7 @@
         <item>Galleria</item>
         <item>Musica</item>
         <item>Email</item>
+		<item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>La rete è lenta per via del traffico intenso</item>
@@ -564,5 +565,43 @@
         <item>Basso</item>
         <item>Medio</item>
         <item>Alto</item>
+    </string-array>
+	    <string-array name="agps_network_entries">
+        <item>Rete domestica</item>
+        <item>Tutte le reti</item>
+    </string-array>
+	    <string-array name="install_non_market_app_entries">
+        <item>Chiedi il permesso per le applicazioni a rischio</item>
+        <item>Consenti</item>
+    </string-array>
+	    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Subito</item>
+        <item>1 minuto</item>
+        <item>2 minuti</item>
+        <item>5 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+    </string-array>
+	    <string-array name="fluency_mode_entries">
+        <item>Nascondi animazioni di sistema</item>
+        <item>Mostra animazioni di sistema</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Per velocizzare il sistema, nascondi le animazioni</item>
+        <item>Le animazioni potrebbero influire sulle prestazioni del sistema</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
+        <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
+    </string-array>
+	    <string-array name="alarm_repeat_type">
+        <item>Tutti i giorni</item>
+        <item>Lun-Ven</item>
+        <item>Personalizza</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Tutti i giorni</item>
+        <item>Lun-Ven</item>
+        <item>Personalizza</item>
     </string-array>
 </resources>
