@@ -439,9 +439,4 @@
         <item>Tonga</item>
         <item>Giacarta</item>
     </string-array>
-    <string-array name="days">
-        <item>Ieri</item>
-        <item>Oggi</item>
-        <item>Domani</item>
-    </string-array>
 </resources>
