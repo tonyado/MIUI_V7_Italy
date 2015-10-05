@@ -241,8 +241,6 @@
     <string name="bluetooth_broadcasting_explaination">"When this feature is turned on, your phone can communicate with other devices nearby.
 
 Broadcasting uses low-power Bluetooth signals."</string>
-    <string name="bluetooth_ask_enablement_and_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices for %1$d seconds.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.</string>
     <string name="bluetooth_turning_on">Attivazione Bluetooth…</string>
     <string name="bluetooth_turning_off">Disattivazione Bluetooth…</string>
     <string name="bluetooth_auto_connect">Connessione automatica</string>
@@ -389,7 +387,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
     <string name="date_time_set_date">Imposta data</string>
     <string name="date_time_date_format">Scegli il formato della data</string>
-    <string name="date_time_date_format">Choose date format</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
     <string name="date_picker_title">Data</string>
@@ -398,7 +395,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="biometric_weak_liveliness_title">Controllo vitalità</string>
     <string name="biometric_weak_liveliness_summary">Richiedi battito di ciglia durante sblocco</string>
     <string name="lock_after_timeout">Blocca automaticamente</string>
-    <string name="lock_after_timeout_summary">%1$s after sleep</string>
     <string name="lock_after_timeout_summary">%1$s dopo sospensione</string>
     <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario su blocco schermo</string>
     <string name="owner_info_settings_title">Info proprietario</string>
@@ -513,7 +509,6 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="bluetooth_pairing_request">Richiesta accoppiamento Bluetooth</string>
     <string name="bluetooth_enter_pin_msg">"Per eseguire l'accoppiamento con &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, digita il PIN richiesto del dispositivo:"</string>
     <string name="bluetooth_pairing_key_msg">Pairing code</string>
-    <string name="bluetooth_enter_passkey_msg">"Per eseguire l'accoppiamento con &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, digita la passkey richiesta del dispositivo:"</string>
     <string name="bluetooth_enter_passkey_msg">Type the pairing code then press Return or Enter</string>
     <string name="bluetooth_enable_alphanumeric_pin">Il PIN contiene lettere o simboli</string>
     <string name="bluetooth_pin_values_hint">Di solito 0000 o 1234</string>
@@ -662,7 +657,6 @@ Wi‑Fi Assistant"</string>
     <string name="wifi_avoid_poor_network_detection_summary">Only use networks that have a good Internet connection</string>    
     <string name="wifi_scan_always_available">Scansione sempre disponibile</string>
     <string name="wifi_scan_always_available_summary">Consenti al servizio di geolocalizzazione di Google e ad altre app di eseguire la scansione delle reti, anche quando il Wi-Fi non è attivo</string>
-    <string name="wifi_scan_always_available_summary">"Let Google's location service and other apps scan for networks, even when Wi‑Fi is off"</string>
     <string name="wifi_automatically_manage_title">Automatically manage Wi‑Fi</string>
     <string name="wifi_automatically_manage_summary">Let %1$s manage your Wi‑Fi connection</string>
     <string name="wifi_install_credentials">Installa certificati</string>
@@ -1173,7 +1167,6 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="bluetooth_tethering_device_connected_subtext">Connessione ad internet condivisa con 1 dispositivo</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Connessione ad internet condivisa con %1$d dispositivi</string>
     <string name="bluetooth_tethering_off_subtext">Connessione ad internet non condivisa</string>
-    <string name="bluetooth_tethering_off_subtext">"Not sharing this phone's Internet connection"</string>
     <string name="bluetooth_tethering_errored_subtext">Senza hotspot</string>
     <string name="bluetooth_tethering_overflow_error">Hotspot non possibile con più di %1$d dispositivi.</string>
     <string name="bluetooth_untether_blank">"L'hotspot sarà annullato per %1$s."</string>
@@ -1398,7 +1391,6 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="app_special_disable_dlg_text">"Se disattivi un'applicazione incorporata, altre applicazioni potrebbero funzionare in modo anomalo. Verranno inoltre eliminati i tuoi dati."</string>
     <string name="app_disable_notifications_dlg_title">Disattivare le notifiche?</string>
     <string name="app_disable_notifications_dlg_text">Se disattivi le notifiche per questa applicazione potresti perdere avvisi e aggiornamenti importanti.</string>
-    <string name="app_ops_settings">App ops</string>
     <string name="app_ops_settings">Op. app</string>
     <string name="app_ops_running">In corso</string>
     <string name="app_ops_never_used">(Mai utilizzata)</string>
@@ -2021,7 +2013,6 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
-    <string name="accessibility_sync_error">Sync error.</string>
     <string name="sync_failed">Sincronizzazione non riuscita</string>
     <string name="sync_active">Sincronizzazione attiva</string>
     <string name="account_sync_settings_title">Sincronizzazione</string>
@@ -2315,7 +2306,6 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="user_settings_title">Utenti</string>
     <string name="user_list_title">Utenti e profili</string>
     <string name="user_add_user_menu">Aggiungi utente o profilo</string>
-    <string name="user_add_user_menu">Add user</string>
     <string name="user_summary_restricted_profile">Profilo con limitazioni</string>
     <string name="user_summary_managed_profile">Work profile</string>
     <string name="user_need_lock_message">Prima di poter creare un profilo con limitazioni, devi impostare un blocco schermo per proteggere le tue app e i tuoi dati personali.</string>
@@ -2356,7 +2346,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_profile_confirm_remove_title">Rimuovere il profilo?</string>
     <string name="work_profile_confirm_remove_title">Remove work profile?</string>
     <string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
-    <string name="user_confirm_remove_message">All apps and data will be deleted.</string>
     <string name="work_profile_confirm_remove_message">All apps and data in this profile will be deleted.</string>
     <string name="user_confirm_remove_message">"Lo spazio e i dati dell'utente scompariranno dal dispositivo. Quest'azione è irreversibile."</string>
     <string name="user_adding_new_user">Creazione nuovo utente…</string>
@@ -2447,7 +2436,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="restriction_bluetooth_config_summary">Consenti la modifica di impostazioni e accoppiamenti Bluetooth</string>
     <string name="restriction_nfc_enable_title">NFC</string>
     <string name="restriction_nfc_enable_summary">Consenti lo scambio di dati quando il dispositivo tocca un altro dispositivo</string>
-    <string name="restriction_nfc_enable_summary">Allow data exchange when the phone touches another device</string>
     <string name="restriction_location_enable_title">Posizione</string>
     <string name="restriction_location_enable_summary">Consenti alle app di utilizzare informazioni sulla tua posizione</string>
     <string name="wizard_back">Indietro</string>
@@ -2738,7 +2726,6 @@ This helps protect data on lost or stolen devices."</string>
     <string name="dndm_alarm_content_event">Notifications</string>
     <string name="dndm_alarm_content_call">Calls</string>
     <string name="dndm_alarm_content_sms">Messages</string>
-    <string name="dndm_alarm_content_not_all">Silence all</string>
     <string name="quiet_off_mode">Always allow disturbances</string>
     <string name="quiet_important_interruptions_mode">Only allow exceptions</string>
     <string name="quiet_mode">Silence all disturbances</string>
