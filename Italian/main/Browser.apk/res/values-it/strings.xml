@@ -265,6 +265,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Questo sito non può accedere alla tua posizione. Modifica questa impostazione nella schermata Impostazioni > Avanzate > Sito web.</string>
     <string name="accessibility_button_clear">Cancella</string>
     <string name="url_hint">Cerca o digita un URL</string>
+    <string name="url_hint_from_search">Inserisci una parola</string>
     <string name="autologin_bar_text">Accesso eseguito come</string>
     <string name="autologin_bar_login_text">Accedi</string>
     <string name="autologin_bar_hide_text">Nascondi</string>
@@ -457,6 +458,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="miui_search_notification_title">Cerca</string>
     <string name="miui_search_notification_message">Tocca per aprire la barra di ricerca.</string>
     <string name="clear_search_history">Cancella cronologia</string>
+    <string name="clear_most_visited">Manieni cronologia</string>
     <string name="suggest_open_app_failed">Nonè stato possibile aprire questa app</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_sogou">Sogou</string>
@@ -470,6 +472,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="search_dianping">Cate</string>
     <string name="search_shipin">Video</string>
     <string name="search_tupian">Immagine</string>
+    <string name="search_sm">SM</string>
     <string name="voice_title">Pronuncia il tuo comando…</string>
     <string name="voice_sub_title">"Non sai cosa dire? Prova Apri mi.com!"</string>
     <string name="voice_title_please">Inizia a parlare…</string>
@@ -613,4 +616,31 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="version_dialog_buttion_update">Aggiorna</string>
     <string name="version_dialog_buttion_ok">OK</string>
     <string name="secure_download_in_xiaomi_market">"Scarica nell'App Store"</string>
+    <string name="homepage_more_cards">Altre schede</string>
+    <string name="homepage_more_sites">Altri siti</string>
+    <string name="homepage_search_hint">Cerca</string>
+    <string name="homepage_top_card_menu">Top</string>
+    <string name="homepage_delete_card_menu">Elimina</string>
+    <string name="homepage_get_location">Trova posizione</string>
+    <string name="homepage_get_location_failed">Impossibile recuperare le informazioni, seleziona una città</string>
+    <string name="aqi_quality_index_pure">AQI %1$s</string>
+    <string name="aqi_quality_index_good">AQI %1$s</string>
+    <string name="aqi_quality_index_moderate">AQI %1$s</string>
+    <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+    <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+    <string name="aqi_quality_index_dangerous">AQI %1$s</string>
+    <string name="aqi_quality_index_hazardous">AQI %1$s</string>
+    <string name="aqi_quality_index_break">AQI %1$s</string>
+    <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
+    <string name="nav_bottom_bar_new_tab">Neuova scheda</string>
+    <string name="nav_bottom_bar_back">Indietro</string>
+    <string name="nav_screen_container_tab_normal">Scheda normale</string>
+    <string name="nav_screen_container_tab_incognito">Scheda incognito</string>
+    <string name="pref_notifications_title">Notifiche</string>
+    <string name="pref_notifications_hint">Notifiche</string>
+    <string name="pref_notifications_receive">Avvisi per nuove notifiche</string>
+    <string name="pref_category_hint">Categoria</string>
+    <string name="pref_enable_news">Nuovi avvisi</string>
+    <string name="pref_enable_novels">Avvisi telefilm</string>
+    <string name="pref_enable_videos">Avvisi video</string>
 </resources>

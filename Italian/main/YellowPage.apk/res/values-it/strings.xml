@@ -126,6 +126,10 @@
     <string name="upload_and_verify_fraud_num_on">Condividi informazioni sulle chiamate di telemarketing bloccate</string>
     <string name="upload_and_verify_fraud_num_off">Questa funzionalità è stata chiusa</string>
     <string name="about_fraud_num_online_identification">Informazioni su questa funzionalità</string>
+    <string name="turn_on_phone_event_title">Recupero informazioni di servizio</string>
+    <string name="turn_on_phone_event_summary">Stato del caricamento del telefono per i numeri di servizio</string>
+    <string name="about_phone_event">Informazioni sul servizio</string>
+    <string name="phone_event_setting_notice_text">Le pagine gialle vorrebbero caricare numeri di servizio verificati (com il tuo provider) sui server Mi, in questo modo puoi ricevere aggiornamenti sui servizi.</string>
     <string name="payment_back">Indietro</string>
     <string name="payment_failed_common_problems">Si è verificato un errore durante il pagamento.</string>
     <string name="payment_unknown_status_title">Errore di stato del pagamento</string>
@@ -161,6 +165,8 @@ Totale: RMB%3$s"</string>
     <string name="recharge_my_phone_number">Il mio numero</string>
     <string name="recharge_unknown_number">Sconosciuto</string>
     <string name="recharge_phone">Numero top:</string>
+    <string name="recharge_follow_name">Ricarica</string>
+    <string name="recharge_phone_format">%1$s / %2$s</string>
     <string name="packages_pay">Acquista</string>
     <string name="packages_pay_confirm">Conferma pagamento</string>
     <string name="packages_title">Preferenze pacchetto dati</string>
@@ -240,13 +246,12 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="express_address_name">Nome</string>
     <string name="express_address_region">Regione</string>
     <string name="express_address_deleted">Indirizzo eliminato</string>
+    <string name="express_location_failed">Non è stato possibile localizzarti. Inserisci il tuo indirizzo.</string>
     <string name="express_order_success_hint">Il vostro pacchetto sarà trasportato da %s.Il Servizio personalizzato vi contatterà in un secondo momento</string>
     <string name="express_order_ongoing">Ordine in corso…</string>
     <string name="express_order_succeeded">Ordine riuscito</string>
     <string name="express_order_failed">Fallito</string>
     <string name="express_field_empty">Vuoto</string>
-    <string name="express_order_internal_id">Id Ordine:</string>
-    <string name="express_order_created_time">Tempo creazione:</string>
     <string name="express_cancel_order">Annulla</string>
     <string name="express_delete_order">Elimina</string>
     <string name="express_order_state_ordered">Ordinato</string>
@@ -277,10 +282,11 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="express_company_pricing_details">Dettaglio prezzi</string>
     <string name="express_company_list_empty">Nessuna società</string>
     <string name="express_send_notice">Informazioni file proibiti</string>
+    <string name="express_banner_header">%1$s / Tracking number</string>
     <string name="express_tracking_number">Numero spedizioner</string>
+    <string name="express_order_state">%1$s / %2$s</string>
     <string name="express_track_order">Traccia</string>
     <string name="express_no_order">Nessun ordine</string>
-    <string name="express_order_info">Informazioni ordine</string>
     <string name="express_urge_order">Urgente</string>
     <string name="express_copy_number">Copia</string>
     <string name="express_send_mms">Invia</string>
@@ -301,7 +307,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="navigation_search_no_city_list">Nessun dato trovato sulla città!</string>
     <string name="navigation_search_hot_cities">Principali</string>
     <string name="navigation_search_all_cities">Tutte</string>
-    <string name="yuan">Yuan</string>
+    <string name="rmb">RMB</string>
     <string name="order_type_recharge">Ricarica</string>
     <string name="order_empty_hint">Nessun ordine</string>
     <string name="order_merchant_title">I miei ordini</string>
@@ -314,6 +320,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="order_date_label">Data ordine：%s</string>
     <string name="order_not_found">Nessun ordine relativo</string>
     <string name="order_detail">Dettagli</string>
+    <string name="order_info">Informazioni ordine</string>
     <string name="general_yellow_page_title">Generale</string>
     <string name="general_recent_title">Recenti</string>
     <string name="general_favorite_title">Preferiti</string>
@@ -330,6 +337,11 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="general_unfollow_hint">Sicuro di non voler seguire %1$s?</string>
     <string name="general_cancel_followed_ok">Non seguito</string>
     <string name="general_follow_hint_title">Suggerimento</string>
+    <string name="tag_follow_yp_id">tag_follow_yp_id</string>
+    <string name="tag_follow_status">tag_follow_stato</string>
+    <string name="follow_processing">in elaborazione</string>
+    <string name="follow_label">Segui %1$s</string>
+    <string name="follow_success">Smetti di seguire %1$s.</string>
     <string name="nearby_yellow_page_title">Vicino</string>
     <string name="nearby_no_yellow_page">Nessun risultato vicino</string>
     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>

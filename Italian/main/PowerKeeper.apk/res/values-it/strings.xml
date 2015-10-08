@@ -79,7 +79,7 @@
     <string name="power_config_select_apps_empty">Tocca per scegliere le app</string>
     <string name="power_config_choose_apps">Scegli applicazioni</string>
     <string name="power_config_title">Impostazioni</string>
-    <string name="power_config_app_launch_title">Foreground</string>
+    <string name="power_config_app_launch_title">Primo piano</string>
     <string name="power_config_app_background_title">Background</string>
     <string name="power_config_app_full_screen_title">Schermo intero</string>
     <string name="power_config_phone_charging_title">In carica</string>
@@ -112,7 +112,7 @@
     <string name="power_hide_mode_title">Gestisci utilizzo batteria delle app</string>
     <string name="power_hide_mode_summary">Risparmia la batteria effettuando delle restrizioni sulle singole app, processi in background , connessioni Wi-Fi e dati mobili, e GPS</string>
     <string name="low_power_auto_title">Restrizioni app quando la batteria è scarica</string>
-    <string name="power_hide_mode_app_list_title">Choose apps to restrict</string>
+    <string name="power_hide_mode_app_list_title">Seleziona le applicazioni da limitare</string>
     <string name="power_hide_mode_app_list_summary">Impostazioni app</string>
     <string name="power_hide_mode_app_list_total">%d app</string>
     <string name="empty_title_apps_container_list">Nessuna app</string>

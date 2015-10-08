@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="passport_app_name">Mi Account</string>
     <string name="passport_account_hint_text">Email o numero di telefono</string>
     <string name="passport_phone_num_hint_text">Numero di telefono</string>
     <string name="passport_login">Accedi con un account esistente</string>
@@ -18,10 +17,6 @@
     <string name="passport_captcha">Inserisci codice</string>
     <string name="passport_vcode">Inserisci codice di verifica</string>
     <string name="passport_bad_authentication">Autenticazione fallita, nome utente o password errati</string>
-    <string name="passport_welcome_skip_login"><u>Salta questo passaggio</u></string>
-    <string name="passport_dspt_provision">Usa il tuo Account Mi per accedere da qualsiasi dispositivo a Mi Cloud, MIUI Theme Store e ad altri servizi.</string>
-    <string name="passport_dspt_provision2">Leggi altro</string>
-    <string name="passport_provision_skip_login"><u>Salta</u></string>
     <string name="passport_reg_new">Crea Account Mi</string>
     <string name="passport_error_empty_username">Inserisci il nome utente</string>
     <string name="passport_error_empty_pwd">Inserisci la password</string>
@@ -146,7 +141,7 @@ Per attivare il tuo account, segui il
     <string name="passport_wrong_password">Password non corretta</string>
     <string name="passport_account_identity_title">VVerifica la tu aidentità</string>
     <string name="passport_reset_password_prompt">Password non corretta</string>
-    <string name="passport_setting">Impstazione…</string>
+    <string name="passport_setting">Impostazione…</string>
     <string name="passport_reset_password_title">Ripristina password</string>
     <string name="passport_reset_fail_title">Impossibile ripristinare</string>
     <string name="passport_identitfication_expired">Codice di verifica scaduto, inizia da capo</string>
@@ -327,6 +322,7 @@ Inserisci il codice di verifica contenuto nell'email"</string>
     <string name="account_bind_devices">Dispositivi associati</string>
     <string name="account_dspt_provision">Utilizza un solo account per tutti i nostri prodotti.</string>
     <string name="account_dspt_provision2">Leggi altro</string>
+    <string name="provision_skip_login"><u>Salta il passaggio</u></string>
     <string name="login_title">Accedi al tuo Account Mi</string>
     <string name="btn_return">Indietro</string>
     <string name="re_register">Crea un Account Mi</string>
