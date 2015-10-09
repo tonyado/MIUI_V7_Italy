@@ -9,7 +9,7 @@
     <string name="privacy_tip_cancel">Annulla</string>
     <string name="privacy_tip_ok">OK</string>
     <string name="privacy_notif_title">Xunlei Download Accelerator attivato</string>
-    <string name="privacy_notif_content">Tocc aper vedere i dettagli.</string>
+    <string name="privacy_notif_content">Tocca per vedere i dettagli.</string>
     <string name="notif_text_engine_on">Accelerazione…</string>
     <string name="notif_text_engine_off">Acceleratore Xunlei disattivato.</string>
     <string name="notif_title_single_downloading">Download in corso %1$s</string>

@@ -2249,7 +2249,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="title_font_current">Seleziona carattere di sistema</string>
     <string name="title_layout_current">Seleziona dimensione carattere</string>
     <string name="title_font2">Carattere</string>
-    <string name="title_font_current2">Scegli carattere di sistema</string>
+    <string name="title_font_current2">Carattere di sistema</string>
     <string name="title_layout_current2">Scegli dimensione carattere</string>
     <string name="handy_mode">Modalità Mano Singola</string>
     <string name="handy_mode_enable">Modalità Mano Singola</string>
