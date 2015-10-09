@@ -2389,9 +2389,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="legal_workday_invalidate_message">Tocca per aggiornare le festività.</string>
     <string name="legal_workday_message">(Salta festività)</string>
     <string name="repeat">Ripeti</string>
-    <string name="every_day">Tutti i giorni</string>
     <string name="legal_workday">Giorni lavorativi</string>
-    <string name="never">Mai</string>
     <string name="dndm_wristband_detailed">"Attiva la modalità Anti-Disturbo se Mi Band rileva che stai dormendo entro un'ora prima dell'orario programmato"</string>
     <string name="dndm_wristband_detailed2">"Disattiva la modalità Anti-Disturbo se Mi Band rileva che ti sei svegliato un'ora prima della fine dell'orario programmato"</string>
     <string name="search_airplane">Modalità aereo</string>
@@ -2887,7 +2885,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wps_category">WPS</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router supporti il WPS e che sia abilitato</string>
-    <string name="retry">Riprova</string>
     <string name="brightness_auto_adjust_off">La luminosità dello schermo rimarrà invariata in ogni condizione di luce</string>
     <string name="brightness_auto_adjust_on">La luminosità dello schermo varierà in relazione alla luce ambientale</string>
     <string name="private_sms_need_to_unlock">Password richiesta:</string>
