@@ -33,8 +33,8 @@
         <item quantity="other">Eliminare %s elementi?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Eliminare %s foto dal cloud?</item>
-        <item quantity="one">Eliminare %s foto dal cloud?</item>
+        <item quantity="other">Eliminare %s foto da Mi Cloud?</item>
+        <item quantity="one">Eliminare %s foto da Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Eliminare %s foto?</item>
