@@ -114,9 +114,9 @@
     <string name="pref_camera_whitebalance_entry_manual">Manuale</string>
     <string name="pref_camera_whitebalance_entry_measure">Misura</string>
     <string name="pref_camera_coloreffect_title">Filtri</string>
-    <string name="pref_camera_coloreffect_entry_sepia">Seppia</string>
-    <string name="pref_camera_coloreffect_entry_negative">Negativo</string>
-    <string name="pref_camera_coloreffect_entry_posterize">Poster</string>
+    <string name="pref_camera_coloreffect_entry_sepia" />
+    <string name="pref_camera_coloreffect_entry_negative" />
+    <string name="pref_camera_coloreffect_entry_posterize" />
     <string name="pref_camera_coloreffect_entry_aqua">Acqua</string>
     <string name="pref_camera_coloreffect_entry_none">Normale</string>
     <string name="pref_camera_coloreffect_entry_mono">B/N</string>

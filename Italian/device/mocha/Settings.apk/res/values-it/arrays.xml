@@ -40,10 +40,12 @@
         <item>30 minuti</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Piccolo</item>
-        <item>Normale</item>
-        <item>Grande</item>
-        <item>Molto grande</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Molto lenta</item>
@@ -430,6 +432,13 @@
         <item>Timeout</item>
         <item>Operazione non riuscita</item>
     </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Essere superiore</item>
+        <item>Umano</item>
+        <item>Neanderthaliano</item>
+        <item>Scimpanzè</item>
+        <item>Scimmia</item>
+    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Chiedi</item>
         <item>Non consentire mai</item>
@@ -478,14 +487,6 @@
         <item>8 secondi</item>
         <item>9 secondi</item>
     </string-array>
-    <string-array name="mi1_led_color_entries">
-        <item>Blu</item>
-        <item>Rosso</item>
-        <item>Verde</item>
-        <item>Rosa</item>
-        <item>Viola</item>
-        <item>Porpora</item>
-    </string-array>
     <string-array name="led_color_entries">
         <item>Blu</item>
         <item>Rosso</item>
@@ -495,19 +496,27 @@
         <item>Bianco</item>
         <item>Viola</item>
     </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Blu</item>
+        <item>Rosso</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Viola</item>
+        <item>Porpora</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Mostra task manager</item>
+        <item>Mostra menu</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
-	<item>Nessuna</item>
+        <item>Nessuna</item>
         <item>Lancia task manager</item>
         <item>Lancia assistente vocale</item>
         <item>Lancia Google now</item>
         <item>Chiudi applicazione corrente</item>
-        <item>Mostra i menù</item>
-    </string-array>
-	<string-array name="screen_key_press_action">
-        <item>Mostra task manager</item>
         <item>Mostra menu</item>
     </string-array>
-	 <string-array name="screen_key_long_press_timeout">
+    <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondo</item>
         <item>1 secondo</item>
         <item>1.5 secondi</item>
@@ -520,6 +529,14 @@
         <item>10 secondi</item>
         <item>20 secondi</item>
         <item>Sempre</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>Inizio sessione…</item>
+        <item>Sessione iniziata</item>
+        <item>Disattivazione…</item>
+        <item>Impossibile avviare sessione</item>
+        <item>Sessione scaduta. Riprovare…</item>
+        <item>DDispositivo collegato</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
@@ -536,9 +553,47 @@
         <item>Naturale</item>
         <item>Freddo</item>
     </string-array>
-	    <string-array name="screen_saturation_title">
+    <string-array name="screen_saturation_title">
         <item>Brillante</item>
         <item>Normale</item>
+    </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Contrato automatico</item>
+        <item>Contrato aumentato</item>
+        <item>Normale</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Ottimizza il contrasto in base alla luce disponibile</item>
+        <item>Aumenta il contrasto del display</item>
+        <item>Il contrasto rimarrà costante</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>Consenti</item>
+        <item>Chiedi</item>
+        <item>Nega</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Consenti</item>
+        <item>Nega</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Nativo</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Riduzione del rumore con microfono singolo</item>
+        <item>Riduzione del rumore con doppio microfono</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Sblocco con sorriso</item>
+        <item>Sequenza</item>
+        <item>PIN</item>
+        <item>Password</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Connetti automaticamente</item>
+        <item>Connetti manualmente</item>
+        <item>Chiedi sempre</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -549,32 +604,39 @@
         <item>Galleria</item>
         <item>Musica</item>
         <item>Email</item>
-		<item>Video</item>
+        <item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>La rete è lenta per via del traffico intenso</item>
         <item>La rete è lenta per via del segnale debole</item>
         <item>In movimento…</item>
     </string-array>
-	    <string-array name="priority_storage_entries">
+    <string-array name="priority_storage_entries">
         <item>Memoria interna</item>
         <item>Memoria esterna</item>
     </string-array>
-	    <string-array name="whetstone_level_entries">
+    <string-array name="tts_rate_xunfei_entries">
+        <item>Molto lento</item>
+        <item>Lento</item>
+        <item>Normale</item>
+        <item>Veloce</item>
+        <item>Molto veloce</item>
+    </string-array>
+    <string-array name="whetstone_level_entries">
         <item>Disattivo</item>
         <item>Basso</item>
         <item>Medio</item>
         <item>Alto</item>
     </string-array>
-	    <string-array name="agps_network_entries">
+    <string-array name="agps_network_entries">
         <item>Rete domestica</item>
         <item>Tutte le reti</item>
     </string-array>
-	    <string-array name="install_non_market_app_entries">
+    <string-array name="install_non_market_app_entries">
         <item>Chiedi il permesso per le applicazioni a rischio</item>
         <item>Consenti</item>
     </string-array>
-	    <string-array name="lock_screen_secure_after_timeout_entries">
+    <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Subito</item>
         <item>1 minuto</item>
         <item>2 minuti</item>
@@ -582,7 +644,7 @@
         <item>15 minuti</item>
         <item>30 minuti</item>
     </string-array>
-	    <string-array name="fluency_mode_entries">
+    <string-array name="fluency_mode_entries">
         <item>Nascondi animazioni di sistema</item>
         <item>Mostra animazioni di sistema</item>
     </string-array>
@@ -594,7 +656,7 @@
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
     </string-array>
-	    <string-array name="alarm_repeat_type">
+    <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
         <item>Lun-Ven</item>
         <item>Personalizza</item>

@@ -97,53 +97,53 @@
     </string-array>
 
     <string-array name="repeat_by_nth_sun">
-        <item>on every first Sunday</item>
-        <item>on every second Sunday</item>
-        <item>on every third Sunday</item>
-        <item>on every fourth Sunday</item>
-        <item>on every last Sunday</item>
+        <item>ogni prima Domenica</item>
+        <item>ogni seconda Domenica</item>
+        <item>ogni terza Domenica</item>
+        <item>ogni quarta Domenica</item>
+        <item>ogni ultima Domenica</item>
     </string-array>
     <string-array name="repeat_by_nth_mon">
-        <item>on every first Monday</item>
-        <item>on every second Monday</item>
-        <item>on every third Monday</item>
-        <item>on every fourth Monday</item>
-        <item>on every last Monday</item>
+        <item>ogni primo Lunedì</item>
+        <item>ogni secondo Lunedì</item>
+        <item>ogni terzo Lunedì</item>
+        <item>ogni quarto Lunedì</item>
+        <item>ogni ultimo Lunedì</item>
     </string-array>
     <string-array name="repeat_by_nth_tues">
-        <item>on every first Tuesday</item>
-        <item>on every second Tuesday</item>
-        <item>on every third Tuesday</item>
-        <item>on every fourth Tuesday</item>
-        <item>on every last Tuesday</item>
+        <item>ogni primo Martedì</item>
+        <item>ogni secondo Martedì</item>
+        <item>ogni terzo Martedì</item>
+        <item>ogni quarto Martedì</item>
+        <item>ogni ultimo Martedì</item>
     </string-array>
     <string-array name="repeat_by_nth_wed">
-        <item>on every first Wednesday</item>
-        <item>on every second Wednesday</item>
-        <item>on every third Wednesday</item>
-        <item>on every fourth Wednesday</item>
-        <item>on every last Wednesday</item>
+        <item>ogni primo Mercoledì</item>
+        <item>ogni secondo Mercoledì</item>
+        <item>ogni terzo Mercoledì</item>
+        <item>ogni quarto Mercoledì</item>
+        <item>ogni ultimo Mercoledì</item>
     </string-array>
     <string-array name="repeat_by_nth_thurs">
-        <item>on every first Thursday</item>
-        <item>on every second Thursday</item>
-        <item>on every third Thursday</item>
-        <item>on every fourth Thursday</item>
-        <item>on every last Thursday</item>
+        <item>ogni primo Giovedì</item>
+        <item>ogni secondo Giovedì</item>
+        <item>ogni terzo Giovedì</item>
+        <item>ogni quarto Giovedì</item>
+        <item>ogni ultimo Giovedì</item>
     </string-array>
     <string-array name="repeat_by_nth_fri">
-        <item>on every first Friday</item>
-        <item>on every second Friday</item>
-        <item>on every third Friday</item>
-        <item>on every fourth Friday</item>
-        <item>on every last Friday</item>
+        <item>ogni primo Venerdì</item>
+        <item>ogni secondo Venerdì</item>
+        <item>ogni terzo Venerdì</item>
+        <item>ogni quarto Venerdì</item>
+        <item>ogni ultimo Venerdì</item>
     </string-array>
     <string-array name="repeat_by_nth_sat">
-        <item>on every first Saturday</item>
-        <item>on every second Saturday</item>
-        <item>on every third Saturday</item>
-        <item>on every fourth Saturday</item>
-        <item>on every last Saturday</item>
+        <item>ogni primo Sabato</item>
+        <item>ogni secondo Sabato</item>
+        <item>ogni terzo Sabato</item>
+        <item>ogni quarto Sabato</item>
+        <item>ogni ultimo Sabato</item>
     </string-array>
         <string-array name="quick_response_defaults">
         <item>Sto arrivando di corsa, sono in ritardo di qualche minuto.</item>
