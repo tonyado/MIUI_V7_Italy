@@ -139,7 +139,7 @@ Per attivare il tuo account, segui il
     <string name="passport_reject_recycle_account">No</string>
     <string name="passport_input_password_for_login">Questo numero è associato ad un account esistente, inserisci la tua password</string>
     <string name="passport_wrong_password">Password non corretta</string>
-    <string name="passport_account_identity_title">VVerifica la tu aidentità</string>
+    <string name="passport_account_identity_title">Verifica la tua identità</string>
     <string name="passport_reset_password_prompt">Password non corretta</string>
     <string name="passport_setting">Impostazione…</string>
     <string name="passport_reset_password_title">Ripristina password</string>
