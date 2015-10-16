@@ -228,6 +228,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="popup_window_attempt">Consentire al sito di aprire una finestra popup?</string>
     <string name="allow">Consenti</string>
     <string name="block">Blocca</string>
+    <string name="show_security_tip_dialog_title">Termini del Servizio</string>
     <string name="show_check_security_url_check_tip_dialog_title">Sicurezza URL</string>
     <string name="show_check_security_url_check_tip_dialog_description">"L'indirizzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzione nelle Impostazioni."</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
@@ -566,6 +567,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_privacy_security_title">Privacy e sicurezza</string>
     <string name="pref_security_show_security_warning">Mostra avvisi sicurezza</string>
     <string name="pref_security_show_security_warning_summary">Mostra un avviso se esiste un problema di sicurezza con un sito</string>
+    <string name="pref_weather_location_title">Posizione meteo</string>
+    <string name="pref_weather_location_summary">Utilizzato dal plugin meteo del browser</string>
     <string name="pref_privacy_location_title">Posizione</string>
     <string name="pref_privacy_enable_geolocation">Attiva posizione</string>
     <string name="pref_privacy_enable_geolocation_summary">"Consenti ai siti di richiedere l'accesso alla tua posizione"</string>

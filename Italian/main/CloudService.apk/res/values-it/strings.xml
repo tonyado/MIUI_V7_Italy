@@ -60,8 +60,8 @@
     <string name="phone_number_required_dspt_provision">"Questo servizio richiede il tuo numero di telefono. "</string>
     <string name="sync_resend_sms_dspt_provision">". Se cambi SIM potrebbe addebitarti dei costi per l'SMS necessario alla riattivazione di questo servizio."</string>
     <string name="sync_dspt_provision_title">Mi Cloud</string>
-    <string name="sync_dspt_provision">"Sincronizzazione
-Sincronizza le foto, i contatti, le note e molto altro su tutti i tuoi dispositivi o accedi da "</string>
+    <string name="sync_dspt_provision_header">Sincronizza</string>
+    <string name="sync_dspt_provision">"Sincronizza le foto, i contatti, le note e molto altro su tutti i tuoi dispositivi o accedi da "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Puoi disattivare questa funzione in qualsiasi momento nelle Impostazioni.

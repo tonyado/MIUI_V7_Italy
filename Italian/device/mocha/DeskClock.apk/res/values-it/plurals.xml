@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="snooze_duration">
-        <item quantity="other">%d minuti</item>
-        <item quantity="one">1 minuto</item>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d ore "</item>
+        <item quantity="one">"%1$d ora "</item>
     </plurals>
-    <plurals name="snooze_picker_label">
-        <item quantity="other">minuti</item>
-        <item quantity="one">minuto</item>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minuti "</item>
+        <item quantity="one">"%1$d minuto "</item>
     </plurals>
-    <plurals name="Nhours_description">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">1 ora</item>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d secondi</item>
+        <item quantity="one">%1$d secondo</item>
     </plurals>
-    <plurals name="Nminutes_description">
-        <item quantity="other">%d minuti</item>
-        <item quantity="one">1 minuto</item>
-    </plurals>
-    <plurals name="Nseconds_description">
-        <item quantity="other">%d secondi</item>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d secondi</item>
         <item quantity="one">1 secondo</item>
     </plurals>
-    <plurals name="timers_num">
-        <item quantity="other">%d timer</item>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d minuti</item>
         <item quantity="one">1 minuto</item>
     </plurals>
-    <plurals name="alarm_delete_confirmation">
-        <item quantity="other">Eliminare gli allarmi selezionati?</item>
-        <item quantity="one">"Eliminare l'allarme selezionato?"</item>
+    <plurals name="snooze_message">
+        <item quantity="other">Sospendi per %d minuti</item>
+        <item quantity="one">Sospendi per %d minuto</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Sospensione per %d minuti.</item>
+        <item quantity="one">Sospensione per %d minuto.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">LE sveglie verranno silenziate dopo %d minuti</item>
+        <item quantity="one">Le sveglie verranno solenziate dopo %d minuto</item>
     </plurals>
 </resources>

@@ -112,9 +112,24 @@
     <string name="power_hide_mode_title">Gestisci utilizzo batteria delle app</string>
     <string name="power_hide_mode_summary">Risparmia la batteria effettuando delle restrizioni sulle singole app, processi in background , connessioni Wi-Fi e dati mobili, e GPS</string>
     <string name="low_power_auto_title">Restrizioni app quando la batteria è scarica</string>
-    <string name="power_hide_mode_app_list_title">Seleziona le applicazioni da limitare</string>
+    <string name="app_list_title">Scegli applicazioni</string>
     <string name="power_hide_mode_app_list_summary">Impostazioni app</string>
+    <string name="app_frozen_app_list_summary">App in background</string>
     <string name="power_hide_mode_app_list_total">%d app</string>
     <string name="empty_title_apps_container_list">Nessuna app</string>
     <string name="hints_loading_text">Solo un secondo…</string>
+    <string name="config_suggest_title">Consigliate</string>
+    <string name="config_custom_title">Personalizzate</string>
+    <string name="network_mode_title">Rete Background</string>
+    <string name="keep_connect_title">Mantieni connesso</string>
+    <string name="quick_disconnect_title">Subito disconnesso</string>
+    <string name="location_mode_title">Rilevazione posizione in background</string>
+    <string name="location_enable_title">Consenti</string>
+    <string name="location_disable_title">Nega</string>
+    <string name="config_suggest_description">Utilizza differenti configurazioni di risparmio batteria per le applicazioni</string>
+    <string name="config_custom_description">Quando hai necessità diverse, utilizza una configurazione personalizzata</string>
+    <string name="keep_connect_description">Le applicazioni possono utilizzare la rete in background</string>
+    <string name="quick_disconnect_description">Rilevata applicazione che utilizza traffico dati in background, utilizzo dati bloccato</string>
+    <string name="location_enable_description">Le applicazioni possono utilizzare il rilevamento della posizione in background</string>
+    <string name="location_disable_description">Rilevata applicazione che utilizza dati sulla posizione in background, rilevamento posizione bloccata</string>
 </resources>

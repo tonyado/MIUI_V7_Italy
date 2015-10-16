@@ -460,6 +460,7 @@ con gli amici"</string>
     <string name="album_share_subtitle_quitting">Chiusura…</string>
     <string name="system_album">Album di sistema</string>
     <string name="owner_album_subtitle">Condiviso con %1$s membri</string>
+    <string name="baby_album_new_photo_remind">"Ci sono nuove foto nell'album del tuo bambino."</string>
     <string name="album_quota_fulfiled">"Impossibile creare l'album, è stato raggiunto il numero massimo."</string>
     <string name="image_quota_fulfiled">"Impossibile creare l'immagine, è stato raggiunto il limite di spazio a disposizione."</string>
     <string name="sharer_quota_fulfiled">"Impossibile aggiungere un partecipante, è stato raggiunto il numero massimo di condivisioni."</string>
@@ -468,6 +469,7 @@ con gli amici"</string>
     <string name="error_repeat_apply">Partecipi già alla condivisione di questo album</string>
     <string name="error_album_not_exist">Album inesistente.</string>
     <string name="error_invalid_link">"Il link non è valido o è scaduto, chiedi al proprietario dell'album di creare un nuovo link di condivisione".</string>
+    <string name="error_link_has_expired">Link scaduto</string>
     <string name="error_socket_timeout">Timeout di rete, riprova più tardi</string>
     <string name="error_share_with_creator">Sei già iscritto a questo album</string>
     <string name="error_share_not_support">"Accesso all'album condiviso non disponibile"</string>
@@ -578,6 +580,8 @@ con gli amici"</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Mostra gli avvisi di rete</string>
     <string name="impunity_declaration_summary">"Mostra gli avvisi di rete ogni volta che si avvia l'applicazione"</string>
+    <string name="user_agreement">" Termini del Servizio"</string>
+    <string name="user_policy">Informativa sulla Privacy</string>
     <string name="face_album">Copertina album</string>
     <string name="auto_upload_title">Carica automaticamente</string>
     <string name="select_auto_upload_albums">Seleziona gli album da caricare su Mi Cloud</string>
@@ -612,10 +616,10 @@ con gli amici"</string>
     <string name="rename_fail_msg">Impossibile rinominare</string>
     <string name="confirm_merge_face_albums">" "<Data> Unire questoalbum con %s? </Data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<Data> Unire questi album con %s? </Data>" "</string>
-    <string name="not_is">Non è %s?</string>
-    <string name="is">"È %s?"</string>
+    <string name="not_is">No</string>
+    <string name="is">Sì</string>
     <string name="ignore_alert_title">Mostrare questo album?</string>
-    <string name="ignore_album">Ignora</string>
+    <string name="ignore_album">Non mostrare</string>
     <string name="merge_album">Unisci</string>
     <string name="merge_album_title">Unisci album</string>
     <string name="create_new_face">Nuovo volto</string>
@@ -639,7 +643,12 @@ con gli amici"</string>
     <string name="change_to_photo_mode">Ordina per album</string>
     <string name="create_baby_album_later_toast">Crea un album del bambino quando vuoi nelle Impostazioni</string>
     <string name="not_remind_any_more">Non mostrare più</string>
-    <string name="finish_create_baby_album_toast">Crea album per \"%s\" in Mi Cloud</string>
+    <string name="not_ask_any_more">Non chiedere più risposte da \"%s\"</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Sei sicuro che questo sia &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questo volto verrà spostato nell'album \"%2$s\" dopo la conferma. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sei sicuro che questi siano &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questi volti verranno spostati nell'album \"%2$s\" dopo la conferma. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Sei sicuro che questo non sia &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questo volto verrà spostato nell'album \"%2$s\" dopo la conferma. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Sei sicuro che questi non siano &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questi volti verranno spostati nell'album \"%2$s\" dopo la conferma. </Data>" "</string>
+    <string name="finish_create_baby_album_toast">Album creato su Mi Cloud per \"%s\"</string>
     <string name="creating_baby_album">Creazione album...</string>
     <string name="create_baby_album">Crea un album del bambino</string>
     <string name="baby_album">Album del bambino</string>
@@ -731,6 +740,8 @@ con gli amici"</string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Annullare lo sfondo del bambino e ripristinare lo sfondo predefinito della lockscreen?</string>
     <string name="baby_lock_wallpaper_cancelled">Riattivato lo sfondo predefinito della lockscreen</string>
     <string name="set_as_baby_lock_wallpaper">Imposta come sfondo lockscreen</string>
+    <string name="edit_baby_info">Mostra informazioni bambino</string>
+    <string name="view_baby_info">Modifica informazioni bambino</string>
     <string name="baby_album_sharers_page_title">Condividi con i familiari</string>
     <string name="set_bg_file_exist_message">Conflitto tra i nomi della foto</string>
     <string name="set_bg_unknow_reasons">Errore sconosciuto</string>
@@ -742,6 +753,8 @@ con gli amici"</string>
     <string name="need_to_turn_on_network">Conneti ad internet</string>
     <string name="need_to_turn_on_wlan">Connetti a Wi-Fi</string>
     <string name="sync_cloud_space_full">Archiviazione Cloud esaurita</string>
+    <string name="sync_battery_low">Batteria scarica</string>
+    <string name="cloud_full_tip_str">Spazio insufficiente su Mi Cloud</string>
     <string name="hidden_album_display_name">Album nascosto</string>
     <string name="paint_crop_tips">"Per ritagliare un'immagine, puoi spostare e ridimensionare il riquadro sulle parte interessata"</string>
     <string name="saturation_abbr">S</string>

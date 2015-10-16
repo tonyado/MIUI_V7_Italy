@@ -226,10 +226,14 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="operator_setted_error_notify_title">Errore SIM</string>
     <string name="operator_setted_error_notify_message">Tocca per modificare la provenienza della SIM.</string>
     <string name="operator_setted_error_dialog_message">La SIM che stai utilizzando proviene da: %1$s. La nazionalità è diversa da quella impostata manualmente (%2$s). Cambiare la provenienza della SIM con %3$s?</string>
+    <string name="package_change_notification_title">Regola automaticamente la soglia dati</string>
+    <string name="package_change_notification_summary">Tocca per ulteriori informazioni.</string>
+    <string name="package_setted_error_notification_titile">Impossibile impostare il piano dati</string>
+    <string name="package_setted_error_notification_summary">"Tocca per mostrare i dettagli sull'utilizzo."</string>
     <string name="traffic_config_alert_title">%s differenze</string>
     <string name="traffic_config_alert_ok">OK</string>
     <string name="traffic_config_alert_cancel">Annulla</string>
-    <string name="traffic_config_alert_nomore">Non chiedere più</string>
+    <string name="traffic_config_alert_nomore">Non mostrare più</string>
     <string name="traffic_config_alert_body">"Il resoconto dei dati usati fornito dal tuo operatore mostra che ti rimangono %s.
 
 Vuoi aggiornare il limite uso dati locale?"</string>
@@ -288,6 +292,8 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="traffic_saving_tecsupport">Powered by Opera Max</string>
     <string name="traffic_saving_notify_start_title">"Ridurre l'utilizzo dei dati"</string>
     <string name="traffic_saving_notify_start_content">%s risparmiati in questo mese</string>
+    <string name="traffic_saving_notify_no_apps_saving">Nessuna applicazione sta utilizzando il Risparmio Dati</string>
+    <string name="traffic_saving_notify_no_apps_saving_content">Tocca per attivare il Risparmio Dati.</string>
     <string name="traffic_saving_toast_start_mobile">Risparmio attivato</string>
     <string name="traffic_saving_toast_start_none_mobile">Risparmio sarà inizializzato quando attiverai la tua connessione dati</string>
     <string name="traffic_saving_toast_start_unreachable">Risparmio non può essere inizializzato</string>
@@ -354,11 +360,11 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="pref_traffic_saving_compressed">Compressa</string>
     <string name="traffic_saving_pic_compress_orig">Originale</string>
     <string name="traffic_saving_can_optimized">Ottimizza</string>
-    <string name="saving_conflict_dialog_title">Attention</string>
+    <string name="saving_conflict_dialog_title">Attezione</string>
     <string name="saving_conflict_dialog_ok">OK</string>
-    <string name="saving_conflict_dialog_cancel">Cancel</string>
-    <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
-    <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
+    <string name="saving_conflict_dialog_cancel">Annulla</string>
+    <string name="restrictbackground_conflict_saving_msg">Impossibile utilizzare il Risparmio Dati quando i dati in background sono limitati. Disattivare Risparmio Dati e limitare i dati in background?</string>
+    <string name="saving_conflict_restrictbackground_msg">Impossibile utilizzare il Risparmio Dati quando i dati in background sono limitati. Consentire i dati in background ed attivare il RIsparmio Dati?</string>
     <string name="mi_service_framework">Mi Service Framework</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
     <string name="mi_service_traffic_detail">Dettagli framework</string>
@@ -440,16 +446,16 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="pref_title_over_traffic_limit_warning">Al superamento soglia</string>
     <string name="reach_daily_limit_value_title">Limite dati giornaliero raggiunto</string>
     <string name="reach_daily_limit_value_body">"Riduci l'utilizzo dei dati 3G."</string>
-    <string name="reach_daily_limit_value_body_open_traffic_saving">Tap to turn on Data Saver.</string>
+    <string name="reach_daily_limit_value_body_open_traffic_saving">Tocca per attivare Risparmio Dati.</string>
     <string name="daily_limit_network_available_body">"Tocca per vedere le statistiche sull'utilizzo dei dati."</string>
-    <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
+    <string name="daily_limit_network_available_body_open_traffic_saving">Tocca per attivare i dati su rete mobile.</string>
     <string name="daily_limit_over_message">Hai raggiunto il limite giornaliero del consumo dati.</string>
     <string name="three_percent_total_pkg">%s (3%% dei tuoi dati 3G mensili)</string>
     <string name="five_percent_total_pkg">%s (5%% dei tuoi dati 3G mensili)</string>
     <string name="ten_percent_total_pkg">%s (10%% dei tuoi dati 3G mensili)</string>
     <string name="lock_screen_warning_category">Notifiche lockscreen</string>
     <string name="lock_screen_warning_switch_title">Mostra avvisi su lockscreen</string>
-    <string name="lock_screen_warning_switch_summary">Mostra avvisi su lockscreen when data usage exceeds a certain amount</string>
+    <string name="lock_screen_warning_switch_summary">"Mostra avvisi su lockscreen quando l'utilizzo dei dati supera una certa soglia"</string>
     <string name="lock_screen_warning_value">Avvisto utilizzo dati</string>
     <string name="traffic_setting_completed">OK</string>
     <string name="traffic_setting_extra_pkg_title">Impostazioni aggiuntive</string>
