@@ -645,9 +645,9 @@ con gli amici"</string>
     <string name="not_remind_any_more">Non mostrare più</string>
     <string name="not_ask_any_more">Non chiedere più risposte da \"%s\"</string>
     <string name="confirm_recommandation_face_is">" "<Data> Sei sicuro che questo sia &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questo volto verrà spostato nell\'album \"%2$s\" dopo la conferma. </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sei sicuro che questi siano &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questi volti verranno spostati nell'album \"%2$s\" dopo la conferma. </Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data> Sei sicuro che questo non sia &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questo volto verrà spostato nell'album \"%2$s\" dopo la conferma. </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Sei sicuro che questi non siano &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questi volti verranno spostati nell'album \"%2$s\" dopo la conferma. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sei sicuro che questi siano &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questi volti verranno spostati nell\'album \"%2$s\" dopo la conferma. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Sei sicuro che questo non sia &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questo volto verrà spostato nell\'album \"%2$s\" dopo la conferma. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Sei sicuro che questi non siano &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questi volti verranno spostati nell\'album \"%2$s\" dopo la conferma. </Data>" "</string>
     <string name="finish_create_baby_album_toast">Album creato su Mi Cloud per \"%s\"</string>
     <string name="creating_baby_album">Creazione album...</string>
     <string name="create_baby_album">Crea un album del bambino</string>
