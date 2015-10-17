@@ -20,6 +20,8 @@
     <string name="set_only_wifi">Cerca solo con Wi-Fi</string>
     <string name="test">Test</string>
     <string name="miui_summary_has_new_version">" E' disponibile un aggiornamento  "</string>
+    <string name="miui_summary_slogan">"  Progettata per te  "</string>
+    <string name="miui_summary_updating">"  Aggiornamento in corso…  "</string>
     <string name="miui_summary_now_version">"Versione attuale "</string>
     <string name="miui_summary_no_new_version">Nessun aggiornamento disponibile</string>
     <string name="button_text_check">Cerca</string>
@@ -37,6 +39,7 @@
     <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
     <string name="menu_title_recovery">Riavvia in Recovery</string>
     <string name="menu_title_current_version_log">Riepilogo aggiornamento</string>
+    <string name="install_file_explorer">Installa prima un File Explorer</string>
     <string name="check_update_policy">Verifica impostazioni di aggiornamento</string>
     <string name="check_update_when_wifi_available">Cerca aggiornamenti usando solo Wi-Fi</string>
     <string name="update_monthly_build_only">Aggiorna solo con build Mensile</string>
@@ -84,6 +87,7 @@
     <string name="recovery_failed_title">Usa Mi PC Suite per aggiornare il sistema</string>
     <string name="recovery_power_not_enough_title">Batteria scarica</string>
     <string name="recovery_power_not_enough_msg">Collega ad un carica batteria se sei sotto il 30% di batteria</string>
+    <string name="recovery_power_not_enough_msg_plugged">La batteria deve essere superiore al 15% per poter aggiornare ildispositivo</string>
     <string name="recovery_failed_msg">"Il dispositivo non ha sufficiente memoria per andare in modalità Recovey ed aggiornare il sistema. Prova ad utilizzare Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>
