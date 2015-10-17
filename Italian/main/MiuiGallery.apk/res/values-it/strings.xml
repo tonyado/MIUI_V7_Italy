@@ -747,6 +747,7 @@ con gli amici"</string>
     <string name="set_bg_unknow_reasons">Errore sconosciuto</string>
     <string name="set_bg_picker_default_title">Imposta anteprima in alto</string>
     <string name="set_baby_icon_picker_default_title">Imposta icona bambino</string>
+    <string name="baby_album_no_share_user_tip">Nessun follower per il momento</string>
     <string name="more">Altro</string>
     <string name="number_of_uploading_finish">Tutti i file caricati su Mi Cloud</string>
     <string name="need_to_turn_on_sync">Attiva la sincronizzazione con il Mi Cloud ora.</string>
@@ -756,6 +757,13 @@ con gli amici"</string>
     <string name="sync_battery_low">Batteria scarica</string>
     <string name="cloud_full_tip_str">Spazio insufficiente su Mi Cloud</string>
     <string name="hidden_album_display_name">Album nascosto</string>
+    <string name="byteShort">B</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="megabyteShort">MB</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="terabyteShort">TB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="paint_crop_tips">"Per ritagliare un'immagine, puoi spostare e ridimensionare il riquadro sulle parte interessata"</string>
     <string name="saturation_abbr">S</string>
     <string name="highlight_abbr">H</string>

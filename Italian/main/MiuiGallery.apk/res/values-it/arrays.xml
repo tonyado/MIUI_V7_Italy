@@ -5,7 +5,7 @@
         <item>15 minuti</item>
         <item>30 minuti</item>
         <item>1 ora</item>
-        <item>Infinito</item>
+        <item>Illimitato</item>
     </string-array>
     <string-array name="baby_sexy">
         <item>Bambino</item>
@@ -18,5 +18,17 @@
         <item>Nonna paterna</item>
         <item>Nonno materno</item>
         <item>Nonna materna</item>
+    </string-array>
+    <string-array name="count_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
     </string-array>
 </resources>
