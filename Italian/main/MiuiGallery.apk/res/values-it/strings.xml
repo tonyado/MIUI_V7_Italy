@@ -536,7 +536,7 @@ con gli amici"</string>
     <string name="download">Download</string>
     <string name="confirm_download">Devi scaricare %s.</string>
     <string name="download_fail">Download fallito!</string>
-    <string name="download_fail_confirm_continue">Impossibilescaricare %s.</string>
+    <string name="download_fail_confirm_continue">Impossibile scaricare %s.</string>
     <string name="make_download_dir_fail">Impossibile creare una cartella!</string>
     <string name="delete_smb_file_fail">Impossibile eliminare il file smb</string>
     <string name="new_device_tips">"Tocca per visualizzare il dispositivo"</string>
@@ -575,7 +575,8 @@ con gli amici"</string>
     <string name="script">Script</string>
     <string name="mosaic">Mosaico</string>
     <string name="impunity_declaration_title">Avviso di rete</string>
-    <string name="impunity_declaration">"By using this service, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection to work normally."</string>    <string name="impunity_declaration_ignore">Non chiedere più</string>
+    <string name="impunity_declaration">"Utilizzando questo servizio, accetti %1$s e %2$s di Xiaomi. Alcune funzioni richiedono una connessione internet per funzionare correttamente."</string>
+	<string name="impunity_declaration_ignore">Non chiedere più</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Mostra gli avvisi di rete</string>
     <string name="impunity_declaration_summary">"Mostra gli avvisi di rete ogni volta che si avvia l'applicazione"</string>
@@ -637,7 +638,7 @@ con gli amici"</string>
     <string name="recommanded_face_added_tip">Aggiunto a \"%s\"</string>
     <string name="recommanded_face_abandon_tip">Rimuovi dai suggeriti</string>
     <string name="face_album_long_tap_tip">"Per selezionare più persone o modificare le impostazioni di gruppo, tieni premuta un'immagine profilo"</string>
-    <string name="more_face_album_name">More face</string>
+    <string name="more_face_album_name">Altri volti</string>
     <string name="change_to_face_mode">Ordina per contatto</string>
     <string name="change_to_photo_mode">Ordina per album</string>
     <string name="create_baby_album_later_toast">Crea un album del bambino quando vuoi nelle Impostazioni</string>
@@ -702,7 +703,7 @@ con gli amici"</string>
     <string name="wechat_timeline_title">Cronologia WeChat</string>
     <string name="share_title_more">Altro</string>
     <string name="download_without_wifi_title">Avviso utilizzo dati</string>
-    <string name="download_without_wifi_msg">"L'utilizzo della connessione dati mobile per il downlaod delle foto farà incrementare il tuo consumo di dati. Se superi il limite previsto dal tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+    <string name="download_without_wifi_msg">"L'utilizzo della connessione dati mobile per il download delle foto farà incrementare il tuo consumo di dati. Se superi il limite previsto dal tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
     <string name="cloud_gallery_space_full_title">Mi Cloud è pieno</string>
     <string name="upgrade_micloud_space">Aggiungi spazio</string>
     <string name="cloud_gallery_space_full_buy_more">Impossibile sincronizzare le foto con Mi Cloud. Per sincronizzare è necessario aggiungere spazio.</string>
@@ -714,11 +715,11 @@ con gli amici"</string>
     <string name="relation_text_maternal_grandfather">Nonno materno</string>
     <string name="relation_text_maternal_grandmother">Nonna materna</string>
     <string name="relation_text_family">Membro della famiglia</string>
-    <string name="family_member_invitation_text">Alto mebro dellafamiglia</string>
+    <string name="family_member_invitation_text">Alto membro della famiglia</string>
     <string name="invited_tip">Invitato</string>
     <string name="invite_sharer_title">"Invita %2$s di %1$s"</string>
     <string name="invite_sharer_relation_tip">Relazione di %1$s</string>
-    <string name="invite_sharer_phone_number_tip">Inserisci il numerodi telefono</string>
+    <string name="invite_sharer_phone_number_tip">Inserisci il numero di telefono</string>
     <string name="invite_sharer_confirm_button_text">Invita</string>
     <string name="invite_sharer_again_confirm_button_text">Invita di nuovo</string>
     <string name="relation_text_empty_alert">Aggiungi informazione di relazione</string>
