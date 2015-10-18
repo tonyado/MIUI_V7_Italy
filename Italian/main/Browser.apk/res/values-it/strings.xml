@@ -635,7 +635,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
     <string name="aqi_quality_index_break">AQI %1$s</string>
     <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
-    <string name="nav_bottom_bar_new_tab">Neuova scheda</string>
+    <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
     <string name="nav_bottom_bar_back">Indietro</string>
     <string name="nav_screen_container_tab_normal">Scheda normale</string>
     <string name="nav_screen_container_tab_incognito">Scheda incognito</string>
