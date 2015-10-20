@@ -568,7 +568,7 @@
     <string name="permlab_hardware_test">esecuzione test hardware</string>
     <string name="permdesc_hardware_test">"Consente all'applicazione di controllare varie periferiche per il test dell'hardware."</string>
     <string name="permlab_fm">accesso Radio FM</string>
-    <string name="permdesc_fm">Consente all'appplicazione Radio FM di accedere alla lista dei programmi."</string>   
+    <string name="permdesc_fm">"Consente all'appplicazione Radio FM di accedere alla lista dei programmi."</string>   
     <string name="permlab_callPhone">chiamata diretta n. telefono</string>
     <string name="permdesc_callPhone">"Consente all'applicazione di chiamare numeri di telefono senza il tuo intervento. Ciò può comportare chiamate o addebiti imprevisti. Tieni presente che ciò non consente all'applicazione di chiamare numeri di emergenza. Applicazioni dannose potrebbero generare dei costi effettuando chiamate senza la tua conferma."</string>
     <string name="permlab_callPrivileged">chiamata diretta di tutti i n. telefono</string>
