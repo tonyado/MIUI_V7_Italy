@@ -1003,7 +1003,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="media_format_final_button_text">Elimina tutto</string>
     <string name="media_format_gesture_prompt">Inserisci la sequenza di sblocco</string>
     <string name="media_format_gesture_explanation">"Devi inserire la sequenza di sblocco per confermare la formattazione dell'archivio USB."</string>
-    <string name="call_settings_title">Impostazioni chiamate</string>
+    <string name="call_settings_title">Chiamate</string>
     <string name="call_settings_summary">Imposta segreteria, deviazione chiamate, avviso di chiamata, ID chiamante</string>
     <string name="tether_settings_title_usb">Hotspot USB</string>
     <string name="tether_settings_title_wifi">Hotspot Wi-Fi</string>

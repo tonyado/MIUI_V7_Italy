@@ -371,4 +371,9 @@
     <string name="theme_provision_loading_tips">Solo un secondo…</string>
     <string name="theme_provision_title">Scegli un tema</string>
     <string name="theme_provision_default_theme_title">Predefinito</string>
+	<string name="theme_provision_oper_button_next">Avanti</string>
+    <string name="theme_precast_create_notification_title">Aggiornato a MIUI 7</string>
+    <string name="theme_precast_create_notification_content">Tocca per visualizzare nuovi temi.</string>
+    <string name="theme_precast_update_notification_title">MIUI 7 temi aggiornati</string>
+    <string name="theme_precast_update_notification_content">Tocca per eplorare gli aggiornamenti.</string>
 </resources>
