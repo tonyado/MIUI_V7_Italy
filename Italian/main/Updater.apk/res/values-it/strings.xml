@@ -96,7 +96,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="validate_pkg_failed_msg">"L'aggiornamento che hai scaricato non corrisponde con i nostri dati.Prova a scaricarlo di nuovo."</string>
     <string name="user_intertup_download_title">Downlaod aggiornamento in pausa</string>
     <string name="user_intertup_download_msg">"Il download è stato messo in pausa. Puoi riavviarli in qualsiasi momento dall'applicazione Updater."</string>
-    <string name="check_update_when_wifi_available_sum">Utilizza solo Wi-Fi per cercare aggiornaemnti</string>
+    <string name="check_update_when_wifi_available_sum">Utilizza solo Wi-Fi per cercare aggiornamenti</string>
     <string name="important_suggestion">"L'informativa sulla Privacy è stata modificata"</string>
     <string name="auto_dialog_msg">"Abbiamo aggiornato la nostra Informativa sulla Privacy. Leggila attentamente prima di aggiornare. "</string>
     <string name="auto_button_examine">Leggi</string>
