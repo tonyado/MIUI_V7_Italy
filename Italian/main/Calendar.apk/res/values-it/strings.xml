@@ -117,7 +117,7 @@
 	<string name="change_response_title">Cambia risultato</string>
 	<string name="menu_general_preferences">Preferenze generali</string>
 	<string name="menu_about_preferences">Informazioni calendario</string>
-	<string name="preferences_title">Impostazioni</string>
+	<string name="preferences_title">Calendario</string>
 	<string name="preferences_general_title">Visuale calendario</string>
 	<string name="preferences_reminder_title">Impostazioni promemoria</string>
 	<string name="preferences_hide_declined_title">Nascondi eventi passati</string>
