@@ -50,4 +50,8 @@ Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di uti
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Riavvia</string>
     <string name="install_preinstall_app">Caricamento applicazioni…</string>
+    <string name="title_fingerprint">Aggiungi la tua impronta digitale</string>
+    <string name="desc_fingerprint">Utilizza le tue impronte digitali per sbloccare il dispositivo, verificare le transazioni Mi Pay o per accedere ad app e servizi.</string>
+    <string name="desc_extra_fingerprint" />
+    <string name="next_fingerprint">Avanti</string>
 </resources>

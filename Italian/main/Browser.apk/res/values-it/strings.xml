@@ -89,6 +89,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="miui_content_paste">Incolla</string>
     <string name="miui_content_web_search">Cerca</string>
     <string name="miui_content_share">Condividi</string>
+    <string name="miui_content_extent_select">Seleziona altro</string>
     <string name="miuichromium_error_page_title">Impossibile trovare questa pagina</string>
     <string name="miuichromium_error_page_reason_network">Mostra link</string>
     <string name="miuichromium_error_page_mobile">Rete mobile</string>
@@ -120,8 +121,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="video_fragment_name_collections">Le mie collezioni</string>
     <string name="video_fragment_name_historys">Cronologia</string>
     <string name="video_fragment_name_offine">Offline</string>
-    <string name="video_group_updates_list">Updates</string>
-    <string name="video_group_noupdates_list">NoUpdates</string>
+    <string name="video_group_updates_list">Aggiornamenti</string>
+    <string name="video_group_noupdates_list">Nessun aggiornamento disponibile</string>
     <string name="video_download_downloading">In download</string>
     <string name="video_download_downloaded">Scaricati</string>
     <string name="video_collect_success">Video aggiunto con successo</string>
@@ -163,6 +164,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="cloud_sync_closed_toast">Impossibile aggiornare perché la sincronizzazione è disattivata</string>
     <string name="close_cloud_tab_tip">Chiudere la scheda cloud su %s?</string>
     <string name="search_label">Browser</string>
+    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>

@@ -323,7 +323,7 @@
     <string name="alert_secret_album_title">Album Privato</string>
     <string name="alert_secret_album_message">"Puoi sfogliare l'album Mi Cloud nell'album privato."</string>
     <string name="alert_secret_album_set_pattern">Imposta sequenza di sblocco</string>
-    <string name="cant_delete_cloud_album">Impossibile eliminare: %s è un album di sistema oppure è condiviso con altri utenti.</string>
+    <string name="cant_delete_system_album">Impossibile eliminare %s perché è un album di sistema.</string>
     <string name="cannot_delete_sharer_photo">Impossibile eliminare %s elemento(i) caricati da altri utenti.</string>
     <string name="share_album">Condividi album</string>
     <string name="share_album_owner">Proprietario</string>
@@ -576,7 +576,7 @@ con gli amici"</string>
     <string name="mosaic">Mosaico</string>
     <string name="impunity_declaration_title">Avviso di rete</string>
     <string name="impunity_declaration">"Utilizzando questo servizio, accetti %1$s e %2$s di Xiaomi. Alcune funzioni richiedono una connessione internet per funzionare correttamente."</string>
-	<string name="impunity_declaration_ignore">Non chiedere più</string>
+    <string name="impunity_declaration_ignore">Non chiedere più</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Mostra gli avvisi di rete</string>
     <string name="impunity_declaration_summary">"Mostra gli avvisi di rete ogni volta che si avvia l'applicazione"</string>
@@ -609,6 +609,11 @@ con gli amici"</string>
     <string name="start_to_use_face_albumset">Attiva riconoscimento Volti</string>
     <string name="enabling_face_feature">Attivazione…</string>
     <string name="face_albumset_pending_enable_tip">Ordinerà le foto quando il dispositivo è collegato al Wi-Fi</string>
+    <string name="view_queuing_status">Verifica stato</string>
+    <string name="calculated_pictures_time_tip_for_vip">Foto ordinate da %1$s fino ad ora. Le foto rimanenti verranno ordinate entro breve.</string>
+    <string name="calculated_pictures_time_tip_for_no_vip">"Foto ordinate da %1$s fino ad ora. Le foto rimanenti verranno ordinate un po' alla volta."</string>
+    <string name="calculated_pictures_time_tip">"Foto ordinate da %1$s fino ad ora. Le foto rimanenti verranno ordinate un po' alla volta. Per velocizzare il processo, %2$s"</string>
+    <string name="buy_member_tip">diventa un membro.</string>
     <string name="face_albumset_loading_data">Caricamento…</string>
     <string name="face_album_not_named">Senza nome</string>
     <string name="rename_face_album">Rinomina</string>

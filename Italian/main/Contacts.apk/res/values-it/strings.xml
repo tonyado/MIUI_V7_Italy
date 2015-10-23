@@ -460,8 +460,8 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="aggregation_suggestion_edit_dialog_message">Passare alla modifica del contatto selezionato? Le informazioni inserite finora verranno copiate.</string>
     <string name="menu_copyContact">Copia nei miei contatti</string>
     <string name="add_to_my_contacts">Aggiungi ai contatti personali</string>
-    <string name="contact_directory_description">Directory %1$s</string>
-    <string name="directory_search_label">Directory</string>
+    <string name="contact_directory_description">Cartella %1$s</string>
+    <string name="directory_search_label">Cartella</string>
     <string name="local_search_label">Tutti i contatti</string>
     <string name="toast_making_personal_copy">Creazione di una copia personale…</string>
     <string name="list_filter_all_accounts">Tutti i contatti</string>
@@ -770,8 +770,8 @@ Le schede contatti sono disattivate"</string>
     <string name="add_blacklist">Blocca</string>
     <string name="remove_blacklist">Sblocca</string>
     <string name="blacklist">Blocca</string>
-    <string name="details_list_group_header_other">OTHER</string>
-    <string name="details_list_group_header_more_action">More</string>
+    <string name="details_list_group_header_other">ALTRO</string>
+    <string name="details_list_group_header_more_action">Altro</string>
     <string name="photo_fragment">Foto</string>
     <string name="photo_load_failed">Impossibile caricare la foto</string>
     <string name="empty_divider_title" />
@@ -1064,6 +1064,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="sim_error_email_full">"Non c'è abbastanza spazio sulla carta SIM"</string>
     <string name="sim_error_anr_full">"Non c'è abbastanza spazio sulla carta SIM"</string>
     <string name="sim_error_password_error">La password che hai inserito non è valida</string>
+    <string name="voip_name">Mi Voice</string>
     <string name="yellowPageNavigationLabel">Directory</string>
     <string name="yellowPageNavigationIconLabel">Directory</string>
     <string name="login_ok">Accedi</string>
@@ -1110,4 +1111,5 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="cloud_state_syncing">Sincronizzato con Mi Cloud</string>
     <string name="cloud_state_loading">Solo un attimo...</string>
     <string name="cloud_state_disabled">La sincronizzazione con Mi Cloud è disattivata</string>
+    <string name="more_call_logs">Per altri dati sulle chiamate su go i.mi.com</string>
 </resources>

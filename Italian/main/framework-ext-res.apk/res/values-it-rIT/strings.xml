@@ -87,4 +87,11 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="internal_remain_mins">%1$s minuti rimasti (chiamate nazionali)</string>
     <string name="international_remain_mins">%1$s minuti rimasti (%2$s chiamate)</string>
     <string name="all_call_livetalk_remain_mins">Minuti rimasti: (%1$s nazionali) | %2$s (%3$s)</string>
+    <string name="cancel_action">Annulla</string>
+    <string name="set_password_action">Imposta password</string>
+    <string name="set_password_title">Imposta password</string>
+    <string name="set_password_message">Impostare una nuova password?</string>
+    <string name="apply_password_confirm_dlg_title">Questa password verrà utilizzata per %s</string>
+    <string name="apply_password_confirm_dlg_msg">Richiedere password per %s​?</string>
+    <string name="apply_password_action">Imposta password</string>
 </resources>

@@ -234,9 +234,9 @@
     <string name="confirm_send_message_with_no_subject">"Nessun testo presente nell'oggetto del messaggio."</string>
     <string name="confirm_send_title">Inviare il messaggio?</string>
     <string name="contact_edit_set_black_list">Imposta blacklist</string>
-    <string name="contact_edit_set_black_list_from">Delete all mails from this sender</string>
-    <string name="contact_edit_set_black_list_receive">Delete mail with this recipient</string>
-    <string name="contact_edit_set_black_list_receive_summary">Delete mail that includes this recipient in the To or Cc field</string>
+    <string name="contact_edit_set_black_list_from">Elimina tutte le mail da questo mittente</string>
+    <string name="contact_edit_set_black_list_receive">Elimina tutte le meailcon questo destinatario</string>
+    <string name="contact_edit_set_black_list_receive_summary">Elimina tutte le mail che contengono questo destinatario, anche nel campo Cc</string>
     <string name="contact_edit_set_phone_contact">Modifica contatti telefono</string>
     <string name="contact_edit_title_phone_contact">Lista contatti telefono</string>
     <string name="contact_in_filter_call_phone_str">chiama: %s</string>
@@ -301,6 +301,7 @@
     <string name="discard">Elimina</string>
     <string name="discard_drafts">Elimina bozze</string>
     <string name="dismiss_tip_hover_text">Eliminazione</string>
+    <string name="disturb_switch">Non disturbare</string>
     <string name="done">Fatto</string>
     <string name="done_action">Fine</string>
     <string name="donot_disturb_endtime_title">A</string>
@@ -558,7 +559,7 @@
     <string name="phone">telefono</string>
     <string name="photo_load_failed">"Non è stato possibile caricare l'immagine"</string>
     <string name="photo_view_count" formatted="false">%d di %d</string>
-	<string name="please_fill_in_your_mailbox_information2">Inserisci i dati del tuo account</string>
+    <string name="please_fill_in_your_mailbox_information2">Inserisci i dati del tuo account</string>
     <string name="policy_app_blacklist">Revoca permessi app specifiche</string>
     <string name="policy_app_whitelist">Consenti app specifiche</string>
     <string name="policy_bluetooth_restricted">Limita utilizzo Bluetooth</string>
@@ -595,13 +596,10 @@
     <string name="preferences_signature_dialog_title">Firma</string>
     <string name="preferences_signature_summary_not_set">Non impostato</string>
     <string name="preferences_signature_title">Firma</string>
-    <string name="prefetched_got_it">OK</string>
     <string name="preview_attachment">Anteprima</string>
     <string name="previous_action">Indietro</string>
+    <string name="print">Stampa</string>
     <string name="prompt_title">Prompt</string>
-    <string name="protocol">Protocollo</string>
-    <string name="provider_note_live">"Solo alcuni account \"Plus\" includono l'accesso POP che consente la connessione del programma. Se non riesci ad accedere con l'indirizzo email e la password corretti, potresti non disporre di un account \"Plus\" a pagamento. Avvia il browser web per avere accesso a questi account email."</string>
-    <string name="provider_note_t_online">"Prima di configurare questo account email, visita il sito web T-Online e crea una password per l'accesso email POP3."</string>
     <string name="pull_to_refresh">Trascina per aggiornare</string>
     <string name="push_wps_better_confirm_download">Scarica</string>
     <string name="push_wps_better_confirm_exit">Altre app da aprire</string>
@@ -707,7 +705,7 @@
     <string name="ser_resp_err_map_serclosed">Servizio chiuso</string>
     <string name="ser_resp_err_map_ssl">"Prova a selezionare 'SSL/TLS (Accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
     <string name="set_network">Imposta rete</string>
-   <string name="setting_default_lable" />
+    <string name="setting_default_lable" />
     <string name="settings_activity_title">Impostazioni</string>
     <string name="share_choose">Scegli cosa condivedere</string>
     <string name="sharing">Condividi</string>
@@ -731,7 +729,7 @@
     <string name="str_select_none">Deseleziona tutto</string>
     <string name="subject_hint">Oggetto</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
-   <string name="sync_error">Impossibile sincronizzare</string>
+    <string name="sync_error">Impossibile sincronizzare</string>
     <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
     <string name="system_account_create_failed">"Impossibile creare l'account. Riprova."</string>
     <string name="system_folders_sent_dlg">Seleziona la cartella degli elementi inviati sul server</string>

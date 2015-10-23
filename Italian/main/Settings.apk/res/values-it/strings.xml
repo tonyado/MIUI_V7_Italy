@@ -59,7 +59,7 @@
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
     <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
     <string name="status_bar_settings_notification_priority">Priorità</string>
-    <string name="status_bar_settings_notification_priority_summary">MOstra le notifiche in cima alla lista</string>
+    <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
     <string name="status_bar_settings_show_keyguard_notification">Notifiche mobili e lockscreen</string>
     <string name="status_bar_settings_show_keyguard_notification_summary" />
@@ -95,10 +95,6 @@
     <string name="status_bar_screen_key_back">Tasto indietro</string>
     <string name="additional_system_update" />
     <string name="additional_system_update_menu" />
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_always_show_value">1</string>
-    <string name="input_method_selector_always_hide_value">2</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
     <string name="yes">Sì</string>
     <string name="no">No</string>
     <string name="create">Crea</string>
@@ -251,7 +247,7 @@
     <string name="intent_sender_data_label">Dati:</string>
     <string name="intent_sender_sendbroadcast_text">Invia broadcast</string>
     <string name="intent_sender_action_label">Azione:</string>
-    <string name="intent_sender_startactivity_text">Inizia activity</string>
+    <string name="intent_sender_startactivity_text">Inizio attività</string>
     <string name="intent_sender_resource_label">Risorsa:</string>
     <string name="intent_sender_account_label">Account:</string>
     <string name="proxy_settings_title">Proxy</string>
@@ -2105,7 +2101,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="do_not_disturb_mode">Anti-disturbo</string>
     <string name="dndm_notification">Anti-disturbo abilitato.</string>
     <string name="dndm_open">Anti-disturbo</string>
-    <string name="dndm_alarm_content_not_all">Blocca tutto</string>
     <string name="dndm_auto_setting_group">Programmato</string>
     <string name="dndm_auto_button_title">Ora</string>
     <string name="dndm_auto_time_setting">Impostazioni orario</string>
@@ -2113,7 +2108,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="dndm_auto_time_turn_on">Dalle</string>
     <string name="dndm_auto_time_turn_on_title">Attiva Anti-distubo automaticamente</string>
     <string name="dndm_auto_time_turn_off">Alle</string>
-    <string name="dndm_auto_time_turn_off_title">Disattiva Anti-distubo automaticamente </string>
+    <string name="dndm_auto_time_turn_off_title">Disattiva Anti-disturbo automaticamente </string>
     <string name="dndm_dlg_remove_vip">Rimuovere dalla lista delle eccezioni?</string>
     <string name="dndm_dlg_remove_ok">Rimuovi</string>
     <string name="dndm_menu_add_vip_custom">Aggiungi eccezione</string>
@@ -3057,8 +3052,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="theme_settings_title">Temi</string>
     <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
     <string name="children_mode_title">Modalità Genitore</string>
-    <string name="children_mode_tips_on">Dopo aver disattivato la modalità Genitore, tocc ail tasto Home per tornare alla Home</string>
-    <string name="children_mode_tips_off">Dopo aver attivato la modalità Genitore, tocc ail tasto Home per tornare alla Home</string>
+    <string name="children_mode_tips_on">Dopo aver disattivato la modalità Genitore, tocca il tasto Home per tornare alla Home</string>
+    <string name="children_mode_tips_off">Dopo aver attivato la modalità Genitore, tocca il tasto Home per tornare alla Home</string>
     <string name="children_mode_enable_title">Modalità genitore</string>
     <string name="children_mode_set_apps_title">Applicazioni accessibili</string>
     <string name="set_password_title">Set password</string>
@@ -3072,4 +3067,36 @@ Disabilitare le finestre flottanti?"</string>
     <string name="experience_optimization_category">Ottimizzazione</string>
     <string name="advanced_text_layout">Attiva layout di testo avanzati</string>
     <string name="pref_edge_handgrip">Presa sui bordi</string>
+    <string name="pref_edge_handgrip">Controlli laterali</string>
+    <string name="apply_password_to_category_title">Applica password a…</string>
+    <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
+    <string name="secure_keyguard_business_title">Password lockscreen</string>
+    <string name="fingerprint_and_password_entrance_title">Password e impronte digitali</string>
+    <string name="password_entrance_title">Password</string>
+    <string name="turn_off_common_password_confirm_msg">Anche la password verrà disattivata.</string>
+    <string name="apply_fingerprint_to_category_title">Applica impronta digitale a…</string>
+    <string name="fingerprint_list_title">Impronta digitale</string>
+    <string name="add_fingerprint_text">Aggiungi impronta digitale</string>
+    <string name="delete_fingerprint_text">Rimuovi impronta digitale</string>
+    <string name="delete_fingerprint_confirm_msg">Rimuovere impronta digitale?</string>
+    <string name="fingerprint_identificating_msg">Scansione impronta digitale…</string>
+    <string name="fingerprint_identify_input_password_msg">Inserisci password</string>
+    <string name="fingerprint_identify_try_again_msg">Scansione fallita, prova di nuovo</string>
+    <string name="add_fingerprint_instruction_title">Appoggia il dito sul lettore di impronte</string>
+    <string name="add_fingerprint_instruction_msg">"Sblocca il dispositivo o verifica il pagamento con l'impronta digitale"</string>
+    <string name="add_fingerprint_put_finger_title">Posiziona il dito</string>
+    <string name="add_fingerprint_put_finger_msg">Dopo la pressione del sensore, rimuovi il dito e riprova.</string>
+    <string name="add_fingerprint_put_finger_edge_msg">Dopo la pressione del sensore rimuovi il dito e prova di nuovo.</string>
+    <string name="add_fingerprint_move_finger_title">Rimuovi dito</string>
+    <string name="add_fingerprint_done_title">Fatto!</string>
+    <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il tuo dispositivo con le impronte digitali.</string>
+    <string name="information_dialog_button_text">Ho capito</string>
+    <string name="max_fingerprint_number_reached">Non è possibile aggiungere più di 5 impronte digitali. Per aggiungere una nuova impronta, eliminare prima qualcuna delle esistenti.</string>
+    <string name="delete_or_keep_legacy_passwords_confirm_msg">"Eliminare i dati sull'impronta?"</string>
+    <string name="delete_legacy_fingerprint">Elimina</string>
+    <string name="keep_legacy_fingerprint">Mantieni</string>
+    <string name="add_fingerprint_finished_button_text">Fatto</string>
+    <string name="add_fingerprint_instruction_dialog_msg">Per aggiungere la tua impronta digitale, metti il dito sul sensore.
+assicurati che il dito copra l'intera superficie del sensore"</string>
+    <string name="add_fingerprint_toast_text">Metti il dito sul sensore adesso</string>
 </resources>

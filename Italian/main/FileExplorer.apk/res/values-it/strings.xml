@@ -242,9 +242,12 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="storage_internal">Archivio interno</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>
-    <string name="bind_account">Collega ad un account KuaiPan</string>
-    <string name="bind_account_summary">Se hai già un account KuaiPan puoi aggiungerlo per recuperare i tuoi dati</string>
-    <string name="binded_accout_title">Account KuaiPan</string>
+    <string name="storage_internal_description">Memoria interna</string>
+    <string name="storage_sd_card_description">SD card</string>
+    <string name="storage_usb_description">Memoria USB</string>
+    <string name="bind_account">Sincronizza un account esistente</string>
+    <string name="bind_account_summary">Sincronizza il tuo account KuaiPan con il tuo Mi Account</string>
+    <string name="binded_accout_title">Account sincronizzati</string>
     <string name="binded_accout_description">Account collegati, utilizza il tuo account Xiaomi o quello KuaiPan per accedere, entrambi possono accedere ai tuoi dati</string>
     <string name="cleaning">Pulizia in corso…</string>
     <string name="account_bind_prompt">Migrazione dati utente, il tuo account verrà temporaneamente bloccato, attendere prego…</string>
@@ -254,7 +257,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="operation_moving_detail">Spostamento (%1$d/%2$d)</string>
     <string name="operation_copying">Copia…</string>
     <string name="operation_copying_detail">Copia file (%1$d/%2$d)</string>
-    <string name="name_illegal">Il nome del file non può essere vuoto</string>
+    <string name="name_empty">Devi inserire un nome.</string>
     <string name="open_changed_file_title">File modificati</string>
     <string name="open_changed_file_message">"Il file che stai cercando di aprire è stato modificato, puoi:
 1. Scaricare (aggiornamento del file locale)
@@ -454,4 +457,64 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="data_consumption_checkbox_hint">Non mostrare più</string>
     <string name="data_consumption_confirm">OK</string>
     <string name="data_consumption_cancel">Esci</string>
+    <string name="local_music">Musica</string>
+    <string name="local_video">Video</string>
+    <string name="local_image">Foto</string>
+    <string name="select_music">Scegli brani</string>
+    <string name="select_video">Scegli video</string>
+    <string name="select_image">Scegli foto</string>
+    <string name="move_to">Sposta in…</string>
+    <string name="extract">Estrai</string>
+    <string name="new_function">Info sulle cartelle private</string>
+    <string name="new_function_info">"Le cartelle private sono una nuova funzione di MIUI.
+Puoi crittografare i tuoi file
+ed archiviarli in un posto sicuro.
+
+Trascina in basso sulla home per provare."</string>
+    <string name="private_folder">Cartella privata</string>
+    <string name="make_private">Rendi privata</string>
+    <string name="open_private_folder">Creazione cartella privata…</string>
+    <string name="decrypt">Rimuovi dalle private</string>
+    <string name="repair_file">Ripristina file crittografati</string>
+    <string name="encrypting">Crittografia…</string>
+    <string name="decrypting">Decrittazione…</string>
+    <string name="decrypt_error">Impossibile decrittare</string>
+    <string name="user_not_login">Prima accedi</string>
+    <string name="restoring">Ripristino…</string>
+    <string name="partial_delete_failure">Non è stato possibile eliminare alcuni file, prova di nuovo</string>
+    <string name="delete_error">Non è stato possibile eliminare alcuni file, prova di nuovo</string>
+    <string name="repair_done">Ripristinato</string>
+    <string name="partial_repair_done">Alcuni file sonos tati ripristinati correttamente</string>
+    <string name="repair_error">Impossibile ripristinare</string>
+    <string name="cancel_success">Rimossi con successo, tutti i file spostati in sdcard/fileexplorer/decryption</string>
+    <string name="partial_cancel_successful">Non è stato possibile rimuovere alcuni file. Gli altri file sono stati spostati in sdcard/fileexplorer/decryption"</string>
+    <string name="cancel_error">Impossibile rimuovere, prova di nuovo</string>
+    <string name="encrypt_success">Tutti i file adesso sono privati</string>
+    <string name="partial_encrypt_success">Non è statopossibile rendere privati alcuni file, prova di nuovo"</string>
+    <string name="encrypt_error">Impossibile rendere i file privati, prova di nuovo</string>
+    <string name="reset_password">Ripristina password</string>
+    <string name="private_files">Privato</string>
+    <string name="msg_set_password">Prima imposta la password</string>
+    <string name="weixin_sticker_tag_str">Adesivi WeChat</string>
+    <string name="local_sticker_str">Scaricati</string>
+    <string name="shared_sticker_str">Condividi con i Mi fan</string>
+    <string name="shared_str">Condiviso da %s</string>
+    <string name="shared_sticker_suffix">Adesivo a %s</string>
+    <string name="new_function_title_str">Info sugli adesivi WeChat</string>
+    <string name="new_function_str">"Adesso gli adesivi WeChat possono essere collezionati automaticamente.
+Puoi scaricarli quando vuoi
+e non perderai mai le ultie novità!"</string>
+    <string name="no_network_str">Impossibile collegarsi alla rete. Controlla la rete e prova di nuovo.</string>
+    <string name="no_local_sticker_tip">Non è stato possibile trovare gli adesivi scaricati. Controlla gli adesivi condivisi dai Mi fans.</string>
+    <string name="network_spent_reminding_title">Notifica utilizzo dati</string>
+    <string name="network_spent_reminding">"L'apertura di questa pagina richiede l'utilizzo della rete dati."</string>
+    <string name="shared_sticker_use_tip_title">Come utilizzare gli adesivi</string>
+    <string name="shared_sticker_use_tip">Puoi inviare gli adesivi salvati nelle conversazioni di WeChat allo stesso modo in cui invii le immagini.
+(Le GIF possono essere aggiunte agli adesivi Personalizzati di WeChat)."</string>
+    <string name="shared_sticker_page_no_file">Impossibile collegarsi alla rete. Controlla la connessione di rete e riprova.</string>
+    <string name="shared_sticker_network_permission_tip">Impossibile collegarsi alla rete. Controlla la connessione di rete e riprova.</string>
+    <string name="transfer_private_data">Spostamento dei file privati dalla scheda SD…</string>
+    <string name="transfer_done">File spostati con successo.</string>
+    <string name="dir_not_support">Non è possibile rendere privata questa cartella.</string>
+    <string name="promot_enctypt_password">Inserisci la passwrod utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
 </resources>

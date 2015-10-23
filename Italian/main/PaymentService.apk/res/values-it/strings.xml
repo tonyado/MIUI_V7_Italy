@@ -261,10 +261,10 @@ Customer service center：400-100-5678"</string>
     <string name="mibi_lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
     <string name="mibi_lockpassword_input_your_pattern_header">Confirm your pattern</string>
     <string name="mibi_lockpassword_choose_your_pattern_header">Choose your pattern</string>
-    <string name="mibi_lockpattern_continue_button_text">Continue</string>
-    <string name="mibi_lockpattern_confirm_button_text">Confirm</string>
-    <string name="mibi_lockpattern_tutorial_cancel_label">Cancel</string>
-    <string name="mibi_lockpattern_tutorial_continue_label">Next</string>
+    <string name="mibi_lockpattern_continue_button_text">Continua</string>
+    <string name="mibi_lockpattern_confirm_button_text">Coonferma</string>
+    <string name="mibi_lockpattern_tutorial_cancel_label">Annulla</string>
+    <string name="mibi_lockpattern_tutorial_continue_label">Avanti</string>
     <string name="mibi_lockpattern_need_to_unlock_wrong_footer" />
     <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Too many incorrect attempts!&lt;/font></string>
     <string name="mibi_lockpattern_need_to_unlock_footer" />

@@ -243,5 +243,5 @@ scorri in basso per bloccare"</string>
     <string name="vpn_text_long">Connesso a %s. Tocca per vedere i dettagli.</string>
     <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
     <string name="screen_button_notification_text">Per attivarli, premi Home e Accensione contemporaneamente.</string>
-    <string name="task_access_locked_app_msg">"IL ocntenuto dell'applicazione è nascosto."</string>
+    <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>
 </resources>

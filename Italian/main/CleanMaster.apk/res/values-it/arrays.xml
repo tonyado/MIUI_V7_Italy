@@ -48,4 +48,9 @@
         <item>Backup e disinstalla</item>
         <item>Disinstalla</item>
     </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Ogni 7 giorni</item>
+        <item>Ogni 15 giorni</item>
+        <item>Ogni 30 giorni</item>
+    </string-array>
 </resources>

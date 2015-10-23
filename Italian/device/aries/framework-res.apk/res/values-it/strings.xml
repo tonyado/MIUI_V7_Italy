@@ -1347,8 +1347,8 @@ per l'account %s"</string>
     <string name="share">Condividi</string>
     <string name="find">Trova</string>
     <string name="websearch">Ricerca Web</string>
-    <string name="find_next">Find next</string>
-    <string name="find_previous">Find previous</string>
+    <string name="find_next">Successivo</string>
+    <string name="find_previous">Precedente</string>
     <string name="gpsNotifTicker">Richiesta posizione da %s</string>
     <string name="gpsNotifTitle">Richiesta posizione</string>
     <string name="gpsNotifMessage">Richiesto da %1$s (%2$s)</string>
