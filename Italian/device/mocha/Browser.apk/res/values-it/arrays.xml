@@ -5,13 +5,13 @@
         <item>Giallo</item>
         <item>Nero</item>
     </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Lontano</item>
-        <item>Medio</item>
-        <item>Chiudi</item>
+    <string-array name="readmode_theme_fontsizenames">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
     </string-array>
     <string-array name="pref_ua_choices">
-        <item>DPredefinito</item>
+        <item>Predefinito</item>
         <item>iPad</item>
         <item>Desktop</item>
     </string-array>

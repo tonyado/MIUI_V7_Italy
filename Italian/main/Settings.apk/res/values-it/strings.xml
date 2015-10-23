@@ -3095,7 +3095,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="delete_legacy_fingerprint">Elimina</string>
     <string name="keep_legacy_fingerprint">Mantieni</string>
     <string name="add_fingerprint_finished_button_text">Fatto</string>
-    <string name="add_fingerprint_instruction_dialog_msg">Per aggiungere la tua impronta digitale, metti il dito sul sensore.
+    <string name="add_fingerprint_instruction_dialog_msg">"Per aggiungere la tua impronta digitale, metti il dito sul sensore.
 assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="add_fingerprint_toast_text">Metti il dito sul sensore adesso</string>
 </resources>
