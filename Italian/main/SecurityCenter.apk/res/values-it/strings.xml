@@ -511,8 +511,8 @@
     <string name="title_power_optimizer">Risparmio batteria</string>
     <string name="summary_power_optimizer">Riduci le prestazioni del tuo dispositivo quando la batteria è scarica</string>
     <string name="history_details_title">Dettagli cronologia</string>    
-    <string name="title_data_flow">"Imposta un avviso per l'utilizzo dei dati"</string>
-    <string name="summary_data_flow">Evita di superare il limite mensile previsto dal tuo piano</string>
+    <string name="title_data_flow">"Imposta avviso utilizzo dati"</string>
+    <string name="summary_data_flow">Evita di superare la soglia dati mensile</string>
     <string name="title_telecom_operator">Utilizza il conteggio del gestore</string>
     <string name="summary_telecom_operator">Ottieni le statistiche mensili dal tuo operatore</string>
     <string name="title_flow_verify">Confronto</string>
