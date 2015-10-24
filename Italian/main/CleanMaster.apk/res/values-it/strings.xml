@@ -32,7 +32,7 @@
     <string name="button_text_install">Installa</string>
     <string name="empty_title_installed_apps">vuoto</string>
     <string name="button_text_backup_uninstall">Esegui backup e disinstalla</string>
-    <string name="button_text_uninstall_only">Disinstalla</string>
+    <string name="button_text_uninstall_only">Disinstalla %s</string>
     <string name="empty_title_large_files">vuoto</string>
     <string name="button_text_uninstall">Disinstalla</string>
     <string name="pref_category_title_cleanup_white_list">Lista eccezioni pulizia</string>
@@ -72,14 +72,14 @@
     <string name="deepclean_title_uninstall_apps">App usate raramente</string>
     <string name="toast_garbage_cleanup_success">Pulizia completata</string>
     <string name="toast_add_white_list_success">" aggiunto alle eccezioni"</string>
-    <string name="hints_cache_header_left">File in cache: %d</string>
-    <string name="hints_ad_header_left">Pubblicità: %d</string>
-    <string name="hints_apk_header_left">Pacchetti di installazione: %d</string>
+    <string name="hints_cache_header_left">File in cache</string>
+    <string name="hints_ad_header_left">Pubblicità</string>
+    <string name="hints_apk_header_left">Pacchetti</string>
     <string name="hints_residual_header_left">Residui</string>
     <string name="hints_memory_header_left">Memoria</string>
     <string name="hints_header_left">%d</string>
-    <string name="hints_large_file_header_left">File grandi: %d</string>
-    <string name="hints_installed_apps_header_left">App installate: %d</string>
+    <string name="hints_large_file_header_left">File grandi</string>
+    <string name="hints_installed_apps_header_left">App installate</string>
     <string name="toast_resolve_apk_error">Risolvi errori APK</string>
     <string name="hints_apk_version">Versione: %s</string>
     <string name="apk_status_uninstalled">Non installata</string>
@@ -234,7 +234,7 @@
     <string name="hints_list_item_lock">Mantieni</string>
     <string name="hints_list_item_unlock">Pulisci</string>
     <string name="memeory_check_content">%1$d app, memoria %2$s</string>
-    <string name="deepclean_cache_content">CAncella i dati generati da app</string>
+    <string name="deepclean_cache_content">Cancella i dati generati da app</string>
     <string name="deepclean_large_content">Elimina i file più grandi di 10 MB</string>
     <string name="deepclean_app_content">Disisntalla applicazioni che non utilizzi da 7 giorni</string>
     <string name="deepclean_similar_ignore">Ignora</string>

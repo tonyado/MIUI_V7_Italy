@@ -26,7 +26,7 @@
     <string-array name="auto_process_mode">
         <item>Show</item>
         <item>Non mostrare</item>
-        <item>MOstra più tardi</item>
+        <item>Mostra più tardi</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Pulizia</item>
