@@ -3312,7 +3312,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="set_password_message">Imposta una password per disattivare la modalità Genitore e per lo sblocco del tablet</string>
     <string name="cancel_action">Annulla</string>
     <string name="confirm_action">OK</string>
-    <string name="set_password_action">Set password</string>
+    <string name="set_password_action">Imposta password</string>
     <string name="deny_sms_title">Blocca SMS</string>
     <string name="deny_sms_message">Non consentire alle app installate di inviare SMS</string>
 	<string name="wakeup_for_keyguard_notification_title">Attiva la lockscreen per le notifiche</string>

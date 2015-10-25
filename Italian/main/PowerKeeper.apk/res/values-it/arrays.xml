@@ -125,6 +125,10 @@
         <item>deselezionati</item>
         <item>altri selezionati</item>
     </string-array>
+	    <string-array name="hmode_app_groups">
+        <item>personalizzati</item>
+        <item>suggeriti</item>
+    </string-array>
     <array name="read_enable" />
     <string-array name="read_disable">
         <item>com.chaozh.iReaderFree</item>

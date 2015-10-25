@@ -29,7 +29,7 @@
         <item quantity="one">Sospensione per %d minuto.</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">LE sveglie verranno silenziate dopo %d minuti</item>
+        <item quantity="other">Le sveglie verranno silenziate dopo %d minuti</item>
         <item quantity="one">Le sveglie verranno solenziate dopo %d minuto</item>
     </plurals>
 </resources>
