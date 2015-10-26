@@ -666,7 +666,7 @@ Wi‑Fi Assistant"</string>
     <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi-Fi durante sospensione</string>
     <string name="wifi_setting_on_during_sleep_title">Wi-Fi attivo durante sospensione</string>    
     <string name="wifi_setting_sleep_policy_error">"Si è verificato un problema durante la modifica dell'impostazione"</string>
-    <string name="wifi_suspend_efficiency_title"">Migliora l'efficienza"</string>    
+    <string name="wifi_suspend_efficiency_title">"Migliora l'efficienza"</string>    
     <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando Wi‑Fi è attivo"</string>
     <string name="wifi_limit_optimizations_summary">"Limita l'utilizzo di batteria del Wi-Fi"</string>    
