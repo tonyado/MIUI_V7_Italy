@@ -76,7 +76,7 @@
     <string name="card_title_conf_call">Audioconferenza</string>
     <string name="card_title_threeway_call">Audioconferenza a tre</string>
     <string name="card_title_incoming_call">Chiamate in arrivo</string>
-    <string name="card_title_call_ended">Chiamata terminata\U0020</string>
+    <string name="card_title_call_ended">Chiamata terminata\u0020</string>
     <string name="card_title_on_hold">In attesa</string>
     <string name="card_title_hanging_up">In fase di chiusura</string>
     <string name="card_title_in_call">In chiamata</string>
