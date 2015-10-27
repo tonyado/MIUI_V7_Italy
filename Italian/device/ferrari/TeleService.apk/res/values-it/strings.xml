@@ -734,7 +734,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="not_voice_capable">Chiamate vocali non supportate</string>
     <string name="description_dial_button">componi</string>
     <string name="voicemail_notification_vibrate_when_title">Vibra</string>
-    <string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
+    <string name="voicemail_notification_vibarte_when_dialog_title">Vibrazione</string>
     <string name="voicemail_notification_ringtone_title">Suona</string>
     <string name="ringtone_title">Suoneria telefono</string>
     <string name="voicemail_notification_vibrate_when_default">never</string>
@@ -746,9 +746,9 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="enable_video_calling_dialog_msg">To turn on video calling, you need to enable Enhanced 4G LTE Mode in system settings.</string>
     <string name="enable_video_calling_dialog_settings">Network settings</string>
     <string name="enable_video_calling_dialog_close">Close</string>
-    <string name="sim_label_emergency_calls">Emergency calls</string>
-    <string name="sim_description_emergency_calls">Emergency calling only</string>
-    <string name="sim_description_default">SIM card, slot: %s</string>
+    <string name="sim_label_emergency_calls">Chiamate emergenza</string>
+    <string name="sim_description_emergency_calls">Solo chiamata di emergenza</string>
+    <string name="sim_description_default">SIM, slot: %s</string>
     <string name="contactScreen">Aggiungi/Modifica contatti sulla SIM</string>
     <string name="exportContactScreen">Esporta contatti dal telefono alla SIM</string>
     <string name="addSimEntries">Aggiungi contatto SIM</string>
@@ -760,8 +760,8 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="dial">Componi</string>
     <string name="enterName">Inserire il nome:</string>
     <string name="enterNumber">Inserire il numero di telefono:</string>
-    <string name="hintName">Name</string>
-    <string name="hintPhonenumber">Phone Number</string>
+    <string name="hintName">Nome</string>
+    <string name="hintPhonenumber">Numero di telefono</string>
     <string name="contactAddSuccess">Aggiunta del contatto nella SIM eseguita</string>
     <string name="contactAddFailed">Aggiunta del contatto nella SIM fallita !!!</string>
     <string name="contactUpdateSuccess">Aggiornamento del contatto nella SIM eseguito</string>
@@ -1068,7 +1068,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="telocation_countrycode_alert_message_wrong">Il prefisso internazionale immesso non è valido.</string>
     <string name="telocation_custom_empty">Aggiungi un numero toccando il pulsante +</string>
     <string name="telocation_edit_custom_location_title">Configura località</string>
-    <string name="telocation_custom_number_hint">Area code or group number</string>
+    <string name="telocation_custom_number_hint">Prefisso o il numero del gruppo</string>
     <string name="telocation_custom_name_hint">Numero</string>
     <string name="telocation_number_type">Tipologia numero</string>
     <string name="telocation_number_type_jituan">Group number</string>
