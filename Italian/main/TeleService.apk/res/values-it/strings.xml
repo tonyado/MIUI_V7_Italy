@@ -301,7 +301,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="new_pin_label">Nuovo PIN</string>
     <string name="confirm_pin_label">Conferma il nuovo PIN</string>
     <string name="bad_pin">Il vecchio PIN che hai digitato non è corretto. Riprova</string>
-    <string name="mismatch_pin">I PIN che hai digitato non corrispondno. Riprova</string>
+    <string name="mismatch_pin">I PIN che hai digitato non corrispondono. Riprova</string>
     <string name="invalid_pin">Digita un PIN che sia composto da 4 a 8 cifre.</string>
     <string name="disable_sim_pin">Disattiva PIN della SIM</string>
     <string name="enable_sim_pin">Attiva PIN della SIM</string>
