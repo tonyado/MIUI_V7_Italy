@@ -251,4 +251,5 @@
     <string name="children_mode_tips">"Ritorna alle Impostazioni e gestisci l'accesso alle app."</string>
     <string name="wallpaper_auto_change_title">Lockscreen</string>
     <string name="wallpaper_scaling_message">Ridimensionamento alla dimensione impostata</string>
+    <string name="cant_edit_lock_screen">Impossibile modificare lo stile della lockscreen.</string>
 </resources>

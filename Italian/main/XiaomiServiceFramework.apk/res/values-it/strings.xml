@@ -12,6 +12,9 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_phone_failed_notif_title_msim">Impossibile avviare Mi Cloud per la SIM %s</string>
     <string name="activate_status_title_activating">Attivazione SIM, attendere…</string>
     <string name="activate_status_title_activating_msim">Attivazione SIM %s…</string>
+   <string name="activate_auto_sms_notification_title">SIM card activation</string>
+    <string name="activate_auto_sms_notification_desc_2_cards">SMS inviato dalla SIM %s per attivare \"Trova Dispositivo\"</string>
+    <string name="activate_auto_sms_notification_desc_1_card">SMS inviato per attivare \"Trova Dispositivo\"</string>
     <string name="activate_status_desc_query_activation_info">Richiesta informazioni attivazione dal server</string>
     <string name="activate_status_desc_query_activation_info_no_info">Nessuna informazione di attivazione sul server</string>
     <string name="activate_status_desc_query_activation_info_server_error">Si è verificato un errore del server durante la richiesta di attivazione</string>
@@ -45,6 +48,7 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_popup_desc_2_sim_cards">"2 SMS verranno inviati per attivare le tue 2 SIM in modo da abilitare funzionalità come %s (costi legati all'operatore)"</string>
     <string name="activate_popup_desc_2_intl_sim_cards">"2 SMS internazionali verranno inviati per attivare la tua SIM in modo da abilitare funzionalità come %s (costi legati all'operatore)"</string>
     <string name="activate_popup_desc_sim_card_downlink">Inserisci il numero della tua SIM per abilitare funzionalità come %s</string>
+    <string name="activate_popup_desc_find_device_postfix">Verrà inviato un SMS di attivazione quando cambi SIM.</string>
     <string name="activate_popup_title_new_sim_card">Riattiva %s</string>
     <string name="activate_popup_desc_new_sim_card">"La tua SIM è cambiata. Verrà inviato un SMS per attivare la nuova SIM in modo da abilitare funzioni come %s (costi legati all'operatore)"</string>
     <string name="activate_popup_desc_new_intl_sim_card">"La tua SIM è cambiata. Verrà inviato un SMS per attivare la nuova SIM in modo da abilitare funzioni come %s (costi legati all'operatore)"</string>
@@ -86,4 +90,5 @@ Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</s
     <string name="activate_feature_mms_sync">Sincronizza MMS</string>
     <string name="activate_feature_call_log_sync">Sincronizza registro chiamate</string>
     <string name="activate_feature_find_device">Trova dispositivo</string>
+    <string name="activate_sms_postfix">Questo SMS è utilizzato per attivare il tuo dispositivo Mi</string>
 </resources>

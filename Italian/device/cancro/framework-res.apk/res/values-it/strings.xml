@@ -34,10 +34,10 @@
     <string name="config_datause_iface">rmnet0</string>
     <string name="default_sms_application">com.android.mms</string>
     <string name="config_default_dns_server">8.8.8.8</string>
-    <string name="mobile_provisioning_apn"/>
-    <string name="mobile_provisioning_url"/>
+    <string name="mobile_provisioning_apn" />
+    <string name="mobile_provisioning_url" />
     <string name="mobile_redirected_provisioning_url">http://google.com</string>
-    <string name="gsm_alphabet_default_charset"/>
+    <string name="gsm_alphabet_default_charset" />
     <string name="config_useragentprofile_url"/>
     <string name="config_mms_user_agent">Android-Mms/2.0</string>
     <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
@@ -220,10 +220,10 @@
     <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
     <string name="permgroupdesc_bluetoothNetwork">Access devices and networks through Bluetooth.</string>
     <string name="permgrouplab_audioSettings">Impostazioni audio</string>
-    <string name="permgroupdesc_audioSettings">Change audio settings.</string>
-    <string name="permgrouplab_affectsBattery">Affects Battery</string>
-    <string name="permgroupdesc_affectsBattery">Use features that can quickly drain battery.</string>
-    <string name="permgrouplab_calendar">Calendar</string>
+    <string name="permgroupdesc_audioSettings">MOdifica impostazioni audio.</string>
+    <string name="permgrouplab_affectsBattery">Influisce sulla batteria Battery</string>
+    <string name="permgroupdesc_affectsBattery">Utilizza funzioni che potrebbero scaricare la batteria rapidamente.</string>
+    <string name="permgrouplab_calendar">Calendario</string>
     <string name="permgroupdesc_calendar">Direct access to calendar and events.</string>
     <string name="permgrouplab_dictionary">Read User Dictionary</string>
     <string name="permgroupdesc_dictionary">Read words in user dictionary.</string>
@@ -231,11 +231,11 @@
     <string name="permgroupdesc_writeDictionary">Add words to the user dictionary.</string>
     <string name="permgrouplab_bookmarks">Bookmarks and History</string>
     <string name="permgroupdesc_bookmarks">Direct access to bookmarks and browser history.</string>
-    <string name="permgrouplab_deviceAlarms">Alarm</string>
-    <string name="permgroupdesc_deviceAlarms">Set the alarm clock.</string>
-    <string name="permgrouplab_voicemail">Voicemail</string>
-    <string name="permgroupdesc_voicemail">Direct access to voicemail.</string>
-    <string name="permgrouplab_microphone">Microphone</string>
+    <string name="permgrouplab_deviceAlarms">Sveglia</string>
+    <string name="permgroupdesc_deviceAlarms">Imposta svelia.</string>
+    <string name="permgrouplab_voicemail">Segreteria</string>
+    <string name="permgroupdesc_voicemail">Accesso diretto alla segreteria.</string>
+    <string name="permgrouplab_microphone">Microfono</string>
     <string name="permgroupdesc_microphone">Direct access to the microphone to record audio.</string>
     <string name="permgrouplab_camera">Camera</string>
     <string name="permgroupdesc_camera">Direct access to camera for image or video capture.</string>
@@ -245,12 +245,12 @@
     <string name="permgroupdesc_appInfo">Ability to affect behavior of other applications on your device.</string>
     <string name="permgrouplab_wallpaper">Wallpaper</string>
     <string name="permgroupdesc_wallpaper">Change the device wallpaper settings.</string>
-    <string name="permgrouplab_systemClock">Clock</string>
+    <string name="permgrouplab_systemClock">Orologio</string>
     <string name="permgroupdesc_systemClock">Change the device time or timezone.</string>
-    <string name="permgrouplab_statusBar">Status Bar</string>
+    <string name="permgrouplab_statusBar">Barra di stato</string>
     <string name="permgroupdesc_statusBar">Change the device status bar settings.</string>
-    <string name="permgrouplab_syncSettings">Sync Settings</string>
-    <string name="permgroupdesc_syncSettings">Access to the sync settings.</string>
+    <string name="permgrouplab_syncSettings">Impostazioni di sincronizzazione</string>
+    <string name="permgroupdesc_syncSettings">Accedi alle impostazioni di sincronizzazione.</string>
     <string name="permgrouplab_accounts">I tuoi account</string>
     <string name="permgroupdesc_accounts">Accedere agli account disponibili.</string>
     <string name="permgrouplab_hardwareControls">Controlli hardware</string>
@@ -1564,6 +1564,8 @@ Utilizzare un volume molto alto per lunghi periodi può danneggiare l'udito."</s
     <string name="stk_cc_ss_to_ss">Richiesta SS modificata in nuova richiesta SS.</string>
     <string name="permission_remember_choice">Ricorda la mia scelta</string>
     <string name="permission">Permessi</string>
+    <string name="permlab_bindJobService">"run the application's scheduled background work"</string>
+    <string name="permdesc_bindJobService">This permission allows the Android system to run the application in the background when requested.</string>
     <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
     <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
     <string name="config_partial_segment_expire_age">2592000000</string>
@@ -1621,4 +1623,12 @@ Utilizzare un volume molto alto per lunghi periodi può danneggiare l'udito."</s
     <string name="webviewchromium_profiler_stopped_toast">Profiler terminato. I risultati sono disponibili in %1$s.</string>
     <string name="webviewchromium_profiler_no_storage_toast">"Impossibile avviare il profiler poiché l'archivio esterno non è pronto</string>
     <string name="webviewchromium_profiler_error_toast">Avvio profiler non riuscito</string>
+    <string name="lock_to_app_toast">Per deselezionare questo schermo, tieni premuto Home ed il tasto Accesnione contemporaneamente.</string>
+    <string name="lock_to_app_toast_accessible">Per deselezionare questo schermo, tieni premuto Home ed il tasto Accesnione contemporaneamente.</string>
+    <string name="lock_to_app_description">"La selezione dello schermo blocca la visualizzazione in una singola vista.
+
+Per deselezionare questo schermo, tieni premuto Home ed il tasto Accesnione contemporaneamente."</string>
+    <string name="lock_to_app_description_accessible">"La selezione dello schermo blocca la visualizzazione in una singola vista.
+
+Per deselezionare questo schermo, tieni premuto Home ed il tasto Accesnione contemporaneamente."</string>
 </resources>

@@ -6,14 +6,6 @@
     <string name="cta_button_text_cancel">Annulla</string>
     <string name="cta_button_text_agree">Sì</string>
     <string name="cta_settings">"Consenti l'utilizzo della rete dati"</string>
-    <string name="title_antivirus">Scansione Virus</string>
-    <string name="header_antivirus">"Questa funzione crittografa l'ID del tuo dispositivo e lo trasmette ai server di Tencent (%s)."</string>
-    <string name="name_antivirus">"Mostra l'Informativa sulla Privacy"</string>
-    <string name="text_antivirus">Carica nomi applicazioni e dettagli</string>
-    <string name="text_antivirus_oversea">Aggiorna definizioni visrus</string>
-    <string name="summary_antivirus">Carica e controlla nome e dettagli applicazioni utilizzando il database virus online.</string>
-    <string name="summary_antivirus_oversea">Aggiorna automaticamente le definizioni virus</string>
-    <string name="button_antivirus">OK</string>
     <string name="power_center_title">Batteria</string>
     <string name="power_center_consume_rank">Utilizzo batteria</string>
     <string name="power_center_custom_title">Risparmio batteria</string>
@@ -251,6 +243,7 @@
     <string name="btn_text_start_check">Verifica</string>
     <string name="btn_text_quick_cleanup">Pulizia</string>
     <string name="btn_text_power_cleanup">Pulizia potenziata</string>
+    <string name="btn_text_network_speed_detail">Connessione</string>
     <string name="btn_text_quick_scan">Scansiona</string>
     <string name="btn_text_done">Fatto</string>
     <string name="btn_text_quick_optimize">Ottimizza</string>
@@ -303,8 +296,10 @@
     <string name="activity_title_system">Sistema</string>
     <string name="activity_title_memory">Memoria</string>
     <string name="activity_title_trash">Cache</string>
+    <string name="activity_title_network_speed_detail">Connessione</string>
     <string name="system_check_content">%1$d contenuti sospetti</string>
     <string name="memory_check_content_none">Vuoto</string>
+    <string name="system_check_content_none">Sicuro</string>
     <string name="system_header_title">Pulizia di %1$d processi per liberare %2$s di memoria</string>
     <string name="cache_header_title">Pulizia di %1$d file in cache per liberare %2$s di spazio</string>
     <string name="activity_title_virus">Virus</string>
@@ -362,6 +357,9 @@
     <string name="title_install_virus_no">Gestore installazioni disattivato</string>
     <string name="title_install_virus_yes">Gestore installazioni attivato</string>
     <string name="summary_install_virus">Verifica le app prima di installarle</string>
+    <string name="title_dev_yes">Opzioni sviluppatore disattivate</string>
+    <string name="title_dev_no">Opzioni sviluppatore attivate</string>
+    <string name="summary_dev">Evita i pericoli e protegge i dati personali</string>
     <string name="button_text_fix">Correggi</string>
     <string name="button_text_view">Ottimizza</string>
     <string name="button_text_security">Sicurezza</string>
@@ -477,9 +475,6 @@
     <string name="toast_shortcut_uninstall">Scorciatoia rimossa</string>
     <string name="antivirus_sec_support">Powered by Tencent</string>
     <string name="toast_virus_in_cloud_scanning">Impossibile interrompere la scansione del cloud</string>
-    <string name="title_dev_yes">Opzioni sviluppatore disattivate</string>
-    <string name="title_dev_no">Opzioni sviluppatore attivate</string>
-    <string name="summary_dev">Impedisci alle app di accedere ai dati utente</string>
     <string name="menu_item_app_permissions_control">Gestione permessi</string>
     <string name="menu_item_control_app_permissions">Chiedi il permesso prima di consentire alle applicazioni di leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse.</string>
     <string name="permission_close_permission_control_dialog_title">Disattivare Gestione Permessi?</string>
@@ -532,6 +527,12 @@
     <string name="title_permission_root">Avviso accesso root</string>
     <string name="summary_permission_root">Il tuo dispositivo ed i dati personali contenuti in esso sono più vulnerabili ad attacchi provenienti da applicazioni con permessi root</string>
     <string name="title_app_update">Aggiornamento disponibile</string>
+    <string name="title_find_device">Attiva Trova dispositivo</string>
+    <string name="summary_find_device">Localizza e rintraccia il tuo dispositivo ovunque ti trovi</string>
+    <string name="title_cloud_space_almost_full">Lo spazio Cloud è quasi pieno, gli elementi potrebbero nonsincronizzarsi</string>
+    <string name="summary_cloud_space_almost_full">Ottieni altro spazio di archiviazione</string>
+    <string name="title_cloud_space_full">Archiviazione Cloud piena, impossibile sincronizzarele foto</string>
+    <string name="summary_cloud_space_full">Ottieni altro spazio ed accedi a funzioni aggiuntive</string>
     <string name="title_miui_update">Aggiornamento disponibile</string>
     <string name="summary_miui_update">Aggiornamento disponibile per %s.</string>
     <string name="title_virus_cloudscan">Utilizza definizioni virus online</string>
@@ -594,4 +595,13 @@
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_more_engine_dialog_title">Attenzione</string>
     <string name="antivirus_more_engine_dialog_summary">"L'utilizzo di più definizioni virus può richiedere maggior tempo per la scansione."</string>
+    <string name="security_scan_optimizing">Ottimizzazione…</string>
+    <string name="preferred_app_entries_launcher">Launcher</string>
+    <string name="preferred_app_entries_dial">Telefono</string>
+    <string name="preferred_app_entries_messaging">Messaggi</string>
+    <string name="preferred_app_entries_browser">Browser</string>
+    <string name="preferred_app_entries_camera">Fotocamera</string>
+    <string name="preferred_app_entries_gallery">Galleria</string>
+    <string name="preferred_app_entries_music">Musica</string>
+    <string name="preferred_app_entries_email">Email</string>
 </resources>

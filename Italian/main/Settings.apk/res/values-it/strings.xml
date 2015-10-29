@@ -1883,7 +1883,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi‑Fi</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
-    <string name="data_usage_tab_mobile">Mobili</string>
+    <string name="data_usage_tab_mobile">Mobile</string>
     <string name="data_usage_tab_4g">4G</string>
     <string name="data_usage_tab_3g">2G-3G</string>
     <string name="data_usage_list_mobile">Mobili</string>
@@ -2513,6 +2513,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="virtual_sim_category_title">SIM virtuale</string>
     <string name="virtual_sim_title">Rete dati roaming</string>
     <string name="virtual_sim_description">Servizio di roaming internazionale affidabile</string>
+    <string name="virtual_sim_search_title">SIM Virtuale</string>
     <string name="power_mode">Impostazioni alimentazione</string>
     <string name="high_performance_title">"Sembra che stai eseguendo un test di benchmark. Imposta la modalità \"Alte Prestazioni\" per avere risultati migliori."</string>
     <string name="high_performance_notif_title">Avviso utilizzo della batteria</string>

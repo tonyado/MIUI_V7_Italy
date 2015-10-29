@@ -195,6 +195,13 @@
     <string name="bottom_bar_more_unread">Segna non letto</string>
     <string name="bottom_bar_no_quickreply_toast">Nessuna risposta veloce</string>
     <string name="bytes">%s B</string>
+    <string name="calendar_remind_dialog_title">Promemoria</string>
+    <string name="calendar_remind_gridview_month_later">Tra un mese</string>
+    <string name="calendar_remind_gridview_nextweek">Prossima settimana</string>
+    <string name="calendar_remind_gridview_pick_date">Scegli una data</string>
+    <string name="calendar_remind_gridview_tomorrow">Domani</string>
+    <string name="calendar_remind_gridview_tonight">Stanotte</string>
+    <string name="calendar_remind_gridview_weekend">Weekend</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_action">Annulla</string>
     <string name="cant_move_or_change_labels">Impossibile spostare perché la selezione contiene account multipli.</string>
@@ -320,7 +327,7 @@
     <string name="download_complete_not_cancel">Download completato, annullamento fallito!</string>
     <string name="download_confirm_message">"Per aprire questo file devi scaricare l'allegato da 180K %1$s"</string>
     <string name="download_confirm_title">Conferma download</string>
-    <string name="download_failed">Download non riuscito. Tocca per riprovare.</string>
+    <string name="download_message_failed_for_too_large">Messaggio troppo grande per essere scaricato.</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Chiudi pannello di navigazione</string>
     <string name="drawer_open">Apri pannello di navigazione</string>
@@ -524,12 +531,12 @@
     <string name="outbox_alert_description_cannot_authenticate">%s Errore sistema mail</string>
     <string name="outbox_alert_description_email_size_error">"E' stato raggiunta la dimensione massima per le Email."</string>
     <string name="outbox_alert_description_fail_authentication">Username o password sbagliata.</string>
+    <string name="outbox_alert_description_fail_network">Non è stato possibilecollegarsi alla rete.</string>
     <string name="outbox_alert_description_http_error">Errore HTTP nella sincronizzazione della posta in arrivo</string>
     <string name="outbox_alert_description_insufficient_storage_error">Spazio insufficiente nel server mail</string>
     <string name="outbox_alert_description_provision_error">Erore durante la sincronizzazione della posta in uscita</string>
     <string name="outbox_alert_description_reject_by_server">Rifiutata da %s</string>
     <string name="outbox_alert_description_sent_failed">"Le dimensioni dell'allegato superano quelle massime del destinatario"</string>
-    <string name="outbox_alert_description_time_out">Connessione di rete fallita</string>
     <string name="outbox_alert_duplicate_click">Non toccare di nuovo, mail in sincronizzazione</string>
     <string name="outbox_alert_edit_resend">Modifica e reinvia</string>
     <string name="outbox_alert_failed_edit_resend">Invio fallito, modifica e reinvia</string>
@@ -547,8 +554,8 @@
     <string name="password_expired_dialog_content_fmt">I dati relativi a %s stanno per essere cancellati dal dispositivo. È possibile ripristinarli modificando il PIN o la password di blocco dello schermo. Apportare la modifica ora?</string>
     <string name="password_expired_dialog_title">Password blocco schermo scaduta</string>
     <string name="password_expired_ticker">Il PIN o la password di blocco dello schermo sono scaduti.</string>
-    <string name="perference_change_pw">Aggiorna password</string>
     <string name="perference_change_pw_notnull_tips">La password non può essere vuota</string>
+    <string name="perference_change_pw_ok_tips">Password modificata</string>
     <string name="perference_setup_pop_del">Rimuovi email dal server</string>
     <string name="perference_setup_recv_tag">Server posta in arrivo</string>
     <string name="perference_setup_send_tag">Server posta in uscita</string>
@@ -588,7 +595,7 @@
     <string name="policy_require_smime">Richiede messaggi SMIME</string>
     <string name="policy_screen_timeout">Richiedi dispos. inattivo per blocco schermo</string>
     <string name="policy_text_truncation">Restringi dimensione email testo</string>
-    <string name="preference_eas_tips">"La pagina di attivazione in arrivo è richiesta dal server email, resta in attesa dell'attivazione."</string>
+    <string name="preference_eas_tips">Tocca Attiva per configurare il server email.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">Gli allegati verranno scaricati inseme alle email come previsto dal protocollo POP3. Fai attenzione quando utilizzi la connessione dati mobile.</string>
     <string name="preference_sender_image_description">Mostra a fianco al nome nella lista</string>
@@ -659,6 +666,7 @@
     <string name="remove_folder">Rimuovi da %1$s</string>
     <string name="remove_star">Rimuovi da Speciali</string>
     <string name="reply">Rispondi</string>
+    <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
     <string name="report_phishing">Segnala phishing</string>

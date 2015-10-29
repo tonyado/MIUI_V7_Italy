@@ -27,6 +27,7 @@
     <string name="operation_rename">Rinomina</string>
     <string name="operation_delete">Elimina</string>
     <string name="operation_info">Informazioni</string>
+    <string name="operation_other_apps">"Apri in un'altra app"</string>
     <string name="operation_cancel">Annulla</string>
     <string name="operation_refresh">Aggiorna</string>
     <string name="operation_show_sys">Mostra file di sistema e cache</string>
@@ -517,4 +518,7 @@ e non perderai mai le ultie novità!"</string>
     <string name="transfer_done">File spostati con successo.</string>
     <string name="dir_not_support">Non è possibile rendere privata questa cartella.</string>
     <string name="promot_enctypt_password">Inserisci la passwrod utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
+    <string name="pick_folder">Scegli cartella</string>
+    <string name="search_description">Cerca tutti i file sul dispositivo</string>
+    <string name="encrypt_prefix">PRIVATO</string>
 </resources>

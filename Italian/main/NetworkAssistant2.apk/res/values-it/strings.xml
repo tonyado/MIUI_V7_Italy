@@ -3,6 +3,8 @@
     <string name="app_name">Utilizzo dati</string>
     <string name="list_empty_text">Vuoto</string>
     <string name="dialog_title_attention">Attenzione</string>
+    <string name="kilobyte_per_second">Kb/s</string>
+    <string name="megabyte_per_second">Mb/s</string>
     <string name="main_button_normal_traffic">Soglia</string>
     <string name="main_button_idel_traffic">Oltre soglia</string>
     <string name="main_toolbar_firewall">Limita</string>
@@ -54,6 +56,8 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="firewall_network_restrict_notify_title">"%1$s non è autorizzato a collegarsi a %2$s."</string>
     <string name="firewall_network_restrict_notify_mobile">Dati rete mobile</string>
     <string name="firewall_network_restrict_notify_message">Tocca per cambiare le impostazioni.</string>
+    <string name="firewall_restrict_android_dialog_title">Attention</string>
+    <string name="firewall_restrict_android_dialog_content">"Se non consenti ad Android di collegarsi ad internet, alcune funzioni di base, come l'Hotspost Wi-Fi, potrebbero non funzionare correttamente."</string>
     <string name="usage_sorted_activity_lable">Utilizzo dati</string>
     <string name="usage_sorted_loading_text">Caricamento…</string>
     <string name="usage_sorted_empty_text">Vuoto</string>

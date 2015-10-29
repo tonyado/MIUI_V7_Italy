@@ -523,8 +523,8 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="no_vt_allowed">Per eseguire una videochiamata, disattivare la modalità TTY</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Chiedi sempre</string>
-    <string name="ims_edit_title">IMS account details</string>
-    <string name="ims_accounts_title">IMS account</string>
+    <string name="ims_edit_title">Dettagli account IMS</string>
+    <string name="ims_accounts_title">Account IMS</string>
     <string name="call_type">CallType</string>
     <string name="mo_call_type_title">MO Call Type</string>
     <string name="ims_service_capability">Attiva/Disattiva funzionalità servizio</string>
@@ -630,10 +630,10 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="telocation_countrycode_alert_message_wrong">Il prefisso internazionale immesso non è valido.</string>
     <string name="telocation_custom_empty">Aggiungi un numero toccando il pulsante +</string>
     <string name="telocation_edit_custom_location_title">Configura località</string>
-    <string name="telocation_custom_number_hint">Area code or group number</string>
+    <string name="telocation_custom_number_hint">Prefisso o numero gruppo</string>
     <string name="telocation_custom_name_hint">Numero</string>
     <string name="telocation_number_type">Tipologia numero</string>
-    <string name="telocation_number_type_jituan">Group number</string>
+    <string name="telocation_number_type_jituan">NUmero gruppo</string>
     <string name="telocation_number_type_mob">Rete mobile</string>
     <string name="telocation_number_type_tel">Rete fissa</string>
     <string name="telocation_countrycode_alert_message">Inserisci il numero di telefono senza prefisso internazionale</string>
@@ -933,12 +933,12 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="not_activate_sim_card_content">"Top-up package hasn't been verified for the SIM card you selected. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
     <string name="not_activate_sim_card_content_with_operator">"Top-up package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
     <string name="dialog_purchase">Top up</string>
-    <string name="dialog_activate_livetalk">Verify</string>
-    <string name="livetalk_white_list_number_title">Make regular call</string>
+    <string name="dialog_activate_livetalk">Verifica</string>
+    <string name="livetalk_white_list_number_title">Effettua una chiamata normale</string>
     <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
     <string name="livetalk_service_and_short_number_not_support">Service numbers and short numbers are not supported.</string>
-    <string name="livetalk_activate">Activate top-up package</string>
-    <string name="do_not_ask">"Don't ask again"</string>
+    <string name="livetalk_activate">Attiva il paccehtto di ricarica</string>
+    <string name="do_not_ask">Non chiedere più</string>
     <string name="livetalk_package_name">Ricarica credito</string>
     <string name="livetalk_package_introduction_text">Exclusive discount for MIUI users. Less data usage and lower prices.</string>
     <string name="livetalk_continue_button">Continua</string>
@@ -995,6 +995,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="international_dial_complete_no">Non adesso</string>
     <string name="international_dial_complete_yes">Utilizza Mi Voice</string>
     <string name="livetalk_unavaiable_info">Questo servizio è temporaneamente non disponibile</string>
+    <string name="livetalk_provider">Provided by %1$s</string>
     <string name="error_type_unknown">Errore sconosciuto</string>
     <string name="error_type_account_201">Credito insufficiente</string>
     <string name="error_type_account_203">Il tipo di numero composto non è supportato</string>
@@ -1004,12 +1005,13 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="error_type_account_500">Impossibile collegarsi alla retemobile</string>
     <string name="error_type_account_inner">Errore interno</string>
     <string name="title_purchase">Ricarica</string>
-    <string name="please_choose_the_refueling_package">Scegli pacchetto di ricarica</string>
-    <string name="purchase_notification_title">Controlla le regioni supportate</string>
-    <string name="refueling_package_a">Pacchetto A</string>
-    <string name="refueling_package_b">Pacchetto B</string>
-    <string name="refueling_package_c">Pacchetto C</string>
-    <string name="purchase_rates_title">Tariffe</string>
+    <string name="chose_product_title">Refueling Package</string>
+    <string name="chose_product_summary">Call cheaper</string>
+    <string name="purchase_description_title">Description</string>
+    <string name="purchase_description_summary">"- Operator unlimited, area unlimited;
+- No conflict with operator services;
+- Immediately after recharge, never cleared;
+- Simple, use dirtectly."</string>
     <string name="get_purchase_history_failed">Impossibile recuperare cronologia acquisti</string>
     <string name="order_time">%1$s min</string>
     <string name="order_status_successful">Stato ordine: completato</string>
@@ -1029,8 +1031,13 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="get_use_history_failed">mpossibile recuperare cronologia</string>
     <string name="use_history_duration_min">%1$s min</string>
     <string name="no_data">Nessun dato</string>
+    <string name="remain_mins_unit">Min</string>
+    <string name="remain_mins_domestic">domestic remain</string>
+    <string name="remain_mins_international">international remain</string>
+    <string name="remain_mins_divider">Or</string>
     <string name="query">Ricerca</string>
     <string name="other">Altro</string>
+    <string name="use_range">Utilizza intervallo</string>
     <string name="livetalk_complete_title">Chiama per completare la ricarica</string>
     <string name="livetalk_complete_introduction">Il paccehtto di ricarica è stato aggiunto al tuo Mi Account e sarà disponibile dalla prossima chiamata.</string>
     <string name="livetalk_complete_international_phone">Effettua chiamate internazionali utilizzando il pacchetto di ricarica.</string>
