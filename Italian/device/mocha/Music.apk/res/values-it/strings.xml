@@ -32,7 +32,7 @@
     <string name="impunity_declaration_ignore">"Non mostrare di nuovo"</string>
     <string name="impunity_declaration_settings">"Mostra Condizioni d'uso"</string>
     <string name="impunity_declaration_summary">"Mostra l'avviso delle Condizioni d'uso di Baidu Online Music Service ad ogni apertura"</string>
-    <string name="impunity_declaration_positive_text">OK e continua</string>
+    <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_negative_text">Esci</string>
     <string name="take_effect_afater_restart">"Devi riavviare l'app Musica affinché questa impostazione abbia effetto."</string>
     <string name="equalizer">Equalizzatore</string>
