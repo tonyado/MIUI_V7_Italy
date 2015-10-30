@@ -104,14 +104,14 @@
     <string name="callFailed_powerOff">Radio spenta</string>
     <string name="callFailed_simError">Nessun SIM o errore SIM</string>
     <string name="callFailed_outOfService">Rete mobile non disponibile</string>
-    <string name="callFailed_fdn_only">Outgoing calls are restricted by FDN.</string>
-    <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
-    <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
-    <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
-    <string name="callFailed_cb_enabled">"You can't make outgoing calls while call barring is on."</string>
-    <string name="callFailed_dsac_restricted">All calls are restricted by access control.</string>
-    <string name="callFailed_dsac_restricted_emergency">Emergency calls are restricted by access control.</string>
-    <string name="callFailed_dsac_restricted_normal">Normal calls are restricted by access control.</string>
+    <string name="callFailed_fdn_only">Chiamate in uscita limitate per FDN.</string>
+    <string name="callFailed_dialToUssd">richiesta DIAL modificata in richiesta USSD.</string>
+    <string name="callFailed_dialToSs">RIchiesta DIAL modificata in richiesta SS.</string>
+    <string name="callFailed_dialToDial">Richiesta DIAL modificata in richiesta DIAL con numero diverso.</string>
+    <string name="callFailed_cb_enabled">"Non puoi effettuare chiamate in uscitaquando il blocco è attivo."</string>
+    <string name="callFailed_dsac_restricted">Tutte le chiamate sono limitate dal controllo di accesso.</string>
+    <string name="callFailed_dsac_restricted_emergency">Le chiamate di emergenza sono limitate dal controllo di accesso.</string>
+     <string name="callFailed_dsac_restricted_normal">Le chiamate normali sono limitate dal controllo di accesso.</string>
     <string name="callFailed_unobtainable_number">Numero non valido</string>
     <string name="incall_error_missing_voicemail_number">Numero sconosciuto voicemail.</string>
     <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
@@ -126,8 +126,8 @@
     <string name="fdnListLabel">Lista NSF</string>
     <string name="unknown">Sconosciuto</string>
     <string name="private_num">Numero privato</string>
-    <string name="payphone">Pay phone</string>
-    <string name="onHold">On hold</string>
+    <string name="payphone">Cabina telefonica</string>
+    <string name="onHold">In attesa</string>
     <string name="mmiStarted">Codice MMI inizializzato</string>
     <string name="ussdRunning">Codice USSD in esecuzione…</string>
     <string name="mmiCancelled">Codice MMI annullato</string>
@@ -136,12 +136,12 @@
     <string name="manageConferenceLabel">Gestisci chiamata conferenza</string>
     <string name="ok">OK</string>
     <string name="audio_mode_speaker">Speaker</string>
-    <string name="audio_mode_earpiece">Handset earpiece</string>
-    <string name="audio_mode_wired_headset">Wired headset</string>
+    <string name="audio_mode_earpiece">Cuffia senza fili</string>
+    <string name="audio_mode_wired_headset">Cuffie con filo</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="wait_prompt_str">"Send the following tones?
+    <string name="wait_prompt_str">"Inviare i seguenti toni?
 "</string>
-    <string name="pause_prompt_str">"Sending tones
+    <string name="pause_prompt_str">"Invio toni
 "</string>
     <string name="send_button">Invia</string>
     <string name="pause_prompt_yes">Si</string>
@@ -208,9 +208,9 @@
     <string name="settings_label">Impostazioni rete</string>
     <string name="network_forbidden">%s (vietato)</string>
     <string name="phone_accounts">Impostazioni account telefono</string>
-    <string name="phone_accounts_make_calls_with">Make calls with</string>
-    <string name="phone_accounts_make_sip_calls_with">Make SIP calls with</string>
-    <string name="phone_accounts_ask_every_time">Ask first</string>
+    <string name="phone_accounts_make_calls_with">Effettua chiamate con</string>
+    <string name="phone_accounts_make_sip_calls_with">Effettua chiamate SIP con</string>
+    <string name="phone_accounts_ask_every_time">Domanda prima</string>
     <string name="phone_accounts_accounts_header">Account</string>
     <string name="phone_accounts_choose_accounts">Scegli account</string>
     <string name="phone_accounts_selection_header">Account telefono</string>
@@ -223,10 +223,10 @@
     <string name="wifi_calling_call_assistant">Assistente di chiamata</string>
     <string name="wifi_calling_use_call_assistant">Utilizza assistente di chiamata</string>
     <string name="wifi_calling_select_call_assistant">Scegli assistente di chiamata</string>
-    <string name="wifi_calling_select_call_assistant_summary">Choose an app or service to manage the networks used for calls</string>
-    <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
+    <string name="wifi_calling_select_call_assistant_summary">"Scegli un servizio o un'app per gestire la rete utilizzata per le chiamate"</string>
+    <string name="wifi_calling_use_call_assistant_summary">Consenti che le applicazioni scelgano la rete utilizzata per le chiamate</string>
     <string name="wifi_calling_call_assistant_configure">Configura</string>
-    <string name="wifi_calling_call_assistant_configure_no_selection">Assisnte di chiamata disattivo</string>
+    <string name="wifi_calling_call_assistant_configure_no_selection">Assistente di chiamata disattivo</string>
     <string name="connection_service_default_label">Built-in connection service</string>
     <string name="voicemail">Segreteria telefonica</string>
     <string name="voicemail_abbreviated">Seg:</string>
@@ -339,7 +339,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Modalità di rete preferita: TD-SCDMA/GSM/WCDMA/LTE</string>
     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
-    <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
+    <string name="callFailed_incoming_cb_enabled">Una parte ha bloccato le chiamate.</string>
     <string name="callUnanswered_forwarded">Chiamata senza risposta e inoltrata</string>
     <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/GSM/WCDMA/CDMA/EVDO</string>
@@ -383,15 +383,15 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="throttle_time_frame">Periodo uso dati</string>
     <string name="throttle_rate">Politica volume dati</string>
     <string name="throttle_help">Maggiori informazioni</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d٪) of %3$s period maximum
-Next period starts in %4$d days (%5$s)"</string>
-    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s period maximum</string>
-    <string name="throttle_data_rate_reduced_subtext">"%1$s maximum exceeded
-Data rate reduced to %2$d Kb/s"</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
-Next period starts in %2$d days (%3$s)"</string>
-    <string name="throttle_rate_subtext">Data rate reduced to %1$d Kb/s if data use limit is exceeded</string>
-    <string name="throttle_help_subtext">"More information about your carrier's cellular network data use policy"</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) of %3$s periodo massimo
+Il prossimo periodo inizia tra %4$d giorni (%5$s)"</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s periodo massimo</string>
+    <string name="throttle_data_rate_reduced_subtext">"%1$s massimo superato
+Dati ridotti a %2$d Kb/s"</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ of ciclo trascorso
+Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
+    <string name="throttle_rate_subtext">Dati ridotti a %1$d Kb/s se superi il limite massimo</string>
+    <string name="throttle_help_subtext">Per ulteriori informazioni sui dati della rete mobile verifica le policy del tuo operatore</string>
     <string name="cell_broadcast_sms">Sms diffusi dalla cella</string>
     <string name="enable_disable_cell_bc_sms">Sms diffusi dalla cella</string>
     <string name="cell_bc_sms_enable">Sms diffusi dalla cella attivati</string>
@@ -461,8 +461,8 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="enable_disable_multi_category">Categorie multiple</string>
     <string name="multi_category_enable">Categorie multiple attivate</string>
     <string name="multi_category_disable">Categorie multiple disattivate</string>
-    <string name="network_lte">LTE (recommended)</string>
-    <string name="network_4G">4G (recommended)</string>
+    <string name="network_lte">LTE (raccomandato)</string>
+    <string name="network_4G">4G (raccomandato)</string>
     <string name="network_3G">3G</string>
     <string name="network_2G">2G</string>
     <string name="network_1x">1x</string>
@@ -475,10 +475,10 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="cdma_subscription_dialogtitle">Sottoscrizione</string>
     <string name="cdma_activate_device">Attiva dispositivo</string>
     <string name="cdma_lte_data_service">Imposta servizio dati</string>
-    <string name="carrier_settings_title">Carrier settings</string>
-    <string name="call_ind_services">Call Independent Services</string>
+    <string name="carrier_settings_title">Impostazioni del gestore</string>
+    <string name="call_ind_services">Chiama servizi indipendenti</string>
     <string name="callind_multi_sim">Impostazione sottoscr.</string>
-    <string name="callind">Call Feature Settings</string>
+    <string name="callind">Impostazioni delle funzioni di chiamata</string>
     <string name="fdn">Numeri a selezione fissa</string>
     <string name="manage_fdn_list">Lista NSF</string>
     <string name="fdn_activation">Attivazione NSF</string>
@@ -517,25 +517,25 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="fdn_contact_deleted">Numero a selezione fissa cancellato.</string>
     <string name="pin2_invalid">NSF non aggiornato perchè hai digitato un PIN errato.</string>
     <string name="fdn_invalid_number">NSF non aggiornato perchè il numero non può essere più lungo di 20 cifre</string>
-    <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
-    <string name="fdn_failed">FDN operation failed.</string>
-    <string name="fdn_service_unavailable">FDN service is not available.</string>
+    <string name="pin2_or_fdn_invalid">FDN non aggiornato. Il PIN2 non è corretto o il numero di telefono viene rifiutato.</string>
+    <string name="fdn_failed">FDN operazione fallita.</string>
+    <string name="fdn_service_unavailable">Servizio FDN non disponibile.</string>
     <string name="fdn_full">FDN non aggiornati perchè la lista è piena.</string>
     <string name="simContacts_emptyLoading">Lettura dalla carta SIM…</string>
     <string name="exportContacts">Esportazione contatti nella carta SIM…</string>
-    <string name="simContacts_empty">No contacts on your SIM card.</string>
+    <string name="simContacts_empty">Nessun contatto nella tua SIM.</string>
     <string name="simContacts_title">Gestione contatti sulla carta SIM</string>
     <string name="simContacts_airplaneMode">Per importare contatti dalla carta SIM, disattivare prima la modalità Aereo.</string>
-    <string name="Result_title">SIM card contact</string>
+    <string name="Result_title">Contatto SIM</string>
     <string name="enable_pin">Attiva/disattiva il PIN della SIM</string>
     <string name="change_pin">Modifica il PIN della SIM</string>
     <string name="enter_pin_text">PIN della SIM:</string>
-    <string name="oldPinLabel">Old PIN</string>
-    <string name="newPinLabel">New PIN</string>
-    <string name="confirmPinLabel">Confirm new PIN</string>
-    <string name="badPin">"The old PIN you typed isn't correct. Try again."</string>
-    <string name="mismatchPin">"The PINs you typed don't match. Try again."</string>
-    <string name="invalidPin">Type a PIN that is 4 to 8 numbers.</string>
+    <string name="oldPinLabel">Vecchio PIN</string>
+    <string name="newPinLabel">Nuovo PIN</string>
+    <string name="confirmPinLabel">Conferma il nuovo PIN</string>
+    <string name="badPin">Il vecchio PIN che hai digitato non è corretto. Riprova.</string>
+    <string name="mismatchPin">I PIN che hai digitato non corrispondno. Riprova</string>
+    <string name="invalidPin">Digita un PIN che sia composto da 4 a 8 cifre.</string>
     <string name="disable_sim_pin">Disattiva PIN della SIM</string>
     <string name="enable_sim_pin">Attiva PIN della SIM</string>
     <string name="enable_in_progress">Attendere…</string>

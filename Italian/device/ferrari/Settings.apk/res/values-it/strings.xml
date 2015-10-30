@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="setup_wizard_next_button_label">Next</string>
-    <string name="setup_wizard_back_button_label">Back</string>
+    <string name="setup_wizard_next_button_label">Avanti</string>
+    <string name="setup_wizard_back_button_label">Indietro</string>
     <string name="music_audio_effect_optimize">Impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>
@@ -110,11 +110,11 @@
     <string name="show_dev_on">Ora sei uno sviluppatore.</string>
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>
-    <string name="header_category_connections">Connections</string>
-    <string name="header_category_device">DISPOSITIVO</string>
-    <string name="header_category_personal">PERSONALE</string>
-    <string name="header_category_access">Access</string>
-    <string name="header_category_system">SISTEMA</string>
+    <string name="header_category_connections">Connessioni</string>
+    <string name="header_category_device">Dispositivo</string>
+    <string name="header_category_personal">Personale</string>
+    <string name="header_category_access">Accesso</string>
+    <string name="header_category_system">Sistema</string>
     <string name="turn_on_radio">Attiva segnale cellulare</string>
     <string name="turn_off_radio">Disattiva segnale cellulare</string>
     <string name="sms_over_ims_on">Attiva SMS su IMS</string>
@@ -208,9 +208,9 @@
     <string name="bluetooth_rename_button">Rinomina</string>
     <string name="bluetooth_disconnect_title">Disconnettere?</string>
     <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:&lt;br>&lt;b>%1$s&lt;/b></string>
-    <string name="bluetooth_empty_list_user_restricted">"You don't have permission to change Bluetooth settings."</string>
-    <string name="bluetooth_is_visible_message">%1$s is visible to nearby devices while Bluetooth Settings is open.</string>
-    <string name="bluetooth_is_disconnect_question">Disconnect %1$s?</string>
+    <string name="bluetooth_empty_list_user_restricted">Non hai il permesso per modificare le impostazioni bluetooth</string>
+    <string name="bluetooth_is_visible_message">%1$s è visibile ai dispositivi nelle vicinanze, mentre le impostazioni sono aperte.</string>
+    <string name="bluetooth_is_disconnect_question">Disconnetti da %1$s?</string>
     <string name="bluetooth_broadcasting">Broadcasting</string>
     <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
     <string name="bluetooth_disable_profile_message">Verrà disattivato&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b>%2$s&lt;/b></string>
@@ -349,12 +349,12 @@ Broadcasting uses low-power Bluetooth signals."</string>
     <string name="sd_card_settings_label">Archivio USB</string>
     <string name="proxy_settings_label">Impostazioni proxy</string>
     <string name="cancel">Annulla</string>
-    <string name="cancel_all_caps">CANCEL</string>
-    <string name="continue_all_caps">CONTINUE</string>
+    <string name="cancel_all_caps">ANNULLA</string>
+    <string name="continue_all_caps">CONTINUA</string>
     <string name="okay">OK</string>
-    <string name="yes_all_caps">YES</string>
+    <string name="yes_all_caps">SI</string>
     <string name="no_all_caps">NO</string>
-    <string name="forget">FORGET</string>
+    <string name="forget">DIMENTICA</string>
     <string name="settings_label">Impostazioni</string>
     <string name="settings_label_launcher">Impostazioni</string>
     <string name="settings_shortcut">Scorciatoia Impostazioni</string>
@@ -362,11 +362,11 @@ Broadcasting uses low-power Bluetooth signals."</string>
     <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
     <string name="radio_controls_summary">Gestisci Wi‑Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
-    <string name="cellular_data_title">Cellular data</string>
-    <string name="calls_title">Calls</string>
-    <string name="sms_messages_title">SMS Messages</string>
-    <string name="cellular_data_summary">Allow data usage over cellular network</string>
-    <string name="allow_data_usage_title">Allow data usage when roaming</string>
+    <string name="cellular_data_title">Dati cellulari</string>
+    <string name="calls_title">Chiamate</string>
+    <string name="sms_messages_title">Messaggi SMS</string>
+    <string name="cellular_data_summary">"Consenti l'utilizzo di dati mobili"</string>
+    <string name="allow_data_usage_title">"Consenti l'utilizzo di dati mobili quando sei in roaming"</string>
     <string name="roaming">Roaming dati</string>
     <string name="roaming_enable">Connessione a servizi di dati in roaming</string>
     <string name="roaming_disable">Connessione a servizi di dati in roaming</string>
@@ -388,15 +388,15 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="zone_auto">Fuso orario automatico</string>
     <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
     <string name="zone_auto_summaryOff">Utilizza il fuso orario fornito dalla rete</string>
-    <string name="date_time_24hour_title">24‑hour format</string>
+    <string name="date_time_24hour_title">24‑ore formato</string>
     <string name="date_time_24hour">Usa formato 24 ore</string>
-    <string name="date_time_set_time_title">Time</string>
+    <string name="date_time_set_time_title">Orario</string>
     <string name="date_time_set_time">Imposta ora</string>
-    <string name="date_time_set_timezone_title">Time zone</string>
+    <string name="date_time_set_timezone_title">Fuso orario</string>
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
-    <string name="date_time_set_date_title">Date</string>
+    <string name="date_time_set_date_title">Data</string>
     <string name="date_time_set_date">Imposta data</string>
-    <string name="date_time_date_format_title">Date format</string>
+    <string name="date_time_date_format_title">Formato data</string>
     <string name="date_time_date_format">Scegli il formato della data</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
@@ -436,20 +436,20 @@ La crittografia potrebbe richiedere più di un'ora. Devi iniziare con una batter
     <string name="crypt_keeper_unplugged_text">Collega il caricabatterie e riprova.</string>
     <string name="crypt_keeper_dialog_need_password_title">Nessun PIN/password di blocco dello schermo</string>
     <string name="crypt_keeper_dialog_need_password_message">Devi impostare un PIN o una password di blocco dello schermo per poter iniziare la crittografia.</string>
-    <string name="crypt_keeper_confirm_encrypt">You need to draw your unlock pattern to confirm encrypting your device.</string>
+    <string name="crypt_keeper_confirm_encrypt">È necessario inserire la sequenza di sblocco per confermare la crittografia del dispositivo.</string>
     <string name="crypt_keeper_confirm_title">Crittografare?</string>
     <string name="crypt_keeper_final_desc">"L'operazione di crittografia non è reversibile e la sua interruzione causerà la perdita di dati. La crittografia richiede almeno un'ora, durante la quale il dispositivo verrà riavviato diverse volte."</string>
     <string name="crypt_keeper_setup_title">Crittografia</string>
     <string name="crypt_keeper_setup_description">Attendi il termine della crittografia del dispositivo. ^1% completato.</string>
-    <string name="crypt_keeper_setup_time_remaining">Wait while your phone is being encrypted. Time remaining: ^1</string>
+    <string name="crypt_keeper_setup_time_remaining">Attendi che il telefono viene crittografato. Tempo rimanente: ^1</string>
     <string name="crypt_keeper_cooldown">Riprova tra ^1 secondi.</string>
-    <string name="crypt_keeper_warn_wipe">Warning: Your device will be wiped after ^1 more failed attempts to be unlocked!</string>
+    <string name="crypt_keeper_warn_wipe">Avvertimento: Your device will be wiped after ^1 more failed attempts to be unlocked!</string>
     <string name="crypt_keeper_enter_password">Digita la password</string>
     <string name="crypt_keeper_failed_title">Crittografia non riuscita</string>
     <string name="crypt_keeper_failed_summary">"La crittografia è stata interrotta e non è possibile portarla a termine. Di conseguenza, i dati memorizzati sul dispositivo non sono più accessibili. 
 
 Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dati di fabbrica. Quando configuri il dispositivo dopo il ripristino, hai la possibilità di ripristinare i dati di cui hai effettuato il backup nel tuo account Google."</string>
-    <string name="crypt_keeper_data_corrupt_title">Decryption unsuccessful</string>
+    <string name="crypt_keeper_data_corrupt_title">Decrittazione senza successo</string>
     <string name="crypt_keeper_data_corrupt_summary">"The password you entered is correct, but unfortunately your data is corrupt. 
 
 To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account."</string>
@@ -500,7 +500,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="lockpassword_password_requires_digit">La password deve contenere almeno una cifra.</string>
     <string name="lockpassword_password_requires_symbol">La password deve contenere almeno un simbolo.</string>
     <string name="lockpassword_password_recently_used">"L'amministratore del dispositivo non consente l'utilizzo di una password recente."</string>
-    <string name="lockpassword_pin_no_sequential_digits">An ascending, descending or repeated sequence of digits is forbidden</string>
+    <string name="lockpassword_pin_no_sequential_digits">Un ascendente, discendente o ripetizione di sequenza di cifre è vietata</string>
     <string name="lockpassword_ok_label">OK</string>
     <string name="lockpassword_cancel_label">Annulla</string>
     <string name="lockpattern_tutorial_cancel_label">Annulla</string>
@@ -509,9 +509,9 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="device_admin_title">Amministrazione dispositivo</string>
     <string name="manage_device_admin">Amministratori dispositivo</string>
     <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
-    <string name="manage_trust_agents">Trust agents</string>
-    <string name="disabled_because_no_backup_security">To use, first set a screen lock</string>
-    <string name="manage_trust_agents_summary">View or deactivate trust agents</string>
+    <string name="manage_trust_agents">Agenti di fiducia</string>
+    <string name="disabled_because_no_backup_security">Per utilizzare, imposta prima il blocco schermo</string>
+    <string name="manage_trust_agents_summary">Visuazilizza o disattiva agenti di fiducia</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
