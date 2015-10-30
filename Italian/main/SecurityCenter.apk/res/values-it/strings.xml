@@ -568,7 +568,7 @@
     <string name="month_report_activity_label">Rapporto Mensile</string>
     <string name="month_report_disconnect_tip">Impossibile collegarsi alla rete</string>
     <string name="month_report_click_reconnect_network">Prova di nuovo</string>
-    <string name="month_report_month_report_switch">MOstra rapporto mensile</string>
+    <string name="month_report_month_report_switch">Mostra rapporto mensile</string>
     <string name="month_report_warning_dialog_title">Rapporto mensile di sicurezza</string>
     <string name="month_report_warning_dialog_description">"Per vedere il rapporto mensile attiva questa funzione dalle impostazioni dell'app Sicurezza."</string>
     <string name="month_report_warning_dialog_positive">Attiva</string>

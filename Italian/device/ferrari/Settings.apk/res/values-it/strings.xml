@@ -61,7 +61,7 @@
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
     <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
     <string name="status_bar_settings_notification_priority">Priorità</string>
-    <string name="status_bar_settings_notification_priority_summary">MOstra le notifiche in cima alla lista</string>
+    <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
     <string name="status_bar_settings_show_keyguard_notification">Notifiche mobili e lockscreen</string>
     <string name="status_bar_settings_show_keyguard_notification_summary"/>
