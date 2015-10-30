@@ -24,7 +24,7 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Show</item>
+        <item>Mostra</item>
         <item>Non mostrare</item>
         <item>Mostra più tardi</item>
     </string-array>

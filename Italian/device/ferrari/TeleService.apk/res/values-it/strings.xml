@@ -105,8 +105,8 @@
     <string name="callFailed_simError">Nessun SIM o errore SIM</string>
     <string name="callFailed_outOfService">Rete mobile non disponibile</string>
     <string name="callFailed_fdn_only">Chiamate in uscita limitate per FDN.</string>
-    <string name="callFailed_dialToUssd">richiesta DIAL modificata in richiesta USSD.</string>
-    <string name="callFailed_dialToSs">RIchiesta DIAL modificata in richiesta SS.</string>
+    <string name="callFailed_dialToUssd">Richiesta DIAL modificata in richiesta USSD.</string>
+    <string name="callFailed_dialToSs">Richiesta DIAL modificata in richiesta SS.</string>
     <string name="callFailed_dialToDial">Richiesta DIAL modificata in richiesta DIAL con numero diverso.</string>
     <string name="callFailed_cb_enabled">"Non puoi effettuare chiamate in uscitaquando il blocco è attivo."</string>
     <string name="callFailed_dsac_restricted">Tutte le chiamate sono limitate dal controllo di accesso.</string>
