@@ -97,7 +97,7 @@
     <string name="intelligent_model">Streaming in alta qualità solo con Wi-Fi</string>
     <string name="tone_high_quality">Streaming in alta qualità sempre</string>
     <string name="intelligent_model_summary">Usa lo streaming in alta qualità solo se connesso ad una rete Wi-Fi (risparmio traffico dati)</string>
-    <string name="tone_high_quality_summary">Us anche la rete dati mobile per lo streaming in alta qualità</string>
+    <string name="tone_high_quality_summary">Usa anche la rete dati mobile per lo streaming in alta qualità</string>
     <string name="dialog_title_tone_quality">Qualità streaming</string>
     <string name="share">Condividi</string>
     <string name="qingting_logo"> | %1$s </string>
