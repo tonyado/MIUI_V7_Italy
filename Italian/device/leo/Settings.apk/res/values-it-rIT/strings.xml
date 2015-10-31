@@ -490,9 +490,9 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="device_admin_title">Amministrazione dispositivo</string>
     <string name="manage_device_admin">Amministratori dispositivo</string>
     <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
-    <string name="manage_trust_agents">Trust agents</string>
-    <string name="disabled_because_no_backup_security">To use, first set a screen lock</string>
-    <string name="manage_trust_agents_summary">View or deactivate trust agents</string>
+    <string name="manage_trust_agents">Agenti sicuri</string>
+    <string name="disabled_because_no_backup_security">Imposta prima una lockscreen</string>
+    <string name="manage_trust_agents_summary">Mostra o disattiva agenti sicuri</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>

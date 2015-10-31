@@ -509,9 +509,9 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="device_admin_title">Amministrazione dispositivo</string>
     <string name="manage_device_admin">Amministratori dispositivo</string>
     <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
-    <string name="manage_trust_agents">Agenti di fiducia</string>
-    <string name="disabled_because_no_backup_security">Per utilizzare, imposta prima il blocco schermo</string>
-    <string name="manage_trust_agents_summary">Visuazilizza o disattiva agenti di fiducia</string>
+    <string name="manage_trust_agents">Agenti sicuri</string>
+    <string name="disabled_because_no_backup_security">Imposta prima una lockscreen</string>
+    <string name="manage_trust_agents_summary">Mostra o disattiva agenti sicuri</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
@@ -788,7 +788,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_setting_frequency_band_error">Errore di impostazione della banda di frequenza.</string>
     <string name="wifi_advanced_mac_address_title">Indirizzo MAC</string>
     <string name="wifi_advanced_ip_address_title">Indirizzo IP</string>
-    <string name="wifi_saved_access_points_label">Saved networks</string>
+    <string name="wifi_saved_access_points_label">Reti salvate</string>
     <string name="wifi_advanced_settings_label">Impostazioni IP</string>
     <string name="wifi_ip_settings_menu_save">Salva</string>
     <string name="wifi_ip_settings_menu_cancel">Annulla</string>
