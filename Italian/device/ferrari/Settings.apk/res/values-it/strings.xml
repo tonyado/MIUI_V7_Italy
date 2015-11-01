@@ -1253,7 +1253,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="copyright_title">Copyright</string>
     <string name="license_title">Licenza</string>
     <string name="terms_title">Termini e condizioni</string>
-    <string name="wallpaper_attributions">Sfondi/string>
+    <string name="wallpaper_attributions">Sfondi</string>
     <string name="wallpaper_attributions_values">"Satellite imagery providers:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Licenze open source</string>
