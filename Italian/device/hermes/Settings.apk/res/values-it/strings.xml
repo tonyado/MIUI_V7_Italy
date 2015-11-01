@@ -1041,8 +1041,8 @@ Tentativi rimasti :"</string>
     <string name="usb_media_format_final_desc">"Cancellare la memoria USB, eliminerai tutti i dati memorizzati? l'azione non è reversibile"</string>
     <string name="uicc_media_format_final_desc">"Cancellare la memoria UICC, eliminerai tutti i dati memorizzati? l'azione non è reversibile"</string>
     <string name="usb_media_format_gesture_explanation">Se desideri cancellare la memoria USB è necessario inserire la sequenza di sblocco.</string>
-    <string name="uicc_media_format_gesture_explanation">Se desideri cancellare la memoria UICC è necessario inserire la sequenza di sblocco.</</string>    
-<string name="memory_clear_cache_title">Eliminare i dati memorizzati nella cache?</string>
+    <string name="uicc_media_format_gesture_explanation">Se desideri cancellare la memoria UICC è necessario inserire la sequenza di sblocco.</string>    
+     <string name="memory_clear_cache_title">Eliminare i dati memorizzati nella cache?</string>
     <string name="memory_clear_cache_message">Saranno eliminati tutti i dati delle app nella cache.</string>
     <string name="mtp_ptp_mode_summary">La funzione MTP o PTP è attiva</string>
     <string name="dlg_confirm_unmount_title">"Disattivare l'archivio USB?"</string>
