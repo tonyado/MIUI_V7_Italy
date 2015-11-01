@@ -1167,9 +1167,9 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="master_clear_gesture_explanation">Per confermare il ripristino dati di fabbrica occorre inserire la sequenza di sblocco.</string>
     <string name="master_clear_failed">Nessun ripristino eseguito perché il servizio System Clear non è disponibile.</string>
     <string name="master_clear_confirm_title">Ripristinare?</string>
-    <string name="master_clear_not_available">Factory reset is not available for this user</string>
-    <string name="master_clear_progress_title">Erasing</string>
-    <string name="master_clear_progress_text">Please wait...</string>
+    <string name="master_clear_not_available">"Il ripristino di fabbrica non è disponibile per l'utente"</string>
+    <string name="master_clear_progress_title">Cancellazione</string>
+    <string name="master_clear_progress_text">Attendere prego...</string>
     <string name="media_format_title">Formatta archivio USB</string>
     <string name="media_format_summary">"Formattare i dati nell'arch. USB"</string>
     <string name="media_format_desc">"Formattare tutto l'archivio USB? "<b>Tutti</b> i dati memorizzati al suo interno andranno persi.</string>
@@ -1191,13 +1191,13 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="usb_tethering_active_subtext">Con hotspot</string>
     <string name="usb_tethering_storage_active_subtext">"Hotspot non disponibile quando è in uso l'archivio USB"</string>
     <string name="usb_tethering_unavailable_subtext">USB non connessa</string>
-    <string name="usb_tethering_turnon_subtext">Connect to turn on</string>
+    <string name="usb_tethering_turnon_subtext">Collegare per attivare</string>
     <string name="usb_tethering_errored_subtext">Errore hotspot USB</string>
     <string name="bluetooth_tether_checkbox_text">Hotspot Bluetooth</string>
     <string name="bluetooth_tethering_available_subtext">Connessione ad internet condivisa</string>
     <string name="bluetooth_tethering_device_connected_subtext">Connessione ad internet condivisa con 1 dispositivo</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Connessione ad internet condivisa con %1$d dispositivi</string>
-    <string name="bluetooth_tethering_off_subtext_config">"Sharing this %1$d's Internet connection"</string>
+    <string name="bluetooth_tethering_off_subtext_config">Condividi questa %1$d connessione internet</string>
     <string name="bluetooth_tethering_off_subtext">Connessione ad internet non condivisa</string>
     <string name="bluetooth_tethering_errored_subtext">Senza hotspot</string>
     <string name="bluetooth_tethering_overflow_error">Hotspot non possibile con più di %1$d dispositivi.</string>
@@ -1209,9 +1209,9 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="sms_change_default_dialog_title">Cambiare app per SMS?</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizzare %s anziché %s come app per SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Utilizzare %s come app per SMS?</string>
-    <string name="network_scorer_change_active_dialog_title">Change Wi‑Fi assistant?</string>
-    <string name="network_scorer_change_active_dialog_text">Use %1$s instead of %2$s to manage your network connections?</string>
-    <string name="network_scorer_change_active_no_previous_dialog_text">Use %s to manage your network connections?</string>
+    <string name="network_scorer_change_active_dialog_title">Cambiare assistente Wi‑Fi?</string>
+    <string name="network_scorer_change_active_dialog_text">Utilizza %1$s invece di %2$s per gestire le connessioni di rete?</string>
+    <string name="network_scorer_change_active_no_previous_dialog_text">Utilizza %s per gestire le tue connessioni di rete?</string>
     <string name="mobile_unknown_sim_operator">Operatore SIM sconosciuto</string>
     <string name="mobile_no_provisioning_url">Nessun sito web di provisioning per %1$s</string>
     <string name="mobile_insert_sim_card">Inserisci la scheda SIM e riavvia</string>
@@ -1231,7 +1231,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e mobili per stabilire la posizione</string>
     <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e mobili per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
-    <string name="location_category_enhanced_location">Enhanced Location</string>
+    <string name="location_category_enhanced_location">Maggiori località</string>
     <string name="location_network_based">Posizione Wi‑Fi e rete mobile</string>
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
     <string name="location_neighborhood_level_wifi">Posizione determinata da Wi‑Fi</string>
@@ -1253,7 +1253,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="copyright_title">Copyright</string>
     <string name="license_title">Licenza</string>
     <string name="terms_title">Termini e condizioni</string>
-    <string name="wallpaper_attributions">Wallpapers</string>
+    <string name="wallpaper_attributions">Sfondi/string>
     <string name="wallpaper_attributions_values">"Satellite imagery providers:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Licenze open source</string>
@@ -1299,7 +1299,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="lockpattern_settings_enable_visible_pattern_title">Rendi visibile la sequenza</string>
     <string name="lockpattern_settings_enable_tactile_feedback_title">Vibra alla pressione</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks">Blocco con tasto accensione</string>
-    <string name="lockpattern_settings_power_button_instantly_locks_summary">Except when kept unlocked by %1$s</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Tranne quando mantenuto sbloccato da %1$s</string>
     <string name="lockpattern_settings_choose_lock_pattern">Imposta sequenza</string>
     <string name="lockpattern_settings_change_lock_pattern">Cambia sequenza di sblocco</string>
     <string name="lockpattern_settings_help_how_to_record">"Procedura per l'impostazione di una sequenza di sblocco"</string>
@@ -1312,8 +1312,8 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="applications_settings_summary">Gestisci le applicazioni, imposta le scorciatoie di avvio rapido</string>
     <string name="applications_settings_header">Impostazioni applicazioni</string>
     <string name="install_applications">Origini sconosciute</string>
-    <string name="install_applications_title">Allow all app sources</string>
-    <string name="install_unknown_applications_title">Lets you install apps from sources other than Google Play</string>
+    <string name="install_applications_title">Consenti tutte le sorgenti delle app</string>
+    <string name="install_unknown_applications_title">Consente di installare le applicazioni da fonti diverse Google Play</string>
     <string name="install_unknown_applications">"Consenti l'installazione di applicazioni da fonti sconosciute"</string>
     <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di applicazioni di origini sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
     <string name="advanced_settings">Impostazioni avanzate</string>
@@ -1424,7 +1424,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="app_disable_notifications_dlg_title">Disattivare le notifiche?</string>
     <string name="app_disable_notifications_dlg_text">Se disattivi le notifiche per questa applicazione potresti perdere avvisi e aggiornamenti importanti.</string>
     <string name="app_ops_settings">Op. app</string>
-    <string name="app_ops_settings_summary">View or change app permissions</string>
+    <string name="app_ops_settings_summary">Visualizza o cambia permessi app</string>
     <string name="app_ops_running">In corso</string>
     <string name="app_ops_never_used">(Mai utilizzata)</string>
     <string name="storageuse_settings_title">Utilizzo memoria</string>
@@ -1446,14 +1446,14 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="running_processes_item_description_s_p">%1$d processo e %2$d servizi</string>
     <string name="running_processes_item_description_p_s">%1$d processi e %2$d servizio</string>
     <string name="running_processes_item_description_p_p">%1$d processi e %2$d servizi</string>
-    <string name="running_processes_header_title">Device memory</string>
-    <string name="running_processes_header_footer">App RAM usage</string>
-    <string name="running_processes_header_system_prefix">System</string>
-    <string name="running_processes_header_apps_prefix">Apps</string>
-    <string name="running_processes_header_free_prefix">Free</string>
-    <string name="running_processes_header_used_prefix">Used</string>
-    <string name="running_processes_header_cached_prefix">Cached</string>
-    <string name="running_processes_header_ram">%1$s of RAM</string>
+    <string name="running_processes_header_title">Memoria dispositivo</string>
+    <string name="running_processes_header_footer">RAM utilizzata dalle app</string>
+    <string name="running_processes_header_system_prefix">Sistema</string>
+    <string name="running_processes_header_apps_prefix">App</string>
+    <string name="running_processes_header_free_prefix">Gratis</string>
+    <string name="running_processes_header_used_prefix">Usato</string>
+    <string name="running_processes_header_cached_prefix">Cache</string>
+    <string name="running_processes_header_ram">%1$s della RAM</string>
     <string name="runningservicedetails_settings_title">Applicazione in esecuzione</string>
     <string name="no_services">Non attivi</string>
     <string name="runningservicedetails_services_title">Servizi</string>
