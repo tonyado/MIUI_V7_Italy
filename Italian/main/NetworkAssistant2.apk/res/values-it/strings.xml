@@ -462,7 +462,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="lock_screen_warning_category">Notifiche lockscreen</string>
     <string name="lock_screen_warning_switch_title">Mostra avvisi su lockscreen</string>
     <string name="lock_screen_warning_switch_summary">"Mostra avvisi su lockscreen quando l'utilizzo dei dati supera una certa soglia"</string>
-    <string name="lock_screen_warning_value">Avvisto utilizzo dati</string>
+    <string name="lock_screen_warning_value">Avviso utilizzo dati</string>
     <string name="traffic_setting_completed">OK</string>
     <string name="traffic_setting_extra_pkg_title">Impostazioni aggiuntive</string>
     <string name="traffic_setting_extra_pkg_summary">Regola il piano dati e le soglie</string>
