@@ -51,7 +51,4 @@
     <string name="cta_declaration_ignore">Non mostrare più</string>
     <string name="cta_declaration_positive_text">Consenti</string>
     <string name="cta_declaration_negative_text">Esci</string>
-	<string name="xiaomi_suggest_base"/>
-    <string name="xiaomi_hot_query"/>
-    <string name="xiaomi_hint"/>
 </resources>
