@@ -157,8 +157,8 @@
     <string name="space_info">KuaiPan: %1$s disponibile，totale: %2$s</string>
     <string name="trash_box_capacity">Cestino: %1$s</string>
     <string name="data_capacity">Dati: %1$s</string>
-    <string name="send_to_midrive">Kuaipan/string>
-    <string name="choose_upload_location">Scegli posizione upload</string>
+    <string name="send_to_midrive">Kuaipan</string>
+    <string name="choose_upload_location">Scegli posizione caricamento</string>
     <string name="send_to_midrive_failed_message">Impossibile inviare a Mi Drive. Contenuto non supportato</string>
     <string name="operation_compress">Comprimi</string>
     <string name="compress_title">Comprimi</string>
@@ -223,14 +223,14 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="download_link_completed">Ho condiviso %1$s via Mi Drive. Clicca sul seguente link per vedere il file:</string>
     <string name="transing">Trasferimento…</string>
     <string name="finished">Finito</string>
-    <string name="uploading">In upload…</string>
+    <string name="uploading">In caricamento…</string>
     <string name="downloading">In download…</string>
     <string name="waiting">In attesa…</string>
     <string name="wait_wifi">In attesa di connessione Wi-Fi</string>
     <string name="wait_net">In attesa della rete</string>
     <string name="wait_sdcard">In attesa del montaggio della scheda SD</string>
     <string name="paused">In pausa</string>
-    <string name="upload_failed">Upload fallito!</string>
+    <string name="upload_failed">Caricamento fallito!</string>
     <string name="download_failed">Download fallito!</string>
     <string name="operation_pause">Pausa</string>
     <string name="operation_resume">Riprendi</string>
@@ -383,7 +383,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="operation_add_fav">Aggiunto ai preferiti…</string>
     <string name="port_range">"La porta deve essere compresa nell'intervallo 1024–65535"</string>
     <string name="file_name_invalid">I nomi dei file non possono contenere i seguenti caratteri: /\\:*?&lt;></string>
-    <string name="rename_alert">"Modificando l'estensionedi questo file potresti non essere più in grado di aprirlo."</string>
+    <string name="rename_alert">"Modificando l'estensione di questo file potresti non essere più in grado di aprirlo."</string>
     <string name="search_file_type_picture">Foto</string>
     <string name="search_file_type_video">Video</string>
     <string name="search_file_type_music">Musica</string>
@@ -427,13 +427,13 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="notification_title">Notifica quando vengo aggiunti nuovi file a %1$s</string>
     <string name="notification_summary">%1$s non supporta ancora questa funzione</string>
     <string name="notification_dialog_title">Notifiche</string>
-    <string name="notification_dialog_content">Notifica ed organizza automaticamente quando i filr vengono aggiunti omodificato in %1$s.</string>
+    <string name="notification_dialog_content">Notifica ed organizza automaticamente quando i file vengono aggiunti omodificato in %1$s.</string>
     <string name="notification_dialog_confirm">OK</string>
     <string name="smb_loading">Solo un attimo...</string>
-    <string name="online_not_support">In questomomento non è possibile vedere il file.</string>
+    <string name="online_not_support">In questo momento non è possibile vedere il file.</string>
     <string name="delete_file_error">Non è stato possibile eliminare il file</string>
     <string name="notification_content_hint">Tocca per visualizzare</string>
-    <string name="notification_wechat_title">Notify me when a WeChat video is about to expire</string>
+    <string name="notification_wechat_title">Notificami quando un video WeChat sta per scadere</string>
     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
     <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
     <string name="backup_title">Backup video di WeChat</string>
@@ -487,7 +487,7 @@ Trascina in basso sulla home per provare."</string>
     <string name="partial_delete_failure">Non è stato possibile eliminare alcuni file, prova di nuovo</string>
     <string name="delete_error">Non è stato possibile eliminare alcuni file, prova di nuovo</string>
     <string name="repair_done">Ripristinato</string>
-    <string name="partial_repair_done">Alcuni file sonos tati ripristinati correttamente</string>
+    <string name="partial_repair_done">Alcuni file sono stati ripristinati correttamente</string>
     <string name="repair_error">Impossibile ripristinare</string>
     <string name="cancel_success">Rimossi con successo, tutti i file spostati in sdcard/fileexplorer/decryption</string>
     <string name="partial_cancel_successful">Non è stato possibile rimuovere alcuni file. Gli altri file sono stati spostati in sdcard/fileexplorer/decryption"</string>
@@ -507,7 +507,7 @@ Trascina in basso sulla home per provare."</string>
     <string name="new_function_title_str">Info sugli adesivi WeChat</string>
     <string name="new_function_str">"Adesso gli adesivi WeChat possono essere collezionati automaticamente.
 Puoi scaricarli quando vuoi
-e non perderai mai le ultie novità!"</string>
+e non perderai mai le ultime novità!"</string>
     <string name="no_network_str">Impossibile collegarsi alla rete. Controlla la rete e prova di nuovo.</string>
     <string name="no_local_sticker_tip">Non è stato possibile trovare gli adesivi scaricati. Controlla gli adesivi condivisi dai Mi fans.</string>
     <string name="no_downloaded_sticker_tip">Impossibile trovare adesivi scaricati. Guarda gli adesivi condivisi dai Mi fan.</string>
@@ -521,7 +521,7 @@ e non perderai mai le ultie novità!"</string>
     <string name="transfer_private_data">Spostamento dei file privati dalla scheda SD…</string>
     <string name="transfer_done">File spostati con successo.</string>
     <string name="dir_not_support">Non è possibile rendere privata questa cartella.</string>
-    <string name="promot_enctypt_password">Inserisci la passwrod utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
+    <string name="promot_enctypt_password">Inserisci la password utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
     <string name="image_loading_error">"Impossibile caricare l'immagine"</string>
     <string name="operation_like">Preferiti</string>
     <string name="ui_main_toast_favorite_added">Aggiunto correttamente</string>
@@ -529,18 +529,18 @@ e non perderai mai le ultie novità!"</string>
     <string name="save_to_local">Scarica</string>
     <string name="send_to_weixin">Invia a WeChat</string>
     <string name="send_to_qq">Invia a QQ</string>
-    <string name="weixin_not_installed">"WeChat non è instalalto"</string>
+    <string name="weixin_not_installed">"WeChat non è installato"</string>
     <string name="qq_not_installed">"QQ non è installato"</string>
     <string name="pick_folder">Scegli cartella</string>
     <string name="search_description">Cerca tutti i file sul dispositivo</string>
     <string name="encrypt_prefix">PRIVATO</string>
-<string name="cancelled_by_user">OOperazione annullata</string>
+    <string name="cancelled_by_user">Operazione annullata</string>
     <string name="cancel_operation">Annulla operazione</string>
-    <string name="if_cancel">Annullare qesta operazione?</string>
+    <string name="if_cancel">Annullare questa operazione?</string>
     <string name="menu_item_sort_add_time">"Creato "</string>
     <string name="search_result">Risultati</string>
     <string name="add_private_files">Aggiungi file</string>
-    <string name="type_not_support">Questo formato non è supportato. Scmpatta questo file e prova di nuovo.</string>
+    <string name="type_not_support">Questo formato non è supportato. Scompatta questo file e prova di nuovo.</string>
     <string name="notify_private_folder_title">Proteggi i tuoi file personali</string>
     <string name="notify_private_folder_msg">Tocca per informazioni sulle cartelle private.</string>
 </resources>
