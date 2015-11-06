@@ -215,7 +215,7 @@
         <item>2 giorni</item>
         <item>1 settimana</item>
     </string-array>
-<string-array name="miui_preferences_default_reminder_labels">
+    <string-array name="miui_preferences_default_reminder_labels">
         <item>Nessun avviso</item>
         <item>0 minuti</item>
         <item>5 minuti</item>
@@ -239,6 +239,12 @@
         <item>settimana</item>
         <item>mese</item>
         <item>anno</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>giorni</item>
+        <item>settimane</item>
+        <item>mesi</item>
+        <item>anni</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1</item>

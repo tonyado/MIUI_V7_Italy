@@ -449,7 +449,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="title_limit_traffic_per_day">Limite utilizzo dati giornaliero</string>
     <string name="daily_limit_and_lock_screen">Utilizzo dati quotidiano e notifiche</string>
     <string name="pref_title_traffic_limit_number">Dimensione</string>
-    <string name="pref_title_over_traffic_limit_warning">Al superamento soglia</string>
+    <string name="pref_title_over_traffic_limit_warning">Oltre la soglia</string>
     <string name="reach_daily_limit_value_title">Limite dati giornaliero raggiunto</string>
     <string name="reach_daily_limit_value_body">"Riduci l'utilizzo dei dati 3G."</string>
     <string name="reach_daily_limit_value_body_open_traffic_saving">Tocca per attivare Risparmio Dati.</string>

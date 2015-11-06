@@ -7,7 +7,7 @@
     <string name="delete_file">Eliminare questo file?</string>
     <string name="delete_files">Eliminare %1$d file?</string>
     <string name="app_name">File Explorer</string>
-    <string name="confirm">Ok</string>
+    <string name="confirm">OK</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_cleanup">Pulizia file</string>
     <string name="menu_item_search">Ricerca</string>
@@ -123,8 +123,8 @@
     <string name="login_reg_content0">Utilizza Kuaipan in qualsiasi luogo.</string>
     <string name="login_reg_content">Archivia file e sincronizzali con vari dispositivi, questa funzione necessita di una connessione di rete.</string>
     <string name="start_use_xiaomi_account">Accedi</string>
-    <string name="pan_settting">Impostazioni Mi Drive</string>
-    <string name="xiaomi_account">Account Xiaomi</string>
+    <string name="pan_settting">Impostazioni KuaiPan</string>
+    <string name="xiaomi_account">Mi Account</string>
     <string name="space_usage">Utilizzo</string>
     <string name="used">Utilizzato:\u0020</string>
     <string name="loading">Caricamento…</string>
@@ -154,10 +154,10 @@
     <string name="trash_box_message1">Puoi eliminare file non necessari per liberare spazio</string>
     <string name="trash_box_message2">Puoi eliminare file o svuotare il cestino per liberare spazio</string>
     <string name="close">Chiudi</string>
-    <string name="space_info">Spazio di rete: %1$s disponibile，totale: %2$s</string>
-    <string name="trash_box_capacity">Spazio cestino: %1$s</string>
-    <string name="data_capacity">Spazio: %1$s</string>
-    <string name="send_to_midrive">Invia a Mi Drive</string>
+    <string name="space_info">KuaiPan: %1$s disponibile，totale: %2$s</string>
+    <string name="trash_box_capacity">Cestino: %1$s</string>
+    <string name="data_capacity">Dati: %1$s</string>
+    <string name="send_to_midrive">Kuaipan/string>
     <string name="choose_upload_location">Scegli posizione upload</string>
     <string name="send_to_midrive_failed_message">Impossibile inviare a Mi Drive. Contenuto non supportato</string>
     <string name="operation_compress">Comprimi</string>
@@ -177,7 +177,7 @@
     <string name="decompress_input_password">Inserisci password</string>
     <string name="decompress_password_error">La password inserita non è corretta.</string>
     <string name="decompress_encrypted_rar_not_supported">La crittografia dei file .rar non è supportata</string>
-    <string name="kuaipan_prompt">Aiuto Mi Drive</string>
+    <string name="kuaipan_prompt">Avviso</string>
     <string name="kuaipan_prompt_message">"
 Il server è momentaneamente non accessibile, si prega di riprovare più tardi…
 "</string>
@@ -434,6 +434,8 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="delete_file_error">Non è stato possibile eliminare il file</string>
     <string name="notification_content_hint">Tocca per visualizzare</string>
     <string name="notification_wechat_title">Notify me when a WeChat video is about to expire</string>
+    <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
+    <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
     <string name="backup_title">Backup video di WeChat</string>
     <string name="backup_confirm">Backup ora</string>
     <string name="backup_cancel">No grazie</string>
@@ -497,7 +499,8 @@ Trascina in basso sulla home per provare."</string>
     <string name="private_files">Privato</string>
     <string name="msg_set_password">Prima imposta la password</string>
     <string name="weixin_sticker_tag_str">Adesivi WeChat</string>
-    <string name="local_sticker_str">Scaricati</string>
+    <string name="downloaded_sticker_str">Scaricati</string>
+    <string name="local_sticker_str">Offline</string>
     <string name="shared_sticker_str">Condividi con i Mi fan</string>
     <string name="shared_str">Condiviso da %s</string>
     <string name="shared_sticker_suffix">Adesivo a %s</string>
@@ -507,6 +510,7 @@ Puoi scaricarli quando vuoi
 e non perderai mai le ultie novità!"</string>
     <string name="no_network_str">Impossibile collegarsi alla rete. Controlla la rete e prova di nuovo.</string>
     <string name="no_local_sticker_tip">Non è stato possibile trovare gli adesivi scaricati. Controlla gli adesivi condivisi dai Mi fans.</string>
+    <string name="no_downloaded_sticker_tip">Impossibile trovare adesivi scaricati. Guarda gli adesivi condivisi dai Mi fan.</string>
     <string name="network_spent_reminding_title">Notifica utilizzo dati</string>
     <string name="network_spent_reminding">"L'apertura di questa pagina richiede l'utilizzo della rete dati."</string>
     <string name="shared_sticker_use_tip_title">Come utilizzare gli adesivi</string>
@@ -518,7 +522,25 @@ e non perderai mai le ultie novità!"</string>
     <string name="transfer_done">File spostati con successo.</string>
     <string name="dir_not_support">Non è possibile rendere privata questa cartella.</string>
     <string name="promot_enctypt_password">Inserisci la passwrod utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
+    <string name="image_loading_error">"Impossibile caricare l'immagine"</string>
+    <string name="operation_like">Preferiti</string>
+    <string name="ui_main_toast_favorite_added">Aggiunto correttamente</string>
+    <string name="already_liked">Hai già aggiunto questo elemento</string>
+    <string name="save_to_local">Scarica</string>
+    <string name="send_to_weixin">Invia a WeChat</string>
+    <string name="send_to_qq">Invia a QQ</string>
+    <string name="weixin_not_installed">"WeChat non è instalalto"</string>
+    <string name="qq_not_installed">"QQ non è installato"</string>
     <string name="pick_folder">Scegli cartella</string>
     <string name="search_description">Cerca tutti i file sul dispositivo</string>
     <string name="encrypt_prefix">PRIVATO</string>
+<string name="cancelled_by_user">OOperazione annullata</string>
+    <string name="cancel_operation">Annulla operazione</string>
+    <string name="if_cancel">Annullare qesta operazione?</string>
+    <string name="menu_item_sort_add_time">"Creato "</string>
+    <string name="search_result">Risultati</string>
+    <string name="add_private_files">Aggiungi file</string>
+    <string name="type_not_support">Questo formato non è supportato. Scmpatta questo file e prova di nuovo.</string>
+    <string name="notify_private_folder_title">Proteggi i tuoi file personali</string>
+    <string name="notify_private_folder_msg">Tocca per informazioni sulle cartelle private.</string>
 </resources>

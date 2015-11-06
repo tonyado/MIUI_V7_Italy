@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">HTML Viewer</string>
+    <string name="loading">Caricamento…</string>
+    <string name="app_name_which_call">Applicazione:%s</string>
+    <string name="app_version_which_call">Versione applicazione:%s</string>
+    <string name="policy_name">Regolamentazione:%s</string>
+    <string name="mibi_license">Termini del Servizio Mi Credit</string>
+    <string name="license_host_unreachable">"Impossibile collegarsi alla rete. Per leggere queste informazioni adesso, 
+visita %s"</string>
+    <string name="permdesc_accessDrm">Consenti alle applicazioni di accedere a contenuti protetti da DRM.</string>
+    <string name="open_wifi_connect_title">Collegati a %1$s</string>
+    <string name="open_wifi_connect_summary">Tocca per vedere i dettagli.</string>
+</resources>

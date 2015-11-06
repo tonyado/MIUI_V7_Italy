@@ -10,7 +10,6 @@
     <string name="backup_items_sysdata_tailer">" Dati Sistema, "</string>
     <string name="backup_items_app_tailer">" Dati Apps "</string>
     <string name="backup_failed">Backup fallito, riprovare</string>
-    <string name="backup_recently">" (Ultimo)"</string>
     <string name="sdcard_unmounted">SD Card non trovata o non montata!</string>
     <string name="backup_progress">Creazione backup in corso…</string>
     <string name="button_ok">OK</string>
@@ -125,6 +124,7 @@
     <string name="local_select_sysdata">Sistema</string>
     <string name="local_select_userapp">Applicazioni</string>
     <string name="local_select_account_contact">Account / Contatti</string>
+    <string name="local_select_files">Scheda SD</string>
     <string name="data_item_desc">Dati</string>
     <string name="apps_and_data_item_desc">App e dati</string>
     <string name="local_no_backup">Nessun backup locale</string>
@@ -187,6 +187,7 @@
     <string name="system_backup_info">Impostazioni di sistema, layout desktop, etc.</string>
     <string name="software_backup_info">Backup applicazioni e dati app</string>
     <string name="account_contact_backup_info">Dati (Backup informazioni Xiaomi e Gmail)</string>
+    <string name="files_backup_info">Tutti i file sulla scheda SD (incluse foto, canzoni, video, dati app, etc.)</string>
     <string name="select_backup_item">Selezione elementi backup</string>
     <string name="restore_data">Ripristina dati</string>
     <string name="backup_data">Backup dati</string>
@@ -206,6 +207,7 @@
     <string name="restore_backup">Ripristina</string>
     <string name="digit_percent">%</string>
     <string name="state_waiting">Solo un istante…</string>
+    <string name="state_mounting">Accesso alla memoria del router…</string>
     <string name="abort_backup_confirm">Backup non completato. Interrompere comunque?</string>
     <string name="feature_title_call_log">Registro chiamate</string>
     <string name="feature_title_mms">MMS</string>
@@ -220,6 +222,9 @@
     <string name="err_version_too_old">Backup troppo vecchio.</string>
     <string name="err_version_unsupported">Versione backup non supportata.</string>
     <string name="err_bakfile_broken">Impossibile utilizzare questo backup.</string>
+    <string name="err_filesystem_mount">Impossibile accedere alla memoria del router</string>
+    <string name="err_router_disconnected">Controlla la connessione del tuo router e riprovs</string>
+    <string name="err_router_files_delete">Impossibile eliminare i file di backup sul router</string>
     <string name="backup_is_running">Dispositivo in fase di backup</string>
     <string name="restore_is_running">Dispositivo in fase di ripristino</string>
     <string name="notif_backup_title">Backup dati</string>
@@ -229,4 +234,44 @@
     <string name="notif_backup_complete_title">Backup eseguito correttamente</string>
     <string name="notif_restore_complete_title">Ripristino eseguito correttamente</string>
     <string name="custom_progress">%d elementi</string>
+    <string name="remote_receive">Ricevi</string>
+    <string name="click_to_view">Tocca per mostrare</string>
+    <string name="trans_one_key_migrate">Trasferisci</string>
+    <string name="trans_main_tutor">Trasferisci contatti, registro chiamate, messaggi, layout home, app, impostazioni, etc. su un nuovo dispositivo</string>
+    <string name="trans_sender">Sono un mittente</string>
+    <string name="trans_receiver">Sono un ricevente</string>
+    <string name="trans_waiting_for_sender">in attesa della connessione del vecchio dispositivo…</string>
+    <string name="trans_waiting_ensurance">"Accertati che il vecchio dispositivo sia acceso
+ed il Trasferimento sia attivato"</string>
+    <string name="trans_my_device">Il mio dispositivo</string>
+    <string name="trans_sender_searching">In cerca di nuovi dispositivi</string>
+    <string name="trans_sender_searching_ensurance">"Accertati che il nuovo dispositivo sia acceso
+In attesa che il vecchio dispositivo si colleghi…"</string>
+    <string name="trans_select_device_send">Seleziona un dispositivo su cui trasferire i dati.</string>
+    <string name="trans_sender_connectting">Conferma sul nuovo dispositivo</string>
+    <string name="trans_select_device_receive">Selezion un dispositivo per la ricezione dei dati.</string>
+    <string name="trans_backingup">Backup in corso…</string>
+    <string name="trans_backingup_no_items">Sincronizzazione…</string>
+    <string name="trans_restoring">Ripristino…</string>
+    <string name="trans_time_remained">, pronto tra</string>
+    <string name="trans_restoring_no_items">Elementi in sincronizzazione</string>
+    <string name="trans_detail_category_sysdata">Dati di sistema</string>
+    <string name="trans_detail_category_userdata">App</string>
+    <string name="trans_detail_category_account">Account e contatti</string>
+    <string name="trans_detail_category_files">File</string>
+    <string name="trans_sending_completed">Dati inviati</string>
+    <string name="trans_receiving_completed">Dati ricevuti</string>
+    <string name="trans_time_format_second">meno di unminuto</string>
+    <string name="trans_progress_subdescript_transing_sender">In invio %s</string>
+    <string name="trans_progress_subdescript_transing_receiver">In ricezione %s</string>
+    <string name="trans_progress_subdescript_transingsd_sender">Invio file…</string>
+    <string name="trans_progress_subdescript_transingsd_receiver">Ricezione file…</string>
+    <string name="trans_progress_subdescript_br_sender">Backup di %s</string>
+    <string name="trans_progress_subdescript_br_receiver">Ricezione di %s</string>
+    <string name="trans_progress_subdescript_waiting">In attesadi ricevere %s</string>
+    <string name="trans_cancel_confirm">Trasferimento in corso, annullare adesso?</string>
+    <string name="trans_cancelling">Annullamento</string>
+    <string name="trans_device_disconnected">Dispositivo disconnesso</string>
+    <string name="trans_connecting_toast">Connessione…</string>
+    <string name="trans_connect_failed_toast">Impossibile connettersi</string>
 </resources>

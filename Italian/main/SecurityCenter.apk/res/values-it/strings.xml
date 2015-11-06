@@ -321,6 +321,7 @@
     <string name="hints_last_virus_scan_virus">Scansionato %d giorni fa: Pericoloso</string>
     <string name="hints_need_quick_scan">Esegui una scansione rapida</string>
     <string name="hints_need_regular_scan">Scansiona periodicamente il tuo dispositivo</string>
+    <string name="hints_need_quick_clean">Trova ed elimina file pericolosi</string>
     <string name="hints_handle_item_text_safe">Sicuro</string>
     <string name="hints_handle_item_text_risk">Rischi: %d</string>
     <string name="hints_handle_item_text_virus">Virus: %d</string>
@@ -539,6 +540,8 @@
     <string name="summary_virus_cloudscan">Carica nomi app e dettagli e controlla utilizzando le definizioni online</string>
     <string name="title_cleaner_cloudscan">Utilizza motore di pulizia online</string>
     <string name="summary_cleaner_cloudscan">Carica e confronta i nomi sconosciuti delle carte con il database online</string>
+    <string name="title_live_talk_purchase">Ricarica adesso</string>
+    <string name="summary_live_talk_purchase">Solo ¥ 0.05 al minuto per chiamate nazionali.</string>
     <string name="toast_network_switch">Questa applicazione può collegarsi ad internet</string>
     <string name="toast_flow_notification">Notifiche utilizzo dati attivate</string>
     <string name="toast_show_notification">Inserto nel pannello di notifica</string>
@@ -565,20 +568,7 @@
     <string name="cmcc_app_check_dialog_positive">Riavvia adesso</string>
     <string name="cmcc_app_check_dialog_negative">Più tardi</string>
     <string name="app_not_installed_toast">"L'applicazione non è installata sul tuo dispositivo."</string>
-    <string name="month_report_activity_label">Rapporto Mensile</string>
-    <string name="month_report_disconnect_tip">Impossibile collegarsi alla rete</string>
-    <string name="month_report_click_reconnect_network">Prova di nuovo</string>
     <string name="month_report_month_report_switch">Mostra rapporto mensile</string>
-    <string name="month_report_warning_dialog_title">Rapporto mensile di sicurezza</string>
-    <string name="month_report_warning_dialog_description">"Per vedere il rapporto mensile attiva questa funzione dalle impostazioni dell'app Sicurezza."</string>
-    <string name="month_report_warning_dialog_positive">Attiva</string>
-    <string name="month_report_history_activity_label">Segnalacronologia</string>
-    <string name="month_report_result_share">Condividi</string>
-    <string name="month_report_share_img_fail">Non è stato possibile condividere</string>
-    <string name="month_report_share_loading">Solo un attimo…</string>
-    <string name="month_report_network_dialog_title">Impossibile recuperare le informazioni del rapporto</string>
-    <string name="month_report_network_dialog_description">Consenti a questa applicazione di collegarsi ad internet per recuperare le informazioni sul rapporto?</string>
-    <string name="month_report_network_dialog_positive">Consenti</string>
     <string name="antivirus_choose_engine_settings">Impostazioni definizione virus</string>
     <string name="antivirus_choose_engine_title">Definizioni</string>
     <string name="antivirus_choose_engine_disable_toast">Impossibile cambiare le definizioni quando la scansione è in corso</string>
@@ -587,7 +577,7 @@
     <string name="antivirus_update_db">%s</string>
     <string name="antivirus_none_engine_dialog_title">Sgegli le definizioni</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_title">Privacy Policy</string>
+    <string name="antivirus_privacy_dialog_title">Informativa sulla Privacy</string>
     <string name="antivirus_privacy_dialog_summary">Questa caratteristica cifra e carica il ID del dispositivo sul server (%s) di AVL e Tencent.</string>
     <string name="antivirus_privacy_dialog_summary_link">visualizza le Privacy Policy</string>
     <string name="antivirus_privacy_dialog_cloudscan">Carica i nomi e i dettagli delle applicazioni</string>

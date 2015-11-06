@@ -16,6 +16,7 @@
     <string name="network_access_denied">Accesso di rete negato</string>
     <string name="service_unavailiable">La rete in uso non è buona, riprovare più tardi</string>
     <string name="data_error">Spiacenti, questi servizi non sono disponibili, riprovare più tardi</string>
+    <string name="data_error_show">Si è verificato un errore</string>
     <string name="locating_fail">Impossibile localizzare, verifica i servizi di localizzazione e riprova.</string>
     <string name="no_more_result">Nessun altro risultato</string>
     <string name="downloading">Download in corso…</string>
@@ -312,7 +313,6 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="order_empty_hint">Nessun ordine</string>
     <string name="order_merchant_title">I miei ordini</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
-    <string name="order_status">%s</string>
     <string name="order_product_name_label">Nome prodotto： %1$s</string>
     <string name="order_status_label">Stato ordine：%s</string>
     <string name="order_price_label">Prezzo ordine：%s</string>

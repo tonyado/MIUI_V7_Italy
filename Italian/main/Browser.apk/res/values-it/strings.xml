@@ -152,8 +152,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="data_traffic_prompt_message">"Utilizzando la connessione dati mobile per navigare aumenterai l'utilizzo dei dati. Se superi il limite previsto dal tuo piano, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
     <string name="data_traffic_prompt_change">"Utilizzando la connessione dati mobile per vedere video aumenterai l'utilizzo dei dati. Se superi il limite previsto dal tuo piano, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
     <string name="clear_video_download">Cancella video</string>
-    <string name="video_download_clear_prompt">Cancellare la cache per i %d video selezionati?</string>
-    <string name="video_download_clear_info">La cache dei %d selezionati è stata cancellata correttamente</string>
     <string name="video_downloading_group">Download in corso</string>
     <string name="video_downloaded_group">Scaricati</string>
     <string name="video_download_start">Inizio downlaod video</string>
@@ -170,8 +168,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="video_edit">Modifica</string>
     <string name="video_title_prefix_message">Offline:</string>
     <string name="video_subtitle_prefix_message">Visti:</string>
-    <string name="video_history_clear_prompt">Rimuovere la cronologia per %d elementi?</string>
-    <string name="video_history_clear_info">Cronologia per %d rimossa correttamente</string>
     <string name="video_history_empty">La cronologia è vuota</string>
     <string name="error_title">Impossibile sincronizzare</string>
     <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
@@ -488,7 +484,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_sogou">Sogou</string>
     <string name="search_google">Google</string>
-    <string name="search_yahoo">Yahoo</string>
+    <string name="search_yahoo">Yahoo!</string>
     <string name="search_bing">Bing</string>
     <string name="search_s139">139</string>
     <string name="search_taobao">Taobao</string>
@@ -683,4 +679,13 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="no_space_alert_cancel">Più tardi</string>
     <string name="no_space_alert_clean">LIbera spazio</string>
     <string name="no_space_clean_failed">NOn è possibile liberare spazio sul dispositivo​</string>
+    <string name="more_option">Altre opzioni</string>
+    <string name="action_menu_current_version">Versione attuale</string>
+    <string name="current_version_pad">Tablet</string>
+    <string name="current_version_phone">Telefono</string>
+    <string name="current_version_pc">Desktop</string>
+    <string name="pref_nav_mode_title">Modalità browser</string>
+    <string name="pref_nav_mode_summary_phone">Telefono</string>
+    <string name="pref_nav_mode_summary_pad">Tablet</string>
+    <string name="unsecurity_url_toast">Questo sito non è sicuro</string>
 </resources>

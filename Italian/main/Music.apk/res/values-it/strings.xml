@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="miuishare_app_name">MiuiShare</string>
-    <string name="miuishare_title_more">Altro</string>
-    <string name="miuishare_title_share">Condividi</string>
-    <string name="miuishare_account_login_ok">Accedi</string>
-    <string name="miuishare_account_activate_ok">Attiva</string>
-    <string name="miuishare_account_login_cancel">Annulla</string>
-    <string name="miuishare_account_login_confirmation">Accesso necessario</string>
-    <string name="miuishare_account_activate_confirmation">Attivazione necessaria</string>
-    <string name="miuishare_account_need_login">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'account Xiaomi con il quale sei attualmente collegato. Accedere per condividere adesso?"</string>
-    <string name="miuishare_account_need_activate">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'account Xiaomi che non è attualmente attivato. Attivare il tuo account?"</string>
-    <string name="miuishare_wechat_timeline_title">Timeline Wechat</string>
-    <string name="miuishare_weibo_title">Weibo</string>
-    <string name="miuishare_publish">Invia</string>
-    <string name="miuishare_share_done">Contenuto inviato.</string>
-    <string name="miuishare_share_editor_title">Condividi</string>
-    <string name="miuishare_no_network">Nessuna rete disponibile</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -469,4 +453,24 @@ atendere o selezionare Musica Online."</string>
     <string name="repeat_all_notif">Ripeti tutti i brani.</string>
     <string name="shuffle_on_notif">Shuffle attivato.</string>
     <string name="shuffle_off_notif">Shuffle disattivato.</string>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_title_more">Altro</string>
+    <string name="miuishare_title_share">Condividi</string>
+    <string name="miuishare_account_login_ok">Accedi</string>
+    <string name="miuishare_account_activate_ok">Attiva</string>
+    <string name="miuishare_account_login_cancel">Annulla</string>
+    <string name="miuishare_account_login_confirmation">Accesso necessario</string>
+    <string name="miuishare_account_activate_confirmation">Attivazione necessaria</string>
+    <string name="miuishare_account_need_login">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'account Xiaomi con il quale sei attualmente collegato. Accedere per condividere adesso?"</string>
+    <string name="miuishare_account_need_activate">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'account Xiaomi che non è attualmente attivato. Attivare il tuo account?"</string>
+    <string name="miuishare_wechat_timeline_title">Timeline Wechat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuishare_publish">Invia</string>
+    <string name="miuishare_share_done">Contenuto inviato.</string>
+    <string name="miuishare_share_editor_title">Condividi</string>
+    <string name="miuishare_no_network">Nessuna rete disponibile</string>
+    <string name="download_start">Avvio download…</string>
+    <string name="already_download">Download in corso…</string>
+    <string name="download_complete">Download completato</string>
+    <string name="download_complete_start_install">Installazione…</string>
 </resources>

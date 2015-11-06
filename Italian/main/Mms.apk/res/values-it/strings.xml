@@ -59,6 +59,7 @@
     <string name="select_different_media">Scegli un %1$s diverso.</string>
     <string name="exceed_message_size_limitation">Limite di dimensione del messaggio raggiunto.</string>
     <string name="exceed_message_text_limitation">LImite lunghezza messaggio raggiunto.</string>
+    <string name="exceed_message_size_limitation_add_slide">Dimensione del messaggio insufficiente per aggiungere slide</string>
     <string name="message_too_big_for_video">Dimensioni del messaggio troppo grandi per poter allegare un video.</string>
     <string name="failed_to_add_media">Impossibile aggiungere %1$s al messaggio.</string>
     <string name="failed_to_resize_image">Immagine non ridimensionata.</string>
@@ -475,6 +476,8 @@
     <string name="pref_show_sms_template_summary">Copia ed inserisci automaticamente i codici di verifica</string>
     <string name="title_show_sms_template_in">Controlla OTP negli SMS</string>
     <string name="pref_show_sms_template_in_summary">Rileva automaticamente OTP negli SMS</string>
+    <string name="title_allow_network_access">Aggiorna automaticamente le informazioni</string>
+    <string name="pref_allow_network_access_summary">Attiva per ricevere le ultime informazioni sulla consegna ed altri servizi.</string>
     <string name="title_show_blocked_messages">Mostra gli SMS bloccati</string>
     <string name="pref_show_blocked_messages_summary">Mostra gli SMS bloccati nella lista delle conversazioni</string>
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
@@ -522,6 +525,7 @@
     <string name="alert_dlg_ok_button">OK</string>
     <string name="alert_dlg_cancel_button">Annulla</string>
     <string name="cloud_recommend_msg">Tocca per sincronizzare i messaggi con Mi Cloud.</string>
+    <string name="yellowpage_recommend_msg">Prova le funzioni SMS di MIUI</string>
     <string name="send_message_notification_tickerText">Richiesta di permessi per Gestione dispositivo</string>
     <string name="send_message_notification_title">Gestione dispositivo</string>
     <string name="send_message_notification_msg">Richiesta di permesso invio messaggio per Gestione dispositivo</string>
@@ -594,4 +598,8 @@
     <string name="mx_and_voip_enable_popup_msg">"Invia messaggi e chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Infomrativasull Privacy di Weihui."</string>
     <string name="mx_and_voip_enable_popup_msg2">Informativa sulla Privacy</string>
     <string name="mx_b2c_message_desc">Notifiche di rete</string>
+    <string name="networking_allow_title">Attenzione</string>
+    <string name="networking_allow_desc">I messaggi smart ti consentono di inviare sms e messaggi vocali gratuitamente, riconoscere numeri sconosciuti, filtrare lo spam, etc. Utilizzando questo dispositivo accettti %1$s e %2$s di Xiaomi. evi passare alle Pagine Gialle e collegarti ad internet per utilizzare questo servizio.</string>
+    <string name="networking_allow_continue">OK</string>
+    <string name="mx_activate_allow_notice">Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato epr attivare i servizi di messaggi e chiamate gratuiti.</string>
 </resources>

@@ -25,4 +25,8 @@
         <item>Grande</item>
         <item>Molto grande</item>
     </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefono</item>
+        <item>Tablet</item>
+    </string-array>
 </resources>
