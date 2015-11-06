@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
 <resources>
     <plurals name="pinpuk_attempts">
         <item quantity="other">Ti restano %d tentativi prima che la SIM venga bloccata.</item>
-        <item quantity="one">Ti resta %d tentatico prima che la SIM venga bloccata.</item>
+        <item quantity="one">Ti resta %d tentativo prima che la SIM venga bloccata.</item>
     </plurals>
     <plurals name="num_seconds_ago">
         <item quantity="other">%d secondi fa</item>
@@ -98,6 +97,6 @@
     </plurals>
     <plurals name="restr_pin_countdown">
         <item quantity="other">Riprova tra %d secondi</item>
-        <item quantity="one">Riprova tra 1 secondo</item>
+        <item quantity="one">RIprova tra 1 secondo</item>
     </plurals>
 </resources>
