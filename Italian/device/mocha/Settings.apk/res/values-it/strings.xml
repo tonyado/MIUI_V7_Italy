@@ -313,7 +313,6 @@
     <string name="status_bar_settings_basic_settings">Impostazioni base</string>
     <string name="status_bar_settings_advanced">Impostazioni aggiuntive</string>
     <string name="status_bar_settings_show_flow_info">Mostra dettagli trasmissione</string>
-    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lockscreen, pannello delle notifiche</string>
 	<string name="status_bar_app_disable_notification">Vuoto</string>
     <string name="status_bar_app_enable_message">Icone</string>
     <string name="status_bar_app_enable_floating">Finestre di notifica</string>
