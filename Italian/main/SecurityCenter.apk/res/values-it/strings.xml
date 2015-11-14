@@ -431,7 +431,10 @@
     <string name="activity_title_notification_bar_manager">Notifiche</string>
     <string name="activity_title_default_apps_manager">App predefinite</string>
     <string name="activity_title_permission_manager">Permessi</string>
-    <string name="activity_title_root_manager">Accesso come root</string>
+    <string name="activity_title_root_manager">Permessi root</string>
+    <string name="activity_title_root_acquired">Consenti permessi root</string>
+    <string name="activity_title_root_note">Informazioni sui permessi root</string>
+    <string name="pm_root_success_notification_title">Permessi root consentiti</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
     <string name="hints_auto_start_warning_info">"Non si riceverà nessun avviso per le app a cui è stato negato l'avvio automatico"</string>
     <string name="activity_title_apps_manager">App</string>

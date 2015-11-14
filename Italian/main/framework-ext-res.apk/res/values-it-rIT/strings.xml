@@ -20,7 +20,11 @@
     <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
     <string name="status_bar_toggle_quiet_mode">Anti-disturbo</string>
     <string name="status_bar_toggle_paper_mode">Mod. Lettura</string>
-    <string name="miui">MIUI</string>   
+    <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
+    <string name="screen_button_disabled_message">Tasti di navigazione disattivati. Per riattivarli tocca Home ed il tasto accensione contemporaneamente.</string>
+    <string name="screen_button_enabled_message">Tasti navigazione attivati.</string>
+    <string name="miui">MIUI</string>
     <string name="perm_send_push_dspt">Consenti messaggi Mi push</string>
     <string name="perm_send_push_lab">Invia messagio push</string>
     <string name="select">Seleziona</string>
@@ -81,12 +85,13 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="location_usage_restricted_body">Tocca per rimuovere limitazioni.</string>
     <string name="fc_dialog_body">"Inviare il bug report a Xiaomi per l'analisi? Questo rapporto potrebbe contenere informazioni di identificazione personale. Il tuo rapporto verrà utilizzato per aiutare la risoluzione di questo bug non verrà mai condiviso in nessun conteso commerciale."</string>
     <string name="fc_dialog_jump_to_preview">Mostra il riassunto</string>
+    <string name="livetalk_not_enable">Pacchetto ricarica disattivato</string>
     <string name="internal_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali</string>
     <string name="international_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate internazionali</string>
     <string name="all_call_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali e internazionali </string>
-    <string name="internal_remain_mins">%1$s minuti rimasti (chiamate nazionali)</string>
-    <string name="international_remain_mins">%1$s minuti rimasti (%2$s chiamate)</string>
     <string name="all_call_livetalk_remain_mins">Minuti rimasti: (%1$s nazionali) | %2$s (%3$s)</string>
+    <string name="enable_livetalk_title">Attiva apcchetto di ricarica</string>
+    <string name="enable_livetalk_summary">¥ 0.05 al minuto per chiamate nazionali</string>
     <string name="cancel_action">Annulla</string>
     <string name="set_password_action">Imposta password</string>
     <string name="set_password_title">Imposta password</string>
@@ -94,4 +99,13 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="apply_password_confirm_dlg_title">Questa password verrà utilizzata per %s</string>
     <string name="apply_password_confirm_dlg_msg">Richiedere password per %s​?</string>
     <string name="apply_password_action">Imposta password</string>
+    <string name="subinfo_default_name">SIM %d</string>
+    <string name="ignore_home_when_fingerprint_enrolling_msg">Posiziona il dito sul tasto Home</string>
+    <string name="maml_component_customization_title">Impostazioni</string>
+    <string name="default_name">Predefinito</string>
+    <string name="resource_select">Seleziona</string>
+    <string name="group_name_contacts">Contatti</string>
+    <string name="group_name_friends">Amici</string>
+    <string name="group_name_family">Famiglia</string>
+    <string name="group_name_coworkers">Colleghi</string>
 </resources>

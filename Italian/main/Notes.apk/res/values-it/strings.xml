@@ -35,9 +35,9 @@
     <string name="menu_send_weibo">Invia con Weibo</string>
     <string name="menu_send_wechat">Invia con WeChat</string>
     <string name="info_note_enter_desktop">Nota inserita sulla home</string>
-    <string name="alert_message_delete_notes">Elimina %1$s nota(e)?</string>
-    <string name="alert_message_delete_folders">Eliminare %1$s cartella(e)?</string>
-    <string name="alert_message_delete_folders_notes">Eliminare le %1$s cartelle e le %2$s note?</string>
+    <string name="all_terms">%1$s e %2$s</string>
+    <string name="alert_title_delete">Elimina nota</string>
+    <string name="alert_message_delete">Eliminare %1$s?</string>
     <string name="alert_message_delete_note">Sicuro di voler eliminare questa nota?</string>
     <string name="format_move_notes_to_folder">%1$s spostata(e) in %2$s</string>
     <string name="format_move_notes_out_folder">%1$s spostata(e) fuori</string>
@@ -51,6 +51,7 @@
     <string name="error_unsupport_content">Nella nota è presente un contenuto non supportato, premi per aggiornare il sistema</string>
     <string name="error_contact_not_exist">Contatto inesistente</string>
     <string name="sync_tips">Tocca per sincronizzare le note con Mi Cloud.</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">Dimensione font</string>
     <string name="call_record_folder_name">Registro chiamate</string>
     <string name="hint_foler_name">Digita il nome</string>
@@ -85,8 +86,10 @@
     <string name="pref_title_common">Impostazioni frequenti</string>
     <string name="pref_title_alarm_when_silent">Sveglia in modalità silenziosa</string>
     <string name="pref_desc_alarm_when_silent">La sveglia suonerà anche in modalità silenziosa</string>
+    <string name="pref_title_recover_help">Ripristina note</string>
     <string name="dlg_title_confirm_alarm_silent">Vuoi che la sveglia non suoni in modalità silenz.?</string>
     <string name="dlg_desc_confirm_alarm_silent">Sveglia e note non suoneranno in modalità silenziosa.</string>
+    <string name="dlg_delete_message">Eliminazione…</string>
     <string name="permlab_accessNote">Accedi agli appunti</string>
     <string name="permdesc_accessNote">Le applicazioni dannose potrebbero sfruttare questa possibilità per accedere le tue informazioni personali.</string>
     <string name="undo">Annulla</string>

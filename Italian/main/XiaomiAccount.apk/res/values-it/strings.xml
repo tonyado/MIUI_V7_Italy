@@ -76,6 +76,9 @@ Per attivare il tuo account, segui il
     <string name="passport_input_vcode_hint">Inserisci il codice di verifica</string>
     <string name="passport_confirm">Conferma</string>
     <string name="passport_login_notice">Accesso in corso…</string>
+    <string name="passport_login_check_find_device">Verifica stato Trova Dispositivo...</string>
+    <string name="passport_login_check_find_device_failed">"Impossibile verificare Trova Dispositivo. Verifica la tua connessione di rete."</string>
+    <string name="passport_login_find_device_bind">Questo dispositivo è già associato ad un ID Mi Account (%s). Accedi epr attivare questo dispositivo.</string>
     <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_reging">Creazione account…</string>

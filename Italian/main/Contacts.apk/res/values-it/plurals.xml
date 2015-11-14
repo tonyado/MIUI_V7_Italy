@@ -113,6 +113,10 @@
         <item quantity="other">Sbloccare questi %1$d numeri?</item>
         <item quantity="one">Sbloccare questo numero?</item>
     </plurals>
+    <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d persone</item>
+        <item quantity="one">%1$d persona</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Ha squillato %d volte</item>
         <item quantity="one">Ha squillato %d volta</item>
@@ -123,6 +127,6 @@
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%d contatti non sono stati sincronizzati</item>
-        <item quantity="one">"1 contatto non è stato sincronizzato"</item>
+        <item quantity="one">1 contatto non è stato sincronizzato</item>
     </plurals>
 </resources>

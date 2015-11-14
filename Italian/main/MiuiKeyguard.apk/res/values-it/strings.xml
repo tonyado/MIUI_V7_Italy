@@ -41,6 +41,7 @@
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
     <string name="lockscreen_access_pattern_detected">Sequenza completa</string>
     <string name="default_lockscreen_unlock_hint_text">Scorri in alto per sbloccare</string>
+    <string name="set_lock_wallpaper_failed">Nessun nuovo sfondo</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Hai inserito la password sbagliata per %d volte. Dopo altri %d tentativi errati, ti verrà chiesto di sbloccare il tuo telefono accedendo al tuo account.
 
  Riprova tra %d secondi."</string>

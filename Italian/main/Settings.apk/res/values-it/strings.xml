@@ -80,7 +80,7 @@
     <string name="status_bar_app_enable_message">Icone</string>
     <string name="status_bar_app_enable_floating">Finestre di notifica</string>
     <string name="status_bar_app_enable_keyguard">Lockscreen</string>
-    <string name="status_bar_app_des_separator">,</string>
+    <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_settings_show_carrier">Mostra operatore</string>
     <string name="status_bar_settings_custom_carrier">"Modifica il nome dell'operatore"</string>
     <string name="status_bar_settings_no_carrier">Nessuna</string>
@@ -2148,6 +2148,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="search_bluetooth">Bluetooth</string>
     <string name="search_android_beam">Beam</string>
     <string name="search_vpn">VPN</string>
+    <string name="search_virtual_sim">SIM virtuale</string>
     <string name="search_tether">Hotspot</string>
     <string name="search_brightness">Luminosità</string>
     <string name="search_wallpaper">Sfondo</string>
@@ -2391,6 +2392,16 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="frequently_fragment_delete">Rimuovi</string>
     <string name="show_fc">App chiuse forzatamente</string>
     <string name="show_fc_summary">Mostra app chiuse forzatamente</string>
+    <string name="shuting_down_find_device">Disattivazione Trova Dispositivo...</string>
+    <string name="checking_find_device_status">Verifica stato Trova Dispositivo...</string>
+    <string name="failed_to_check_find_device_status_title">Impossibile verificare lo stato di Trova Dispositivo</string>
+    <string name="failed_to_check_find_device_status_content">Impossibile verificare lo stato di Trova Dispositivo. Riprova tra un minuto o due.</string>
+    <string name="failed_to_shut_down_find_device_title">Impossibile disattivare Trova Dispositivo</string>
+    <string name="failed_to_shut_down_find_device_content">Impossibile disattivare Trova Dispositivo. Riprova tra un minuto o due.</string>
+    <string name="shut_down_find_device_network_failure_title">Impossibile collegrsi alla rete</string>
+    <string name="shut_down_find_device_network_failure_content">mpossibile disattivare Trova Dispositivo. Assicurati che il dispositivo sia collegato alla </string>
+    <string name="check_find_device_status_failure_confirm">OK</string>
+    <string name="shut_down_find_device_failure_confirm">OK</string>
     <string name="factory_reset_summary">Elimina tutti i dati dalla memoria interna del tuo dispositivo</string>
     <string name="erase_sure">Dati personali</string>
     <string name="erase_personal_data">Dati personali</string>
@@ -3102,5 +3113,5 @@ Disabilitare le finestre flottanti?"</string>
     <string name="add_fingerprint_instruction_dialog_msg">"Per aggiungere la tua impronta digitale, metti il dito sul sensore.
 assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="add_fingerprint_toast_text">Metti il dito sul sensore adesso</string>
-   <string name="onekey_migrate">Trasferisci</string>
+    <string name="onekey_migrate">Trasferisci</string>
 </resources>

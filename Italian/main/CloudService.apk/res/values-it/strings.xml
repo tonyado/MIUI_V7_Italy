@@ -18,8 +18,6 @@
     <string name="pref_summary_sync_display_photo_on_wifi_only">Non utilizzare la rete dati mobile per sincronizzare le foto dei contatti</string>
     <string name="pref_title_sync_video_on_wifi_only">Utilizza solo Wi-Fi per la sincronizzazione video</string>
     <string name="pref_summary_sync_video_on_wifi_only">"Sincronizza solo i video del profilo contatti quando sei collegato ad una rete Wi-Fi"</string>
-    <string name="find_device_stop_noise">Interrompi</string>
-    <string name="find_device_noise_title">Suono di localizzazione telefono</string>
     <string name="error_title">Errore di sincronizzazione</string>
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
     <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
@@ -82,17 +80,19 @@ Localizza, blocca o cancella il dispositivo da "</string>
     <string name="find_device_send_sms_alert">"
 
 Se cambi SIM, verrà inviato automaticamente un altro SMS per attivare questa funzione.</string>
-    <string name="mx_dspt_provision">"Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi.
-
-Puoi attivare e disattivare questa funzione in qualsiasi momento nelle Impostazioni."</string>
-    <string name="mx_dspt_provision_with_voip">Chiama gratuitamente altri utenti MIUI utilizzando al tua connessione Internet. Puoi attivare o disattivare questa funzione in qualsiasi momento nelle Impostazioni.</string>
+    <string name="mx_dspt_provision_with_voip">"Chiama gratuitamente gli altri utenti MIUI utilizzando la connessione internet. Pupoi modificare questa opzioni in qualsiasi momento nelle Impostazioni. VoIP è supportato da Weihui. Leggi l'informativa sullaPrivacy"</string>
     <string name="mx_dspt_provision_with_voip2">Informativa sulla Privacy</string>
-    <string name="mx_dspt_provision_privacy">"Questo servizio potrebbe richiedere il tuo numero. Il tuo operatore potrebbe addebitarti dei costi per l'SMS utilizzato per l'attivazione del servizio.
+    <string name="mx_dspt_provision_privacy">"Questa funzione potrebbe richiedere il tuo numero di telefono. il tuo operatore potrebbe addebitarti il costo si un SMS utilizzato per attivare questa funzione.
 
-Questa funziona crittografa ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
+Questa funzione crittografa ed invia il tuo ID ai server Xiaomi."</string>
     <string name="mx_dspt_provision_privacy_2_sim">"Questo servizio potrebbe richiedere il tuo numero. Il tuo operatore potrebbe addebitarti dei costi per l'SMS utilizzato per l'attivazione del servizio.
 
 Questa funziona crittografa ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
+    <string name="mx_dspt_provision_privacy_no_sim">"Questo servizio potrebbe richiedere il tuo numero. Il tuo operatore potrebbe addebitarti dei costi per l'SMS utilizzato per l'attivazione del servizio quando verrà rilevat una SIM.
+
+Questa funziona crittografa ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
+    <string name="user_agreement_p5">"
+"</string>
     <string name="user_agreement_p6">"
 L'utilizzo di questa funzione è soggetto a "</string>
     <string name="user_agreement_p7">"Condizioni di Utilizzo Mi Cloud"</string>
@@ -105,10 +105,16 @@ L'utilizzo di questa funzione è soggetto a "</string>
     <string name="activating">Attivazione…</string>
     <string name="other_settings">Altre impostazioni</string>
     <string name="find_device">Trova dispositivo abilitato</string>
+    <string name="find_device_reading_status">Stato caricamento…</string>
     <string name="find_device_enabling">Attivazione…</string>
     <string name="find_device_disabling">Disattivazione…</string>
+    <string name="find_device_reading_status_failure">Impossibile caricare lo stato.</string>
+    <string name="enable_find_device_success">Trova Dispositivo attivato.</string>
+    <string name="disable_find_device_success">Trova Dispositivo disattivato.</string>
     <string name="enable_find_device_error">Impossibile attivare Trova dispositivo. %1$s</string>
     <string name="disable_find_device_error">Impossibile attivare Trova dispositivo. %1$s</string>
+    <string name="find_device_error_unknown">Errore sconosciuto</string>
+    <string name="find_device_error_password_changed">La password dell'account è stata modificata di recente.</string>
     <string name="find_device_error_network">Verifica la tua connessione dati e riprova.</string>
     <string name="find_device_error_server">Qualcosa non ha funzionato sul nostro server.</string>
     <string name="find_device_success_title">Trova dispositivo</string>
@@ -154,6 +160,7 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="micloud_space_soundrecorder_detail">Gestisci registrazioni archiviate sul tuo dispositivo</string>
     <string name="micloud_space_full_influence"><u>Cosa accade quando esaurisco lo spazio?</u></string>
     <string name="micloud_storage_usage" formatted="false">Utilizzato %s / Totale %s</string>
+    <string name="micloud_storage_full">Spazio cloud esaurito</string>
     <string name="micloud_title_dspt" formatted="false">"%s totale
  %s in uso | %s rimasti"</string>
     <string name="micloud_title_dspt_remain">%s rimasti</string>
@@ -192,6 +199,12 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="sync_sub_2_sms">Verranno inviati due SMS per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
     <string name="sync_sub_2_intl_sms">Verranno inviati due SMS internazionali per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
     <string name="sync_sub_1_sms_1_intl_sms">Verranno inviati un SMS internazionali e uno nazionale per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
+    <string name="micloud_all_sub_1_sms">Verrà inviato un SMS per attivare la tua SIM. Ti saranno addebitati i costi previsti dal tuo operatore.</string>
+    <string name="micloud_all_sub_1_intl_sms">Verrà inviato un SMS internazionale per attivare la tua SIM. Ti saranno addebitati i costi previsti dal tuo operatore.</string>
+    <string name="micloud_all_sub_2_sms">Verranno inviati 2 SMS per attivare la tua SIM. Ti saranno addebitati i costi previsti dal tuo operatore.</string>
+    <string name="micloud_all_sub_2_intl_sms">Verranno inviati 2 SMS internazionali per attivare la tua SIM. Ti saranno addebitati i costi previsti dal tuo operatore.</string>
+    <string name="micloud_all_sub_1_sms_1_intl_sms">2erranno inviati 2 SMS (internzionale e nazionale) per attivare la tua SIM. Ti saranno addebitati i costi previsti dal tuo operatore.</string>
+    <string name="micloud_all_sub_resend_sms">"Quando attivi 'Trova Dispositivo', potrebbe essere inviato un SMS dopo il cambio si SIM."</string>
     <string name="sync_item_calllog_title">Sincronizza registro chiamate</string>
     <string name="sync_item_calllog_summary">Sincronizza le chiamate effettuate e ricevute su questo telefono</string>
     <string name="view_storage_title">Mostra spazio cloud</string>
@@ -211,24 +224,34 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="micloud_main_sync_exception">Errore di sincronizzazione</string>
     <string name="micloud_main_stop_sync">Interrompi sincronizzazione</string>
     <string name="micloud_main_suggest_sync">Alcuni elementi devono essere sincronizzati con il tuo Mi Cloud.</string>
+    <string name="micloud_main_suggest_master_sync">ON è stato possibile sincronizzare tutto</string>
     <string name="micloud_main_set_internet">Rete</string>
     <string name="micloud_main_sync_now">Sincronizza adesso</string>
+    <string name="micloud_main_sync_on">Sincronizzazione attivata</string>
     <string name="micloud_main_network_error">Impossibile connettersi alla rete. Controlla le impostazioni di rete e riprova.</string>
     <string name="micloud_main_sync_on_wifi">Utilizza Wi-Fi</string>
     <string name="micloud_main_sync_setting">Impostazioni di sincronizzazione</string>
     <string name="micloud_main_suggest_setting">"In attesa di connessione WiFi per sincronizzare
 Tocca il tasto Impostazioni per altre opzioni"</string>
+    <string name="micloud_main_sync_pending">In attesa di sincronizzazione</string>
     <string name="micloud_main_data_unsynced">%d non sincronizzato</string>
     <string name="micloud_main_detail">Mostra dettagli</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
     <string name="micloud_main_sync_init">Recupero informazioni</string>
+    <string name="micloud_main_battery_low">Batteria insufficiente per sincronizzare</string>
+    <string name="micloud_main_battery_message">"Metti in carica il dispositivo per sincronizzare
+%d items"</string>
     <string name="micloud_main_syncing">Sincronizzazione dati…</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizzazione %s</string>
     <string name="micloud_main_synced_data_count">%d dati sono sincronizzati</string>
     <string name="micloud_main_wlan_sync_data_count">%d dati verranno sincronizzati con Wi-Fi</string>
-    <string name="micloud_main_space_full">Spazio esaurito</string>
+    <string name="micloud_main_space_full">Spazio cloud esaurito</string>
     <string name="micloud_main_space_low">Spazio quasi esaurito…</string>
     <string name="micloud_main_update_space">Aggiornamento spazio</string>
+    <string name="micloud_main_space_full_title">Spazio cloud esaurito</string>
+    <string name="micloud_main_memory_low_title">Spazio di archiviazione insufficiente</string>
+    <string name="micloud_main_memory_low_message">Per poter sincronizzare, elimina alcuni elementi in cloud.</string>
+    <string name="micloud_main_clear_now">Elimina</string>
     <string name="micloud_detail_syncing">Sincronizzazione</string>
     <string name="micloud_detail_upload_syncing">Upload %s</string>
     <string name="micloud_detail_download_syncing">Download %s</string>
@@ -236,6 +259,8 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_detail_success">Sincronizzato</string>
     <string name="micloud_detail_fail">Fallita</string>
     <string name="micloud_detail_lastest">Sincronizzato</string>
+    <string name="micloud_detail_lastest_with_off">Sincronizzato</string>
+    <string name="micloud_detail_not_synced">Non sincronizzato</string>
     <string name="micloud_detail_preference_syncing">Sincronizzazione</string>
     <string name="micloud_detail_preference_wlan">Sincronizza con Wi-Fi</string>
     <string name="micloud_detail_wlan">%d dati non sincronizzati</string>
@@ -335,8 +360,66 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_main_title_sync_fail">Impossibile sincronizzare</string>
     <string name="micloud_main_title_sync_on_wifi">Utilizza Wi-Fi</string>
     <string name="micloud_main_title_sync_off">Sincronizzazione disattivata</string>
+    <string name="micloud_main_title_master_sync_off">Auto-sinc. disattivata</string>
+    <string name="micloud_confusion_no">No</string>
+    <string name="micloud_confusion_yes">Sì</string>
+    <string name="micloud_confusion_cancel">Annulla</string>
+    <string name="micloud_confusion_ok">OK</string>
+    <string name="micloud_confusion_entrance_title">Il contenuto di Mi Cloud è stato modificato</string>
+    <string name="micloud_confusion_entrance_question">"Hai effetuato l'accesso e modificato dei dati su Mi Cloud utilizzando un %s?"</string>
+    <string name="micloud_confusion_entrance_hint">Per mantenere il tuo cloud sicuro, non accedere ai dati su Mi Cloud con dispositivi condivisi.</string>
+    <string name="micloud_confusion_account_title">Mi Account ID</string>
+    <string name="micloud_confusion_account_question">"L'ID Mi Account %s ti appartiene?"</string>
+    <string name="micloud_confusion_account_hint">"Le modifiche apportate a questo dispositivo verranno sincronizzate su tutti i dispositivi. Per proteggere il tuo account, ti suggeriamo di disattivare la sincronizzazione sui dispositivi che non utilizzi."</string>
+    <string name="micloud_confusion_setting_title">Troppi dispositivi</string>
+    <string name="micloud_confusion_setting_question">Disattiva la sncronizzazione per gli altri dispositivi associati al tuo account.</string>
+    <string name="micloud_confusion_finish_title">Account verificato</string>
+    <string name="micloud_confusion_finish_message">Assicura che nessuno dei tuoi vecchi o inattivi dispositivi rimangano sincronizzati con il tuo Mi Cloud.</string>
+    <string name="micloud_confusion_finish_hint">Le modifiche apportate a questo dispositivo verranno sincronizzate su tutti i dispositivi. Per proteggere il tuo account, ti suggeriamo di disattivare la sincronizzazione sui dispositivi che non utilizzi.</string>
+    <string name="micloud_confusion_entrance_notify_title">Il contenuto di Mi Cloud è stato modificato</string>
+    <string name="micloud_confusion_entrance_notify_text">Tocca per vedere i dettagli.</string>
+    <string name="micloud_confusion_account_notify_title">Verifica account</string>
+    <string name="micloud_confusion_account_notify_text">Il tuo Mi Account è stato modificato tramite un altro dispositivo.</string>
+    <string name="micloud_confusion_setting_notify_title">Proteggi il tuo account</string>
+    <string name="micloud_confusion_setting_notify_text">Assicurati che nessuno dei tuoi vecchi o inattivi dispositivi sia sincrinizzato con il tuo Mi Cloud.</string>
+    <string name="micloud_confusion_setting_password_error">La password inserita non è corretta</string>
+    <string name="micloud_confusion_toast_confirm">Dispositivo verificato</string>
+    <string name="micloud_confusion_toast_deny">Accedi al tuo Mi Account</string>
+    <string name="micloud_confusion_alert_title">Un altro dispositivo sta modificando il tuo account</string>
+    <string name="micloud_confusion_alert_message">Le informazioni del tuo Mi Account sono state modificate tramite un %s.</string>
+    <string name="micloud_confusion_alert_negative">Più tardi</string>
+    <string name="micloud_confusion_alert_positive">Dettagli</string>
+    <string name="micloud_confusion_check_account_title">Riattiva Mi Cloud</string>
+    <string name="micloud_confusion_account_name">"ID Mi Account: "</string>
+    <string name="input_password_hint">Inserisci password</string>
+    <string name="forget_password"><u>Password dimenticata</u></string>
     <string name="micloud_sync_alert_dialog_title">Utilizza Mi Cloud</string>
-    <string name="micloud_sync_alert_dialog_message">Sincronizza foto, contatti, note e molto altro sui tuoi dispositivi.</string>
+    <string name="micloud_sync_alert_dialog_message">Sincronizza le tue foto, contatti, note ed altro sui tuoi dispositivi.</string>
     <string name="micloud_sync_alert_dialog_negative">Annulla</string>
     <string name="micloud_sync_alert_dialog_positive">OK</string>
+    <string name="micloud_battery_low_notification_title">Batteria in esaurimento</string>
+    <string name="micloud_battery_low_notification_message">Metti in carica per sincronizzare</string>
+    <string name="micloud_upgrade_member">Ottieni spazio aggiuntivo</string>
+    <string name="micloud_notif_title_depend_wifi">%d in attesa di sincronizzazione</string>
+    <string name="micloud_notif_content_depend_wifi">Collegati ad una rete Wi-Fi per sincronizzare.</string>
+    <string name="micloud_find_device_guide_title">"Accedia %s per localizzare, bloccare,
+o formattare il tuo dispositivo."</string>
+    <string name="micloud_find_device_guide_content">Quando cambi la SIM, verrà inviato automaticamente un messaggio\u0009per riattivare questa funzione.</string>
+    <string name="micloud_find_device_guide_button">Attiva Trova Dispositivo</string>
+    <string name="micloud_find_device_guide_progress">Attivazione Trova Dispositivo…</string>
+    <string name="micloud_find_device_opened">Trova dispositivo attivato</string>
+    <string name="micloud_find_device_open_fail">Impossibile attivare Trova Dispositivo</string>
+    <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
+    <string name="micloud_find_device_finish">Fatto</string>
+    <string name="micloud_find_device_guide_micloud">Attiva la sincronizzazione Mi Cloud</string>
+    <string name="micloud_find_device_guide_micloud_sub_content">Sincronizza contatti, foto, note ed altro con Mi Cloud</string>
+    <string name="micloud_find_device_guide_fail_reopen">Attiva Trova Dispositivo su Mi Cloud</string>
+    <string name="micloud_find_device_guide_fail_sub_net">Controlla la tua connessione e prova di nuovo.</string>
+    <string name="micloud_find_device_guide_fail_sub_timeout">Connessione scaduta. Riprova più tardi.</string>
+    <string name="micloud_find_device_guide_noti_title">Attiva Trova Dispositivo per proteggere i tuoi dati anche se perdi il tuo dispositivo</string>
+    <string name="micloud_find_device_guide_noti_content">Attiva</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Attiva Trova Dispositivo per mettere al sicuro i tuoi dati Wechat</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Attiva Trova Dispositivo per mettere al sicuro i tuoi dati Alipay</string>
 </resources>

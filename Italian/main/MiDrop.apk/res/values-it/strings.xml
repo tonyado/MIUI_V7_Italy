@@ -59,7 +59,7 @@
     <string name="receiver_file_cancel">Trasferimento del file %1$s interrotto</string>
     <string name="receiver_cancel">Annulla</string>
     <string name="i_know">Ho capito</string>
-    <string name="receiver_clean">Free up space</string>
+    <string name="receiver_clean">Libera spazio</string>
     <string name="receiver_succeed_ok">OK</string>
     <string name="receiver_succeed_view">Mostra file</string>
     <string name="notif_send_progress">Invio a %1$s…</string>

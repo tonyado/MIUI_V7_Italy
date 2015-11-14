@@ -10,9 +10,13 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="sync_notification_title_format">Elemento in sincronizzazione: %1$s</string>
     <string name="activate_phone_failed_notif_title">Impossibile attivare SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Impossibile avviare Mi Cloud per la SIM %s</string>
+    <string name="activate_phone_success_notif_title">SIM attivata</string>
+    <string name="activate_phone_success_notif_title_msim">SIM %s attivata</string>
+    <string name="activate_phone_cancel_notif_title">Attivazione SIM annullata</string>
+    <string name="activate_phone_cancel_notif_title_msim">Attivazione SIM %s annullata</string>
     <string name="activate_status_title_activating">Attivazione SIM, attendere…</string>
     <string name="activate_status_title_activating_msim">Attivazione SIM %s…</string>
-   <string name="activate_auto_sms_notification_title">SIM card activation</string>
+    <string name="activate_auto_sms_notification_title">Attivazione SIM</string>
     <string name="activate_auto_sms_notification_desc_2_cards">SMS inviato dalla SIM %s per attivare \"Trova Dispositivo\"</string>
     <string name="activate_auto_sms_notification_desc_1_card">SMS inviato per attivare \"Trova Dispositivo\"</string>
     <string name="activate_status_desc_query_activation_info">Richiesta informazioni attivazione dal server</string>
@@ -39,6 +43,7 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Si è verificato un errore durante la verifica del tuo Account Mi</string>
     <string name="activate_status_desc_registering_xiaomi_account">Registrazione Account Mi sul server</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Si è verificato un errore durante la creazione del tuo Account Mi</string>
+    <string name="activate_status_desc_completed_with_sms_sent">Invia SMS per attivare la SIM</string>
     <string name="sim_unactivated_title">La tua scheda SIM non è attiva</string>
     <string name="activate">Attiva</string>
     <string name="activate_popup_title_manual">Attiva %s</string>
@@ -90,4 +95,7 @@ Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</s
     <string name="activate_feature_mms_sync">Sincronizza MMS</string>
     <string name="activate_feature_call_log_sync">Sincronizza registro chiamate</string>
     <string name="activate_feature_find_device">Trova dispositivo</string>
+    <string name="activate_feature_register_xiaomi_account">Impostazione Mi Account</string>
+    <string name="activate_feature_verify_mx_token">Verifica Mi Account</string>
+    <string name="activate_sms_postfix">Questo SMS viene utilizzato epr attivare il tuo dispositivo Xiaomi</string>
 </resources>

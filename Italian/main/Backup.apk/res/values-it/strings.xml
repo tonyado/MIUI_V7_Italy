@@ -17,6 +17,7 @@
     <string name="backup_finished">Backup completato</string>
     <string name="backup_report">Rapporto Backup</string>
     <string name="backup_hint">Non spegnere il telefono</string>
+    <string name="backup_hint_onpad">Mantieni il dispositivo acceso</string>
     <string name="delete_backup_title">Elimina backup</string>
     <string name="delete">Elimina</string>
     <string name="cancel">Annulla</string>
@@ -184,6 +185,7 @@
     <string name="exchange_account">Account exchange</string>
     <string name="system_backup">Backup</string>
     <string name="backup_empty_info">Esegui il backup dei tuoi dati, impostazioni e applicazioni</string>
+    <string name="backup_empty_info_onpad">" Esegui il backup dei tuoi dati, impostazioni e applicazioni"</string>
     <string name="system_backup_info">Impostazioni di sistema, layout desktop, etc.</string>
     <string name="software_backup_info">Backup applicazioni e dati app</string>
     <string name="account_contact_backup_info">Dati (Backup informazioni Xiaomi e Gmail)</string>
@@ -197,6 +199,7 @@
     <string name="every_day">Tutti i giorni</string>
     <string name="select_storage_location">Seleziona destinazione backup</string>
     <string name="current_phone_location">Telefono</string>
+    <string name="current_pad_location">Tablet</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="router_backup_hint">Mantieni i dispositivi accesi</string>

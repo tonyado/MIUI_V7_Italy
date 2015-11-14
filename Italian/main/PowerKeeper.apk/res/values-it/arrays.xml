@@ -13,7 +13,7 @@
         <item>Predefinito</item>
         <item>Modalità nascosta</item>
         <item>Modalità lettura</item>
-        <item>MOdalità media</item>
+        <item>Modalità media</item>
     </string-array>
     <string-array name="event_name">
         <item>foreground_change</item>
@@ -93,7 +93,6 @@
     </string-array>
     <string-array name="shown_mandatory_event_name">
         <item>foreground_change</item>
-        <item>background_change</item>
     </string-array>
     <string-array name="shown_optional_event_name">
         <item>full_screen_enter</item>
@@ -125,7 +124,7 @@
         <item>deselezionati</item>
         <item>altri selezionati</item>
     </string-array>
-	    <string-array name="hmode_app_groups">
+    <string-array name="hmode_app_groups">
         <item>personalizzati</item>
         <item>suggeriti</item>
     </string-array>

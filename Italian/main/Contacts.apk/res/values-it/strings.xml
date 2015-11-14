@@ -698,6 +698,15 @@ Le schede contatti sono disattivate"</string>
     <string name="in_call_show_video_pick_filter">"l video deve essere minore di 3 MB e deve durare meno di 20 secondi. "</string>
     <string name="in_call_show_view_play_error">Si è verificato un errore durante la riproduzione del video, riprova</string>
     <string name="in_call_show_camera_open_error">"Si è verificato un errore nell'apertura della fotocamera, riprovare"</string>
+    <string name="in_call_show_filter_processing">Processo in corso...</string>
+    <string name="in_call_show_filter_process_error">Si è verificato un errore, riprova.</string>
+    <string name="in_call_show_filter_none">Normale</string>
+    <string name="in_call_show_filter_mono">Mono</string>
+    <string name="in_call_show_filter_vivid">Vivido</string>
+    <string name="in_call_show_filter_brannan">Alba</string>
+    <string name="in_call_show_filter_jstyle">Giapponese</string>
+    <string name="in_call_show_filter_earlybird">Autunno</string>
+    <string name="in_call_show_filter_nashvile">Indigo</string>
     <string name="summary_kind_title">Sommario</string>
     <string name="callrecordview_item_newcontact">Nuovo contatto</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
@@ -937,6 +946,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="label_custom_type">Personalizzato</string>
     <string name="loading_accounts">Caricamento informazioni SIM…</string>
     <string name="pkgLabel">Contatti e tastierino</string>
+    <string name="contact_edit_save_error_empty">Contatto vuoto</string>
     <string name="preference_smart_group_title">Gruppi intelligenti</string>
     <string name="preference_smart_group_company_title">Per azienda</string>
     <string name="preference_smart_group_company_summary">Raggruppa per azienda</string>
@@ -958,6 +968,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="smart_group_frequency_4">Oltre 6 mesi fa</string>
     <string name="contact_detail_calllog_call_record_tips">Registra chiamata</string>
     <string name="contact_detail_calllog_call_note_tips">Note</string>
+    <string name="import_from_onekey_migrate">Importa con Transfer</string>
     <string name="import_from_other_phone">Importa da un altro telefono</string>
     <string name="device_brand_title">Scegli una marca</string>
     <string name="device_version_title">Scegli un modello</string>
@@ -1037,7 +1048,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="import_all_sim_entries_miui">Importa tutti i contatti</string>
     <string name="import_sim_entry_miui">Importa</string>
     <string name="delete_sim_entry_miui">Cancella</string>
-    <string name="confirm_delete_sim_entry_miui_title">Delete</string>
+    <string name="confirm_delete_sim_entry_miui_title">Elimina</string>
     <string name="importing_sim_contacts_miui_prepare">"Preparazione per l'impostazione…"</string>
     <string name="deleting_sim_entry_miui_prepare">"Preparazione per l'eliminazione…"</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Deseleziona tutti</string>
@@ -1065,6 +1076,13 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="sim_error_anr_full">"Non c'è abbastanza spazio sulla carta SIM"</string>
     <string name="sim_error_password_error">La password che hai inserito non è valida</string>
     <string name="voip_name">Mi Voice</string>
+   <string name="voip_contacts_entry">Mi Voice</string>
+    <string name="voip_shortcut_name">Mi Voice</string>
+    <string name="voip_contact_label">Mi Voice</string>
+    <string name="voip_loading_contact">Solo un secondo…</string>
+    <string name="create_voip_shortcut_success">Collegamento creato</string>
+    <string name="no_voip_contacts">Nessun contatto Mi Voice</string>
+    <string name="calls_voip_prompt">VOIP</string>
     <string name="yellowPageNavigationLabel">Directory</string>
     <string name="yellowPageNavigationIconLabel">Directory</string>
     <string name="login_ok">Accedi</string>
@@ -1107,6 +1125,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="cloud_recommend_msg">Tocca per sincronizzare i contatti con Mi Cloud.</string>
     <string name="unknow_phone_number_call_failed">Impossibile chiamare il numero sconosciuto</string>
     <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
+    <string name="voip_recommend_msg">Tocca per utilizzare Mi Voice</string>
     <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizzato con Mi Cloud</string>
     <string name="cloud_state_loading">Solo un attimo...</string>
