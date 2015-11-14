@@ -114,7 +114,7 @@ L'utilizzo di questa funzione è soggetto a "</string>
     <string name="enable_find_device_error">Impossibile attivare Trova dispositivo. %1$s</string>
     <string name="disable_find_device_error">Impossibile attivare Trova dispositivo. %1$s</string>
     <string name="find_device_error_unknown">Errore sconosciuto</string>
-    <string name="find_device_error_password_changed">La password dell'account è stata modificata di recente.</string>
+    <string name="find_device_error_password_changed">"La password dell'account è stata modificata di recente."</string>
     <string name="find_device_error_network">Verifica la tua connessione dati e riprova.</string>
     <string name="find_device_error_server">Qualcosa non ha funzionato sul nostro server.</string>
     <string name="find_device_success_title">Trova dispositivo</string>

@@ -97,5 +97,4 @@ Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</s
     <string name="activate_feature_find_device">Trova dispositivo</string>
     <string name="activate_feature_register_xiaomi_account">Impostazione Mi Account</string>
     <string name="activate_feature_verify_mx_token">Verifica Mi Account</string>
-    <string name="activate_sms_postfix">Questo SMS viene utilizzato epr attivare il tuo dispositivo Xiaomi</string>
 </resources>

@@ -107,11 +107,11 @@
     <string name="action_item_share">Condividi</string>
     <string name="action_item_multiple">Modifica</string>
     <string name="action_item_play_all">Riproduci tutto</string>
+    <string name="action_item_hifi">Effetti audio e cuffie</string>
     <string name="action_item_add_to_current_playlist">Playlist attuale</string>
     <string name="action_item_add_to_favorite_playlist">Playlist preferita</string>
     <string name="action_item_add_to_new_playlist">Nuovo</string>
     <string name="action_item_remove_from_favorite">Rimuovi preferito</string>
-    <string name="action_item_remove_from_favorite">Rimuovi dai Preferiti</string>
     <string name="fragment_more">Altro</string>
     <string name="fragment_title_recommend">IN EVIDENZA</string>
     <string name="fragment_title_bill">PLAYLIST</string>
