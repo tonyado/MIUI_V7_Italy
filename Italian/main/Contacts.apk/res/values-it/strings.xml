@@ -1131,4 +1131,5 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="cloud_state_loading">Solo un attimo...</string>
     <string name="cloud_state_disabled">La sincronizzazione con Mi Cloud è disattivata</string>
     <string name="more_call_logs">Per altri dati sulle chiamate su go i.mi.com</string>
+    <string name="transfer_accounts">Trasferisci account</string>
 </resources>

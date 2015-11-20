@@ -133,6 +133,7 @@
     <string name="quick_disconnect_description">Rilevata applicazione che utilizza traffico dati in background, utilizzo dati bloccato</string>
     <string name="location_enable_description">Le applicazioni possono utilizzare il rilevamento della posizione in background</string>
     <string name="location_disable_description">Rilevata applicazione che utilizza dati sulla posizione in background, rilevamento posizione bloccata</string>
+    <string name="power_config_apps">Risparmio batteria in background</string>
     <string name="power_config_mode_title">Livello controllo batteria in background </string>
     <string name="power_config_disable_title">Disattivato</string>
     <string name="power_config_disable_description">MIUI non limita la funzionalità della app in background</string>

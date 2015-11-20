@@ -323,4 +323,9 @@
     <string name="tips_of_cloud_service">Accedi al tuo Mi Account per utilizzare altri servizi Mi</string>
     <string name="login_immediately">Accedi</string>
     <string name="button_text_install_now">Installa</string>
+    <string name="total_clean_text">Pulisci</string>
+    <string name="cached_garbage">Cache</string>
+    <string name="grabage_rank_title">Pulito oggi</string>
+    <string name="flow_rank_title">Utilizzo dati</string>
+    <string name="unlike">No grazie</string>
 </resources>

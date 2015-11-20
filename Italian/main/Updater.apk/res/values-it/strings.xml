@@ -72,6 +72,8 @@
     <string name="set_installfail_title">"Provare a scaricare di nuovo l'aggiornamento?"</string>
     <string name="set_installfail_msg">Il downlaod di questo aggiornamento tramite rete mobile influirà sul tuo traffico dati.</string>
     <string name="set_installfail_title_full">Aggiornamento fallito</string>
+    <string name="check_local_package_validate_error_msg">Impossibile verificare il pacchetto di aggiornamento</string>
+    <string name="check_local_package_validate_error_button">OK</string>
     <string name="set_installfail_full_msg">Impossibile aggiornare in questo momento. Tocca \"OK\" per segnalare questo errore ai nostri sviluppatori."</string>
     <string name="unkown_error_title">Qualcosa è andato storto…</string>
     <string name="download_error">Errore nel download. Aspetta un minuto o due poi riprova.</string>

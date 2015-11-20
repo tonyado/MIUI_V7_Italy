@@ -436,6 +436,8 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="notification_wechat_title">Notificami quando un video WeChat sta per scadere</string>
     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
     <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
+   <string name="notification_wechat_sticker_hint">Mostra notifiche quando sono disponibili nuovi adesivi WeChat</string>
+    <string name="notification_wechat_sticker_switch_title">Notifiche nuovi adesivi</string>
     <string name="backup_title">Backup video di WeChat</string>
     <string name="backup_confirm">Backup ora</string>
     <string name="backup_cancel">No grazie</string>
@@ -543,4 +545,16 @@ e non perderai mai le ultime novità!"</string>
     <string name="type_not_support">Questo formato non è supportato. Scompatta questo file e prova di nuovo.</string>
     <string name="notify_private_folder_title">Proteggi i tuoi file personali</string>
     <string name="notify_private_folder_msg">Tocca per informazioni sulle cartelle private.</string>
+   <string name="select_dest_folder">Seleziona cartella</string>
+    <string name="menu_item_sort_by_added_time">Aggiunto</string>
+    <string name="create_shortcut_title">Crea una scorciatoia</string>
+    <string name="create_shortcut_message">Utilizzi spesso File Explorer. Vuoi creare un collegamento sulla Home per gestire i file più velocemente?</string>
+    <string name="create_shortcut_checkbox_hint">Non mostrare più</string>
+    <string name="create_shortcut_cancel">No grazie</string>
+    <string name="create_shortcut_confirm">Crea</string>
+    <string name="create_shortcut_success">Collegamento creato</string>
+    <string name="clean_hint">Tocca per liberare spazio</string>
+    <string name="private_toast_hint1">Tocca per aggiungere file alle cartelle nascoste</string>
+    <string name="private_toast_hint2">Per nascondere un file toccalo e tieni premuto, poi aggiungilo alla cartella nascosta.</string>
+    <string name="private_toast_hint3">Trascina in basso per aprire le cartelle nascoste</string>
 </resources>
