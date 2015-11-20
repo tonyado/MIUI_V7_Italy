@@ -4,15 +4,16 @@
         "data": [
             {
                 "movable": true,
-                "deletable": false,
+                "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 377,
+                    "stid": 10292,
                     "title": "Google",
-                    "url": "http://www.google.it",
-                    "thumb": "http://f3.market.mi-img.com/download/Browser/4fb3f6b3-4c09-4c61-bebe-f1c7b6d92fec",
-                    "hash": "4953fa03",
-                    "extra": "377_default__1122"
+                    "url": "https://www.google.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/035b74c6baa460e5ce49c32593e696d8dda42d714",
+                    "hash": "ca0fa0f0",
+                    "extra": "10292_default_0_4012_0",
+                    "groupId": 0
                 }
             },
             {
@@ -20,12 +21,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 9035,
-                    "title": "百度",
-                    "url": "https://m.baidu.com/?from=1011267b",
-                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/f4be9517-5420-4f6e-8694-3604987b32d6",
-                    "hash": "a0c5c676",
-                    "extra": "9035_default__2280"
+                    "stid": 10293,
+                    "title": "Facebook",
+                    "url": "https://m.facebook.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/001284b443a374284e28b52458386af77494065b9",
+                    "hash": "bc6acd28",
+                    "extra": "10293_default_1_4014_0",
+                    "groupId": 0
                 }
             },
             {
@@ -33,12 +35,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 131,
-                    "title": "新浪",
-                    "url": "http://sina.cn/?wm=3165_0003",
-                    "thumb": "http://f2.market.mi-img.com/download/Browser/b751d5c9-efc7-4ef5-b75a-a7af298fea75",
-                    "hash": "5b7e2bcb",
-                    "extra": "131_default__943"
+                    "stid": 10294,
+                    "title": "YouTube",
+                    "url": "https://m.youtube.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/0a12894449ac7428c028b42455b86bfb7b3473760",
+                    "hash": "741ae4a6",
+                    "extra": "10294_default_2_4015_0",
+                    "groupId": 0
                 }
             },
             {
@@ -46,12 +49,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 133,
-                    "title": "腾讯",
-                    "url": "http://3g.qq.com/",
-                    "thumb": "http://f3.market.mi-img.com/download/Browser/6abf995e-0933-4033-8c31-b3b49b5c2e1f",
-                    "hash": "90335c90",
-                    "extra": "133_default__65"
+                    "stid": 10295,
+                    "title": "Yahoo",
+                    "url": "https://www.yahoo.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/001284b44da37e284f28b02459386af77994065b9",
+                    "hash": "9451bca8",
+                    "extra": "10295_default_3_4016_0",
+                    "groupId": 0
                 }
             },
             {
@@ -59,12 +63,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 354,
-                    "title": "爱淘宝",
-                    "url": "http://ai.m.taobao.com/vip/?pid=mm_32549094_4132303_13390117",
-                    "thumb": "http://f2.market.mi-img.com/download/Browser/4e9728a0-2f15-4cd4-ac3d-666f584fbec0",
-                    "hash": "8cb865b5",
-                    "extra": "354_default__648"
+                    "stid": 10296,
+                    "title": "Twitter",
+                    "url": "https://twitter.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/0a753e4468b304d6b1e5bcca5b4dab3e1e3678bc6",
+                    "hash": "937096b9",
+                    "extra": "10296_default_4_3554_0",
+                    "groupId": 0
                 }
             },
             {
@@ -72,12 +77,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 97,
-                    "title": "唯品会",
-                    "url": "http://click.union.vip.com/redirect.php?url=eyJkZXN0dXJsIjoiaHR0cDpcL1wvbS52aXAuY29tXC8/Zj1teG1nZ2UiLCJ1Y29kZSI6InQ4bnl0ZmZ0Iiwic2NoZW1lY29kZSI6IjcyMzU4M2UxIiwiY2hhbiI6Im14bWdnZSJ9",
-                    "thumb": "http://f2.market.mi-img.com/download/Browser/c823fa85-0f53-4f0c-aed7-c144aae53b6a",
-                    "hash": "63c56748",
-                    "extra": "97_default__649"
+                    "stid": 10297,
+                    "title": "Gmail",
+                    "url": "https://mail.google.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/0e12894449aa74284028b32455086bf67b3423760",
+                    "hash": "b7713e46",
+                    "extra": "10297_default_5_3550_0",
+                    "groupId": 0
                 }
             },
             {
@@ -85,12 +91,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 89,
-                    "title": "京东",
-                    "url": "http://m.jd.com/",
-                    "thumb": "http://f5.market.mi-img.com/download/Browser/decda944-abbb-4c98-bffd-44be8b24c522",
-                    "hash": "eb768613",
-                    "extra": "89_default__106"
+                    "stid": 10298,
+                    "title": "MI",
+                    "url": "http://www.mi.com/en",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/001284b44aa377284328b02457386cf77d94065b9",
+                    "hash": "ed9d003e",
+                    "extra": "10298_default_6_4017_0",
+                    "groupId": 0
                 }
             },
             {
@@ -98,12 +105,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 336,
-                    "title": "天猫",
-                    "url": "http://s.click.taobao.com/t?e=m%3D2%26s%3DiOuWrawLgx8cQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMdG1qk4zRQOZt4hWD5k2kjPy80H7gHL6a4ddreqVkCMUpBN%2FLcdyCX4%2Bz0jsbgbe5aUuZxIcp9pfUIgVEmFmgnbDX0%2BHH2IEVa7A5ve%2FEYDnFveQ9Ld2jopwTqWNBsAwm%2BIKl4JSR4lzomfkDJRs%2BhU%3D",
-                    "thumb": "http://f1.market.mi-img.com/download/Browser/3c2e4af3-4f76-4c22-903d-940051045c3d",
-                    "hash": "58f86de9",
-                    "extra": "336_default__2249"
+                    "stid": 10299,
+                    "title": "MIUI",
+                    "url": "http://en.miui.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/035b75c6bda46ce5ca49c42598e699d8d0a42d714",
+                    "hash": "41e0c274",
+                    "extra": "10299_default_7_4018_0",
+                    "groupId": 0
                 }
             },
             {
@@ -111,12 +119,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 157,
-                    "title": "优酷",
-                    "url": "http://m.youku.com/",
-                    "thumb": "http://f2.market.mi-img.com/download/Browser/367e3e5a-d8d8-4030-b68f-ed17bffade38",
-                    "hash": "58b58603",
-                    "extra": "157_default__958"
+                    "stid": 10300,
+                    "title": "BBC",
+                    "url": "http://www.bbc.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/0930a588c6d2383b0caa0202621c8ca979d432809",
+                    "hash": "dc6a7a6e",
+                    "extra": "10300_default_8_4019_0",
+                    "groupId": 0
                 }
             },
             {
@@ -124,12 +133,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 428,
-                    "title": "58同城",
-                    "url": "http://m.58.com/?utm_source=xiaomi_gg",
-                    "thumb": "http://f3.market.mi-img.com/download/Browser/ddfc6f6b-8df4-4c50-8670-7ba458b3548b",
-                    "hash": "e1dd5e06",
-                    "extra": "428_default__1169"
+                    "stid": 10301,
+                    "title": "Yahoo",
+                    "url": "http://news.yahoo.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/0af5c140e8f514a6d0018c9f4fe8be157893bd89d",
+                    "hash": "ebcba3cd",
+                    "extra": "10301_default_9_3688_0",
+                    "groupId": 0
                 }
             },
             {
@@ -137,12 +147,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 143,
-                    "title": "汽车之家",
-                    "url": "http://m.autohome.com.cn/?pvareaid=103259&origin=browser.xiaomi.com",
-                    "thumb": "http://f2.market.mi-img.com/download/Browser/52d6ff6e-6c92-43bd-872d-552d864cc916",
-                    "hash": "172eba93",
-                    "extra": "143_default__950"
+                    "stid": 10302,
+                    "title": "WSJ",
+                    "url": "http://www.wsj.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/0df5c480e0f913a632018b9f4ed8b1187e8409fe1",
+                    "hash": "7e8492f5",
+                    "extra": "10302_default_10_4020_0",
+                    "groupId": 0
                 }
             },
             {
@@ -150,12 +161,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 241,
-                    "title": "小说阅读网",
-                    "url": "http://t.xs.cn/",
-                    "thumb": "http://f3.market.mi-img.com/download/Browser/d0608629-299b-4d4b-918a-89a07fc76816",
-                    "hash": "c43350a3",
-                    "extra": "241_default__66"
+                    "stid": 10303,
+                    "title": "CNN",
+                    "url": "http://www.cnn.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/0df5c480eef91aa63901879f46d8bd18728409fe1",
+                    "hash": "17f7e49c",
+                    "extra": "10303_default_11_3707_0",
+                    "groupId": 0
                 }
             },
             {
@@ -163,12 +175,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 9031,
-                    "title": "小米彩票",
-                    "url": "http://cp.mi.com",
-                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/00a5445c525c4efad02f44fa3491b68a00c42e91c",
-                    "hash": "c85e0094",
-                    "extra": "9031_default__2273"
+                    "stid": 10304,
+                    "title": "Vimeo",
+                    "url": "https://vimeo.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/04f5c140e8fb14a67001869f4f18be107893fd89d",
+                    "hash": "313c9a4a",
+                    "extra": "10304_default_12_4021_0",
+                    "groupId": 0
                 }
             },
             {
@@ -176,12 +189,13 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 376,
-                    "title": "读小说",
-                    "url": "http://reader.browser.miui.com/#from=v6",
-                    "thumb": "http://f5.market.mi-img.com/download/Browser/85fb60bc-ec22-4538-b8b6-74ff99209d7e",
-                    "hash": "d6d5d78e",
-                    "extra": "376_default__1121"
+                    "stid": 10305,
+                    "title": "Linkedin",
+                    "url": "https://www.linkedin.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/0cabf559bfac347e208108785e6205d99f071c426",
+                    "hash": "fe5dffee",
+                    "extra": "10305_default_13_311_0",
+                    "groupId": 0
                 }
             },
             {
@@ -189,12 +203,27 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "stid": 359,
-                    "title": "小米网",
-                    "url": "http://a.union.mi.com/mua?c=10508.0001&miurl=http://m.mi.com/v2.html",
-                    "thumb": "http://f3.market.mi-img.com/download/Browser/4c37fcc7-116c-428e-9113-ee10f3555555",
-                    "hash": "ce610077",
-                    "extra": "359_default__1106"
+                    "stid": 10306,
+                    "title": "Google+",
+                    "url": "https://plus.google.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/00d16d452bb394bc81ec26881b169ec0b48a50f79",
+                    "hash": "951130c3",
+                    "extra": "10306_default_14_310_0",
+                    "groupId": 0
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 10307,
+                    "title": "Wikipedia",
+                    "url": "http://www.wikipedia.org/",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/00f5c150e8f014a66001899f4f78be1d7893ad89d",
+                    "hash": "4c82762d",
+                    "extra": "10307_default_15_395_0",
+                    "groupId": 0
                 }
             }
         ]
