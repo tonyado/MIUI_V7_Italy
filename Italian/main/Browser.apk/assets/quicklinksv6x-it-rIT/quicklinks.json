@@ -1,0 +1,202 @@
+{
+    "versionCode": "1",
+    "quicklinks": {
+        "data": [
+            {
+                "movable": true,
+                "deletable": false,
+                "recommend": false,
+                "site": {
+                    "stid": 377,
+                    "title": "Google",
+                    "url": "http://www.google.it",
+                    "thumb": "http://f3.market.mi-img.com/download/Browser/4fb3f6b3-4c09-4c61-bebe-f1c7b6d92fec",
+                    "hash": "4953fa03",
+                    "extra": "377_default__1122"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 9035,
+                    "title": "百度",
+                    "url": "https://m.baidu.com/?from=1011267b",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/f4be9517-5420-4f6e-8694-3604987b32d6",
+                    "hash": "a0c5c676",
+                    "extra": "9035_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 131,
+                    "title": "新浪",
+                    "url": "http://sina.cn/?wm=3165_0003",
+                    "thumb": "http://f2.market.mi-img.com/download/Browser/b751d5c9-efc7-4ef5-b75a-a7af298fea75",
+                    "hash": "5b7e2bcb",
+                    "extra": "131_default__943"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 133,
+                    "title": "腾讯",
+                    "url": "http://3g.qq.com/",
+                    "thumb": "http://f3.market.mi-img.com/download/Browser/6abf995e-0933-4033-8c31-b3b49b5c2e1f",
+                    "hash": "90335c90",
+                    "extra": "133_default__65"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 354,
+                    "title": "爱淘宝",
+                    "url": "http://ai.m.taobao.com/vip/?pid=mm_32549094_4132303_13390117",
+                    "thumb": "http://f2.market.mi-img.com/download/Browser/4e9728a0-2f15-4cd4-ac3d-666f584fbec0",
+                    "hash": "8cb865b5",
+                    "extra": "354_default__648"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 97,
+                    "title": "唯品会",
+                    "url": "http://click.union.vip.com/redirect.php?url=eyJkZXN0dXJsIjoiaHR0cDpcL1wvbS52aXAuY29tXC8/Zj1teG1nZ2UiLCJ1Y29kZSI6InQ4bnl0ZmZ0Iiwic2NoZW1lY29kZSI6IjcyMzU4M2UxIiwiY2hhbiI6Im14bWdnZSJ9",
+                    "thumb": "http://f2.market.mi-img.com/download/Browser/c823fa85-0f53-4f0c-aed7-c144aae53b6a",
+                    "hash": "63c56748",
+                    "extra": "97_default__649"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 89,
+                    "title": "京东",
+                    "url": "http://m.jd.com/",
+                    "thumb": "http://f5.market.mi-img.com/download/Browser/decda944-abbb-4c98-bffd-44be8b24c522",
+                    "hash": "eb768613",
+                    "extra": "89_default__106"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 336,
+                    "title": "天猫",
+                    "url": "http://s.click.taobao.com/t?e=m%3D2%26s%3DiOuWrawLgx8cQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMdG1qk4zRQOZt4hWD5k2kjPy80H7gHL6a4ddreqVkCMUpBN%2FLcdyCX4%2Bz0jsbgbe5aUuZxIcp9pfUIgVEmFmgnbDX0%2BHH2IEVa7A5ve%2FEYDnFveQ9Ld2jopwTqWNBsAwm%2BIKl4JSR4lzomfkDJRs%2BhU%3D",
+                    "thumb": "http://f1.market.mi-img.com/download/Browser/3c2e4af3-4f76-4c22-903d-940051045c3d",
+                    "hash": "58f86de9",
+                    "extra": "336_default__2249"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 157,
+                    "title": "优酷",
+                    "url": "http://m.youku.com/",
+                    "thumb": "http://f2.market.mi-img.com/download/Browser/367e3e5a-d8d8-4030-b68f-ed17bffade38",
+                    "hash": "58b58603",
+                    "extra": "157_default__958"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 428,
+                    "title": "58同城",
+                    "url": "http://m.58.com/?utm_source=xiaomi_gg",
+                    "thumb": "http://f3.market.mi-img.com/download/Browser/ddfc6f6b-8df4-4c50-8670-7ba458b3548b",
+                    "hash": "e1dd5e06",
+                    "extra": "428_default__1169"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 143,
+                    "title": "汽车之家",
+                    "url": "http://m.autohome.com.cn/?pvareaid=103259&origin=browser.xiaomi.com",
+                    "thumb": "http://f2.market.mi-img.com/download/Browser/52d6ff6e-6c92-43bd-872d-552d864cc916",
+                    "hash": "172eba93",
+                    "extra": "143_default__950"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 241,
+                    "title": "小说阅读网",
+                    "url": "http://t.xs.cn/",
+                    "thumb": "http://f3.market.mi-img.com/download/Browser/d0608629-299b-4d4b-918a-89a07fc76816",
+                    "hash": "c43350a3",
+                    "extra": "241_default__66"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 9031,
+                    "title": "小米彩票",
+                    "url": "http://cp.mi.com",
+                    "thumb": "http://file.market.xiaomi.com/thumbnail/webp/l0/AppStore/00a5445c525c4efad02f44fa3491b68a00c42e91c",
+                    "hash": "c85e0094",
+                    "extra": "9031_default__2273"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 376,
+                    "title": "读小说",
+                    "url": "http://reader.browser.miui.com/#from=v6",
+                    "thumb": "http://f5.market.mi-img.com/download/Browser/85fb60bc-ec22-4538-b8b6-74ff99209d7e",
+                    "hash": "d6d5d78e",
+                    "extra": "376_default__1121"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 359,
+                    "title": "小米网",
+                    "url": "http://a.union.mi.com/mua?c=10508.0001&miurl=http://m.mi.com/v2.html",
+                    "thumb": "http://f3.market.mi-img.com/download/Browser/4c37fcc7-116c-428e-9113-ee10f3555555",
+                    "hash": "ce610077",
+                    "extra": "359_default__1106"
+                }
+            }
+        ]
+    }
+}

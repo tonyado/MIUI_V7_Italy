@@ -569,7 +569,7 @@
     <string name="sdcard_has_not_enough_space">Spazio insufficiente sulla scheda SD</string>
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[picture]</string>
-    <string name="audio_download_failed">Downlaod audio fallito</string>
+    <string name="audio_download_failed">Download audio fallito</string>
     <string name="hms_uri_param_err">"L'URL non può essere vuoto"</string>
     <string name="pref_title_sms_validity_period">Periodo di validità SMS</string>
     <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>

@@ -167,9 +167,9 @@
     <string name="jeejen_toggle_dialpad_text">Tastiera</string>
     <string name="miprofile_stranger_card">Scheda straniera</string>
     <string name="no_balance_title">Credito insufficiente</string>
-    <string name="no_balance_message">Credito insufficiente nel pacchetto di ricarica. Puoi porvare con una chiamata normale.</string>
+    <string name="no_balance_message">Credito insufficiente nel pacchetto di ricarica. Puoi provare con una chiamata normale.</string>
     <string name="not_support_title">Numero non supportato</string>
-    <string name="not_support_message">Il pacchetto di ricarica non supporta questi numeri. Puoi porvare con una chiamata normale.</string>
+    <string name="not_support_message">Il pacchetto di ricarica non supporta questi numeri. Puoi provare con una chiamata normale.</string>
     <string name="call_self">Non puoi chiamare il tuo stesso numero</string>
     <string name="network_error_title">Errore di rete</string>
     <string name="network_error_message">Prova ad effettuare una chiamata normale. Verrà addebitata in base ai costi previsti dal tuo operatore.</string>
