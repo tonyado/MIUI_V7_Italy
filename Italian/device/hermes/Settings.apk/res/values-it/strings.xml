@@ -982,6 +982,7 @@ Attempts Remaining :"</string>
     <string name="system_update_settings_list_item_title">Aggiornamenti sistema</string>
     <string name="system_update_settings_list_item_summary"/>
     <string name="firmware_version">Versione di Android</string>
+	<string name="security_patch">Livello patch sicurezza Android</string>
     <string name="model_number">Modello</string>
     <string name="processor_info">Processor info</string>
     <string name="fcc_equipment_id">ID attrezzatura</string>
