@@ -79,7 +79,7 @@
     <string name="voicemail">Segreteria telefonica</string>
     <string name="voicemail_abbreviated">Seg:</string>
     <string name="networks">Operatori di rete</string>
-    <string name="call_settings">Impostazioni chiamate</string>
+    <string name="call_settings">Chiamate</string>
     <string name="additional_gsm_call_settings">Impostazioni aggiuntive</string>
     <string name="sum_gsm_call_settings">Impostazioni aggiuntive solo per le chiamate GSM</string>
     <string name="additional_cdma_call_settings">Impostazioni aggiuntive per chiamate CDMA</string>
