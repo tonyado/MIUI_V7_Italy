@@ -26,7 +26,7 @@
     <string name="power_center_state_on">Attivato</string>
     <string name="power_center_state_off">Disattivato</string>
     <string name="power_center_consume_time">%1$s rimanente</string>
-    <string name="power_center_charge_time">Carica completata in %1$s</string>
+    <string name="power_center_charge_time">Carica completata tra %1$s</string>
     <string name="power_center_battery_full">Batteria caricata completamente</string>
     <string name="power_chooser_title">Risparmio batteria</string>
     <string name="power_chooser_check_box_title">Risparmio batteria</string>
@@ -256,6 +256,7 @@
     <string name="menu_text_garbage_cleanup">Pulizia</string>
     <string name="menu_text_power_manager">Gestione alimentazione</string>
     <string name="menu_text_power_percent">%s batteria</string>
+    <string name="menu_text_power_percent_title">Batteria %s</string>   
     <string name="handle_text_system">Sistema</string>
     <string name="handle_text_memory">Memoria</string>
     <string name="handle_text_cache">Cache</string>

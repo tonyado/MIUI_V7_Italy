@@ -1523,7 +1523,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="wifi_on_time">Tempo accensione Wi‑Fi</string>
     <string name="bluetooth_on_time">Tempo accensione Wi‑Fi</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
-    <string name="history_details_title">Dettagli cronologia</string>
+    <string name="history_details_title">Dettagli utilizzo batteria</string>
     <string name="details_title">Dettagli di utilizzo</string>
     <string name="details_subtitle">Dettagli di utilizzo</string>
     <string name="controls_subtitle">Regola consumo alimentazione</string>
