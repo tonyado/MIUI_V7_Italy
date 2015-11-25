@@ -88,7 +88,7 @@
     <string name="sum_loading_settings">Caricamento impostazioni…</string>
     <string name="sum_hide_caller_id">Numero nascosto nelle chiamate uscenti</string>
     <string name="sum_show_caller_id">Numero visibile nelle chiamate uscenti</string>
-    <string name="sum_default_caller_id">"Usa l'impostazione predefinita dell'operatore sulla visualizzazione del mio numero quando effettui chiamate"</string>
+    <string name="sum_default_caller_id">Usa l'impostazione predefinita dell'operatore sulla visualizzazione del mio numero quando effettui chiamate</string>
     <string name="labelCW">Chiamate in attesa</string>
     <string name="sum_cw_enabled">Durante una chiamata, notificami le chiamate in attesa</string>
     <string name="sum_cw_disabled">Durante una chiamata, non notificarmi le chiamate in attesa</string>
