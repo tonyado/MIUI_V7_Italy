@@ -214,7 +214,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="ftp_password_hint">Password</string>
     <string name="ftp_invalid_username_or_password">Errore di autenticazione</string>
     <string name="add_task">Aggiungi operazione</string>
-    <string name="adding_upload_tasks">Aggiunta processi caricamento.</string>
+    <string name="adding_upload_tasks">Operazione aggiunta#8230;</string>
     <string name="create_new_folder_desctiption">Creazione nuova cartella…</string>
     <string name="create_share_link_description">Creazione link di condivisione…</string>
     <string name="rename_description">Rinominazione, attendere prego…</string>
@@ -436,7 +436,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="notification_wechat_title">Notificami quando un video WeChat sta per scadere</string>
     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
     <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
-   <string name="notification_wechat_sticker_hint">Mostra notifiche quando sono disponibili nuovi adesivi WeChat</string>
+    <string name="notification_wechat_sticker_hint">Mostra notifiche quando sono disponibili nuovi adesivi WeChat</string>
     <string name="notification_wechat_sticker_switch_title">Notifiche nuovi adesivi</string>
     <string name="backup_title">Backup video di WeChat</string>
     <string name="backup_confirm">Backup ora</string>
@@ -557,4 +557,8 @@ e non perderai mai le ultime novità!"</string>
     <string name="private_toast_hint1">Tocca per aggiungere file alle cartelle nascoste</string>
     <string name="private_toast_hint2">Per nascondere un file toccalo e tieni premuto, poi aggiungilo alla cartella nascosta.</string>
     <string name="private_toast_hint3">Trascina in basso per aprire le cartelle nascoste</string>
+    <string name="encrypt_success_first_five">"Crittografato correttamente. Trascina in basso nella pagina principale di File Explorer per vedere i file.</string>
+    <string name="add_private">Aggiungi file alle cartelle nascoste</string>
+    <string name="private_folder_no_file_hints">Tieni premuto sul file o la cartella per nasconderli.</string>
+    <string name="private_folder_update">Aggiornamento cartelle nascoste</string>
 </resources>

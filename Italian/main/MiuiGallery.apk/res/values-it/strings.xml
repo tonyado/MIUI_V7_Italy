@@ -558,6 +558,7 @@ con gli amici"</string>
     <string name="ubifocus_guide_text">Tocca e rilascia per rimettere a fuoco</string>
     <string name="priority_storage">Salva sulla scheda SD</string>
     <string name="priority_storage_summary">Quando la scheda SD è inserita, scarica automaticamente i file sulla SD.</string>
+    <string name="app_name_edit_picture">Modifica immagine</string>
     <string name="abandon">Annulla</string>
     <string name="paint_cancel_title">Ignora modifiche</string>
     <string name="paint_cancel_context">Uscire ed ignorare le modifiche a questa immagine?</string>

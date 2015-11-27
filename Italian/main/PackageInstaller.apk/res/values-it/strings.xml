@@ -52,9 +52,9 @@
     <string name="btn_text_install_origin">Versione originale</string>
     <string name="btn_text_install_security_version_in_appstore">Sostituisci con versione sicura</string>
     <string name="btn_text_scaning">Scansione…</string>
-    <string name="btn_text_security_scan">Scansione di sicurezza</string>
-    <string name="message_security_scaning">Scansione…</string>
-    <string name="message_apk_checking">VErifica apk…</string>
+    <string name="btn_text_full_scan">Scansione completa</string>
+    <string name="message_full_scaning">Scansione completa...</string>
+    <string name="message_quick_scanning">Scansione rapida…</string>
     <string name="message_install_in_market">"Consigliamo di installare l'applicazione dal'App Store"</string>
     <string name="message_appstore_verify_has_new_version">"E' disponibile una nuova versione nell'App Store. Vuoi installarla?"</string>
     <string name="message_appstore_verify_inconsistent">"La firma di questa appl è diversa da quella presente nell'App Store, è più sicuro installare la versione dell'App Store."</string>
