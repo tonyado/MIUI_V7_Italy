@@ -235,7 +235,7 @@ Impossibile inviare il feedback"</string>
     <string name="pm_root_success_msg">Riavvia il dispositivo per completare la procedura.</string>
     <string name="root_acquired">Consenti accesso root</string>
     <string name="root_agree_check_box_title">"Sono consapevole dei rischi dei permessi di root."</string>
-    <string name="root_dangerous_msg">"La concessione dei permessi root sono estremamente pericolosi e potrebbero esporre il tuo dispositivo ed i dati in esso contenuti, ad attacchi da parte di applicazioni dannose. Accetti di essere l'unico responsabile per eventuali danni al tuo dispositivo o perdite di dati derivanti dalla concessione dei permessi root."</string>
+    <string name="root_dangerous_msg">"L'abilitazione dei permessi root è estremamente pericolosa e potrebbe esporre il tuo dispositivo ed i dati in esso contenuti, ad attacchi da parte di applicazioni dannose. Accetti di essere l'unico responsabile per eventuali danni al tuo dispositivo o perdite di dati derivanti dall'abilitazione dei permessi root."</string>
     <string name="updater_service_busy_title">Servizio di aggiornamento occupato</string>
     <string name="updater_service_busy_msg">Questa app utilizza il servizio di aggiornamento per ottenere i permessi di root dei file selezionati.</string>
     <string name="pm_root_checking">Verifica informazioni di sistema...</string>
