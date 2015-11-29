@@ -315,8 +315,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="action_menu_text_setting">Impostazioni</string>
     <string name="action_menu_text_video">Video</string>
     <string name="action_menu_text_bandwidth">Banda</string>
-    <string name="action_menu_text_bandwidth_on">Banda/Attivata</string>
-    <string name="action_menu_text_bandwidth_off">Banda/Disattivata</string>
+    <string name="action_menu_text_bandwidth_on">Risparmio dati</string>
+    <string name="action_menu_text_bandwidth_off">Risparmio dati</string>
     <string name="action_menu_text_snapshot">Salva pagina</string>
     <string name="action_menu_text_fullscreen">Schermo intero</string>
     <string name="action_menu_text_download">Gestione download</string>

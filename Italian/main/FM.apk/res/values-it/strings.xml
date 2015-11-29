@@ -5,7 +5,7 @@
     <string name="menu_record_stop">Interrompi registrazione</string>
     <string name="menu_sleep">Sospensione</string>
     <string name="menu_sleep_cancel">Annulla sospensione</string>
-    <string name="menu_record_list">Lista registrazione</string>
+    <string name="menu_record_list">Lista registrazioni</string>
     <string name="menu_scan_start">Scansione</string>
     <string name="menu_new_station">Aggiungi stazione</string>
     <string name="menu_save_station_list">Aggiungi alla lista</string>
