@@ -135,7 +135,7 @@
     <string name="call_recording_error_sd_access">Impossibile accedere alla scheda SD</string>
     <string name="call_recording_error_sd_unmounted">Registrazione interrotta: scheda SD smontata</string>
     <string name="call_recording_error_low_storage">Spazio insufficiente: la tua scheda SD è troppo piena</string>
-    <string name="call_recording_error_start_failed">"Il Registratore è già in uso da parte di un'altra app"</string>
+    <string name="call_recording_error_start_failed">"Il Registratore è già in uso da un'altra app"</string>
     <string name="call_recording_error_unknown">Si è verificato un errore sconosciuto</string>
     <string name="call_recording_notification_title">Chiamata registrata</string>
     <string name="call_recording_notification_title_error">Non è stato possibile registrare la chiamata</string>
