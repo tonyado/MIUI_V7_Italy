@@ -491,7 +491,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="enable_network">Attiva la rete dati</string>
     <string name="disable_air_mode">Disattiva la modalità Aereo</string>
     <string name="repair">Ripara</string>
-    <string name="check_network_state">COntrolla lo stato della rete</string>
+    <string name="check_network_state">Controlla lo stato della rete</string>
     <string name="current_network_state_not_need_diagnose">Normale</string>
     <string name="apn_exception_title">Controlla le configurazioni APN</string>
     <string name="apn_exception_summary">Testa le configurazione dei Nomi dei Punti di Accesso</string>
