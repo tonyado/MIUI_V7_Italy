@@ -1360,7 +1360,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="reset_app_preferences_desc">"Verranno reimpostate tutte le preferenze relative a:
 
  "<li>App disattivate</li>"
- "<li>notifiche di app disattivate</li>"
+ "<li>Notifiche app disattivate</li>"
  "<li>Applicazioni predefinite per azioni</li>"
  "<li>Limitazioni di dati in background per app</li>"
  "<li>Eventuali limitazioni di autorizzazione</li>"
