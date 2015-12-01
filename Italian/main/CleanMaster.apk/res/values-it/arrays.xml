@@ -29,7 +29,7 @@
         <item>Mostra più tardi</item>
     </string-array>
     <string-array name="cache_clean_menu">
-        <item>Pulizia</item>
+        <item>Pulisci</item>
         <item>File</item>
         <item>Eccezioni</item>
     </string-array>
@@ -37,7 +37,7 @@
         <item>Pulisci</item>
     </string-array>
     <string-array name="apk_clean_menu">
-        <item>Pulizia</item>
+        <item>Pulisci</item>
         <item>File</item>
         <item>Eccezioni</item>
         <item>Installa</item>
