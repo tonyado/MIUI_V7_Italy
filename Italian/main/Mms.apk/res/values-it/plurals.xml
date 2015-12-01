@@ -2,7 +2,7 @@
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Eliminare le %1$s conversazioni selezionate?</item>
-        <item quantity="one">Eliminare questa cinversazione?</item>
+        <item quantity="one">Eliminare questa conversazione?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s sec</item>
@@ -28,7 +28,7 @@
         <item quantity="one">1 messaggio</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%d messaggi non sono statisincronizzati</item>
+        <item quantity="other">%d messaggi non sono stati sincronizzati</item>
         <item quantity="one">1 messaggio non è stato sincronizzato</item>
     </plurals>
     <plurals name="message_count">
