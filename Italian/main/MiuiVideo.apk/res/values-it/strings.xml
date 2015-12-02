@@ -414,6 +414,8 @@
     <string name="lastrefresh">Ultimo aggiornamento:</string>
     <string name="version_select">Selezione versione</string>
     <string name="version_select_summary">Seleziona versione Alpha, Developer o Stabile</string>
+    <string name="app_charging_wifi_mode">Aggiorna quando in carica</string>
+    <string name="app_charging_wifi_mode_summary">Aggiorna automaticamente quando connesso al Wi-Fi e in carica</string>
     <string name="app_update_background">Aggiorna app in background.</string>
     <string name="router_update">"Devi aggiornare l'app del Xiaomi Router."</string>
     <string name="downloading_app_plugin">Download in corso %1$s…</string>
