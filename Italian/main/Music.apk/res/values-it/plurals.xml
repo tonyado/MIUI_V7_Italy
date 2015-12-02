@@ -9,8 +9,8 @@
         <item quantity="one">%d giorno in scadenza</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d brani che verranno scaricati.</item>
-        <item quantity="one">1 brano che verrà scaricato.</item>
+        <item quantity="other">%d brani saranno scaricati.</item>
+        <item quantity="one">1 brano sarà scaricato.</item>
     </plurals>
     <plurals name="NPlaylist_delete_confirm">
         <item quantity="other">Eliminare %d playlist?</item>
@@ -21,8 +21,8 @@
         <item quantity="one">1 nuovo</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d canzoni</item>
-        <item quantity="one">%d canzone</item>
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
         <item quantity="other">%d brani simili</item>
@@ -33,8 +33,8 @@
         <item quantity="one">%d artista</item>
     </plurals>
     <plurals name="Ngroups_count">
-        <item quantity="other">%d band</item>
-        <item quantity="one">%d band</item>
+        <item quantity="other">%d gruppi</item>
+        <item quantity="one">%d gruppo</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Eliminare %d brani?</item>
@@ -45,28 +45,28 @@
         <item quantity="one">Rimuovere %d brano?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d canzoni aggiunte alla playlist</item>
-        <item quantity="one">1 canzone aggiunta alla playlist</item>
+        <item quantity="other">%d brani aggiunti alla playlist</item>
+        <item quantity="one">1 brano aggiunto alla playlist</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d rimossi dalla playlist</item>
+        <item quantity="other">%d brani rimossi dalla playlist</item>
         <item quantity="one">1 brano rimosso dalla playlist</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d canzoni</item>
-        <item quantity="one">1 canzone</item>
+        <item quantity="other">%d brani</item>
+        <item quantity="one">1 brano</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">La riproduzione terminerà tra %d minuti</item>
         <item quantity="one">La riproduzione terminerà tra %d minuto</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d canzoni che saranno inviate</item>
-        <item quantity="one">1 canzone che sarà inviata</item>
+        <item quantity="other">%d brani saranno inviati</item>
+        <item quantity="one">1 brano sarà inviato</item>
     </plurals>
     <plurals name="folder_songs_count">
-        <item quantity="other">%d canzoni</item>
-        <item quantity="one">1 canzone</item>
+        <item quantity="other">%d brani</item>
+        <item quantity="one">1 brano</item>
     </plurals>
     <plurals name="Nnew_local_audios">
         <item quantity="other">%d brani aggiunti</item>
