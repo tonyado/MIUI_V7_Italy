@@ -46,7 +46,7 @@
     <string name="stream_normal">Riproduci in qualità normale</string>
     <string name="toast_stream_normal">"Riproduzione in qualità normale. Effettua un'iscrizione Premium per ascoltare musica in alta qualità."</string>
     <string name="toast_download_error_by_vip_required">"Effettua un'iscrizione Premium per scaricare questo brano."</string>
-    <string name="toast_download_error_by_count_limit">Hai raggiunto il imite dei tuoi download per questo mese.</string>
+    <string name="toast_download_error_by_count_limit">Hai raggiunto il limite dei tuoi download per questo mese.</string>
     <string name="vip_required_with_song">"Effettua un'iscrizione Premium per ascoltare “%s”. Per adesso il brano è stato saltato."</string>
     <string name="vip_required">Spiacenti, è richiesto lo status VIP</string>
     <string name="alaka_required">Questo brano non è disponibile</string>
@@ -194,7 +194,7 @@
     <string name="download_quality">Qualità download</string>
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="i_know">Ho capito</string>
-    <string name="list_item_play_all_tracks">Tocca per riprodurre tutti i brani</string>
+    <string name="list_item_play_all_tracks">Riproduci tutti i brani</string>
     <string name="add_music">Aggiungi brani</string>
     <string name="button_add">Aggiungi</string>
     <string name="find_music">Copertine brani</string>
