@@ -404,7 +404,7 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_notif_content_depend_wifi">Collegati ad una rete Wi-Fi per sincronizzare.</string>
     <string name="micloud_find_device_guide_title">"Accedi a %s per localizzare, bloccare,
 o formattare il tuo dispositivo."</string>
-    <string name="micloud_find_device_guide_content">Quando cambi la SIM, verrà inviato automaticamente un SMS\u0009per riattivare questa funzione.</string>
+    <string name="micloud_find_device_guide_content">Quando cambi la SIM, verrà inviato automaticamente un SMS\u0009 per riattivare questa funzione.</string>
     <string name="micloud_find_device_guide_button">Attiva Trova Dispositivo</string>
     <string name="micloud_find_device_guide_progress">Attivazione Trova Dispositivo…</string>
     <string name="micloud_find_device_opened">Trova dispositivo attivato</string>
