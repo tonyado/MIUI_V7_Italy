@@ -495,7 +495,7 @@ atendere o selezionare Musica Online."</string>
     <string name="already_download">Download in corso…</string>
     <string name="download_complete">Download completato</string>
     <string name="download_complete_start_install">Installazione…</string>
-    <string name="online_list_delete_message">Tutti i brani scaricati in quest aplaylist verranno eliminati dal dispositivo.</string>
+    <string name="online_list_delete_message">Tutti i brani scaricati in questa playlist verranno eliminati dal dispositivo.</string>
     <string name="already_favorited">Già nei Preferiti</string>
     <string name="back_confirm">Tocca ancora per uscire</string>
     <string name="song_offline">Questo brano non è più disponibile.</string>
