@@ -194,7 +194,7 @@
     <string name="download_quality">Qualità download</string>
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="i_know">Ho capito</string>
-    <string name="list_item_play_all_tracks">Tocca per riprodurre tutti i brani</string>
+    <string name="list_item_play_all_tracks">Riproduci tutti i brani</string>
     <string name="add_music">Aggiungi brani</string>
     <string name="button_add">Aggiungi</string>
     <string name="find_music">Copertine brani</string>
