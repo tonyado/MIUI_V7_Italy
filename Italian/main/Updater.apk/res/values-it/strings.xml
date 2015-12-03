@@ -158,6 +158,15 @@ http://zhushou.xiaomi.com"</string>
     <string name="open_now">Sì</string>
     <string name="not_open">Non adesso</string>
     <string name="title_toast_auto">Scarica aggiornamenti ed installa automaticamente</string>
+    <string name="check_local_package_update_title">Aggiona</string>
+    <string name="check_local_package_update_btn">Riavvia e aggiorna</string>
+    <string name="check_local_package_update_msg">"Stai per aggiornare MIUI alla versione %s. Il telefono si riavvierà automaticamente durante l'aggiornamento."</string>
+    <string name="check_local_package_wipe_title">Elimina dati</string>
+    <string name="check_local_package_wipe_btn">Elimina e aggiorna</string>
+    <string name="check_local_package_wipe_msg">Stai per aggiornare MIUI alla versione %s, che è precedente alla versione attuale. I tuoi dati personali verranno eliminati. Assicurati di aver eseguito il backup dei dati importanti prima di iniziare il procedimento.</string>
+    <string name="confirm_local_package_wipe_title">Eliminare i dati?</string>
+    <string name="confirm_local_package_wipe_msg">I tuoi dati personali verranno eliminati. Assicurati di aver eseguito il backup dei dati importanti prima di iniziare il procedimento.</string>
+    <string name="confirm_local_package_wipe_btn">Cancella e aggiorna</string>
     <string name="update_feedback">Feedback aggiornamento</string>
     <string name="update_feedback_end">Ti sei perso la griglia di questa settimana</string>
     <string name="update_feedback_end_sum">Puoi accedere ogni martedì</string>

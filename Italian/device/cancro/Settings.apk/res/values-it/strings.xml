@@ -63,7 +63,7 @@
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
 	<string name="status_bar_settings_show_floating_notification">Finestre di notifica</string>
     <string name="status_bar_settings_show_floating_notification_summary">Le finestre di notifica scompariranno automaticamente dopo essere comparse in alto</string>
-    <string name="status_bar_settings_show_keyguard_notification">Notifiche mobili e lockscreen</string>
+    <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla lockscreen</string>
     <string name="status_bar_settings_show_keyguard_notification_summary" />
     <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
     <string name="status_bar_settings_notification_led">Luce di notifica</string>
@@ -3070,7 +3070,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wakeup_for_keyguard_notification_title">Attiva lo schermo al ricevimento di notifiche</string>
     <string name="experience_optimization_category">Ottimizzazione</string>
     <string name="advanced_text_layout">Attiva layout di testo avanzati</string>
-    <string name="pref_edge_handgrip">Presa sui bordi</string>
+    <string name="pref_edge_handgrip">Comandi laterali</string>
     <string name="apply_password_to_category_title">Applica password a…</string>
     <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
     <string name="secure_keyguard_business_title">Password lockscreen</string>

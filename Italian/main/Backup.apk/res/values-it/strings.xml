@@ -277,4 +277,18 @@ In attesa che il vecchio dispositivo si colleghi…"</string>
     <string name="trans_device_disconnected">Dispositivo disconnesso</string>
     <string name="trans_connecting_toast">Connessione…</string>
     <string name="trans_connect_failed_toast">Impossibile connettersi</string>
+    <string name="trans_generate_qr_code_failed">Impossibile creare QR code</string>
+    <string name="trans_scan_invalid_qrcode">QR code non valido</string>
+    <string name="trans_scan_qr_code_tips">Scansiona QR code utilizando un nuovo dispositivo</string>
+    <string name="trans_show_qr_code_tips">Scansiona QR code utilizzando un vecchio dispositivo</string>
+    <string name="trans_operate_new_phone_tips">Scansiona QR code utilizzando un nuovo dispositivo
+Vai in Impostazioni > Impostazioni aggiuntive > Trasferimento
+ Tocca [Sono un ricevente] per generare un QR code"</string>
+    <string name="trans_operate_old_phone_tips1">"Metodo A
+1. Installa l'app Transfer sul tuo vecchio dispositivo
+2. Apri l'app e seleziona [Sono un mittente]
+3. Scansiona il QR code con il tuo vecchio dispositivo"</string>
+    <string name="trans_operate_old_phone_tips2">"Metodo B
+Vai in Impostazioni > Impostazioni aggiuntive > Trasferimento
+ tocca [Sono un mittente]"</string>
 </resources>

@@ -151,6 +151,7 @@
     <string name="archive">Archivia</string>
     <string name="archived">Archiviata</string>
     <string name="att_download_failed_content">Download fallito</string>
+    <string name="att_download_failed_network_slow">Velocità di connessionetroppo lenta, riprova più tardi</string>
     <string name="att_download_failed_title">Download allegato fallito</string>
     <string name="att_file_not_exists">File %s non trovato</string>
     <string name="att_mgr_no_attachment">Nessun allegato</string>
@@ -244,6 +245,7 @@
     <string name="contact_edit_set_black_list_from">Elimina tutte le mail da questo mittente</string>
     <string name="contact_edit_set_black_list_receive">Elimina tutte le meailcon questo destinatario</string>
     <string name="contact_edit_set_black_list_receive_summary">Elimina tutte le mail che contengono questo destinatario, anche nel campo Cc</string>
+    <string name="contact_edit_set_black_list_title">Imposta blacklist</string>
     <string name="contact_edit_set_phone_contact">Modifica contatti telefono</string>
     <string name="contact_edit_title_phone_contact">Lista contatti telefono</string>
     <string name="contact_in_filter_call_phone_str">chiama: %s</string>
@@ -281,7 +283,6 @@
     <string name="copy_number">Copia numero di telefono</string>
     <string name="create_action">Crea nuova</string>
     <string name="custom_from_account_label">Invia msg come:</string>
-    <string name="date">2888/88/88</string>
     <string name="date_heading">"Data: "</string>
     <string name="date_message_received">%1$s, %2$s</string>
     <string name="date_message_received_today">Oggi, %1$s</string>
@@ -344,6 +345,7 @@
     <string name="exchange_name">Exchange</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">Apri dettagli destinatario</string>
+    <string name="fail_get_email_message">Recupero messaggio fallito.</string>
     <string name="failed">"Impossibile caricare immagine"</string>
     <string name="feedback">Invia feedback</string>
     <string name="feedback_body">Feedback information</string>
@@ -391,6 +393,8 @@
     <string name="get_database_exception">"Per pulire i dati di questa applicazione andare in Impostazioni > Applicazioni di sistema e riprovare."</string>
     <string name="gmail_acceleration">"Utilizza un server di proxy per l'account di Gmail"</string>
     <string name="gmail_login_confirm_to_use_proxy">Vuoi utilizzare un server di proxy per accedere al tuo account di Gmail?</string>
+    <string name="gmail_login_failed_non_proxy_title">Impossibile accedere ai server Gmail</string>
+    <string name="gmail_server_authorization_deleted">Autenticazione account non riuscita. Prova ad aggiungere di nuovo questo account.</string>
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Sign in to Gmail</string>
     <string name="header_category_account">Account</string> 

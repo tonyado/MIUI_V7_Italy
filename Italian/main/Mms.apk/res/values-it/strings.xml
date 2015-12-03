@@ -330,6 +330,7 @@
     <string name="pref_summary_show_recent_contacts">Mostra i contatti recenti durante la composizione di un SMS</string>
     <string name="pref_title_hide_festival">Nascondi scheda Consigliati</string>
     <string name="pref_summary_hide_festival">Nascondi scheda Consigliati per le lingue diverse dal Cinese</string>
+    <string name="pref_message_recovery_introduction_title">Ripristina messaggio</string>
     <string name="send_signature_confirm_dialog_title">Invio conferma</string>
     <string name="send_signature_confirm_dialog_message">Corpo messaggio mancante. Vuoi inviare comunque il messaggio?</string>
     <string name="enter_edit_mode">Elimina</string>
@@ -591,6 +592,13 @@
     <string name="security_alert_dialog_desc">Segnala questo numero (%s) ed i relativi messaggi inviandoli a Xiaomi per una verifica.</string>
     <string name="sms_report_failed">Impossibile inviare segnalazione</string>
     <string name="sms_report_success">Segnalazione inviata</string>
+    <string name="mx_activate_status_desc_query_activte_info">Verifica informazioni SIM…</string>
+    <string name="mx_activate_status_desc_fail">Impossibile attivare Mi Message</string>
+    <string name="mx_activate_status_desc_activating_now">Attivazione…</string>
+    <string name="mx_activate_status_desc_wait_for_sms_fail">Impossibile attivare Mi Message</string>
+    <string name="mx_activate_status_desc_request_activation_sms_phone_error">Il numero inserito non è valido</string>
+    <string name="mx_activate_status_desc_prepare_sending_sms">Invio messaggio attivazione…</string>
+    <string name="mx_activate_status_desc_check_net_connection">Imposibile collegarsi alla rete</string>
     <string name="voip_enable">Mi Message e Voce</string>
     <string name="voip_enable_popup_msg">"Chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Infomrativasull Privacy di Weihui."</string>
     <string name="voip_enable_popup_msg2">Informativa sulla Privacy</string>
@@ -606,4 +614,8 @@
     <string name="msg_type_hint_mx_b2c">Notifica di rete</string>
     <string name="msg_type_hint_mx_b2c_omit">Notifica di rete</string>
     <string name="mx_b2c_message_server">Server</string>
+    <string name="mx_filter_message_from_stranger">Blocca Mi Message da numeri sconosciuti</string>
+    <string name="mx_filter_message_from_stranger_summary">Potrai ancora ricevere SMS normali da numeri sconosciuti</string>
+    <string name="mx_filter_message_from_stranger_dialog_title">Blocca Mi Message danumeri sconosciuti</string>
+    <string name="mx_filter_message_from_stranger_dialog_desc">Potrai ancora ricevere SMS normali da numeri sconosciuti. Puoi attivare e disattivare questa funzione in qualsaisi momento da Messaggi > Impostazioni."</string>
 </resources>

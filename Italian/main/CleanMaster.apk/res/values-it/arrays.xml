@@ -31,7 +31,13 @@
     <string-array name="cache_clean_menu">
         <item>Pulisci</item>
         <item>File</item>
-        <item>Eccezioni</item>
+        <item>Aggiungi file alle eccezioni</item>
+        <item>Aggiungi app alleeccezioni</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Pulisci</item>
+        <item>File</item>
+        <item>Aggiungi file alle eccezioni</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Pulisci</item>
@@ -43,9 +49,6 @@
         <item>Installa</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Dettagli</item>
-        <item>File</item>
-        <item>Backup e disinstalla</item>
         <item>Disinstalla</item>
     </string-array>
     <string-array name="auto_alert_apps_time">

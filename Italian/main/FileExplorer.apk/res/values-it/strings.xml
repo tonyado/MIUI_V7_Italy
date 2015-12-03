@@ -438,13 +438,16 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
     <string name="notification_wechat_sticker_hint">Mostra notifiche quando sono disponibili nuovi adesivi WeChat</string>
     <string name="notification_wechat_sticker_switch_title">Notifiche nuovi adesivi</string>
-    <string name="backup_title">Backup video di WeChat</string>
+    <string name="notification_wechat_auto_backup_hint">Tocca per ulteriori informazioni.</string>
+    <string name="notification_wechat_auto_backup_switch_title">Backup video WeChat</string>
+    <string name="backup_title">Eseguire il backup dei video di WeChat?</string>
     <string name="backup_confirm">Backup ora</string>
     <string name="backup_cancel">No grazie</string>
     <string name="backup_success_title">Backup eseguito</string>
     <string name="backup_success_message">Backup di %1$s</string>
     <string name="backup_success_cancel">OK</string>
     <string name="backup_success_confirm">Visualizza</string>
+    <string name="backup_checkbox_msg">Esegui sempre il backup emostra le notifiche</string>
     <string name="connection_error">Impossibile connettersi</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_screenshot">Screenshot</string>
@@ -471,11 +474,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="move_to">Sposta in…</string>
     <string name="extract">Estrai</string>
     <string name="new_function">Info sulle cartelle private</string>
-    <string name="new_function_info">"Le cartelle private sono una nuova funzione di MIUI.
-Puoi crittografare i tuoi file
-ed archiviarli in un posto sicuro.
-
-Trascina in basso sulla home per provare."</string>
+    <string name="new_function_info">"Per creare una cartella nascosta scorri con il ditodall'alto verso il basso nella pagina iniziale."</string>
     <string name="private_folder">Cartella privata</string>
     <string name="make_private">Rendi privata</string>
     <string name="open_private_folder">Creazione cartella privata…</string>
