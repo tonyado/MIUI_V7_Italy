@@ -336,7 +336,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="contextmenu_add_contact">Aggiungi contatto</string>
     <string name="contextmenu_send_mail">Invia email</string>
     <string name="contextmenu_map">Mappa</string>
-    <string name="contextmenu_openlink_newwindow">Apri in nuova scheda</string>
+    <string name="contextmenu_openlink_newwindow">Apri in una nuova scheda</string>
     <string name="contextmenu_openlink_newwindow_background">Apri in una nuova scheda in secondo piano</string>
     <string name="contextmenu_download_image_as">Salva immagine</string>
     <string name="contextmenu_webpage_capture">Salva come screenshot</string>
