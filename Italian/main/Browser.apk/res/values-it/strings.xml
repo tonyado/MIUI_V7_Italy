@@ -336,7 +336,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="contextmenu_add_contact">Aggiungi contatto</string>
     <string name="contextmenu_send_mail">Invia email</string>
     <string name="contextmenu_map">Mappa</string>
-    <string name="contextmenu_openlink_newwindow">Apri in nuova scheda</string>
+    <string name="contextmenu_openlink_newwindow">Apri in una nuova scheda</string>
     <string name="contextmenu_openlink_newwindow_background">Apri in una nuova scheda in secondo piano</string>
     <string name="contextmenu_download_image_as">Salva immagine</string>
     <string name="contextmenu_webpage_capture">Salva come screenshot</string>
@@ -563,7 +563,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="adblock_rules_restore">Ripristina</string>
     <string name="pref_clear_data_title">Azzera dati</string>
     <string name="pref_clear_all_data_title">Azzera tutto</string>
-    <string name="pref_clear_all_data_dlg">Cancellare tutti i dati salvati qui sopra?</string>
+    <string name="pref_clear_all_data_dlg">Cancellare tutti i dati di navigazione?</string>
     <string name="pref_privacy_clear_history_dlg">Eliminare la cronologia di navigazione del browser?</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Cancellare la cronologia di navigazione?</string>
     <string name="pref_privacy_clear_history">Cancella cronologia</string>
