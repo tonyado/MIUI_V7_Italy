@@ -3691,7 +3691,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="edge_mode_back_summary">Tocca due volte il bordo per tornare indietro</string>
     <string name="edge_mode_clean_summary">Scorri su entrambi i bordi per cancellare la cache di sistema</string>
     <string name="edge_mode_screenshot_summary">Tocca due volte entrambi i bordi per eseguire uno screenshot</string>
-    <string name="edge_mode_guide_title">"Tocca l'area evidenziata per utilizzare la presa su bordi"</string>
+    <string name="edge_mode_guide_title">"Tocca l'area evidenziata per utilizzare i comandi laterali"</string>
     <string name="apply_password_to_category_title">Applica password a…</string>
     <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
     <string name="secure_keyguard_business_title">Password lockscreen</string>
