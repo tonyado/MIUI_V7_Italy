@@ -61,9 +61,9 @@
     <string name="status_bar_settings_notification_priority">Priorità</string>
     <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
-    <string name="status_bar_settings_show_floating_notification">Finestre di notifica</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Le finestre di notifica scompariranno automaticamente dopo essere comparse in alto</string>
-    <string name="status_bar_settings_show_keyguard_notification">Notifiche mobili e lockscreen</string>
+    <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto sullo schermo</string>
+    <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla lockscreen</string>
     <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
     <string name="status_bar_settings_notification_led">Luce di notifica</string>
     <string name="status_bar_settings_notification_bar">Barra notifiche</string>
