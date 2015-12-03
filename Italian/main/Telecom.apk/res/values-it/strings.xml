@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_connection_manager_component" />
-    <string name="Lch_dtmf_key">D</string>
     <string name="telecommAppLabel">Telefono</string>
     <string name="unknown">Sconosciuto</string>
     <string name="notification_missedCallTitle">Chiamata persa</string>

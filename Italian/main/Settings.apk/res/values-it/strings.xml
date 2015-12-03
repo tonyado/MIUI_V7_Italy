@@ -2900,7 +2900,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="power_mgr">Batteria</string>
     <string name="symbols_not_allowed_for_password">La password non può contenere simboli</string>
     <string name="reset_legacy_password_settings_preface_text">Devi ripristinare la tua password della schermata di blocco.</string>
-    <string name="lock_intro_message">Lock_intro_message</string>
     <string name="priority_storage_title">Impostazioni di archiviazione</string>
     <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
     <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati saranno salvati automaticamente nella memoria interna del dispositivo</string>

@@ -2667,7 +2667,6 @@ ed esegui il software."</string>
     <string name="button_text_login">Accesso</string>
     <string name="dialog_title_login">Accesso account Xiaomi</string>
     <string name="dialog_content_login">"Update ha bisogno di accedere all'account Xiaomi, eseguire il login ?"</string>
-    <string name="lock_intro_message">Lock_intro_message</string>
     <string name="welcome">Benvenuto</string>
     <string name="launching_pho">Caricamento informazioni telefono, prego attendere.</string>
     <string name="launching_cit">Avvio Rilevamento Hardware, prego attendere.</string>
