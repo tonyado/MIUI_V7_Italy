@@ -6,6 +6,6 @@
     </string-array>
     <string-array name="version_list_entries">
         <item>Stabile</item>
-        <item>Beta Team</item>
+        <item>Beta</item>
     </string-array>
 </resources>

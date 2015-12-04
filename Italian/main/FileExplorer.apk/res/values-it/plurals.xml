@@ -64,6 +64,14 @@
         <item quantity="few"> (%1$d elementi)</item>
         <item quantity="many"> (%1$d elementi)</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d items</item>
+        <item quantity="zero"> %1$d items</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d items</item>
+        <item quantity="few"> %1$d items</item>
+        <item quantity="many"> %1$d items</item>
+    </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">App %1$s file associati (%2$d elementi)</item>
         <item quantity="zero">App %1$s file associati (%2$d elementi)</item>
@@ -151,5 +159,21 @@
         <item quantity="two">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
         <item quantity="few">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
         <item quantity="many">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="zero">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="one">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="two">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="few">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="many">%1$d nuovi adesivi WeChat oggi</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Backup di %1$d video WeChat.</item>
+        <item quantity="zero">Backup di %1$d video WeChat.</item>
+        <item quantity="one">Backup di %1$d video WeChat.</item>
+        <item quantity="two">Backup di %1$d video WeChat.</item>
+        <item quantity="few">Backup di %1$d video WeChat.</item>
+        <item quantity="many">Backup di %1$d video WeChat.</item>
     </plurals>
 </resources>
