@@ -27,7 +27,7 @@
     <string name="button_text_check">Cerca</string>
     <string name="button_text_update">Aggiorna</string>
     <string name="button_text_reboot">Riavvia adesso</string>
-    <string name="button_text_reboot_hm">Dopo il riavvio</string>
+    <string name="button_text_reboot_hm">Riavvia adesso</string>
     <string name="button_text_later_reboot">Riavvia dopo</string>
     <string name="download_title_first">Ricezione informazioni di aggiornamento…</string>
     <string name="download_title_full_download">Ricezione informazioni pacchetto…</string>
