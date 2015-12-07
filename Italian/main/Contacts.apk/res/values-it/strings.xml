@@ -1114,7 +1114,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_navigation_more_items_title">Altri servizi</string>
     <string name="imei_invalid">IMEI non valido</string>
     <string name="meid_invalid">MEID non valido</string>
-    <string name="firewall_setting">Lista blocchi</string>
+    <string name="firewall_setting">Blacklist</string>
     <string name="solar_calendar">Solare</string>
     <string name="lunar_calendar">Lunare</string>
     <string name="lunar_leap" />
