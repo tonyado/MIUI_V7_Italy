@@ -251,7 +251,7 @@
     <string name="menu_text_networkassistants">Utilizzo dati</string>
     <string name="menu_text_networkassistants_remain">%s rimasti</string>
     <string name="menu_text_networkassistants_danger">%s fuori soglia</string>
-    <string name="menu_text_antispam">Lista blocchi</string>
+    <string name="menu_text_antispam">Blacklist</string>
     <string name="menu_text_license_manager">Permessi</string>
     <string name="menu_text_garbage_cleanup">Pulizia</string>
     <string name="menu_text_power_manager">Gestione alimentazione</string>
@@ -290,7 +290,7 @@
     <string name="activity_title_settings">Impostazioni</string>
     <string name="activity_title_antivirus">Antivirus</string>
     <string name="activity_title_networkassistants">Utilizzo dati</string>
-    <string name="activity_title_antispam">Lista blocchi</string>
+    <string name="activity_title_antispam">Blacklist</string>
     <string name="activity_title_license_manager">Permessi</string>
     <string name="activity_title_power_manager">Batteria</string>
     <string name="activity_title_garbage_cleanup">Pulizia</string>
