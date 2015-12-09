@@ -511,9 +511,9 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="device_admin_title">Amministrazione dispositivo</string>
     <string name="manage_device_admin">Amministratori dispositivo</string>
     <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
-    <string name="manage_trust_agents">Agenti sicuri</string>
+    <string name="manage_trust_agents">Agenti di attendibilità</string>
     <string name="disabled_because_no_backup_security">Imposta prima una lockscreen</string>
-    <string name="manage_trust_agents_summary">Mostra o disattiva agenti sicuri</string>
+    <string name="manage_trust_agents_summary">Mostra o disattiva agenti di attendibilità</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
@@ -1970,8 +1970,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="credentials_not_erased">Impossibile eliminare archivio credenz.</string>
     <string name="credentials_enabled">"L'archivio di credenziali è attivo."</string>
     <string name="credentials_configure_lock_screen_hint">"Devi impostare un PIN o una password di blocco dello schermo per poter utilizzare l'archivio credenziali."</string>
-    <string name="usage_access_title">App con accesso</string>
-    <string name="allow_usage_access_title">Consenti accesso?</string>
+    <string name="usage_access_title">App con accesso a dati utilizzo</string>
+    <string name="allow_usage_access_title">"Consenti l'accesso ai dati di utilizzo?"</string>
     <string name="allow_usage_access_message">"Se si consente l'accesso, questa applicazione può visualizzare le informazioni generali sulle applicazioni del dispositivo, come ad esempio quanto viene utilizzata."</string>
     <string name="emergency_tone_title">Tono chiamate emergenza</string>
     <string name="emergency_tone_summary">Imposta il comportamento in caso di chiamata di emergenza</string>
