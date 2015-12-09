@@ -41,8 +41,8 @@
         <item quantity="one">"Codice PIN errato. Hai ancora %d tentativo a disposizione, dopodiché dovrai contattare l'operatore per sbloccare il dispositivo."</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">Le app %d possono leggere le notifiche</item>
-        <item quantity="one">"L'app %d può leggere le notifiche"</item>
+        <item quantity="other">%d app possono leggere le notifiche</item>
+        <item quantity="one">%d app può leggere le notifiche</item>
     </plurals>
     <plurals name="manage_condition_providers_summary_nonzero">
         <item quantity="other">%d app forniscono condizioni</item>
