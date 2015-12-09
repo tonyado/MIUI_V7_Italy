@@ -14,9 +14,9 @@
     <string name="update_to_count_ji">"Aggiornato all'ep. %1$s"</string>
     <string name="update_to_count_qi">Aggiornato a %s</string>
     <string name="count_qi">Ep. %s</string>
-    <string name="score_by">Punteggio: %s</string>
-    <string name="minute"> minuti</string>
-    <string name="second"> secondi</string>
+    <string name="score_by">Voto: %s</string>
+    <string name="minute"> minuti</string>
+    <string name="second"> secondi</string>
     <string name="count_ge_media">%d video</string>
     <string name="download_geturl_fail">Impossibile accedere al link</string>
     <string name="download_percent_hint">Download in corso di %d%%</string>
@@ -239,7 +239,7 @@
     <string name="mine_info_account_title">Informazioni Account</string>
     <string name="mine_info_account_summary_none">Nessun accesso</string>
     <string name="share">Condividi</string>
-    <string name="score">Votazione </string>
+    <string name="score">Voto </string>
     <string name="place_at">No. %d</string>
     <string name="edit_comment">Aggiungi commento</string>
     <string name="average_score">Voto medio</string>
@@ -274,7 +274,7 @@
     <string name="connecting">Connessione</string>
     <string name="introduce">Riassunto</string>
     <string name="comment">Commenti</string>
-    <string name="douban_score">Recensioni</string>
+    <string name="douban_score">Voto</string>
     <string name="write_comment">Aggiungi commento</string>
     <string name="see_all_count_comment">Altri %d commenti</string>
     <string name="detail_comment_empty">Vuoto</string>
@@ -409,14 +409,14 @@
     <string name="download_url_waiting">Recupero info sul link</string>
     <string name="debug_mode">Modalità Debug</string>
     <string name="debug_mode_desc">"Quando selezionato, mostra l'ID del video nell'angolo in alto a sinistra e mostra la pubblicità all'avvio dell'applicazione."</string>
-    <string name="app_wifi_mode">Aggiorna automaticamente</string>
+    <string name="app_wifi_mode">Aggiorna solo in Wi-Fi</string>
     <string name="app_wifi_mode_summary">"Aggiorna automaticamente l'app quando collegata al Wi-Fi"</string>
-    <string name="app_charging_wifi_mode">"Ricarica per aggiornare l'app"</string>
+    <string name="app_charging_wifi_mode">Aggiorna solo quando in carica</string>
     <string name="app_charging_wifi_mode_summary">Aggiorna automaticamente quando collegato alla rete Wi-Fi e in carica</string>
     <string name="performance_mode">Impostazioni prestazioni</string>
     <string name="performance_mode_desc">Massimizza le prestazioni</string>
-    <string name="bmp_quality_mode">Modalità Qualità Immagine</string>
-    <string name="bmp_quality_mode_desc">Dopo il controllo sulla qualità viene visualizzata la modalitaà.</string>
+    <string name="bmp_quality_mode">Migliora la qualità del video</string>
+    <string name="bmp_quality_mode_desc">"Migliora la qualità dell'immagine video."</string>
     <string name="memory_mode_desc">"Riduci l'utilizzo di memoria"</string>
     <string name="ads_control">Controllo pubblicità</string>
     <string name="ads_control_desc">"Quando selezionato, mostra la pubblicità all'avvio dell'applicazione"</string>
@@ -438,7 +438,7 @@
     <string name="miwifi_app_download_title">Xiaomi Router</string>
     <string name="miwifi_app_download_content">Download in corso...</string>
     <string name="miwifi_app_update_title">"Devi aggiornare l'app del router per utilizzare questa funzione. Aggiornare adesso?"</string>
-    <string name="miwifi_app_update_content">Nota:qusta funzione richiede un router con versione 2.0 o superiore</string>
+    <string name="miwifi_app_update_content">Nota: questa funzione richiede un router con versione 2.0 o superiore</string>
     <string name="miwifi_app_update_button">Aggiorna</string>
     <string name="video_app_update">Aggiorna</string>
     <string name="install_apk">Installa</string>
@@ -467,7 +467,7 @@
     <string name="other_info">Altro</string>
     <string name="actor_intro">Informazioni</string>
     <string name="download">Download</string>
-    <string name="score_douban">Punteggio Douban%1$s</string>
+    <string name="score_douban">Voto Douban%1$s</string>
     <string name="mibi">mibi</string>
     <string name="clubber">clubber</string>
     <string name="clubber_center">clubber center</string>
@@ -480,10 +480,10 @@
     <string name="original_price">original price</string>
     <string name="not_exist_openid">Recupero informazioni account, attendere prego...</string>
     <string name="clubber_info">Informazioni membro</string>
-    <string name="notification_title">\"%s\" download completion</string>
-    <string name="notification_sub_title">Total %d download task(s) completed</string>
-    <string name="notification_ticker_text">Offline video download completion</string>
-    <string name="notification_default_title">Offline video</string>
-    <string name="app_upgrade_title">Mi Video is already upgraded to latest version.</string>
-    <string name="app_upgrade_hint">Click to watch the full polymerization, HD online video.</string>
+     <string name="notification_title">\"%s\" completamento download</string>
+    <string name="notification_sub_title">%d download completato(i)</string>
+    <string name="notification_ticker_text">Completamento download video offline</string>
+    <string name="notification_default_title">Video offline</string>
+    <string name="app_upgrade_title">"Mi Video è già aggiornato all'ultima versione."</string>
+    <string name="app_upgrade_hint">"Clicca per guardare \"The Full Polymerization\", video HD online."</string>
 </resources>
