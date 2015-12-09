@@ -374,7 +374,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">"Migliora i risultati della ricerca consentendo l'accesso alla tua posizione."</string>
     <string name="yellowpage_navigation_network_location_enable">Consenti</string>
     <string name="yellowpage_navigation_network_location_enable_later">Non adesso</string>
-    <string name="yellowpage_navigation_network_location_enabled">Servizio aperto, puoi disattivarlo nelle impostazioni della posizione</string>
+    <string name="yellowpage_navigation_network_location_enabled">"L'accesso alla posizione è attivo, puoi disattivarlo nelle impostazioni"</string>
     <string name="sina_share_pendding">Invio in corso…</string>
     <string name="sina_share_success">Inviato</string>
     <string name="sina_share_fail">Impossibile inviare</string>
