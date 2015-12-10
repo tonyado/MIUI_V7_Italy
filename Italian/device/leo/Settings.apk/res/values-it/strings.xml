@@ -511,9 +511,9 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="device_admin_title">Amministrazione dispositivo</string>
     <string name="manage_device_admin">Amministratori dispositivo</string>
     <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
-    <string name="manage_trust_agents">Agenti sicuri</string>
+    <string name="manage_trust_agents">Agenti di attendibilità</string>
     <string name="disabled_because_no_backup_security">Imposta prima una lockscreen</string>
-    <string name="manage_trust_agents_summary">Mostra o disattiva agenti sicuri</string>
+    <string name="manage_trust_agents_summary">Mostra o disattiva agenti di attendibilità</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
@@ -1969,8 +1969,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="credentials_not_erased">Impossibile eliminare archivio credenz.</string>
     <string name="credentials_enabled">"L'archivio di credenziali è attivo."</string>
     <string name="credentials_configure_lock_screen_hint">"Devi impostare un PIN o una password di blocco dello schermo per poter utilizzare l'archivio credenziali."</string>
-    <string name="usage_access_title">App con accesso</string>
-    <string name="allow_usage_access_title">Consenti accesso?</string>
+    <string name="usage_access_title">App con accesso a dati utilizzo</string>
+    <string name="allow_usage_access_title">"Consenti l'accesso ai dati di utilizzo?"</string>
     <string name="allow_usage_access_message">"Se si consente l'accesso, questa applicazione può visualizzare le informazioni generali sulle applicazioni del dispositivo, come ad esempio quanto viene utilizzata."</string>
     <string name="emergency_tone_title">Tono chiamate emergenza</string>
     <string name="emergency_tone_summary">Imposta il comportamento in caso di chiamata di emergenza</string>
@@ -2353,10 +2353,10 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="user_need_lock_message">Prima di poter creare un profilo con limitazioni, devi impostare un blocco schermo per proteggere le tue app e i tuoi dati personali.</string>
     <string name="user_set_lock_button">Imposta blocco</string>
     <string name="user_summary_not_set_up">Non configurato</string>
-    <string name="user_summary_restricted_not_set_up">Non impostato - Profilo con limitazioni</string>
+    <string name="user_summary_restricted_not_set_up">Non impostato - Profilo con limitazioni</string>
     <string name="user_summary_managed_profile_not_set_up">Non impostato - Profilo lavoro</string>
     <string name="user_owner">Proprietario</string>
-    <string name="user_you">Tu (%s)</string>
+    <string name="user_you">Tu (%s)</string>
     <string name="user_nickname">Nickname</string>
     <string name="user_add_user_type_title">Aggiungi</string>
     <string name="user_add_user_item_summary">Gli utenti hanno applicazioni e contenuti personali</string>
@@ -2374,7 +2374,7 @@ Qualsiasi utente può accettare le autorizzazioni delle app aggiornate per conto
 Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate per conto di tutti gli altri utenti."</string>
     <string name="user_setup_dialog_title">"Configurare l'utente ora?"</string>
     <string name="user_setup_dialog_message">Assicurati che la persona possa utilizzare il dispositivo e configurare il suo spazio.</string>
-    <string name="user_setup_profile_dialog_message">Configurare il profilo ora?</string>
+    <string name="user_setup_profile_dialog_message">Configurare il profilo ora?</string>
     <string name="user_setup_button_setup_now">Configura ora</string>
     <string name="user_setup_button_setup_later">Non ora</string>
     <string name="user_cannot_manage_message">Solo il proprietario del dispositivo può gestire gli utenti.</string>
