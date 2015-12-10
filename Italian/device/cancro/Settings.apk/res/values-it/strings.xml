@@ -2795,10 +2795,10 @@ Disabilitare le finestre flottanti?"</string>
     <string name="toast_need_login">Accedi al tuo Account Mi</string>
     <string name="location_access_on">Attivato</string>
     <string name="location_access_off">Disattivato</string>
-    <string name="preferred_app_settings">Impostazioni predefinite</string>
-    <string name="preferred_app_settings_default">Predefinite</string>
+    <string name="preferred_app_settings">App predefinite</string>
+    <string name="preferred_app_settings_default">Predefinita</string>
     <string name="preferred_app_settings_reset">Ripristino predefinite</string>
-    <string name="preferred_app_settings_reset_message">Ripristinare impostazioni App predefinite?</string>
+    <string name="preferred_app_settings_reset_message">Ripristinare app predefinite?</string>
     <string name="preferred_app_settings_reset_button">Ripristina</string>
     <string name="system_app_settings">Applicazioni di sistema</string>
     <string name="connect_to_internet">Rete Wi-Fi</string>
