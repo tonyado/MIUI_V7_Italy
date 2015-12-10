@@ -496,7 +496,7 @@
     <string name="pref_summary_mx_feedback">"Aiutaci a migliorare MIUI! Segnala bug ed invia feedback direttamente a Xiaomi."</string>
     <string name="feedback_description_hint">Inserisci qui il tuo feedback</string>
     <string name="feedback_submit">Invia</string>
-    <string name="action_firewall_setting">Blocklist</string>
+    <string name="action_firewall_setting">Blacklist</string>
     <string name="user_agreement1">Leggi accuratamente le condizioni relative prima di installare software aggiuntivo o usare questo prodotto</string>
     <string name="user_agreement2">" Accordo con l'utente"</string>
     <string name="user_agreement3">" e "</string>
