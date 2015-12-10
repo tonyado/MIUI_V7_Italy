@@ -3401,4 +3401,5 @@ Disabilitare le finestre flottanti?"</string>
     <string name="move_app_progress_to_sdcard">Moving %1$s to SD card...</string>
     <string name="tnhwrevision_settings_list_item_title">Mocha HW revision</string>
     <string name="tnhwrevision_settings_list_item_summary">Mocha HW revision summary</string>
+    <string name="resolver_settings_label">Ordina</string>
 </resources>
