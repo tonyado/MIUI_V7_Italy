@@ -111,7 +111,7 @@
     <string name="action_item_add_to_current_playlist">Playlist attuale</string>
     <string name="action_item_add_to_favorite_playlist">Playlist preferita</string>
     <string name="action_item_add_to_new_playlist">Nuovo</string>
-    <string name="action_item_remove_from_favorite">Rimuovi preferito</string>
+    <string name="action_item_remove_from_favorite">Rimuovi da Preferiti</string>
     <string name="fragment_more">Altro</string>
     <string name="fragment_title_recommend">IN EVIDENZA</string>
     <string name="fragment_title_bill">PLAYLIST</string>
@@ -261,7 +261,7 @@
     <string name="no_results_return">Nessun risultato trovato</string>
     <string name="list_item_play_FM_radio">Tocca per riprodurre la radio FM</string>
     <string name="baidu_music">Musica Baidu</string>
-    <string name="local_tracks_short">Brani locali</string>
+    <string name="local_tracks_short">File locali</string>
     <string name="tab_local_track_list">Brani</string>
     <string name="tab_local_folder_list">Cartella</string>
     <string name="song_not_find">"Nessun brano trovato. Verifica la tua connessione alla rete e riprova."</string>
@@ -326,7 +326,7 @@
     <string name="bluetooth_device">Dispositivo Bluetooth</string>
     <string name="device_connected">Connesso</string>
     <string name="device_not_connected">Non connesso</string>
-    <string name="delete_file_as_well">Elimina anche i file in locale</string>
+    <string name="delete_file_as_well">Elimina anche il file locale</string>
     <string name="delete_file_start">Elimina i file selezionati</string>
     <string name="delete_file_end">Elimina in modo permanente</string>
     <string name="no_song">Nessun brano</string>
@@ -367,7 +367,7 @@
     <string name="list_detail_title">Dettagli</string>
     <string name="all_music">Tutti i brani</string>
     <string name="all_artist">Tutti gli artisti</string>
-    <string name="local_music">Offline</string>
+    <string name="local_music">File locali</string>
     <string name="tab_track">Brani</string>
     <string name="tab_artist">Artisti</string>
     <string name="tab_album">Album</string>
@@ -387,7 +387,7 @@
     <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="male_artist">Artista maschile</string>
     <string name="female_artist">Artista femminile</string>
-    <string name="group_artist">Band</string>
+    <string name="group_artist">Gruppi</string>
     <string name="chinese_male">Cantanti cinesi femminili </string>
     <string name="chinese_female">Cantanti cinesi maschili</string>
     <string name="chinese_group">Combinazioni cinesi</string>
@@ -410,7 +410,7 @@
     <string name="title_online_suggest">Potrebbe piacerti</string>
     <string name="title_online_billboard">Classifiche</string>
     <string name="title_online_release">Novità</string>
-    <string name="title_online_song">Brani popolari</string>
+    <string name="title_online_song">Brani più richiesti</string>
     <string name="title_online_fm">Radio</string>
     <string name="title_online_artist">Artisti del momento</string>
     <string name="name_online_personal_radio">Radio</string>
