@@ -745,7 +745,7 @@ Le schede contatti sono disattivate"</string>
     <string name="callrecordview_menu_settings">Impostazioni</string>
     <string name="callrecordview_menu_show">Filtro</string>
     <string name="callrecordview_menu_paste">Incolla</string>
-    <string name="callrecordview_menu_conference">Call conference</string>
+    <string name="callrecordview_menu_conference">Audioconferenza</string>
     <string name="openDialKeyboard">Tastierino</string>
     <string name="t9_search_guide_pinyin">Digita 7 e 5 per cercare Steve Jobs</string>
     <string name="t9_search_guide_zhuyin">Digita 7 e 5 per cercare Steve Jobs</string>
@@ -772,7 +772,7 @@ Le schede contatti sono disattivate"</string>
     <string name="delete_unknown_contact_calllog_title">Cancellare i registri chiamate?</string>
     <string name="callrecordview_menu_batch_delete">Eliminazione multipla</string>
     <string name="delete_call_log_selected_title">Cancellare il registro chiamate selezionato?</string>
-    <string name="multi_number_title">Call conference</string>
+    <string name="multi_number_title">Audioconferenza</string>
     <string name="multi_number_menu_call">Chiama</string>
     <string name="multi_number_menu_message">Messaggio</string>
     <string name="multi_number_menu_group">Nuovo gruppo</string>
