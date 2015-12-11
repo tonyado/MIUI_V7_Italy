@@ -560,4 +560,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="add_private">Aggiungi file alle cartelle nascoste</string>
     <string name="private_folder_no_file_hints">Tieni premuto sul file o la cartella per nasconderli.</string>
     <string name="private_folder_update">Aggiornamento cartelle nascoste</string>
+    <string name="make_private_msg_1">Nascondere questo file?</string>
+    <string name="make_private_msg_2">Nascondere questi file?</string>
+    <string name="make_private_msg_3">Tutti i file in questa cartella verranno nascosti.</string>
 </resources>

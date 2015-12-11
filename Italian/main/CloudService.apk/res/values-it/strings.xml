@@ -35,6 +35,7 @@
     <string name="vcode">Codice di verifica</string>
     <string name="bad_authentication">Nome utente o password non validi</string>
     <string name="header_data_and_synchronization">Dati e sincronizzazione</string>
+    <string name="header_cloud_backup_settings">Backup e ripristino</string>
     <string name="header_other_settings">Altro</string>
     <string name="title_reg">Crea un account</string>
     <string name="unactivated_user">Disattivato</string>
@@ -340,19 +341,21 @@ Visita mi.com/micloud per avere spazio di archiviazione aggiuntivo."</string>
     <string name="share_cancel">Condivisione annullata</string>
     <string name="share_failed">Impossibile condividere</string>
     <string name="cloud_back_up_title">Backup Home</string>
+    <string name="cloud_restore_title">Ripristina da backup</string>
+    <string name="header_cloud_restore_summary">Reinstalla le applicazioni e ripristina il layout delle Home screen e le impostazioni di sistema su Mi Cloud</string>
     <string name="settings_backup_title">Backup impostazioni di sistema</string>
     <string name="cloud_back_up_open_info_no_backuptime">Esegui il backup del layout della tua Home e delle app ogni %1$s quando collegato a rete Wi-Fi</string>
     <string name="cloud_back_up_open_info">"segui il backup del layout della tua Home e delle app ogni %1$s quando collegato a rete Wi-Fi
 Ultimo backup: %2$s"</string>
-    <string name="cloud_back_up_interval_long">7 giorni</string>
-    <string name="cloud_back_up_interval_short">1 ora</string>
+    <string name="cloud_back_up_summary">Esegui backup quando collegato ad unarete Wi-Fi</string>
     <string name="cloud_back_up_close_info">Tocca per eseguire il backup.</string>
     <string name="cloud_backup_dialog_title">Esegui il backup con Mi Cloud</string>
     <string name="cloud_back_up_dialog_content">Interrompere il backup in corso? Se interrompi adesso non potrai più utilizzare questo backup per ripristinare i dati.</string>
     <string name="cloud_back_up_button_ok">Interrompi</string>
     <string name="cloud_back_up_network_unavailable">Impossibile rimuovere. Collegarsi di nuovo alla rete Wi-Fi?</string>
     <string name="cloud_back_up_remove_success">Backup eliminato</string>
-    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="cloud_backup_have_data">Backup trovato su Mi Cloud</string>
+    <string name="cloud_backup_select_recover">Scegli backup su Mi Cloud</string>
     <string name="micloud_storage">Archiviazione</string>
     <string name="micloud_member">Abbonamento Mi Cloud</string>
     <string name="micloud_buy_member">Aggiorna abbonamento</string>

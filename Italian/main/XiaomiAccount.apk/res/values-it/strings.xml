@@ -99,7 +99,8 @@ Per attivare il tuo account, segui il
     <string name="passport_skip_setup_account_msg">Puoi impostare un Account Mi più tardi nelle Impostazioni.</string>
     <string name="passport_xiaomi_account_dspt">Utilizza il tuo Account Mi per accedere da qualsiasi dispositivo a Mi Cloud, MIUI Theme Store ed altri servizi.</string>
     <string name="passport_xiaomi_account_sec_dspt"/>
-    <string name="passport_xiaomi_account_sec_dspt2"/>
+    <string name="passport_xiaomi_account_sec_dspt2">Per accedere al tuo Mi Account è necessaria una connessione Internet. Inoltre, la geolocalizzazione e Mi Cloud verranno attivati automaticamente.</string>
+    <string name="passport_xiaomi_account_sec_dspt2_vip">Per accedere al tuo Mi Account è necessaria una connessione Internet. Inoltre, la geolocalizzazione, Mi Cloud e MI VIP verranno attivati automaticamente.</string>
     <string name="passport_remove_unactivated_account_notice">Il tuo account non è stato attivato</string>
     <string name="passport_remove_confirm">Esci</string>
     <string name="passport_find_password_on_web_msg">Visita account.mi.com per reimpostare la password.</string>

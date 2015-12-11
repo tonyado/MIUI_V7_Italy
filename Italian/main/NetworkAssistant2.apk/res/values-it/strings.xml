@@ -252,10 +252,16 @@ Hai acquistato %1$s i traffico aggiuntivo questo mese. Questo è diverso dai %2$
     <string name="traffic_config_alert_body_extra_notset">"
 Hai acquistato %1$s i traffico aggiuntivo questo mese. Non corrisponde al limite mensile che hai impostato manualmente."</string>
     <string name="traffic_config_alert_setted">Limite dati impostato</string>
+    <string name="traffic_config_alert_package">"
+Rolled over extra data"</string>
     <string name="traffic_limit_error_alert_title">Avviso soglia dati %s</string>
-    <string name="traffic_limit_error_alert_iknow">OK</string>
-    <string name="traffic_limit_error_alert_reset">Azzera soglia</string>
     <string name="traffic_limit_error_alert_body">Il conteggio del tuo operare segnala %1$s rimanenti per questo mese. Questo valore è superiore alla soglia di %2$s che hai impostato manualmente.</string>
+    <string name="traffic_limit_error_alert_package">"
+
+I dati rimanenti comprendono quelli avanzati dal mese precedente."</string>
+    <string name="traffic_alert_auto_modify_notification_titile">Piano dati aggiornato</string>
+    <string name="traffic_alert_auto_modify_notification_sumarry">Piano mensile cambiato in %s.</string>
+    <string name="traffic_alert_auto_modify_package_summary">Regola automaticamente la soglia dati in base alle informazioni dell'operatore</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_telcom">China Telecom</string>

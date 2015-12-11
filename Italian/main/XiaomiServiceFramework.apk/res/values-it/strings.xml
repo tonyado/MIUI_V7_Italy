@@ -26,6 +26,7 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_status_desc_wait_for_sms">"In attesa dell'SMS di attivazione dal server"</string>
     <string name="activate_status_desc_wait_for_sms_success">SMS di attivazione ricevuto correttamente</string>
     <string name="activate_status_desc_wait_for_sms_fail">"Impossibile ricevere l'SMS di attivazione"</string>
+    <string name="activate_status_desc_device_id_error">IMEI non valido</string>
     <string name="activate_status_desc_request_activation_sms">Richiesta SMS di attivazione dal server verso il tuo dispositivo</string>
     <string name="activate_status_desc_request_activation_sms_server_error">"Si è verificato un errore del server durante la richiesta dell'SMS di attivazione"</string>
     <string name="activate_status_desc_getting_gateway">Recupero gateway SMS</string>
@@ -90,6 +91,9 @@ Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</s
     <string name="activate_popup_desc_all_gateway_failed_query_info">Non è possibile trovare il tuo numero. Accertati che la SIM sia stata attivata.
 Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">Riprova</string>
+    <string name="activate_popup_title_error_device_id">IMEI non valido</string>
+    <string name="activate_popup_desc_error_device_id">"Digita *#06# per controllare l'IMEI"</string>
+    <string name="activate_popup_confirm_error_device_id">Riprova</string>
     <string name="activate_feature_mx">Messaggi Mi Cloud gratuiti</string>
     <string name="activate_feature_mx_and_voip">Mi Message e Voce</string>
     <string name="activate_feature_mms_sync">Sincronizza MMS</string>
@@ -97,4 +101,5 @@ Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</s
     <string name="activate_feature_find_device">Trova dispositivo</string>
     <string name="activate_feature_register_xiaomi_account">Impostazione Mi Account</string>
     <string name="activate_feature_verify_mx_token">Verifica Mi Account</string>
+    <string name="activate_feature_live_talk">Pacchetto di ricarica telefono</string>
 </resources>

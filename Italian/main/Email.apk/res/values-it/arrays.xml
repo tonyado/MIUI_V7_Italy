@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <string-array name="calendar_remind_string_array">
+        <item>Tonight</item>
+        <item>Tomorrow</item>
+        <item>Weekend</item>
+        <item>Next week</item>
+        <item>Next month</item>
+        <item>Pick date</item>
+    </string-array>
     <string-array name="compose_modes">
         <item>Rispondi</item>
         <item>Rispondi a tutti</item>
         <item>Inoltra</item>
+    </string-array>
+
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Enorme</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Recenti</item>
@@ -21,21 +38,6 @@
         <item>Più nuovi</item>
         <item>Più vecchi</item>
         <item>Lista conversazioni</item>
-    </string-array>
-    <string-array name="prefEntries_removal_action">
-        <item>Mostra solo archiviati</item>
-        <item>Mostra solo eliminati</item>
-        <item>Mostra Archiviati ed Eliminati</item>
-    </string-array>
-    <string-array name="prefSummaries_autoAdvance">
-        <item>Mostra la conversazione più recente dopo la cancellazione</item>
-        <item>Mostra la conversazione più vecchia dopo la cancellazione</item>
-        <item>Mostra la lista conversazioni dopo la cancellazione</item>
-    </string-array>
-    <string-array name="prefSummaries_removal_action_summary">
-        <item>Mostra solo archivio</item>
-        <item>Mostra solo eliminati</item>
-        <item>Mostra archivio ed eliminati</item>
     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>

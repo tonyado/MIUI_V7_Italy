@@ -11,6 +11,7 @@
     <string name="cancel_action">Annulla</string>
     <string name="bad_wallpaper_source_prompt">"Impossibile caricare lo sfondo"</string>
     <string name="apply_action">Applica</string>
+    <string name="apply_as_lockwallpaper_action">Lockscreen</string>
     <string name="apply_negative_action">Non applicare</string>
     <string name="download_action">Download</string>
     <string name="apply_as_lock_wallpaper_message">Impostare questo sfondo anche alla lockscreen?</string>

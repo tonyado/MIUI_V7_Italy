@@ -87,6 +87,7 @@
     <string name="account_setup_failed_dlg_server_message_fmt">"Impossibile connettersi al server.
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">Impossibile completare</string>
+    <string name="account_setup_failed_dlg_unknown_auth_message">Errore sconociuto.</string>
     <string name="account_setup_failed_ioerror">Impossibile stabilire la connessione al server.</string>
     <string name="account_setup_failed_protocol_unsupported">"Hai digitato l'indirizzo di un server sbagliato o il server richiede una versione di protocollo non supportata da Email."</string>
     <string name="account_setup_failed_security">Impossibile stabilire la connessione al server a causa di un errore di sicurezza.</string>
@@ -197,12 +198,7 @@
     <string name="bottom_bar_no_quickreply_toast">Nessuna risposta veloce</string>
     <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">Promemoria</string>
-    <string name="calendar_remind_gridview_month_later">Tra un mese</string>
-    <string name="calendar_remind_gridview_nextweek">Prossima settimana</string>
     <string name="calendar_remind_gridview_pick_date">Scegli una data</string>
-    <string name="calendar_remind_gridview_tomorrow">Domani</string>
-    <string name="calendar_remind_gridview_tonight">Stanotte</string>
-    <string name="calendar_remind_gridview_weekend">Weekend</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_action">Annulla</string>
     <string name="cant_move_or_change_labels">Impossibile spostare perché la selezione contiene account multipli.</string>
@@ -292,6 +288,7 @@
     <string name="default_pop3">POP3</string>
     <string name="default_setup">IMPOSTAZIONI PREDEFINITE</string>
     <string name="default_signature">Inviato tramite Xiaomi</string>
+    <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
     <string name="delete">Elimina</string>
     <string name="deleted">Eliminata</string>
     <string name="device_activity_btn_str">Invio per attivare</string>
@@ -302,6 +299,7 @@
     <string name="device_not_activiey_lint2">Il servizio exchange non funziona correttamente</string>
     <string name="dialog_account_auto_sync_setting_no_open">"Sincronizzazione mail disattivata, impossibile ricevere nuovi messaggi."</string>
     <string name="dialog_auto_sync_setting_no_open">"La sincronizzazione è disattivata, impossibile ircevere nuovi messaggi."</string>
+    <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
     <string name="dialog_gmail_proxy_server_is_error">Errore del server proxy Gmail.</string>
     <string name="dialog_insufficient_space_for_single_account_on_internal">Spazio insufficiente per %s.</string>
     <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna on sufficiente</string>
