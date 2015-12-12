@@ -3285,7 +3285,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_available_title">Connetti al Wi-Fi</string>
     <string name="msg_wlan_signal_found">"E' disponibile punto d'accesso Wi-Fi %s, connettersi ora?"</string>
     <string name="wifi_signal_found_msg">"Un punto d'acceso Wi-Fi è disponibile, connettersi ora?"</string>
-    <string name="miui_data_usage_menu_metered">Mobile hotspots</string>
+    <string name="miui_data_usage_menu_metered">Hotspot mobile</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi tocca il contenuto che vuoi inviare.</string>
