@@ -261,7 +261,7 @@ Rolled over extra data"</string>
 I dati rimanenti comprendono quelli avanzati dal mese precedente."</string>
     <string name="traffic_alert_auto_modify_notification_titile">Piano dati aggiornato</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Piano mensile cambiato in %s.</string>
-    <string name="traffic_alert_auto_modify_package_summary">""Regola automaticamente la soglia dati in base alle informazioni dell'operatore""</string>
+    <string name="traffic_alert_auto_modify_package_summary">"Regola automaticamente la soglia dati in base alle informazioni dell'operatore"</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_telcom">China Telecom</string>
