@@ -473,12 +473,12 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="select_image">Scegli foto</string>
     <string name="move_to">Sposta in…</string>
     <string name="extract">Estrai</string>
-    <string name="new_function">Info sulle cartelle private</string>
-    <string name="new_function_info">"Per creare una cartella nascosta scorri con il ditodall'alto verso il basso nella pagina iniziale."</string>
-    <string name="private_folder">Cartella privata</string>
-    <string name="make_private">Rendi privata</string>
-    <string name="open_private_folder">Creazione cartella privata…</string>
-    <string name="decrypt">Rimuovi dalle private</string>
+    <string name="new_function">Info sulle cartelle nascoste</string>
+    <string name="new_function_info">"Per creare una cartella nascosta scorri con il dito dall'alto verso il basso nella pagina iniziale."</string>
+    <string name="private_folder">Cartella nascosta</string>
+    <string name="make_private">Nascondi</string>
+    <string name="open_private_folder">Creazione cartella nascosta…</string>
+    <string name="decrypt">Rimuovi</string>
     <string name="repair_file">Ripristina file crittografati</string>
     <string name="encrypting">Crittografia…</string>
     <string name="decrypting">Decrittazione…</string>
@@ -493,11 +493,11 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="cancel_success">Rimossi con successo, tutti i file spostati in sdcard/fileexplorer/decryption</string>
     <string name="partial_cancel_successful">Non è stato possibile rimuovere alcuni file. Gli altri file sono stati spostati in sdcard/fileexplorer/decryption"</string>
     <string name="cancel_error">Impossibile rimuovere, prova di nuovo</string>
-    <string name="encrypt_success">Tutti i file adesso sono privati</string>
-    <string name="partial_encrypt_success">Non è statopossibile rendere privati alcuni file, prova di nuovo"</string>
-    <string name="encrypt_error">Impossibile rendere i file privati, prova di nuovo</string>
+    <string name="encrypt_success">Tutti i file adesso sono nascosti</string>
+    <string name="partial_encrypt_success">Non è stato possibile nascondere alcuni file, prova di nuovo"</string>
+    <string name="encrypt_error">Impossibile nascondere, prova di nuovo</string>
     <string name="reset_password">Ripristina password</string>
-    <string name="private_files">Privato</string>
+    <string name="private_files">Nascosti</string>
     <string name="msg_set_password">Prima imposta la password</string>
     <string name="weixin_sticker_tag_str">Adesivi WeChat</string>
     <string name="downloaded_sticker_str">Scaricati</string>
@@ -519,9 +519,9 @@ e non perderai mai le ultime novità!"</string>
 (Le GIF possono essere aggiunte agli adesivi Personalizzati di WeChat)."</string>
     <string name="shared_sticker_page_no_file">Impossibile collegarsi alla rete. Controlla la connessione di rete e riprova.</string>
     <string name="shared_sticker_network_permission_tip">Impossibile collegarsi alla rete. Controlla la connessione di rete e riprova.</string>
-    <string name="transfer_private_data">Spostamento dei file privati dalla scheda SD…</string>
+    <string name="transfer_private_data">Spostamento dei file nascosti dalla scheda SD…</string>
     <string name="transfer_done">File spostati con successo.</string>
-    <string name="dir_not_support">Non è possibile rendere privata questa cartella.</string>
+    <string name="dir_not_support">Non è possibile nascondere questa cartella.</string>
     <string name="promot_enctypt_password">Inserisci la password utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
     <string name="image_loading_error">"Impossibile caricare l'immagine"</string>
     <string name="operation_like">Preferiti</string>
@@ -534,7 +534,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="qq_not_installed">"QQ non è installato"</string>
     <string name="pick_folder">Scegli cartella</string>
     <string name="search_description">Cerca tutti i file sul dispositivo</string>
-    <string name="encrypt_prefix">PRIVATO</string>
+    <string name="encrypt_prefix">NASCOSTO</string>
     <string name="cancelled_by_user">Operazione annullata</string>
     <string name="cancel_operation">Annulla operazione</string>
     <string name="if_cancel">Annullare questa operazione?</string>
@@ -543,7 +543,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="add_private_files">Aggiungi file</string>
     <string name="type_not_support">Questo formato non è supportato. Scompatta questo file e prova di nuovo.</string>
     <string name="notify_private_folder_title">Proteggi i tuoi file personali</string>
-    <string name="notify_private_folder_msg">Tocca per informazioni sulle cartelle private.</string>
+    <string name="notify_private_folder_msg">Tocca per informazioni sulle cartelle nascoste.</string>
    <string name="select_dest_folder">Seleziona cartella</string>
     <string name="menu_item_sort_by_added_time">Aggiunto</string>
     <string name="create_shortcut_title">Crea una scorciatoia</string>
