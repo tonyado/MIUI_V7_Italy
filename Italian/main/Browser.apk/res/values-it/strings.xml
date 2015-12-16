@@ -323,7 +323,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="start_save_page_capture">Salvataggio screenshot…</string>
     <string name="save_page_capture_to_camera">Screenshot salvato</string>
     <string name="save_page_capture_tip">Apri il pannello delle notifiche per vedere lo screenshot.</string>
-    <string name="find_on_page_hint">Inserisci la chiave di ricerca</string>
+    <string name="find_on_page_hint">Trova nella pagina</string>
     <string name="contextmenu_openlink">Apri</string>
     <string name="contextmenu_savelink">Salva link</string>
     <string name="contextmenu_sharelink">Condividi link</string>
