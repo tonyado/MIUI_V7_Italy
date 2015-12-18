@@ -161,7 +161,7 @@
     <string name="font_size_save">OK</string>
     <string name="sdcard_setting">Archivio USB</string>
     <string name="battery_info_status_label">Stato batteria:</string>
-    <string name="battery_info_power_label">Presa di corrente:</string>
+    <string name="battery_info_power_label">Alimentatore:</string>
     <string name="battery_info_scale_label">Scala batteria:</string>
     <string name="battery_info_level_label">Livello batteria:</string>
     <string name="battery_info_health_label">Condizioni batteria:</string>
@@ -236,18 +236,18 @@
     <string name="bluetooth_notif_title">Richiesta accoppiamento</string>
     <string name="bluetooth_notif_message">Tocca per accoppiare con %1$s.</string>
     <string name="bluetooth_show_received_files">Mostra file ricevuti</string>
-    <string name="device_picker">Selettore dispositivo Bluetooth</string>
+    <string name="device_picker">Scegli il dispositivo Bluetooth</string>
     <string name="bluetooth_permission_request">Richiesta autorizzazione Bluetooth</string>
-    <string name="bluetooth_ask_enablement">"Un'app chiede di attivare il Bluetooth."</string>
-    <string name="bluetooth_ask_discovery">"Un'app chiede di rendere il tuo dispositivo visualizzabile da altri dispositivi Bluetooth per %1$d secondi."</string>
-    <string name="bluetooth_ask_lasting_discovery">"Un'app chiede di rendere il tuo dispositivo visualizzabile da altri dispositivi Bluetooth. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
-    <string name="bluetooth_ask_start_broadcast">%1$s wants to turn on Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
-    <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s wants to turn on Bluetooth and Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
-    <string name="bluetooth_broadcasting_explaination">"When this feature is turned on, your phone can communicate with other devices nearby.
+    <string name="bluetooth_ask_enablement">"Un'app desidera attivare il Bluetooth."</string>
+    <string name="bluetooth_ask_discovery">"Un'app desidera rendere il tuo dispositivo visibile ad altri dispositivi Bluetooth per %1$d secondi."</string>
+    <string name="bluetooth_ask_lasting_discovery">"Un'app chiede di rendere il tuo dispositivo visibile ad altri dispositivi Bluetooth. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
+    <string name="bluetooth_ask_start_broadcast">%1$s desidera attivare la trasmissione via Bluetooth per comunicare con altri dispositivi nelle vicinanze. Puoi modificare tale impostazione in un secondo momento nelle impostazioni relative al Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s desidera attivare la funzione Bluetooth e la trasmissione via Bluetooth per comunicare con altri dispositivi nelle vicinanze. Puoi modificare tale impostazione in un secondo momento nelle impostazioni relative al Bluetooth.</string>
+    <string name="bluetooth_broadcasting_explaination">"Quando questa funzione è attiva, il telefono può comunicare con altri dispositivi nelle vicinanze.
 
-Broadcasting uses low-power Bluetooth signals."</string>
-    <string name="bluetooth_ask_enablement_and_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tuo dispositivo visualizzabile da altri dispositivi per %1$d secondi."</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tuo dispositivo visualizzabile da altri dispositivi. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
+La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
+    <string name="bluetooth_ask_enablement_and_discovery">"Un'app desidera attivare il Bluetooth e di rendere il tuo dispositivo visibile da altri dispositivi per %1$d secondi."</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">"Un'app desidera attivare il Bluetooth e di rendere il tuo dispositivo visibile da altri dispositivi. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
     <string name="bluetooth_turning_on">Attivazione Bluetooth…</string>
     <string name="bluetooth_turning_off">Disattivazione Bluetooth…</string>
     <string name="bluetooth_auto_connect">Connessione automatica</string>
@@ -366,7 +366,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
     <string name="airplane_mode">Modalità aereo</string>
     <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
-    <string name="radio_controls_summary">Gestisci Wi‑Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
+    <string name="radio_controls_summary">Gestisci Wi-Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
     <string name="cellular_data_title">Dati cellulari</string>
     <string name="calls_title">Chiamate</string>
     <string name="sms_messages_title">Messaggi SMS</string>
@@ -393,7 +393,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="zone_auto">Fuso orario automatico</string>
     <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
     <string name="zone_auto_summaryOff">Utilizza il fuso orario fornito dalla rete</string>
-    <string name="date_time_24hour_title">24‑ore formato</string>
+    <string name="date_time_24hour_title">Formato 24 ore</string>
     <string name="date_time_24hour">Usa formato 24 ore</string>
     <string name="date_time_set_time_title">Orario</string>
     <string name="date_time_set_time">Imposta ora</string>
@@ -423,9 +423,9 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="user_info_settings_title">Dati utente</string>
     <string name="show_profile_info_on_lockscreen_label">Mostra info profilo in schermata di blocco</string>
     <string name="profile_info_settings_title">Informazioni profilo</string>
-    <string name="Accounts_settings_title">Accounts</string>
+    <string name="Accounts_settings_title">Account</string>
     <string name="location_settings_title">Geolocalizzazione</string>
-    <string name="account_settings_title">Accounts</string>
+    <string name="account_settings_title">Account</string>
     <string name="security_settings_title">Sicurezza</string>
     <string name="security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco SIM, blocco cred.</string>
     <string name="cdma_security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco archivio credenziali</string>
@@ -3593,7 +3593,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="page_layout_21">Contatti 182</string>
     <string name="page_layout_22">Il mio profilo</string>
     <string name="page_layout_23">I miei gruppi</string>
-    <string name="page_layout_24">PREFERITI</string>
+    <string name="page_layout_24">Preferiti</string>
     <string name="page_layout_25">Hugo Barra</string>
     <string name="page_layout_26">Lin Bin</string>
     <string name="page_layout_27">Manu Jain</string>
