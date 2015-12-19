@@ -66,7 +66,7 @@
     <string name="serviceErased">Eliminazione effettuata.</string>
     <string name="passwordIncorrect">Password errata.</string>
     <string name="mmiComplete">MMI completo.</string>
-    <string name="badPin">Il PIN attuale digitato è errato.</string>
+    <string name="badPin">Il PIN digitato è errato.</string>
     <string name="badPuk">Il PUK digitato è errato.</string>
     <string name="mismatchPin">I PIN inseriti non corrispondono.</string>
     <string name="invalidPin">Il PIN deve essere di 4-8 numeri.</string>
@@ -106,7 +106,7 @@
     <string name="RestrictedOnAll">Tutti i servizi vocali/dati/SMS sono bloccati.</string>
     <string name="serviceClassVoice">Voce</string>
     <string name="serviceClassData">Dati</string>
-    <string name="serviceClassFAX">FAX</string>
+    <string name="serviceClassFAX">Fax</string>
     <string name="serviceClassSMS">SMS</string>
     <string name="serviceClassDataAsync">Asinc</string>
     <string name="serviceClassDataSync">Sinc</string>
@@ -163,7 +163,7 @@
     <string name="silent_mode_vibrate">Vibrazione</string>
     <string name="silent_mode_ring">Suoneria</string>
     <string name="shutdown_progress">Spegnimento…</string>
-    <string name="shutdown_confirm">Il telefono verrà spento.</string>
+    <string name="shutdown_confirm">Il dispositivo verrà spento.</string>
     <string name="shutdown_confirm_question">Spegnere?</string>
     <string name="reboot_safemode_title">Riavvia in safe mode</string>
     <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
@@ -180,8 +180,8 @@
     <string name="global_actions_airplane_mode_off_status">Modalità aereo non attiva</string>
     <string name="safeMode">Modalità provvisoria</string>
     <string name="android_system_label">Sistema Android</string>
-    <string name="permgrouplab_costMoney">Servizi che prevedono un costo</string>
-    <string name="permgroupdesc_costMoney">Consentono alle applicazioni di svolgere operazioni che possono comportare un costo.</string>
+    <string name="permgrouplab_costMoney">Servizi a pagamento</string>
+    <string name="permgroupdesc_costMoney">Consente alle applicazioni di svolgere operazioni a pagamento.</string>
     <string name="permgrouplab_messages">I tuoi messaggi</string>
     <string name="permgroupdesc_messages">Leggere e scrivere SMS, email e altri messaggi.</string>
     <string name="permgrouplab_personalInfo">Informazioni personali</string>
@@ -189,7 +189,7 @@
     <string name="permgrouplab_location">La tua posizione</string>
     <string name="permgroupdesc_location">"Monitorare la posizione fisica dell'utente"</string>
     <string name="permgrouplab_network">Comunicazione di rete</string>
-    <string name="permgroupdesc_network">"Consentono l'accesso delle applicazioni a varie funzionalità di rete."</string>
+    <string name="permgroupdesc_network">Consente alle applicazioni di accedere alla rete.</string>
     <string name="permgrouplab_accounts">I tuoi account</string>
     <string name="permgroupdesc_accounts">Accedere agli account disponibili.</string>
     <string name="permgrouplab_hardwareControls">Controlli hardware</string>
@@ -209,11 +209,11 @@
     <string name="permlab_expandStatusBar">espansione/compressione barra di stato</string>
     <string name="permdesc_expandStatusBar">"Consente all'applicazione di espandere o comprimere la barra di stato."</string>
     <string name="permlab_processOutgoingCalls">intercettazione chiamate in uscita</string>
-    <string name="permdesc_processOutgoingCalls">"Consente all'applicazione di elaborare le chiamate in uscita e di modificare il numero da comporre. Le applicazioni dannose potrebbero monitorare, deviare o impedire le chiamate in uscita."</string>
+    <string name="permdesc_processOutgoingCalls">"Consente all'applicazione di gestire le chiamate in uscita e di modificare il numero da comporre. Le applicazioni dannose potrebbero monitorare, deviare o impedire le chiamate in uscita."</string>
     <string name="permlab_receiveSms">ricezione SMS</string>
-    <string name="permdesc_receiveSms">"Consente il ricevimento e l'elaborazione di SMS da parte dell'applicazione. Le applicazioni dannose potrebbero monitorare i messaggi o eliminarli senza visualizzarli."</string>
+    <string name="permdesc_receiveSms">"Consente la ricezione e l'elaborazione di SMS da parte dell'applicazione. Le applicazioni dannose potrebbero monitorare i messaggi o eliminarli senza visualizzarli."</string>
     <string name="permlab_receiveMms">ricezione MMS</string>
-    <string name="permdesc_receiveMms">"Consente il ricevimento e l'elaborazione di MMS da parte dell'applicazione. Le applicazioni dannose potrebbero monitorare i messaggi o eliminarli senza visualizzarli."</string>
+    <string name="permdesc_receiveMms">"Consente la ricezione e l'elaborazione di MMS da parte dell'applicazione. Le applicazioni dannose potrebbero monitorare i messaggi o eliminarli senza visualizzarli."</string>
     <string name="permlab_receiveEmergencyBroadcast">ricezione di trasmissioni di emergenza</string>
     <string name="permdesc_receiveEmergencyBroadcast">"Consente all'applicazione di ricevere ed elaborare messaggi di trasmissioni di emergenza. Tale autorizzazione è disponibile solo per applicazioni di sistema."</string>
     <string name="permlab_readCellBroadcasts">leggi messaggi celle</string>

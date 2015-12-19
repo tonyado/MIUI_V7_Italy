@@ -18,7 +18,7 @@
     <string name="music_headset_calibrate_volume_down">Diminuisci volume</string>
     <string name="music_headset_calibrate_prev_track">Traccia precedente</string>
     <string name="music_headset_calibrate_next_track">Traccia successiva</string>
-    <string name="music_headset_calibrate_confirm">Applicare queste impostazioni?</string>
+    <string name="music_headset_calibrate_confirm">Applica queste impostazioni?</string>
     <string name="music_headset_no_contected">Auricolari non rilevati</string>
     <string name="music_headset_calibrate_wrong_key">Questo è il pulsante sbagliato</string>
     <string name="music_hifi_title">Audio Hi-Fi</string>
@@ -145,7 +145,7 @@
     <string name="radioInfo_data_connecting">Connessione</string>
     <string name="radioInfo_data_connected">Connesso</string>
     <string name="radioInfo_data_suspended">Sospeso</string>
-    <string name="radioInfo_unknown">sconosciuto</string>
+    <string name="radioInfo_unknown">Sconosciuto</string>
     <string name="radioInfo_display_packets">pkt</string>
     <string name="radioInfo_display_bytes">byte</string>
     <string name="radioInfo_display_dbm">dBm</string>

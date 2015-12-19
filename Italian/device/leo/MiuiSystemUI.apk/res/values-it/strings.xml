@@ -2,11 +2,11 @@
 <resources>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="app_label">UI di sistema</string>
-    <string name="status_bar_no_recent_apps">Nessuna applicazione recente</string>
-    <string name="battery_low_title">Collega il caricabatterie</string>
+    <string name="status_bar_no_recent_apps">Nessuna applicazione in esecuzione</string>
+    <string name="battery_low_title">"Collega l'alimentatore"</string>
     <string name="battery_low_percent_format">%d%% rimanente</string>
     <string name="invalid_charger">"Ricarica tramite USB non supportata.
-Utilizza solo il caricatore in dotazione."</string>
+Utilizza solo l'alimentatore in dotazione."</string>
     <string name="status_bar_settings_airplane">Modalità aereo</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
     <string name="status_bar_network_name_separator">|</string>
@@ -26,9 +26,9 @@ Utilizza solo il caricatore in dotazione."</string>
     <string name="usb_debugging_always">Consenti sempre per questo computer</string>
     <string name="screenshot_saving_ticker">Salvataggio screenshot…</string>
     <string name="screenshot_saving_title">Salvataggio screenshot…</string>
-    <string name="screenshot_saving_text">Screenshot in corso di salvataggio.</string>
-    <string name="screenshot_saved_title">Screenshot acquisito.</string>
-    <string name="screenshot_saved_text">Tocca per visualizzare il tuo screenshot.</string>
+    <string name="screenshot_saving_text">Sto salvando lo screenshot.</string>
+    <string name="screenshot_saved_title">Screenshot salvato.</string>
+    <string name="screenshot_saved_text">Tocca per visualizzare lo screenshot.</string>
     <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
     <string name="accessibility_back">Indietro</string>
     <string name="accessibility_home">Home</string>
@@ -42,7 +42,7 @@ Utilizza solo il caricatore in dotazione."</string>
     <string name="accessibility_phone_one_bar">Telefono: una barra.</string>
     <string name="accessibility_phone_two_bars">Telefono: due barre.</string>
     <string name="accessibility_phone_three_bars">Telefono: tre barre.</string>
-    <string name="accessibility_phone_four_bars">Telefono: quattro barre..</string>
+    <string name="accessibility_phone_four_bars">Telefono: quattro barre.</string>
     <string name="accessibility_phone_signal_full">Massimo segnale telefonico.</string>
     <string name="accessibility_no_data">Nessun dato.</string>
     <string name="accessibility_data_one_bar">Dati: una barra.</string>
@@ -84,7 +84,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="status_bar_settings_signal_meter_disconnected">Nessuna connessione</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connesso</string>
     <string name="gps_notification_searching_text">Ricerca del GPS</string>
-    <string name="gps_notification_found_text">Posizione stabilita dal GPS</string>
+    <string name="gps_notification_found_text">Posizione GPS stabilita</string>
     <string name="accessibility_clear_all">Rimuovi tutte le notifiche.</string>
     <string name="status_bar_notification_inspect_item_title">Informazioni app</string>
     <string name="status_bar_date_format">d/M, E</string>
@@ -132,11 +132,11 @@ scorri in basso per bloccare"</string>
     <string name="camera_key_action_shortcut_title">Collegamento</string>
     <string name="camera_key_action_toggle_title">Comando veloce</string>
     <string name="camera_key_action_app_title">Apri applicazione</string>
-    <string name="camera_key_action_shortcut_home">Torna in homescreen</string>
+    <string name="camera_key_action_shortcut_home">Torna alla schermata home</string>
     <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
     <string name="camera_key_action_shortcut_search">Cerca</string>
     <string name="camera_key_action_shortcut_call">Chiama</string>
-    <string name="camera_key_action_shortcut_wake">Blocca/Sblocca terminale</string>
+    <string name="camera_key_action_shortcut_wake">Blocca/Sblocca dispositivo</string>
     <string name="torch_activity_name">Torcia</string>
     <string name="torch_activity_hint">Puoi accedere velocemente alla torcia tenendo premuto il tasto [icon] nella lockscreen</string>
     <string name="torch_opened">Torcia attivata</string>
@@ -144,16 +144,16 @@ scorri in basso per bloccare"</string>
     <string name="lockscreen_carrier_default">Nessun servizio.</string>
     <string name="chooseUsbActivity">Seleziona un utilizzo per il collegamento USB</string>
     <string name="usb_storage_title">USB connessa</string>
-    <string name="usb_storage_message">Sei connesso al tuo PC tramite USB. Tocca il tasto sottostante per copiare i file tra il tuo computer ed il tuo dispositivo di archiviazione Android tramite USB.</string>
+    <string name="usb_storage_message">Sei connesso al PC tramite USB. Tocca il tasto sottostante per copiare i file tra il tuo computer ed il Mi Note Pro tramite USB.</string>
     <string name="usb_storage_error_message">"Riscontrato un problema nell'utilizzo dell'archiviazione USB"</string>
     <string name="usb_storage_notification_title">USB connessa</string>
     <string name="usb_storage_notification_message">Seleziona per copiare file da/al tuo computer.</string>
     <string name="usb_storage_stop_notification_title">Disattivare archiviazione USB</string>
     <string name="usb_storage_stop_notification_message">Seleziona per disattivare archiviazione USB.</string>
     <string name="usb_storage_stop_title">Archiviazione USB in uso</string>
-    <string name="usb_storage_stop_message">"Prima di disattivare l'archiviazione USB assicurarsi di aver smontato (“scollegato”) il tuo dispositivo di archiviazione USB Android dal tuo computer."</string>
+    <string name="usb_storage_stop_message">"Prima di disattivare l'archiviazione USB assicurati di aver espulso il tuo Mi Note Pro dal computer."</string>
     <string name="dlg_confirm_kill_storage_users_title">Attiva archiviazione USB</string>
-    <string name="dlg_confirm_kill_storage_users_text">"Se attivi l'archiviazione USB alcune applicazione in uso potrebbero interrompere il loro funzionamento e lo riprenderanno una volta disattivata l'archiviazione USB."</string>
+    <string name="dlg_confirm_kill_storage_users_text">"Se attivi l'archiviazione USB alcune applicazioni potrebbero bloccarsi finché non disattivi l'archiviazione USB."</string>
     <string name="dlg_error_title">Operazione USB fallita</string>
     <string name="dlg_ok">OK</string>
     <string name="ext_media_checking_notification_title">Preparazione archiviazione USB</string>
@@ -195,7 +195,7 @@ scorri in basso per bloccare"</string>
     <string name="notification_otg_trackball_out">Trackball disconnessa</string>
     <string name="notification_otg_unknow_out">Dispositivo OTG disconnesso</string>
     <string name="mdb_restore_label">Ripristino Mdb</string>
-    <string name="mdb_restore_info1">Eseguirà il ripristino dei dati del telefono</string>
+    <string name="mdb_restore_info1">Eseguirà il ripristino dei dati del dispositivo</string>
     <string name="mdb_restore_info2">Non interrompere il collegamento USB</string>
     <string name="mdb_restore_cancel">Annulla</string>
     <string name="mdb_usb_disconnection_exit">USB disconnessa, ripristino interrotto</string>
@@ -214,7 +214,7 @@ scorri in basso per bloccare"</string>
     <string name="audio_effect_settings">Imposta tipologia di cuffie</string>
     <string name="audio_effect_info">Ottimizza audio</string>
     <string name="audio_effect_custom">Imposta</string>
-    <string name="media_projection_dialog_text">%s inizierà a registrare tutto ciò che verrà visualizzato sul tuo schermo.</string>
+    <string name="media_projection_dialog_text">%s inizierà a registrare tutto ciò che verrà visualizzato sullo schermo.</string>
     <string name="media_projection_remember_text">Non chiedere più</string>
     <string name="media_projection_action_text">Avvia adesso</string>
     <string name="vpn_title">VPN attivata</string>
