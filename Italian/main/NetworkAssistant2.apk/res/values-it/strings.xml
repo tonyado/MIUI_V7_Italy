@@ -11,7 +11,7 @@
     <string name="main_toolbar_statistic">Statistiche</string>
     <string name="main_toolbar_saving">Risparmio</string>
     <string name="main_toolbar_purchase">Ricarica</string>
-    <string name="main_button_usage_adjust">Imposta utilizzo dati</string>
+    <string name="main_button_usage_adjust">Imposta limite di utilizzo dati</string>
     <string name="main_button_usage_adjusting">Modifica…</string>
     <string name="main_button_usage_adjust_manual">Imposta utilizzo dati</string>
     <string name="main_button_usage_package_setting">Imposta utilizzo dati</string>
