@@ -319,7 +319,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="action_menu_text_bandwidth_off">Risparmio dati</string>
     <string name="action_menu_text_snapshot">Salva pagina</string>
     <string name="action_menu_text_fullscreen">Schermo intero</string>
-    <string name="action_menu_text_download">Gestione download</string>
+    <string name="action_menu_text_download">Download</string>
     <string name="start_save_page_capture">Salvataggio screenshot…</string>
     <string name="save_page_capture_to_camera">Screenshot salvato</string>
     <string name="save_page_capture_tip">Apri il pannello delle notifiche per vedere lo screenshot.</string>
