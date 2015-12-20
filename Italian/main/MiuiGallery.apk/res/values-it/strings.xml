@@ -231,7 +231,9 @@
     <string name="rename_failed">Impossibile rinominare</string>
     <string name="rename_failed_duplicated_name">Esiste già un file con questo nome.</string>
     <string name="warn">Avviso</string>
-    <string name="send_multiple_files_hint_format">Invia file multipli (%s)</string>
+    <string name="send_multiple_files_hint_format">Invia file (%s)</string>
+    <string name="operation_add_secret_button">Nascondi</string>
+    <string name="operation_remove_secret_button">Rendi visibile</string>
     <string name="send">Invia</string>
     <string name="select_too_much_to_send_tips">Le foto selezionate sono troppo grandi per essere inviate. Il limite massimo è %d.</string>
     <string name="pick_too_much_tips">Non puoi selezionare tutti gli elementi (massimo %d)."</string>
