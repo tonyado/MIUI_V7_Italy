@@ -68,9 +68,9 @@
     <string name="birthday_alarm">Suoneria compleanno</string>
     <string name="birthday_alarm_summary">Riproduci \"Buon compleanno\" al posto della suoneria predefinita</string>
 	<string name="turn_off_a_repeat_alarm">Disattiva ripetizione allarme</string>
-    <string name="skip_alarm_once_hint">Spegni una volta il %s</string>
+    <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
-    <string name="turn_off_this_repeat_alarm">Spegni la ripetizione di questo allarme</string>
+    <string name="turn_off_this_repeat_alarm">Disattiva la ripetizione di questo allarme</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
