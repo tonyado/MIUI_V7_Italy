@@ -3,7 +3,7 @@
     <string name="category_default_number_text">(0)</string>
     <string name="download_current_progress">%1$d%%</string>
     <string name="delete_folder">\u0020Eliminare questa cartella?</string>
-    <string name="delete_folders">\u0020Eliminare %1$d?</string>
+    <string name="delete_folders">\u0020Eliminare %1$d cartelle?</string>
     <string name="delete_file">Eliminare questo file?</string>
     <string name="delete_files">Eliminare %1$d file?</string>
     <string name="app_name">File Explorer</string>
