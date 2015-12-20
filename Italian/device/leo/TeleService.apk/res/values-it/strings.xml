@@ -372,7 +372,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="roaming_enable">Connetti ai servizi dati quando sei in roaming</string>
     <string name="roaming_disable">Non connettere ai servizi dati quando sei in roaming</string>
     <string name="roaming_reenable_message">Hai perso la connessione perchè non sei più connesso alla rete del tuo operatore e la connessione dati in roaming è disattivata.</string>
-    <string name="roaming_warning">Consentire il roaming dati? Il tuo piano potrebbe non includere il traffico in  roaming!</string>
+    <string name="roaming_warning">Consentire il roaming dati? Il tuo piano potrebbe non includere il traffico in roaming.</string>
     <string name="ussd_dialog_sep">----------</string>
     <string name="gsm_umts_options">Opzioni GSM/UMTS</string>
     <string name="cdma_options">Opzioni CDMA</string>
