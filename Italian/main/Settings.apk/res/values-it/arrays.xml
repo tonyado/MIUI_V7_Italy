@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
 <resources>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -93,7 +92,7 @@
         <item>Operazione non riuscita</item>
         <item>Bloccato</item>
         <item>Al momento vengono evitate connessioni deboli</item>
-        </string-array>
+    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pulsante di comando</item>
         <item>PIN del dispositivo peer</item>
@@ -157,11 +156,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Disattivato</item>
-        <item>Avviso</item>
-        <item>Vibrazione</item>
+        <item>Proxy Auto Config.</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Nessuno</item>
@@ -191,6 +186,7 @@
         <item>Messaggi</item>
         <item>Contenuti multimediali</item>
         <item>Dispositivo</item>
+        <item>Avvio</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
@@ -236,6 +232,23 @@
         <item>mantieni attivo</item>
         <item>monitora posizione</item>
         <item>monitora localizzazione a consumo elevato</item>
+        <item>ottieni statistiche uso</item>
+        <item>muto/non muto microfono</item>
+        <item>finestra toast</item>
+        <item>media project</item>
+        <item>attiva VPN</item>
+        <item>cambia wlan</item>
+        <item>cambia bluetooth</item>
+        <item>invia MMS</item>
+        <item>leggi MMS</item>
+        <item>scrivi MMS</item>
+        <item>auto avvio</item>
+        <item>cambia nfc</item>
+        <item>elimina SMS</item>
+        <item>elimina MMS</item>
+        <item>elimina contatti</item>
+        <item>elimina registro chiamate</item>
+        <item>cambia dati</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Posizione</item>
@@ -281,6 +294,23 @@
         <item>Mantieni attivo</item>
         <item>Posizione</item>
         <item>Geolocalizzazione</item>
+        <item>Ottieni statistiche uso</item>
+        <item>Muto/non muto microfono</item>
+        <item>Finestra toast</item>
+        <item>Media project</item>
+        <item>Attiva VPN</item>
+        <item>Cambia wlan</item>
+        <item>Cambia bluetooth</item>
+        <item>Invia MMS</item>
+        <item>Leggi MMS</item>
+        <item>Scrivi MMS</item>
+        <item>Auto avvio</item>
+        <item>Cambia nfc</item>
+        <item>Elimina SMS</item>
+        <item>Elimina MMS</item>
+        <item>Elimina contatti</item>
+        <item>Elimina registro chiamate</item>
+        <item>Cambia dati</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Breve</item>
@@ -312,11 +342,6 @@
         <item>Giallo su nero</item>
         <item>Giallo su blu</item>
         <item>Personalizzato</item>
-    </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Usa Dalvik</item>
-        <item>Usa ART</item>
-        <item>Usa la build di debug ART</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Non verificare mai</item>
@@ -460,15 +485,6 @@
         <item>8 secondi</item>
         <item>9 secondi</item>
     </string-array>
-    <string-array name="led_color_entries">
-        <item>Blu</item>
-        <item>Rosso</item>
-        <item>Giallo</item>
-        <item>Verde</item>
-        <item>Ciano</item>
-        <item>Bianco</item>
-        <item>Viola</item>
-    </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Blu</item>
         <item>Rosso</item>
@@ -477,12 +493,14 @@
         <item>Viola</item>
         <item>Porpora</item>
     </string-array>
-    <string-array name="pink_panel_led_color_entries">
-        <item>Lilla</item>
-        <item>Rubino</item>
-        <item>Arancione</item>
+    <string-array name="led_color_entries">
+        <item>Blu</item>
+        <item>Rosso</item>
+        <item>Giallo</item>
         <item>Verde</item>
-        <item>Magenta</item>
+        <item>Ciano</item>
+        <item>Bianco</item>
+        <item>Viola</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
@@ -496,14 +514,14 @@
         <item>Mostra menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
-	<item>Nessuna</item>
+        <item>Nessuna</item>
         <item>Lancia task manager</item>
         <item>Lancia assistente vocale</item>
         <item>Lancia Google now</item>
         <item>Chiudi applicazione corrente</item>
         <item>Mostra i menù</item>
     </string-array>
-	<string-array name="screen_key_long_press_timeout">
+    <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondi</item>
         <item>1 secondo</item>
         <item>1.5 secondi</item>
@@ -583,8 +601,8 @@
         <item>Nativo</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-     <item>Riduzione rumore a singolo microfono</item>
-    <item>Riduzione rumore a doppio microfono</item>
+        <item>Riduzione rumore a singolo microfono</item>
+        <item>Riduzione rumore a doppio microfono</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Sblocca col sorriso</item>
@@ -613,7 +631,7 @@
         <item>Galleria</item>
         <item>Musica</item>
         <item>Email</item>
-		<item>Video</item>
+        <item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>La rete è lenta per via del traffico intenso</item>
@@ -637,11 +655,6 @@
         <item>Medio</item>
         <item>Alto</item>
     </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4,5\"</item>
-        <item>4,0\"</item>
-        <item>3,5\"</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Rete domestica</item>
         <item>Tutte le reti</item>
@@ -659,13 +672,10 @@
         <item>WARM</item>
         <item>COLD</item>
     </string-array>
-    <string-array name="install_non_market_app_entries">
-        <item>Chiedi il permesso per le applicazioni a rischio</item>
-        <item>Consenti</item>
-    </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Chiedi permesso</item>
-        <item>Consenti</item>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4,5\"</item>
+        <item>4,0\"</item>
+        <item>3,5\"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Subito</item>
@@ -687,11 +697,114 @@
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
     </string-array>
-    <string-array name="common_password_business_names">
-        <item>Keyguard</item>
-        <item>Modalità genitore</item>
-        <item>File explorer</item>
+<string-array name="screen_resolution_entries">
+        <item>Ultra alto (2K)</item>
+        <item>Normale (720p)</item>
     </string-array>
+    <string-array name="screen_resolution_values">
+        <item>1440</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>dz</item>
+        <item>ao</item>
+        <item>ar</item>
+        <item>bh</item>
+        <item>be</item>
+        <item>bo</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>cl</item>
+        <item>co</item>
+        <item>cd</item>
+        <item>cr</item>
+        <item>ci</item>
+        <item>ec</item>
+        <item>eg</item>
+        <item>sv</item>
+        <item>gq</item>
+        <item>et</item>
+        <item>fk</item>
+        <item>fr</item>
+        <item>gf</item>
+        <item>gh</item>
+        <item>gt</item>
+        <item>gy</item>
+        <item>hn</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>iq</item>
+        <item>jo</item>
+        <item>ke</item>
+        <item>kw</item>
+        <item>lb</item>
+        <item>ls</item>
+        <item>ly</item>
+        <item>lt</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>ni</item>
+        <item>ng</item>
+        <item>om</item>
+        <item>pa</item>
+        <item>py</item>
+        <item>pe</item>
+        <item>ph</item>
+        <item>qa</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sa</item>
+        <item>sn</item>
+        <item>sg</item>
+        <item>za</item>
+        <item>gs</item>
+        <item>kr</item>
+        <item>sr</item>
+        <item>sz</item>
+        <item>ch</item>
+        <item>sy</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tn</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>uy</item>
+        <item>ve</item>
+        <item>vn</item>
+        <item>ye</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="common_password_business_keys">
+        <item>keyguard</item>
+        <item>childrenmode</item>
+    </string-array>
+    <string-array name="common_password_business_names">
+        <item>Blocco tastiera</item>
+        <item>Modalità genitore</item>
+		<item>File explorer</item>
+    </string-array>
+    <integer-array name="alarm_repeat_type_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
     <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
         <item>Lun-Ven</item>

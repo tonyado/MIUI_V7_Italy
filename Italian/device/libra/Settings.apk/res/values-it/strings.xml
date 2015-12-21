@@ -987,7 +987,7 @@ Tentativi rimasti :"</string>
     <string name="system_update_settings_list_item_title">Aggiornamenti sistema</string>
     <string name="system_update_settings_list_item_summary"/>
     <string name="firmware_version">Versione di Android</string>
-	<string name="security_patch">Livello patch sicurezza Android</string>
+    <string name="security_patch">Livello patch sicurezza Android</string>
     <string name="model_number">Modello</string>
     <string name="processor_info">Processor info</string>
     <string name="fcc_equipment_id">ID attrezzatura</string>
@@ -1046,7 +1046,7 @@ Tentativi rimasti :"</string>
     <string name="sd_mount_summary"/>
     <string name="sd_format">Formatta archivio USB</string>
     <string name="sd_format_summary">"Elimina i dati nell'archivio USB interno come musica e foto"</string>
-     <string name="storage_usb">Memoria USB</string>
+    <string name="storage_usb">Memoria USB</string>
     <string name="storage_uicc">Memoria UICC</string>
     <string name="usb_eject">Smonta memoria USB</string>
     <string name="usb_eject_summary">Smonta la memoria USB se vuoi rimuoverla con sicurezza</string>
@@ -1260,7 +1260,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="license_title">Licenza</string>
     <string name="terms_title">Termini e condizioni</string>
     <string name="wallpaper_attributions">Sfondi</string>
-    <string name="wallpaper_attributions_values">"Satellite imagery providers:
+    <string name="wallpaper_attributions_values">"Satelliti utilizzati per le immagini:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Licenze open source</string>
     <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
@@ -1578,9 +1578,9 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="wifi_aggressive_handover">Aggressivo handover Wi‑Fi a rete cellulare</string>
     <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi‑Fi Roam Scans</string>
     <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione Display wireless</string>
-    <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
-    <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
-    <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
+    <string name="wifi_verbose_logging_summary">Aumenta il ivello di accesso Wi-Fi, mostra per SSID RSSI nella selezione Wi-Fi</string>
+    <string name="wifi_aggressive_handover_summary">Quando attivato, la connessione Wi-Fi sarà più aggressiva nel prevalere sulla connessione dati mobile quando il segnale Wi-Fi è debole</string>
+    <string name="wifi_allow_scan_with_traffic_summary">"Consenti/nega la scansione Wi-Fi basata sui dati dell'interfaccia"</string>
     <string name="select_logd_size_title">Dimensione Logger buffer</string>
     <string name="select_logd_size_dialog_title">Seleziona la dimensione del log Logger</string>
     <string name="allow_mock_location">Posizioni fittizie</string>
@@ -2226,9 +2226,7 @@ Puoi trovare controlli di utilizzo dei dati più appropriati nelle impostazioni 
     <string name="data_usage_auto_sync_on_dialog_title">Attivare sincronizzazione automatica dati?</string>
     <string name="data_usage_auto_sync_on_dialog">"Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul dispositivo.
 
-Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul dispositivo. Gli account Google funzionano in questo modo.
-
-Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni account, vai a Impostazioni > Account."</string>
+Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul dispositivo. Gli account Google funzionano in questo modo."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Disattivare sincronizzazione automatica dati?</string>
     <string name="data_usage_auto_sync_off_dialog">"In questo modo limiterai l'utilizzo di dati e della batteria, ma dovrai sincronizzare ciascun account manualmente per raccogliere le informazioni recenti. Inoltre non riceverai notifiche quando si verificano gli aggiornamenti."</string>
     <string name="data_usage_cycle_editor_title">Data reimpostazione ciclo utilizzo</string>
@@ -2242,9 +2240,7 @@ Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni accou
 Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
     <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
     <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.
-
-Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
+    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi. Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">avviso</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
@@ -2719,10 +2715,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="field_info_tx_power_label">Tx Power:</string>
     <string name="field_info_rx_tx_port_label">Porta Rx/Tx:</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display wireless è disabilitato perchè il Wi-Fi è spento</string>
-    <string name="config_mtp_function_name">mtp</string>
-    <string name="config_ptp_function_name">ptp</string>
-    <string name="config_mass_storage_function_name">mass_storage</string>
-    <string name="config_charging_function_name">charging</string>
     <string name="wifi_type_approval"/>
     <string name="do_not_disturb_mode">Non disturbare</string>
     <string name="dndm_notification">Non disturbare abilitata.</string>
@@ -2786,6 +2778,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="search_bluetooth">Bluetooth</string>
     <string name="search_android_beam">Beam</string>
     <string name="search_vpn">VPN</string>
+    <string name="search_virtual_sim">SIM virtuale</string>
     <string name="search_tether">Hotspot</string>
     <string name="search_brightness">Luminosità</string>
     <string name="search_wallpaper">Sfondo</string>
@@ -3026,6 +3019,16 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="frequently_fragment_delete">Rimuovi</string>
     <string name="show_fc">App chiuse forzatamente</string>
     <string name="show_fc_summary">Mostra app chiuse forzatamente</string>
+    <string name="shuting_down_find_device">Turning off Find device…</string>
+    <string name="checking_find_device_status">Checking Find device status…</string>
+    <string name="failed_to_check_find_device_status_title">Failed to check Find device status</string>
+    <string name="failed_to_check_find_device_status_content">Failed to check find device status, Wait a minute or two and try again.</string>
+    <string name="failed_to_shut_down_find_device_title">"Couldn't turn off Find device"</string>
+    <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
+    <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
+    <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
+    <string name="check_find_device_status_failure_confirm">OK</string>
+    <string name="shut_down_find_device_failure_confirm">OK</string>
     <string name="factory_reset_summary">Elimina tutti i dati dalla memoria interna del tuo dispositivo</string>
     <string name="erase_sure">Dati personali</string>
     <string name="erase_personal_data">Dati personali</string>
@@ -3119,6 +3122,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="virtual_sim_category_title">SIM virtuale</string>
     <string name="virtual_sim_title">Rete dati roaming</string>
     <string name="virtual_sim_description">Servizio di roaming internazionale affidabile</string>
+    <string name="virtual_sim_search_title">SIM virtuale</string>
     <string name="power_mode">Impostazioni alimentazione</string>
     <string name="high_performance_title">Sembra che stai eseguendo un test di benchmark. Imposta la modalità \"Alte Prestazioni\" per avere risultati migliori.</string>
     <string name="high_performance_notif_title">Avviso utilizzo della batteria</string>
@@ -3443,6 +3447,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="now">Riavvia adesso</string>
     <string name="need_reboot_now">"Devi riavviare per completare l'aggiornamento, aggiorna adesso"</string>
     <string name="welcome">Benvenuto</string>
+    <string name="resolver_settings_label">Ordina</string>
     <string name="launching_pho">Caricamento informazioni dispositivo, attendere…</string>
     <string name="launching_cit">Avvio Rilevamento Hardware, attendere…</string>
     <string name="launching_rep">Segnalazione bug in corso, attendere…</string>
@@ -3462,17 +3467,11 @@ Disabilitare le finestre flottanti?"</string>
     <string name="local_backup_section_summary">Backup impostazioni di sistema, account e applicazioni</string>
     <string name="other_personal_settings">Impostazioni aggiuntive</string>
     <string name="local_auto_backup_section_title">Backup automatico</string>
-    <string name="local_auto_backup_on">On</string>
-    <string name="local_auto_backup_off">Off</string>
+    <string name="local_auto_backup_on">Attivato</string>
+    <string name="local_auto_backup_off">Disattivato</string>
     <string name="other_advanced_settings">Impostazioni aggiuntive</string>
     <string name="recent_location_requests_title">Accesso alla posizione</string>
     <string name="recent_location_requests_summary">"Le app seguenti richiedono l'accesso alla tua posizione"</string>
-    <string name="background_location_requests_title">Consenti posizione in background</string>
-    <string name="background_location_requests_summary">Consenti alle app di utilizzare la tua posizione anche quando non le utilizzi</string>
-    <string name="background_location_control_title">Accesso posizione in background</string>
-    <string name="background_location_control_summary">"Consenti o previeni l'accesso in background alla tua posizione da parte delle app"</string>
-    <string name="background_location_select_apps">Seleziona tutto</string>
-    <string name="background_location_deselect_apps">Deseleziona tutto</string>
     <string name="permission_manager">Permessi</string>
     <string name="security_keyguard_category_name">Blocco schermo</string>
     <string name="security_password_category_name">Password</string>
@@ -3715,9 +3714,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="add_fingerprint_put_finger_title">Posiziona il dito</string>
     <string name="add_fingerprint_put_finger_msg">Dopo la pressione del sensore, rimuovi il dito e riprova.</string>
     <string name="add_fingerprint_put_finger_edge_msg">Dopo la pressione del sensore rimuovi il dito e prova di nuovo.</string>
-    <string name="add_fingerprint_move_finger_title">Rimuovi dito</string>
     <string name="add_fingerprint_done_title">Fatto!</string>
-   <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il tuo dispositivo con le impronte digitali.</string>
+    <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il tuo dispositivo con le impronte digitali.</string>
     <string name="information_dialog_button_text">Ho capito</string>
     <string name="max_fingerprint_number_reached">Non è possibile aggiungere più di 5 impronte digitali. Per aggiungere una nuova impronta, eliminare prima qualcuna delle esistenti.</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">"Eliminare i dati sull'impronta?"</string>
@@ -3727,5 +3725,13 @@ Disabilitare le finestre flottanti?"</string>
     <string name="add_fingerprint_instruction_dialog_msg">"Per aggiungere la tua impronta digitale, metti il dito sul sensore.
 assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="add_fingerprint_toast_text">Metti il dito sul sensore adesso</string>
-    <string name="resolver_settings_label">Ordina</string>
+    <string name="onekey_migrate">Trasferisci</string>
+    <string name="lock_settings_with_fingerprint">Lockscreen e password</string>
+    <string name="confirm_fingerprint_msg">Posiziona il dito sul lettore di impronte</string>
+    <string name="managed_profile_location_category">Profilo lavoro</string>
+    <string name="managed_profile_location_switch_title">LPosizione per il profilo di lavoro</string>
+    <string name="managed_profile_location_switch_lockdown">Disattivato dalla tua azienda</string>
+    <string name="forget_password_button_text"><u>Password dimenticata</u></string>
+    <string name="print_enable">Attiva stampa</string>
+    <string name="print_remind">Prima attiva la stampa</string>
 </resources>
