@@ -324,7 +324,7 @@ Visita mi.com/micloud per avere spazio di archiviazione aggiuntivo."</string>
     <string name="micloud_member_buy_title">Conferma ordine</string>
     <string name="micloud_member_buy_content" formatted="false">"Valido per %s-%s-%s
 
-%s Mi Credit l'anno"</string>
+%s Mi Credit"</string>
     <string name="micloud_member_net_error_alert_title">Impossibile connettersi alla rete</string>
     <string name="micloud_member_net_error_alert_message">Non hai una connessione internet.</string>
     <string name="micloud_member_pay_fail_toast">Impossibile completare il pagamento</string>

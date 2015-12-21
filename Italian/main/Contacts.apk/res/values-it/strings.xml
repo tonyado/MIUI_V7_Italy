@@ -674,6 +674,10 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_error_accept_self">Non è possibile scambiare la tua scheda di contatto</string>
     <string name="miprofile_error_no_miaccount">Accedi al tuo Mi Account</string>
     <string name="miprofile_error_unknown">Errore sconosciuto</string>
+    <string name="miprofile_nick_name_edit_dialog_title">Modifica nick name</string>
+    <string name="miprofile_nick_name_edit_dialog_message">Il nick name verrà mostrato nel registro chiamate e nei dettagli</string>
+    <string name="miprofile_nick_name_edit_dialog_hint">"Inserisci un nick name come 'Mish' ad esempio"</string>
+    <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="in_call_show">Video</string>
     <string name="my_in_call_show">I miei video</string>
     <string name="contacts_in_call_show">Video di %s</string>
@@ -1141,4 +1145,5 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="cloud_state_disabled">La sincronizzazione con Mi Cloud è disattivata</string>
     <string name="more_call_logs">Per altri dati sulle chiamate su go i.mi.com</string>
     <string name="transfer_accounts">Trasferisci account</string>
+    <string name="phone_number_too_long_toast">Numero troppo lungo</string>
 </resources>

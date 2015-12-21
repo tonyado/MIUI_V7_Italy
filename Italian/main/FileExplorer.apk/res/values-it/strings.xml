@@ -164,6 +164,7 @@
     <string name="compress_title">Comprimi</string>
     <string name="compress_message">Comprimi in...</string>
     <string name="compress_fail">Compressione fallita, destinazione già esistente</string>
+    <string name="compress_fail_unknown">Impossibile comprimere. Memoria piena o errre sconosciuto.</string>
     <string name="operation_compressing">Compressione…</string>
     <string name="operation_decompressing">Estrazione…</string>
     <string name="decompress_success">Estrazione completata</string>
@@ -544,7 +545,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="type_not_support">Questo formato non è supportato. Scompatta questo file e prova di nuovo.</string>
     <string name="notify_private_folder_title">Proteggi i tuoi file personali</string>
     <string name="notify_private_folder_msg">Tocca per informazioni sulle cartelle nascoste.</string>
-   <string name="select_dest_folder">Seleziona cartella</string>
+    <string name="select_dest_folder">Seleziona cartella</string>
     <string name="menu_item_sort_by_added_time">Aggiunto</string>
     <string name="create_shortcut_title">Crea una scorciatoia</string>
     <string name="create_shortcut_message">Utilizzi spesso File Explorer. Vuoi creare un collegamento sulla Home per gestire i file più velocemente?</string>
@@ -552,6 +553,8 @@ e non perderai mai le ultime novità!"</string>
     <string name="create_shortcut_cancel">No grazie</string>
     <string name="create_shortcut_confirm">Crea</string>
     <string name="create_shortcut_success">Collegamento creato</string>
+    <string name="move_icon_to_desktop_hint">Crea un collegamento sulla Home per File Explorer per gestire più rapidamente i file.</string>
+    <string name="move_to_confirm">Crea</string>
     <string name="clean_hint">Tocca per liberare spazio</string>
     <string name="private_toast_hint1">Tocca per aggiungere file alle cartelle nascoste</string>
     <string name="private_toast_hint2">Per nascondere un file toccalo e tieni premuto, poi aggiungilo alla cartella nascosta.</string>

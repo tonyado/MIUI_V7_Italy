@@ -14,6 +14,31 @@
     <string name="cloud_app_restore_data">Ripristina le app installate in precedenza</string>
     <string name="cloud_app_dont_restore">Non ripristinare</string>
     <string name="cloud_app_restore_wifi_prompt">Collegati ad una rete Wi-Fi per ripristinare le app.</string>
+    <string name="cloud_backup_detail_state">Backup Mi Cloud</string>
+    <string name="cloud_backup_detail_state_summary">App, Home screen e impostazioni di sistema</string>
+    <string name="cloud_backup_detail_frequence">Programma Backup</string>
+    <string name="cloud_back_up_interval_long">7 giorni</string>
+    <string name="cloud_back_up_interval_short">Tutti i giorni</string>
+    <string name="cloud_backup_detail_frequence_day">%1$s esegui una volta il backup</string>
+    <string name="cloud_backup_detail_time">, orario backup
+:%1$s</string>
+    <string name="cloud_backup_detail_manage">Gestisci backup</string>
+    <string name="cloud_backup_detail_manage_summary">%1$s backup, dimensione:%2$s</string>
+    <string name="cloud_back_up_opening">Solo un secondo…</string>
+    <string name="cloud_back_up_no_network_warn">Impossibile collegarsi alla rete</string>
+    <string name="cloud_back_up_ok_btn">OK</string>
+    <string name="cloud_back_up_frequence_choice_title">Programmazione backup</string>
+    <string name="cloud_back_up_frequence_long">Ogni 7 giorni</string>
+    <string name="cloud_back_up_frequence_short">Ogni giorno</string>
+    <string name="cloud_back_up_share_activity_title">Aggiorna Mi Account</string>
+    <string name="cloud_back_up_share_activity_discription">Ottieni altro spazio di archiviazione, backup giornalieri ed altro.</string>
+    <string name="cloud_back_up_share_activity_confirm">Aggiorna</string>
+    <string name="cloud_back_up_detail_discription">"Verrà eseguito il backup di questi elementi su  Mi Cloud quando il dispositivo sarà connesso ad una rete Wi-Fi: 
+*\u0009\u0009\u0009\u0009App, Layout Home screen e sfondi 
+*\u0009\u0009\u0009\u0009Svelie, orologio e impostazioni orario 
+*\u0009\u0009\u0009\u0009Impostazioni delle notifiche 
+*\u0009\u0009\u0009\u0009MIUI e impostazioni di sistema 
+Nota: i dati delle paplicazioni installate non verranno salvato su Mi Cloud."</string>
     <string name="cloud_app_no_data">Nessun salvataggio</string>
     <string name="cloud_app_restore_error">Impossibile ripristinare</string>
     <string name="cloud_app_restore_success">Applicazioni ripristinate</string>
@@ -56,7 +81,8 @@
     <string name="open_wifi_setting">Impostazioni Wi-Fi</string>
     <string name="name_model">%2$s di %1$s</string>
     <string name="download_settings">Download impostazioni Home: %s%%</string>
-    <string name="recover_settings">Ripristino impostazioni Home</string>
+    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="recover_home_settings">Ripristino impostazioni Home</string>
     <string name="cancel_recover_settings"><u>Annulla</u></string>
     <string name="recover_settings_description">Non spegnere il dispositivo</string>
     <string name="recover_miui_settings">Ripristina le impostazioni di sistema MIUI</string>
@@ -73,4 +99,16 @@
     <string name="remove_task_unfinished">Rimozione incompleta</string>
     <string name="back_up_task_unfinished">Backup incompleto</string>
     <string name="about_to_recover">Solo un istante…</string>
+    <string name="success_open_cloudbackup">Backup applicazioni Home screen attivato</string>
+    <string name="as_new_device">Sostituisci Home screen e impostazioni precedenti</string>
+    <string name="as_new_device_summary">Cancella precedenti backup su Mi Cloud</string>
+    <string name="restore_data_summary">Quest funzione richiede una connessione interntet.</string>
+    <string name="query_restore_summary">Trovato un backup Mi Cloud per questo dispositivo. Ripristinare le app della Home screen e le impostazioni oppure utilizzare come nuovo dispositivo e cancellare i backup precedenti su Mi Cloud?</string>
+    <string name="query_restore_back_view">Backup Mi Cloud</string>
+    <string name="restore_home_screen_apps">Ripristina da backup Mi Cloud</string>
+    <string name="query_restore_description">"Ripristina app Home screen e impostazioni con questo backup. Verranno sovrascritti i dati delle app già installate su questo dispositivo. Le app non incluse in questo backup verranno spostate nell'ultima schermata."</string>
+    <string name="restore_from_this_device">Ripristina utilizzando questo backup</string>
+    <string name="confirm_restore_title">Ripristina</string>
+    <string name="confirm_restore_summary">La Home screen verrà riavviata e le app verranno scaricate automaticamente quando collegato ad unarete Wi-Fi</string>
+    <string name="confirm_restore">Ripristina</string>
 </resources>

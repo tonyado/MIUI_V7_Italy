@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="setup_wizard_next_button_label">Avanti</string>
+    <string name="setup_wizard_back_button_label">Indietro</string>
     <string name="music_audio_effect_optimize">Impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>
@@ -40,6 +42,7 @@
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
     <string name="music_dirac_mode_piston_color">Color Edition</string>
     <string name="music_dirac_mode_headset">Cuffie Mi</string>
+    <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
@@ -107,8 +110,10 @@
     <string name="show_dev_on">Ora sei uno sviluppatore.</string>
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>
+    <string name="header_category_connections">Connessioni</string>
     <string name="header_category_device">DISPOSITIVO</string>
     <string name="header_category_personal">PERSONALE</string>
+    <string name="header_category_access">Accesso</string>
     <string name="header_category_system">SISTEMA</string>
     <string name="turn_on_radio">Attiva segnale cellulare</string>
     <string name="turn_off_radio">Disattiva segnale cellulare</string>
@@ -203,6 +208,10 @@
     <string name="bluetooth_rename_button">Rinomina</string>
     <string name="bluetooth_disconnect_title">Disconnettere?</string>
     <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_empty_list_user_restricted">Non hai i permessi per poter modificare le impostazioni Bluetooth.</string>
+    <string name="bluetooth_is_visible_message">%1$s è visibile ai dispositivi vicini mentre le impostazioni Bluetooth sono aperte.</string>
+    <string name="bluetooth_is_disconnect_question">Disconnettere %1$s?</string>
+    <string name="bluetooth_broadcasting">Trasmissione</string>
     <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
     <string name="bluetooth_disable_profile_message">Verrà disattivato:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Su:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Connesso</string>
@@ -227,6 +236,11 @@
     <string name="bluetooth_ask_enablement">"Un'app chiede di attivare il Bluetooth."</string>
     <string name="bluetooth_ask_discovery">"Un'app chiede di rendere il tuo dispositivo visualizzabile da altri dispositivi Bluetooth per %1$d secondi."</string>
     <string name="bluetooth_ask_lasting_discovery">"Un'app chiede di rendere il tuo dispositivo visibile ad altri dispositivi Bluetooth. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
+    <string name="bluetooth_ask_start_broadcast">%1$s vuole attivare la trasmissione Bluetooth per comunicare con altri dispositivi vicini. Puoi modificarlo successivamente nelle impostazioni Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s attivare il Bluetooth e la trasmissione Bluetooth broadcasting per comunicare con altri dispositivi vicini. Puoi modificare questa impostazioni nelle impostazioni Bluetooth.</string>
+    <string name="bluetooth_broadcasting_explaination">"Quando questa funzione è attivata, il tuo telefono può comunicare con altri dispositivi vicini.
+
+La trasmissione utilizza solo segnali Bluetooth a basso consumo."</string>
     <string name="bluetooth_ask_enablement_and_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tuo dispositivo visibile ad altri dispositivi per %1$d secondi."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tuo dispositivo visibile ad altri dispositivi. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
     <string name="bluetooth_turning_on">Attivazione Bluetooth…</string>
@@ -270,7 +284,8 @@
     <string name="proxy_error_empty_host_set_port">Il campo Porta deve essere vuoto se il campo Host è vuoto.</string>
     <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
     <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
-    <string name="proxy_url">"URL PAC: "</string>
+    <string name="proxy_url_title">"URL PAC: "</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="radio_info_signal_location_label">Posizione:</string>
     <string name="radio_info_neighboring_location_label">CID adiacente:</string>
     <string name="radio_info_cellinfo_label">CellInfo:</string>
@@ -328,9 +343,16 @@
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
     <string name="phone_info_label">Info dispositivo</string>
+    <string name="field_test_info_label">Campo informazioni test</string>
     <string name="sd_card_settings_label">Archivio USB</string>
     <string name="proxy_settings_label">Impostazioni proxy</string>
     <string name="cancel">Annulla</string>
+    <string name="cancel_all_caps">ANNULLA</string>
+    <string name="continue_all_caps">CONTINUA</string>
+    <string name="okay">OK</string>
+    <string name="yes_all_caps">SI</string>
+    <string name="no_all_caps">NO</string>
+    <string name="forget">DIMENTICA</string>
     <string name="settings_label">Impostazioni</string>
     <string name="settings_label_launcher">Impostazioni</string>
     <string name="settings_shortcut">Scorciatoia Impostazioni</string>
@@ -338,6 +360,11 @@
     <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
     <string name="radio_controls_summary">Gestisci Wi‑Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
+    <string name="cellular_data_title">Dati cellulare</string>
+    <string name="calls_title">Chiamate</string>
+    <string name="sms_messages_title">Messaggi SMS</string>
+    <string name="cellular_data_summary">Consenti utilizzo dati su rete mobile</string>
+    <string name="allow_data_usage_title">Consenti utilizzo dati in roaming</string>
     <string name="roaming">Roaming dati</string>
     <string name="roaming_enable">Connessione a servizi di dati in roaming</string>
     <string name="roaming_disable">Connessione a servizi di dati in roaming</string>
@@ -359,10 +386,15 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="zone_auto">Fuso orario automatico</string>
     <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
     <string name="zone_auto_summaryOff">Utilizza il fuso orario fornito dalla rete</string>
+    <string name="date_time_24hour_title">Formato 24 ore</string>
     <string name="date_time_24hour">Usa formato 24 ore</string>
+    <string name="date_time_set_time_title">Ora</string>
     <string name="date_time_set_time">Imposta ora</string>
+    <string name="date_time_set_timezone_title">Fuso orario</string>
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
+    <string name="date_time_set_date_title">Data</string>
     <string name="date_time_set_date">Imposta data</string>
+    <string name="date_time_date_format">Scegli il formato della data</string>
     <string name="date_time_date_format">Scegli il formato della data</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
@@ -373,6 +405,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="biometric_weak_liveliness_summary">Richiedi battito di ciglia durante sblocco</string>
     <string name="lock_after_timeout">Blocca automaticamente</string>
     <string name="lock_after_timeout_summary">%1$s dopo sospensione</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s dopo sospensione, escluso quando tenuto sbloccato da %2$s</string>
     <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario su blocco schermo</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="security_enable_widgets_title">Abilita widget</string>
@@ -383,7 +416,9 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="user_info_settings_title">Dati utente</string>
     <string name="show_profile_info_on_lockscreen_label">Mostra info profilo in schermata di blocco</string>
     <string name="profile_info_settings_title">Informazioni profilo</string>
+    <string name="Accounts_settings_title">Account</string>
     <string name="location_settings_title">Geolocalizzazione</string>
+    <string name="account_settings_title">Account</string>
     <string name="security_settings_title">Sicurezza</string>
     <string name="security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco SIM, blocco cred.</string>
     <string name="cdma_security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco archivio credenziali</string>
