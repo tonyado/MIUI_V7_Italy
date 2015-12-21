@@ -395,7 +395,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="date_time_set_date_title">Data</string>
     <string name="date_time_set_date">Imposta data</string>
     <string name="date_time_date_format">Scegli il formato della data</string>
-    <string name="date_time_date_format">Scegli il formato della data</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
     <string name="date_picker_title">Data</string>
