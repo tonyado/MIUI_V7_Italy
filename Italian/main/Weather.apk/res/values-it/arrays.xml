@@ -30,11 +30,17 @@
         <item>Nessun dato</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Molto debole</item>
         <item>Debole</item>
         <item>Medio</item>
         <item>Forte</item>
-        <item>Molto forte</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Indicato</item>
+        <item>Non indicato</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Indicato</item>
+        <item>Non indicato</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Vento N</item>
@@ -46,15 +52,19 @@
         <item>Vento O</item>
         <item>Vento NO</item>
     </string-array>
-    <string-array name="moon_desc">
-        <item>Luna nuova</item>
-        <item>Luna crescente</item>
-        <item>Primo quarto</item>
-        <item>Gibbosa crescente</item>
-        <item>Luna piena</item>
-        <item>Gibbosa calante</item>
-        <item>Ultimo quarto</item>
-        <item>Luna calante</item>
-        <item>Luna scura</item>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
     </string-array>
 </resources>
