@@ -172,7 +172,7 @@
     <string name="battery_info_temperature_units">°C</string>
     <string name="battery_info_uptime">"Tempo dall'avvio:"</string>
     <string name="battery_info_awake_battery">Tempo di attività con batteria:</string>
-    <string name="battery_info_awake_plugged">Tempo di attività sotto carica:</string>
+    <string name="battery_info_awake_plugged">Tempo di attività in carica:</string>
     <string name="battery_info_screen_on">Tempo accensione schermo:</string>
     <string name="battery_info_status_unknown">Sconosciuta</string>
     <string name="battery_info_status_charging">In carica</string>
@@ -181,7 +181,7 @@
     <string name="battery_info_status_charging_wireless">(wireless)</string>
     <string name="battery_info_status_discharging">Non in carica</string>
     <string name="battery_info_status_not_charging">Non in carica</string>
-    <string name="battery_info_status_full">Carica</string>
+    <string name="battery_info_status_full">Carica completata</string>
     <string name="battery_info_power_unplugged">Non collegato</string>
     <string name="battery_info_power_ac">CA</string>
     <string name="battery_info_power_usb">USB</string>
@@ -1802,15 +1802,15 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="usage_type_computed_power">Consumi utilizzati</string>
     <string name="usage_type_actual_power">Consumi osservati</string>
     <string name="battery_action_stop">Termina</string>
-    <string name="battery_action_app_details">Informazioni applicazione</string>
+    <string name="battery_action_app_details">Informazioni applicazioni</string>
     <string name="battery_action_app_settings">Impostazioni applicazioni</string>
     <string name="battery_action_display">Impostazioni schermo</string>
     <string name="battery_action_wifi">Impostazioni Wi-Fi</string>
     <string name="battery_action_bluetooth">Impostazioni Bluetooth</string>
     <string name="battery_desc_voice">Batteria utilizzata da chiamate vocali</string>
     <string name="battery_desc_standby">Utilizzo batteria quando il dispositivo è inattivo</string>
-    <string name="battery_desc_radio">Batteria utilizzata da segnale cellulare</string>
-    <string name="battery_sugg_radio">Passa a modalità in volo per ridurre i consumi nelle aree senza copertura cellulare</string>
+    <string name="battery_desc_radio">Batteria utilizzata dal segnale cellulare</string>
+    <string name="battery_sugg_radio">Attiva la Modalità aereo per ridurre i consumi nelle aree senza copertura cellulare</string>
     <string name="battery_desc_flashlight">Batteria utilizzata dalla torcia</string>
     <string name="battery_desc_display">Batteria utilizzata da display e retroilluminazione</string>
     <string name="battery_sugg_display">Riduci la luminosità e/o il timeout dello schermo</string>
@@ -1825,7 +1825,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_sugg_apps_settings">"L'applicazione potrebbe offrire impostazioni per ridurre l'utilizzo della batteria"</string>
     <string name="battery_desc_users">"Batteria utilizzata dall'utente"</string>
     <string name="battery_desc_unaccounted">Consumo energetico Varie</string>
-    <string name="battery_msg_unaccounted">"Il consumo della batteria è un'approsimazione del consumo energetico e non include tutte le fonti che influiscono sul consumo della batteria. Varie è la differenza tra il calcolo approssimato del consumo energetico e del consumo reale della batteria."</string>
+    <string name="battery_msg_unaccounted">"Il consumo della batteria è una stima del consumo energetico e non include tutte le fonti che influiscono sul suo consumo. Indica la differenza tra la stima del consumo energetico e il consumo reale della batteria."</string>
     <string name="battery_desc_overcounted">Consumo energetico Over-counted </string>
     <string name="mah">%d mAh</string>
     <string name="menu_stats_unplugged">%1$s dallo scollegamento</string>
@@ -1858,8 +1858,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="mem_use_native_type">Nativo</string>
     <string name="mem_use_kernel_cache_type">Cache Kernel</string>
     <string name="mem_use_zram_type">ZRam swap</string>
-    <string name="mem_use_free_type">Free</string>
-    <string name="mem_use_total">Total</string>
+    <string name="mem_use_free_type">Libera</string>
+    <string name="mem_use_total">Totale</string>
     <string name="menu_duration_3h">3 ore</string>
     <string name="menu_duration_6h">6 ore</string>
     <string name="menu_duration_12h">12 ore</string>
@@ -1880,7 +1880,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="voice_service_preference_section_title">Servizi input vocale</string>
     <string name="voice_interactor_preference_summary">Interazione completa con il testo</string>
     <string name="voice_recognizer_preference_summary">Semplice discorso al testo</string>
-    <string name="voice_interaction_security_warning">This voice input service will be able to perform always-on voice monitoring and control voice enabled applications on your behalf. It comes from the %s application. Enable the use of this service?</string>
+    <string name="voice_interaction_security_warning">"Questo motore di sintesi vocale potrebbe essere in grado di raccogliere il testo pronunciato, inclusi dati personali come password e numeri di carte di credito. Deriva dal motore %s. Abilitare l'uso di questo motore di sintesi vocale?"</string>
     <string name="tts_settings">Impostazioni di sintesi vocale</string>
     <string name="tts_settings_title">Output sintesi vocale</string>
     <string name="use_default_tts_settings_title">Usa sempre mie imp.</string>
@@ -1891,7 +1891,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="tts_default_rate_title">Velocità voce</string>
     <string name="tts_default_rate_summary">Velocità di pronuncia del testo</string>
     <string name="tts_default_pitch_title">Tono</string>
-    <string name="tts_default_pitch_summary">Interessa il tono del testo parlato</string>
+    <string name="tts_default_pitch_summary">Scegli il tono del testo parlato</string>
     <string name="tts_default_lang_title">Lingua</string>
     <string name="tts_lang_use_system">Utilizza lingua di sistema</string>
     <string name="tts_lang_not_selected">Lingua non selezionata</string>
@@ -2868,10 +2868,10 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="preferred_application_warning_message">La sostituzione di %1$s come predefinito può aumentare il consumo di batteria, ridurre la velocità e mettere a rischio i contenuti nel dispositivo. Usa invece %2$s.</string>
     <string name="preferred_application_warning_replace">Sostituisci</string>
     <string name="preferred_application_warning_use_system">Usa %s</string>
-    <string name="preferred_sms_warning_message">Utilizzando \"%1$s\" come applicazione di messaggistica predefinita può causare un maggior utilizzo dei dati o compromettere la loro sicurezza.</string>
+    <string name="preferred_sms_warning_message">Utilizzare \"%1$s\" come applicazione di messaggistica predefinita può causare un maggior utilizzo dei dati o compromettere la sicurezza.</string>
     <string name="preferred_sms_warning_use_system">Non usare</string>
     <string name="preferred_sms_settings">Questa applicazione sarà impostata come applicazione predefinita per la lettura e scrittura dei messaggi di testo.</string>
-    <string name="preferred_sms_title">App. Messaggi predefinita</string>
+    <string name="preferred_sms_title">App Messaggi predefinita</string>
     <string name="wallpaper_desktop">Schermata Home</string>
     <string name="wallpaper_lockscreen">Schermata di blocco</string>
     <string name="wallpaper_live">Sfondo animato</string>
@@ -2883,7 +2883,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="title_layout_current2">Dimensione carattere</string>
     <string name="handy_mode">Modalità Mano singola</string>
     <string name="handy_mode_enter_ask">Chiedi prima di entrare in modalità Mano singola</string>
-    <string name="handy_mode_tips">Scorri a sinistra o a destra dal tasto Home per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
+    <string name="handy_mode_tips">Scorri dal tasto Home verso sinistra o verso destra per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
     <string name="handy_mode_size">Dimensione schermo</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
@@ -2897,8 +2897,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="back_key">Indietro</string>
     <string name="screen_key_long_press_timeout">Definisci la durata della pressione lunga</string>
     <string name="under_keyguard">Schermata di blocco</string>
-    <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
-    <string name="disable_power_key_long_press_under_keyguard">Disabilita menu pulsante accensione</string>
+    <string name="enable_snapshot_screenlock">Premi a lungo il pulsante Indietro per scattare una foto</string>
+    <string name="disable_power_key_long_press_under_keyguard">Disabilita menu di spegnimento</string>
     <string name="trackball_wake_title">Attivazione con trackball</string>
     <string name="pref_volume_wake_title">Risveglio con i tasti del volume</string>
     <string name="pref_volume_wake_summary">Premendo i tasti del volume il dispositivo viene risvegliato</string>
@@ -2917,7 +2917,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="camera_key_action_shortcut_search">Cerca</string>
     <string name="camera_key_action_shortcut_call">Chiama</string>
     <string name="camera_key_action_shortcut_wake">Blocca dispositivo</string>
-    <string name="multi_touch_points_category_title">Punti di tocco multipli</string>
+    <string name="multi_touch_points_category_title">Multi-touch</string>
     <string name="multi_touch_points_preference">Riavvia per abilitare</string>
     <string name="trackball_settings">Trackball</string>
     <string name="status_bar_settings">Notifiche</string>
@@ -2926,8 +2926,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="battery_settings">Batteria</string>
     <string name="battery_settings_title">Batteria</string>
     <string name="power_center">Consumo</string>
-    <string name="power_hide_mode_title">Modalità Nascosta</string>
-    <string name="power_hide_mode_summary">"Controllo dell'attività delle app in background, consente un significativo risparmio di batteria"</string>
+    <string name="power_hide_mode_title">Gestisci il consumo da parte delle app</string>
+    <string name="power_hide_mode_summary">"Consente di risparmiare batteria controllando l'attività in background, la connettività Wi-Fi e Dati cellulare e l'uso del GPS"</string>
     <string name="battery_indicator_style">Indicatore batteria</string>
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
