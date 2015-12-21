@@ -865,7 +865,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="alert_dialog_dismiss">Dismiss</string>
     <string name="voicemail_provider">Servizio di segreteria</string>
     <string name="voicemail_settings">Impostazioni segreteria</string>
-    <string name="voicemail_number_not_set"><Non impostato></string>
+    <string name="voicemail_number_not_set">Non impostato</string>
     <string name="other_settings">Altre impostazioni di chiamata</string>
     <string name="calling_via_template">Calling via %s</string>
     <string name="contactPhoto">contact photo</string>
