@@ -3141,7 +3141,7 @@ Seleziona il sistema operativo del tuo computer:"</string>
     <string name="msd_install_retry_reinstall">Reinstalla il driver.</string>
     <string name="msd_install_retry_reinstall_mac">"Cerca Android File Transfer,
 ed esegui il software."</string>
-    <string name="msd_install_status_undo">Installla driver</string>
+    <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver installato.</string>
     <string name="msd_driver_download">Scarica driver</string>
     <string name="msd_driver_download_xp">Per Windows, scarica <b>Mi PC Suite</b> per installare i driver USB</string>
@@ -3676,7 +3676,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="children_mode_tips_off">Dopo aver attivato la modalità Genitore, tocca il tasto Home per tornare alla Home</string>
     <string name="children_mode_enable_title">Modalità genitore</string>
     <string name="children_mode_set_apps_title">Applicazioni accessibili</string>
-    <string name="set_password_title">Set password</string>
+    <string name="set_password_title">Imposta password</string>
     <string name="set_password_message">Imposta una password per disattivare la modalità Genitore e per lo sblocco del telefono</string>
     <string name="cancel_action">Annulla</string>
     <string name="confirm_action">OK</string>
@@ -3719,7 +3719,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="add_fingerprint_done_title">Fatto!</string>
    <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il tuo dispositivo con le impronte digitali.</string>
     <string name="information_dialog_button_text">Ho capito</string>
-    <string name="max_fingerprint_number_reached">Non è possibile aggiungere più di 5 impronte digitali. Per aggiungere una nuova impronta, eliminare prima qualcuna delle esistenti.</string>
+    <string name="max_fingerprint_number_reached">Non è possibile aggiungere più di 5 impronte digitali. Per aggiungere una nuova impronta, elimina prima qualcuna delle esistenti.</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">"Eliminare i dati sull'impronta?"</string>
     <string name="delete_legacy_fingerprint">Elimina</string>
     <string name="keep_legacy_fingerprint">Mantieni</string>
