@@ -6,7 +6,7 @@
     <string name="camera_disabled">La fotocamera è stata disabilitata.</string>
     <string name="camera_label">Fotocamera</string>
     <string name="wait">Attendere…</string>
-    <string name="no_storage">"Monta l'archiviazione USB prima di utilizzare la fotocamera."</string>
+    <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
     <string name="not_enough_space">Scheda SD piena.</string>
     <string name="preparing_sd">Preparo scheda SD…</string>
     <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
@@ -183,8 +183,8 @@
     <string name="pano_review_saving_indication_str">Salvataggio…</string>
     <string name="tap_to_focus">Tocca per mettere a fuoco</string>
     <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale."</string>
-    <string name="snapshot_lower_than_video">La risoluzione dello snapshot video è più bassa di quella video. Raggiungere i valori del video. Selezionare una risoluzione uguale o superiore a quella del video.</string>
-    <string name="snapshotsize_low_powermode">Il supporto per la risoluzione foto in Modalità Risparmio non è supportata. Verrà utilizzato il valore del video. Selezionare la modalità Consumo Intenso per dimensione immagine.</string>
+    <string name="snapshot_lower_than_video">La risoluzione dello snapshot video è più bassa di quella video. Raggiungere i valori del video. Seleziona una risoluzione uguale o superiore a quella del video.</string>
+    <string name="snapshotsize_low_powermode">Il supporto per la risoluzione foto in \"Modalità risparmio\" non è supportata. Verrà utilizzato il valore del video. Selezionare la modalità \"Consumo intenso\" per dimensione immagine.</string>
     <string name="accessibility_shutter_button">Pulsante scatto</string>
     <string name="accessibility_review_thumbnail">Foto recenti</string>
     <string name="accessibility_camera_picker">Fotocamera frontale o posteriore</string>
@@ -230,7 +230,7 @@
     <string name="simple_mode_button_text_color_effect">Chiudi filtro</string>
     <string name="simple_mode_button_text_slow_video">Esci dalla modalità time-lapse</string>
     <string name="simple_mode_button_text_fast_video">Esci dalla modalità slow-motion</string>
-    <string name="pref_video_captrue_ability_title">Modalità cattura</string>
+    <string name="pref_video_captrue_ability_title">Scatta foto durante la registrazione</string>
     <string name="find_other_qrcode">Trova codice QR</string>
     <string name="see_qrcode_detals">Dettagli codice QR</string>
     <string name="pref_camera_watermark_title">Aggiungi data</string>
