@@ -288,7 +288,7 @@ Ricarica ed inizia a parlare."</string>
     <string name="enter_input" formatted="false">Il messaggio USSD deve essere lungo tra gli %d e i %d caratteri. Si prega di riprovare.</string>
     <string name="manageConferenceLabel">Gestisci audioconferenza</string>
     <string name="ok">OK</string>
-    <string name="audio_mode_speaker">Speaker/string>
+    <string name="audio_mode_speaker">Speaker</string>
     <string name="audio_mode_earpiece">Cuffie auricolari</string>
     <string name="audio_mode_wired_headset">Cuffie con filo</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
