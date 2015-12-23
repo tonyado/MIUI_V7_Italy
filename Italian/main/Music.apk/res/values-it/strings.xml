@@ -68,7 +68,7 @@
     <string name="impunity_declaration_content3">" e "</string>
     <string name="impunity_declaration_content4">Informativa sulla Privacy</string>
     <string name="impunity_declaration_content5">.</string>
-    <string name="impunity_declaration_ignore">"Non mostrare di nuovo"</string>
+    <string name="impunity_declaration_ignore">Non mostrare più</string>
     <string name="impunity_declaration_settings">"Mostra Condizioni d'uso"</string>
     <string name="impunity_declaration_summary">"Mostra l'avviso delle Condizioni d'uso di Baidu Online Music Service ad ogni apertura"</string>
     <string name="impunity_declaration_positive_text">OK</string>
@@ -85,7 +85,7 @@
     <string name="eq_electronic">Elettronica</string>
     <string name="eq_country">Country</string>
     <string name="eq_dance">Dance</string>
-    <string name="eq_metal">Metallica</string>
+    <string name="eq_metal">Metal</string>
     <string name="eq_delete">Elimina</string>
     <string name="eq_delete_success">Fatto</string>
     <string name="eq_auto">Personalizza</string>
@@ -161,7 +161,7 @@
     <string name="dialog_title_remove_tracks">Rimuovi</string>
     <string name="dialog_title_delete_tracks">Elimina</string>
     <string name="dialog_button_find_music">Trova nuova musica</string>
-    <string name="dialog_button_editor_choice">Scelti dagli autori</string>
+    <string name="dialog_button_editor_choice">Scelti dagli editori</string>
     <string name="dialog_button_create_playlist">Crea una playlist</string>
     <string name="cancel">Annulla</string>
     <string name="ok">OK</string>
@@ -264,7 +264,7 @@
     <string name="local_tracks_short">File locali</string>
     <string name="tab_local_track_list">Brani</string>
     <string name="tab_local_folder_list">Cartella</string>
-    <string name="song_not_find">"Nessun brano trovato. Verifica la tua connessione alla rete e riprova."</string>
+    <string name="song_not_find">"Nessun brano trovato. Verifica la connessione di rete e riprova."</string>
     <string name="empty_page_no_track">Nessun brano.</string>
     <string name="empty_page_no_artist">Nessun artista.</string>
     <string name="empty_page_no_album">Nessun album.</string>

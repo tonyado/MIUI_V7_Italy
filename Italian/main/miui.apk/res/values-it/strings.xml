@@ -13,8 +13,8 @@
     <string name="no_sim">Nessuna SIM rilevata.</string>
     <string name="sim_locked">SIM bloccata.</string>
     <string name="sim_in_airplane_mode">Disattiva modalità aereo.</string>
-    <string name="sim_not_ready">SIM in uso. Riprovare più tardi.</string>
-    <string name="sim_unavailable">SIM Non disponibile.</string>
+    <string name="sim_not_ready">SIM in uso. Riprova più tardi.</string>
+    <string name="sim_unavailable">SIM non disponibile.</string>
     <string name="activating">Attivazione…</string>
     <string name="sync_one_time_sync">Tocca per sincronizzare ( %1$s )</string>
     <string name="select_item">Seleziona elementi</string>
@@ -53,11 +53,11 @@
     <string name="check_phone_error_title">Servizio di sincronizzazione non attivato</string>
     <string name="check_phone_io_error">Errore di rete.</string>
     <string name="send_sms_for_sync_title">Servizio di sincronizzazione non attivato</string>
-    <string name="send_sms_for_sync_notice">Verrà inviato un messaggio di attivazione automaticamente (al costo previsto dal tuo operatore).</string>
+    <string name="send_sms_for_sync_notice">Verrà inviato un messaggio di attivazione automaticamente.</string>
     <string name="activate">Attiva</string>
     <string name="activate_fail_notification_title">Sincronizzazione reattiva</string>
-    <string name="sim_changed_reactivate_notice">La SIM attuale è disattivata. Verrà inviato un messaggio di attivazione automaticamente (al costo previsto dal tuo operatore).</string>
-    <string name="sim_changed_reactivate_int_notice">La SIM attuale è disattivata. Verrà inviato un messaggio di attivazione automaticamente (al costo previsto dal tuo operatore).</string>
+    <string name="sim_changed_reactivate_notice">La SIM attuale è disattivata. Verrà inviato un messaggio di attivazione automaticamente.</string>
+    <string name="sim_changed_reactivate_int_notice">La SIM attuale è disattivata. Verrà inviato un messaggio di attivazione automaticamente.</string>
     <string name="error_title">Errore di sincronizzazione</string>
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
     <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
@@ -345,7 +345,7 @@
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
     <string name="fmt_chinese_date"/>
     <string name="permlab_sendSmsNoConfirmation">Consenti SMS in background</string>
-    <string name="permdesc_sendSmsNoConfirmation">"L'applicazione può inviare SMS senza chiedere il permesso. Questo potrebbe comportare addebiti aggiuntivi da parte del tuo operatore."</string>
+    <string name="permdesc_sendSmsNoConfirmation">"L'applicazione può inviare SMS senza chiedere il permesso."</string>
     <string name="web_sso_login_message">Accesso in corso…</string>
     <string name="web_sso_login_fail">Devi accedere di nuovo</string>
     <string name="no_network">Impossibile connettersi alla rete</string>
