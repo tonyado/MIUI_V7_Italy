@@ -1064,8 +1064,8 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="answer_state_setting_title">Impostazioni chiamate in arrivo</string>
     <string name="answer_state_setting_summary">Opzioni aggiuntive per chiamate in arrivo</string>
     <string name="turnover_mute_title">Capovolgi per silenziare la suoneria</string>
-    <string name="turnover_mute_summary">Quando il telefono è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
-    <string name="handon_ringer_summary">Il telefono non vibrerà quando hai una chiamata in arrivo</string>
+    <string name="turnover_mute_summary">Quando il dispositivo è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
+    <string name="handon_ringer_summary">Il dispositivo non vibrerà quando hai una chiamata in arrivo</string>
     <string name="handon_ringer_title">Non vibrare</string>
     <string name="flash_when_ring_summary">Notifica lampeggiante per le chiamate in arrivo</string>
     <string name="flash_when_ring_title">Lampeggia su chiamata</string>
@@ -1228,7 +1228,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="respond_via_sms_menu_reset_default_activity">Ripristina predefiniti</string>
     <string name="respond_via_sms_confirmation_format">Messaggio inviato a %s.</string>
     <string name="sip_add_account_tip_text">Per usare le chiamate internet, aggiungere un account SIP</string>
-    <string name="callwait_open_hint">\"Chiamata in attesa\" è una funzionalità fornita dal tuo operatore mobile. Se ricevi una notifica di errore, contatta il tuo fornitore di servizi e assicurati che questa funzionalità sia attiva per il tuo numero..</string>
+    <string name="callwait_open_hint">\"Chiamata in attesa\" è una funzionalità fornita dal tuo operatore mobile. Se ricevi una notifica di errore, contatta il tuo fornitore di servizi e assicurati che questa funzionalità sia attiva per il tuo numero.</string>
     <string name="open_miui">Apri</string>
     <string name="preferred_network_restrict_network_changed_incall">Impossibile cambiare rete durante una chiamata</string>
     <string name="bad_pin">Il vecchio PIN che hai digitato non è corretto. Riprova</string>
@@ -1246,7 +1246,7 @@ Sarà usata al suo posto la rete preferita.</string>
 Il tuo telefono verrà bloccato automaticamente se fallisci un altro tentativo</string>
     <string name="puk_label">Digita il codice PUK</string>
     <string name="puk_lock_warning">
-La tua carta SIM sarà cancellata se fallisci un altro tentativo.</string>
+La tua SIM sarà cancellata se fallisci un altro tentativo.</string>
     <string name="sim_contact_name">Nome</string>
     <string name="sim_contact_number">Numero</string>
     <string name="ivr_parameter_settings">Impostazioni IVR</string>
@@ -1267,9 +1267,9 @@ La tua carta SIM sarà cancellata se fallisci un altro tentativo.</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Potresti non essere più in grado di effettuare chiamate o utilizzare la connessione dati. Non utilizzare più la SIM %s?</string>
     <string name="msim_disable_sim_card_summary_default_card">"Questa SIM è attualmente impostata com e predefinita. Se decidi di non utilizzarla più, non sarai più in grado di effettuare chiamate o utilizzare la connessione dati. Puoi smettere di utilizzare questa SIM dopo averne impostata un'altra come predefinita."</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
-    <string name="enhanced_4g_lte_mode_on_failed">"Couldn't turn on VoLTE."</string>
-    <string name="enhanced_4g_lte_mode_off_failed">"Couldn't turn off VoLTE."</string>
-    <string name="cmcc_ut_data_enable_prompt">"Couldn't connect using VoLTE network. Turn on your mobile data connection now."</string>
-    <string name="volte_switch_title">VoLTE enabled</string>
-    <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
+    <string name="enhanced_4g_lte_mode_on_failed">Impossibile attivare il VoLTE</string>
+    <string name="enhanced_4g_lte_mode_off_failed">Impossibile disattivare il VoLTE</string>
+    <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete VoLTE. Abilita la connessione dati cellulare.</string>
+    <string name="volte_switch_title">VoLTE abilitato</string>
+    <string name="volte_switch_summary">Abilita il VoLTE per migliorare la qualità audio e video in chiamata</string>
 </resources>
