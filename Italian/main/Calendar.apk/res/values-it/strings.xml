@@ -187,7 +187,7 @@
 	<string name="delete_calendar">Elimina</string>
 	<string name="adding_calendar" />
 	<string name="deleting_calendar" />
-	<string name="delete_topic_dialog_title">Eliminare la sottoscrizione al calendario\"%s\"?</string>
+	<string name="delete_topic_dialog_title">Eliminare la sottoscrizione al calendario \"%s\"?</string>
 	<string name="add_topic_success">Accesso a \"%s\" completato</string>
 	<string name="add_topic_unsuccess">Accesso a \"%s\" fallito</string>
 	<string name="delete_topic_success">Eliminazione di \"%s\" completata</string>
@@ -265,13 +265,13 @@
 	<string name="pref_title_no_remind">Nessun avviso</string>
 	<string name="pref_title_notification_remind">Notifica avviso</string>
 	<string name="pref_title_alert_remind">Avviso pop-up</string>
-	<string name="pref_title_alarm_remind">Avviso con suono</string>
+	<string name="pref_title_alarm_remind">Avviso sonoro</string>
 	<string name="pref_error_no_ringtone_select">Nessuna selezione</string>
 	<string name="alarm_label">OK</string>
 	<string name="event_date_format">dd/MM</string>
 	<string name="event_full_date_format">dd/MM/yyyy</string>
 	<string name="cta_notice_title">Avvisa</string>
-	<string name="cta_notice_message">"\"Avviso compleanno\" nel Calendario ti ricorderà il giorno del compleanno dei tuoi contatti in anticipo. La funzione deve accedere ai tuoi contatti, sei d'accordo?"</string>
+	<string name="cta_notice_message">"\"Avviso compleanno\" nel Calendario ti ricorderà il compleanno dei tuoi contatti in anticipo. La funzione deve accedere ai tuoi contatti, continuare?"</string>
 	<string name="cta_notice_checkbox">Non chiedere più</string>
 	<string name="cta_notice_ok">Sì</string>
 	<string name="cta_notify_settings">Avvisami quando accede ai contatti</string>
@@ -346,7 +346,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Scaduto</string>
     <string name="travel_local">Destinazione</string>
-    <string name="travel_loading">Solo un attimo...</string>
+    <string name="travel_loading">Solo un attimo…</string>
     <string name="travel_loaded">Powered by Veryzhun</string>
     <string name="travel_load_failed">Impossibile caricare</string>
     <string name="travel_item_trafic">Traffico</string>
