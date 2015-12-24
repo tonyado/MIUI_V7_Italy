@@ -2,8 +2,7 @@
 <resources>
     <string name="modify_call_prompt_yes">Sì</string>
     <string name="modify_call_prompt_no">No</string>
-    <string name="modify_call_failure_str">"Richiesta di modifica chiamata fallita
-"</string>
+    <string name="modify_call_failure_str">"Richiesta di modifica chiamata fallita"</string>
     <string name="modify_call_option_title">Che tipo di chiamata?</string>
     <string name="modify_call_option_vt">Videochiamata</string>
     <string name="modify_call_option_vt_tx">Trasmetti video</string>
@@ -21,7 +20,7 @@
     <string name="payphone">Telefono a monete</string>
     <string name="callFailed_userBusy">Linea occupata</string>
     <string name="callFailed_congestion">Rete occupata</string>
-    <string name="callFailed_timedOut">Nessuna risposta, timeout</string>
+    <string name="callFailed_timedOut">Nessuna risposta</string>
     <string name="callFailed_server_unreachable">Server non raggiungibile</string>
     <string name="callFailed_number_unreachable">Numero non raggiungibile</string>
     <string name="callFailed_invalid_credentials">Password o nome utente errato</string>
@@ -137,8 +136,7 @@
     <string name="description_target_answer">Rispondi</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
-    <string name="wait_prompt_str">"Inviare i numeri successivi?
-"</string>
+    <string name="wait_prompt_str">Inviare i numeri successivi?</string>
     <string name="pause_prompt_yes">Sì</string>
     <string name="pause_prompt_no">No</string>
     <string name="waiting_close_airplane_mode">Solo un attimo…</string>
@@ -153,16 +151,16 @@
     <string name="call_recording_error_unknown">Si è verificato un errore sconosciuto</string>
     <string name="call_recording_notification_title">Chiamata registrata</string>
     <string name="call_recording_notification_title_error">Non è stato possibile registrare la chiamata</string>
-    <string name="call_recording_notification_message">Tocca per ascoltare.</string>
-    <string name="call_recording_notification_message_low_storage">Scheda SD piena.</string>
-    <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa.</string>
+    <string name="call_recording_notification_message">Tocca per ascoltare</string>
+    <string name="call_recording_notification_message_low_storage">Scheda SD piena</string>
+    <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa</string>
     <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
     <string name="antispam_provider">Identificato da %s</string>
     <string name="antispam_notification_title">Numero sconosciuto</string>
     <string name="suspect_info">"Verifica sempre l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
     <string name="fraud_call_answer">Rispondi</string>
     <string name="fraud_call_decline">Rifiuta</string>
-    <string name="fraud_call_waring">"Sii prudente: dovresti sempre verificare l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
+    <string name="fraud_call_waring">"Verifica sempre l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
     <string name="online_check_provider_info">Identificato da %s</string>
     <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
     <string name="online_check_warning_info_by_cmb">"Verifica sempre l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
@@ -181,12 +179,12 @@
     <string name="jeejen_toggle_dialpad_text">Tastierino</string>
     <string name="miprofile_stranger_card">Scheda straniera</string>
     <string name="no_balance_title">Credito insufficiente</string>
-    <string name="no_balance_message">Credito insufficiente nel pacchetto di ricarica. Puoi provare con una chiamata normale.</string>
+    <string name="no_balance_message">Credito insufficiente. Puoi provare con una chiamata normale.</string>
     <string name="not_support_title">Numero non supportato</string>
-    <string name="not_support_message">Il pacchetto di ricarica non supporta questi numeri. Puoi provare con una chiamata normale.</string>
+    <string name="not_support_message">Il pacchetto di ricarica non supporta questi numeri. Prova con una chiamata normale.</string>
     <string name="call_self">Non puoi chiamare il tuo stesso numero</string>
     <string name="network_error_title">Errore di rete</string>
-    <string name="network_error_message">Prova ad effettuare una chiamata normale. Verrà addebitata in base ai costi previsti dal tuo operatore.</string>
+    <string name="network_error_message">Prova ad effettuare una chiamata normale.</string>
     <string name="dial_with_gsm_phone">Chiamata normale</string>
     <string name="purchase_now">Ricarica</string>
     <string name="cancel_call">Termina</string>

@@ -159,8 +159,8 @@
     <string name="Import">Importa</string>
     <string name="import_complete">Importazione completata</string>
     <string name="import_fail">Importazione non riuscita</string>
-    <string name="camera_connected">Fotocamera collegata.</string>
-    <string name="camera_disconnected">Fotocamera scollegata.</string>
+    <string name="camera_connected">Fotocamera collegata</string>
+    <string name="camera_disconnected">Fotocamera scollegata</string>
     <string name="widget_type_album">Scegli un album</string>
     <string name="widget_type_shuffle">Visualizzazione casuale immagini</string>
     <string name="widget_type_photo">"Scegli un'immagine"</string>
@@ -185,7 +185,7 @@
     <string name="tab_wallpaper_text">Desktop</string>
     <string name="tab_all_text">Tutto</string>
     <string name="camera_path">/DCIM/Camera</string>
-    <string name="open_single_image_failure">Impossibile aprire il file!</string>
+    <string name="open_single_image_failure">Impossibile aprire il file</string>
     <string name="damaged_file">File corrotto</string>
     <string name="must_pick_file">"Seleziona un'immagine"</string>
     <string name="set_lock_or_wallpaper">Imposta sfondo</string>
@@ -199,7 +199,7 @@
     <string name="deleting_files">Eliminazione file…</string>
     <string name="bigscreen_slide_playing">La presentazione è in esecuzione su questo dispositivo: %s</string>
     <string name="bigscreen_slide_exit">Esci dalla presentazione su TV</string>
-    <string name="bigscreen_slide_fail_cause_loading">"Carica la presentazione dopo che l'immagine è stata caricata".</string>
+    <string name="bigscreen_slide_fail_cause_loading">"Carica la presentazione dopo che l'immagine è stata caricata"</string>
     <string name="bigscreen_video_quit">Tocca per uscire</string>
     <string name="defalt_local_mobile">Mobile</string>
     <string name="local_time">(Locale)</string>
@@ -222,10 +222,10 @@
     <string name="clear_thumbnail_cache_confirm">La cache delle anteprime verrà svuotata. Galleria eseguirà una nuova scansione e ricreerà le anteprime.</string>
     <string name="cleaning_cache">Svuoto la cache…</string>
     <string name="screensaver_activate_mode">Screensaver</string>
-    <string name="screensaver_activate_only_charging">Solo durante la carica</string>
+    <string name="screensaver_activate_only_charging">Solo durante la ricarica</string>
     <string name="set_screensaver_path_title">Screensaver</string>
     <string name="set_screensaver_path_message">Questo album verrà visualizzato 5 secondi dopo lo spegnimento dello schermo.</string>
-    <string name="set_screensaver_path_message_if_only_charging">Le immagini in questo album verranno mostrate nello screensaver solo quando il telefono sarà in carica.</string>
+    <string name="set_screensaver_path_message_if_only_charging">Le immagini in questo album verranno mostrate nello screensaver solo quando il dispositivo sarà in carica.</string>
     <string name="there_is_no_image">Nessuna immagine</string>
     <string name="preparing_data_to_delete">"Preparo l'eliminazione dell'immagine…"</string>
     <string name="rename_failed">Impossibile rinominare</string>
@@ -238,7 +238,7 @@
     <string name="select_too_much_to_send_tips">Le foto selezionate sono troppo grandi per essere inviate. Il limite massimo è %d.</string>
     <string name="pick_too_much_tips">Non puoi selezionare tutti gli elementi (massimo %d)."</string>
     <string name="sd_not_available">Scheda SD non montata o non disponibile</string>
-    <string name="internal_sd_card">Scheda SD interna</string>
+    <string name="internal_sd_card">Memoria interna</string>
     <string name="internal_sd_card_hm">Memoria dispositivo</string>
     <string name="external_sd_card">Scheda SD</string>
     <string name="external_usb_device">Archiviazione USB</string>
@@ -277,9 +277,9 @@
     <string name="big_screen_alertdialog_title">Lista dispositivi</string>
     <string name="comma">, </string>
     <string name="quotation">\"%s\"</string>
-    <string name="cloud_gallery_space_full">Caricamento fallito! Archivio Mi Cloud pieno</string>
-    <string name="share_album_space_full">Questo album condiviso è pieno. Eliminare alcune immagini.</string>
-    <string name="cloud_gallery_recyclebin_full">Cestino Mi Cloud pieno, svuota il cestino su www.mi.com/micloud.</string>
+    <string name="cloud_gallery_space_full">Caricamento fallito. Archivio Mi Cloud pieno</string>
+    <string name="share_album_space_full">Questo album condiviso è pieno. Elimina alcune immagini.</string>
+    <string name="cloud_gallery_recyclebin_full">Cestino Mi Cloud pieno, svuota il cestino su <b>i.mi.com</b></string>
     <string name="sync_history_power_on">Sincronizza cronologia immagini solo quando in ricarica</string>
     <string name="sync_only_in_wifi_alert">Disattivando questa opzione può aumentare il traffico dati cellulare.</string>
     <string name="sync_only_in_wifi">Solo Wi-Fi</string>
@@ -292,7 +292,7 @@
     <string name="sync_album_summary">Carica le foto e gli screenshot direttamente su Mi Cloud</string>
     <string name="sync_third_party_app_pic_summary">Carica automaticamente le foto nelle cartelle delle app su Mi Cloud</string>
     <string name="open_sync_title">Sincronizzazione necessaria</string>
-    <string name="alert_message_open_sync">"E' necessaria la sincronizzazione, vuoi procedere?"</string>
+    <string name="alert_message_open_sync">"È necessaria la sincronizzazione, vuoi procedere?"</string>
     <string name="open">Apri sincronizzazione</string>
     <string name="click_to_add_picture">Tocca per aggiungere immagini</string>
     <string name="no_network_connected">Nessuna connessione di rete disponibile</string>
@@ -326,7 +326,7 @@
     <string name="alert_secret_album_message">"Puoi sfogliare l'album Mi Cloud nell'album privato."</string>
     <string name="alert_secret_album_set_pattern">Imposta sequenza di sblocco</string>
     <string name="cant_delete_system_album">Impossibile eliminare %s perché è un album di sistema.</string>
-    <string name="cannot_delete_sharer_photo">Impossibile eliminare %s elemento(i) caricati da altri utenti.</string>
+    <string name="cannot_delete_sharer_photo">Impossibile eliminare %s elementi caricati da altri utenti.</string>
     <string name="share_album">Condividi album</string>
     <string name="share_album_owner">Proprietario</string>
     <string name="loading_members">Caricamento iscritti…</string>
@@ -363,12 +363,12 @@ con gli amici"</string>
     <string name="cloudfolder_fail_to_load_data">Impossibile caricare i dati, riprova</string>
     <string name="cloudfolder_loading_data">(Caricamento dati…)</string>
     <string name="loading_thumbnail">Caricamento anteprima…</string>
-    <string name="video_not_exist">Video inesistente!</string>
+    <string name="video_not_exist">Video inesistente</string>
     <string name="loading_video">Download video…</string>
     <string name="loading_image">Download immagine…</string>
     <string name="loading_suspend">Download in pausa: riprenderà quando sarà disponibile una connessione Wi-Fi</string>
     <string name="confirm_download_video_title">Scarica video</string>
-    <string name="confirm_download_video_message">Il video richiede il download! Il download riprenderà quando sarà disponibile una connessione Wi-Fi.</string>
+    <string name="confirm_download_video_message">Il video richiede il download. Il download riprenderà quando sarà disponibile una connessione Wi-Fi.</string>
     <string name="image_download_item_title">Download immagine (%s)</string>
     <string name="item_not_sync_for_origin_video">"Impossibile scaricare questo video perchè non è sincronizzato con Mi Cloud."</string>
     <string name="item_not_sync_for_origin_image">"Impossibile scaricare questa immagine perchè non è sincronizzata con Mi Cloud"</string>
@@ -427,9 +427,9 @@ con gli amici"</string>
     <string name="deny">Rifiuta</string>
     <string name="enable_cloud_for_sharing">"Abilita l'album per vedere le immagini condivise."</string>
     <string name="operation_in_process">Elaborazione…</string>
-    <string name="operation_failed">Operazione fallita!</string>
-    <string name="operation_successful">Condiviso correttamente!</string>
-    <string name="invalid_invition_url">Link di invito non valido.</string>
+    <string name="operation_failed">Operazione fallita</string>
+    <string name="operation_successful">Condiviso correttamente</string>
+    <string name="invalid_invition_url">Link di invito non valido</string>
     <string name="user_alias_self">Io</string>
     <string name="kick_owner_user_title">Rimuovere questo partecipante?</string>
     <string name="kick_owner_user_positive_button_text">Rimuovi</string>
@@ -438,14 +438,14 @@ con gli amici"</string>
     <string name="open_public_message">Genera un link ed invialo agli amici</string>
     <string name="publishing">Pubblicazione in corso, attendere…</string>
     <string name="publish_succeeded">Album pubblicato</string>
-    <string name="publish_failed">Pubblicazione fallita.</string>
-    <string name="unpublish_succeeded">Album rimosso!</string>
-    <string name="unpublish_failed">Impossibile annullare la pubblicazione!</string>
+    <string name="publish_failed">Pubblicazione fallita</string>
+    <string name="unpublish_succeeded">Album rimosso</string>
+    <string name="unpublish_failed">Impossibile annullare la pubblicazione</string>
     <string name="send_public_url">Invia link album</string>
     <string name="public_url_descript">Chiunque può accedere al tuo album utilizzando questo link</string>
     <string name="share_public_url_text">"Ho condiviso l'album %1$s. Esplora %2$s"</string>
     <string name="unpublishing">Annullo la pubblicazione, attendere…</string>
-    <string name="operation_too_often">"L'operazione supera il limite di frequenza, riprova tra 1 minuto."</string>
+    <string name="operation_too_often">"L'operazione supera il limite di frequenza, riprova più tardi."</string>
     <string name="cannot_remove_creator">Impossibile rimuovere il proprietario</string>
     <string name="exit">Esci</string>
     <string name="album_share_exit_confirm">Confermi di voler annullare la condivisione di questo album?</string>
@@ -465,9 +465,9 @@ con gli amici"</string>
     <string name="baby_album_new_photo_remind">"Ci sono nuove foto nell'album del tuo bambino."</string>
     <string name="album_quota_fulfiled">"Impossibile creare l'album, è stato raggiunto il numero massimo."</string>
     <string name="image_quota_fulfiled">"Impossibile creare l'immagine, è stato raggiunto il limite di spazio a disposizione."</string>
-    <string name="sharer_quota_fulfiled">"Impossibile aggiungere un partecipante, è stato raggiunto il numero massimo di condivisioni."</string>
+    <string name="sharer_quota_fulfiled">Impossibile aggiungere un partecipante, è stato raggiunto il numero massimo di condivisioni.</string>
     <string name="gallery_setting">Galleria</string>
-    <string name="error_unknown_host">Hostname sconosciuto, controlla la connessione di rete!</string>
+    <string name="error_unknown_host">Hostname sconosciuto, controlla la connessione di rete</string>
     <string name="error_repeat_apply">Partecipi già alla condivisione di questo album</string>
     <string name="error_album_not_exist">Album inesistente.</string>
     <string name="error_invalid_link">"Il link non è valido o è scaduto, chiedi al proprietario dell'album di creare un nuovo link di condivisione".</string>
@@ -487,7 +487,7 @@ con gli amici"</string>
     <string name="secret_album_display_name">Album privato</string>
     <string name="miui_capture_screen_folder_display_name">Screenshot</string>
     <string name="internal_camera_folder_display_name">Foto interne</string>
-    <string name="internal_miui_capture_screen_folder_display_name">Screenshot interni</string>
+    <string name="internal_miui_capture_screen_folder_display_name">Screenshot</string>
     <string name="miliao_folder_display_name">MiTalk</string>
     <string name="miliao_painting_folder_display_name">Disegni MiTalk</string>
     <string name="miliao_saved_folder_display_name">Salvataggi MiTalk</string>
@@ -519,8 +519,8 @@ con gli amici"</string>
     <string name="tieba">Tie Ba</string>
     <string name="yellow_page">Cartella</string>
     <string name="sdcard_root">Root scheda SD</string>
-    <string name="internal_sdcard_root">Radice memoria interna</string>
-    <string name="external_sdcard_root">Radice memoria esterna</string>
+    <string name="internal_sdcard_root">Indice memoria interna</string>
+    <string name="external_sdcard_root">Indice memoria esterna</string>
     <string name="weixin">WeChat</string>
     <string name="miui_wallpaper">Sfondo</string>
     <string name="wandoujia">SnapPea</string>
@@ -537,9 +537,9 @@ con gli amici"</string>
     <string name="picker_no_album_selected">Nessun album selezionato</string>
     <string name="download">Download</string>
     <string name="confirm_download">Devi scaricare %s.</string>
-    <string name="download_fail">Download fallito!</string>
+    <string name="download_fail">Download fallito</string>
     <string name="download_fail_confirm_continue">Impossibile scaricare %s.</string>
-    <string name="make_download_dir_fail">Impossibile creare una cartella!</string>
+    <string name="make_download_dir_fail">Impossibile creare una cartella</string>
     <string name="delete_smb_file_fail">Impossibile eliminare il file smb</string>
     <string name="new_device_tips">"Tocca per visualizzare il dispositivo"</string>
     <string name="home_page_tab_photo">Foto</string>
@@ -559,7 +559,7 @@ con gli amici"</string>
     <string name="refocus_data_downloading">Scarico i dati della messa a fuoco…</string>
     <string name="ubifocus_guide_text">Tocca e rilascia per rimettere a fuoco</string>
     <string name="priority_storage">Salva sulla scheda SD</string>
-    <string name="priority_storage_summary">Quando la scheda SD è inserita, scarica automaticamente i file sulla SD.</string>
+    <string name="priority_storage_summary">Scarica automaticamente i file sulla scheda SD quando questa è inserita.</string>
     <string name="app_name_edit_picture">Modifica immagine</string>
     <string name="abandon">Annulla</string>
     <string name="paint_cancel_title">Ignora modifiche</string>
@@ -625,7 +625,7 @@ con gli amici"</string>
     <string name="input_or_select_a_name">Inserisci o scegli un nome</string>
     <string name="rename_fail_msg">Impossibile rinominare</string>
     <string name="contact_tip">Contatti</string>
-    <string name="confirm_merge_face_albums">" "<Data> Unire questoalbum con %s? </Data>" "</string>
+    <string name="confirm_merge_face_albums">" "<Data> Unire questo album con %s? </Data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<Data> Unire questi album con %s? </Data>" "</string>
     <string name="not_is">No</string>
     <string name="is">Sì</string>
@@ -647,8 +647,8 @@ con gli amici"</string>
     <string name="confirm_face">Corrispondenza</string>
     <string name="confirm_not_face">Non è questa persona</string>
     <string name="recommanded_face_added_tip">Aggiunto a \"%s\"</string>
-    <string name="recommanded_face_abandon_tip">Rimuovi dai suggeriti</string>
-    <string name="face_album_long_tap_tip">"Per selezionare più persone o modificare le impostazioni di gruppo, tieni premuta un'immagine profilo"</string>
+    <string name="recommanded_face_abandon_tip">Rimuovi dai suggerimenti</string>
+    <string name="face_album_long_tap_tip">"Tieni premuta un'immagine profilo per selezionare più persone o modificare le impostazioni di gruppo"</string>
     <string name="more_face_album_name">Altri volti</string>
     <string name="change_to_face_mode">Ordina per contatto</string>
     <string name="change_to_photo_mode">Ordina per album</string>
@@ -660,7 +660,7 @@ con gli amici"</string>
     <string name="confirm_recommandation_face_not">" "<Data> Sei sicuro che questo non sia &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questo volto verrà spostato nell\'album \"%2$s\" dopo la conferma. </Data>" "</string>
     <string name="confirm_recommandation_multiple_faces_not">" "<Data> Sei sicuro che questi non siano &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Questi volti verranno spostati nell\'album \"%2$s\" dopo la conferma. </Data>" "</string>
     <string name="finish_create_baby_album_toast">Album creato su Mi Cloud per \"%s\"</string>
-    <string name="creating_baby_album">Creazione album...</string>
+    <string name="creating_baby_album">Creazione album…</string>
     <string name="create_baby_album">Crea un album del bambino</string>
     <string name="baby_album">Album del bambino</string>
     <string name="baby_album_setting_title">Info bambino</string>
@@ -675,7 +675,7 @@ con gli amici"</string>
     <string name="auto_update_off">Disattivato</string>
     <string name="associate_face_album">Scegli un album</string>
     <string name="finish_fill_baby">Crea</string>
-    <string name="create_baby_album_dialog_msg">Crea un album per \"%s\"?</string>
+    <string name="create_baby_album_dialog_msg">Creare un album per \"%s\"?</string>
     <string name="input_nickname_toast">Inserisci il nome del bambino</string>
     <string name="baby_sexy">Genere</string>
     <string name="you_are" />
@@ -686,7 +686,7 @@ con gli amici"</string>
     <string name="baby_name_contain_invalidate_char">"Il nome non può contenere '%s'"</string>
     <string name="baby_name_cannot_start_with">"Il nome non può iniziare con '%s'"</string>
     <string name="baby_name_cannot_empty">Inserisci nome</string>
-    <string name="same_name_album_exist_and_toast">"Esiste già un album con lo stesso nome. E' stato invece creato '%s'."</string>
+    <string name="same_name_album_exist_and_toast">"Esiste già un album con lo stesso nome. È stato invece creato '%s'."</string>
     <string name="create_quick_icon_on_desk">Crea collegamenti</string>
     <string name="success_create_quick_icon_on_desk">Creati correttamente</string>
     <string name="view_baby_album">Mostra album del bambino</string>
@@ -704,7 +704,7 @@ con gli amici"</string>
     <string name="single_device_project_dialog_checkbox_text">Ricorda questo schermo</string>
     <string name="network_connected_rescan">Collegati ad internet e riprova</string>
     <string name="no_secret_photo">Nessuna foto nascosta</string>
-    <string name="in_home_page_long_press_photo_setting_secret_photo">Per nascondere una foto, tieni premuto su di essa e seleziona \"Nascondi\" dal menu in basso a sinistra.</string>
+    <string name="in_home_page_long_press_photo_setting_secret_photo">Per nascondere una foto, tienila premuta e seleziona \"Nascondi\" dal menu in basso a sinistra.</string>
     <string name="all_video_album_display_name">Tutti i video</string>
     <string name="add_event">Aggiungi un evento</string>
     <string name="add_event_hint">"Inserisci un'etichetta"</string>
@@ -714,7 +714,7 @@ con gli amici"</string>
     <string name="wechat_timeline_title">Cronologia WeChat</string>
     <string name="share_title_more">Altro</string>
     <string name="download_without_wifi_title">Avviso utilizzo dati</string>
-    <string name="download_without_wifi_msg">"L'utilizzo della connessione dati mobile per il download delle foto farà incrementare il tuo consumo di dati. Se superi il limite previsto dal tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+    <string name="download_without_wifi_msg">Utilizzando la connessione dati cellulare per il download delle foto consumerai molti dati. Se superi il limite previsto dal tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi.</string>
     <string name="cloud_gallery_space_full_title">Mi Cloud è pieno</string>
     <string name="upgrade_micloud_space">Aggiungi spazio</string>
     <string name="cloud_gallery_space_full_buy_more">Impossibile sincronizzare le foto con Mi Cloud. Per sincronizzare è necessario aggiungere spazio.</string>
@@ -725,8 +725,8 @@ con gli amici"</string>
     <string name="relation_text_grandmother">Nonna paterna</string>
     <string name="relation_text_maternal_grandfather">Nonno materno</string>
     <string name="relation_text_maternal_grandmother">Nonna materna</string>
-    <string name="relation_text_family">Membro della famiglia</string>
-    <string name="family_member_invitation_text">Alto membro della famiglia</string>
+    <string name="relation_text_family">Familiare</string>
+    <string name="family_member_invitation_text">Altro familiare</string>
     <string name="invited_tip">Invitato</string>
     <string name="invite_sharer_title">"Invita %2$s di %1$s"</string>
     <string name="invite_sharer_relation_tip">Relazione di %1$s</string>
@@ -758,13 +758,13 @@ con gli amici"</string>
     <string name="set_bg_unknow_reasons">Errore sconosciuto</string>
     <string name="set_bg_picker_default_title">Imposta anteprima in alto</string>
     <string name="set_baby_icon_picker_default_title">Imposta icona bambino</string>
-    <string name="baby_album_no_share_user_tip">Nessun follower per il momento</string>
+    <string name="baby_album_no_share_user_tip">Nessun follower</string>
     <string name="more">Altro</string>
     <string name="number_of_uploading_finish">Tutti i file caricati su Mi Cloud</string>
-    <string name="need_to_turn_on_sync">Attiva la sincronizzazione con il Mi Cloud ora.</string>
-    <string name="need_to_turn_on_network">Conneti ad internet</string>
+    <string name="need_to_turn_on_sync">Attiva la sincronizzazione con Mi Cloud ora.</string>
+    <string name="need_to_turn_on_network">Connetti ad internet</string>
     <string name="need_to_turn_on_wlan">Connetti a Wi-Fi</string>
-    <string name="sync_cloud_space_full">Archiviazione Cloud esaurita</string>
+    <string name="sync_cloud_space_full">Archiviazione Mi Cloud esaurita</string>
     <string name="sync_battery_low">Batteria scarica</string>
     <string name="cloud_full_tip_str">Spazio insufficiente su Mi Cloud</string>
     <string name="hidden_album_display_name">Album nascosto</string>
@@ -780,13 +780,13 @@ con gli amici"</string>
     <string name="highlight_abbr">H</string>
     <string name="contrast_abbr">C</string>
     <string name="hybrid_check_network">Impostazioni di rete</string>
-    <string name="hybrid_try_again">Prova di nuovo</string>
+    <string name="hybrid_try_again">Riprova</string>
     <string name="hybrid_network_unavaliable">Impossibile collegarsi alla rete</string>
     <string name="hybrid_network_access_denied">Accesso di rete negato</string>
     <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
-    <string name="hybrid_data_error">Si è verificatoun errore</string>
-    <string name="hybrid_locating_fail">Non è statopossibile individuare la tua posizione</string>
-    <string name="hybrid_pull_to_refresh_pull_label">Trascinaper aggiornare…</string>
+    <string name="hybrid_data_error">Si è verificato un errore</string>
+    <string name="hybrid_locating_fail">Non è stato possibile individuare la tua posizione</string>
+    <string name="hybrid_pull_to_refresh_pull_label">Trascina per aggiornare…</string>
     <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Caricamento…</string>
 </resources>
