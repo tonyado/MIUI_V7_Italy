@@ -32,7 +32,7 @@
         <item>Pulisci</item>
         <item>File</item>
         <item>Aggiungi file alle eccezioni</item>
-        <item>Aggiungi app alleeccezioni</item>
+        <item>Aggiungi app alle eccezioni</item>
     </string-array>
     <string-array name="trash_clean_menu">
         <item>Pulisci</item>
