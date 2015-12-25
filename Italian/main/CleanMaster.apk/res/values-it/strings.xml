@@ -280,7 +280,7 @@
     <string name="total_clean">Pulito in totale: %s</string>
     <string name="toast_network_switch">Questa applicazione può collegarsi ad Internet</string>
     <string name="open">Attiva</string>
-    <string name="opened">Attivato</string>
+    <string name="close">Non attiva</string>
     <string name="download">Scarica</string>
     <string name="installed">Installata</string>
     <string name="downloading">In download</string>
