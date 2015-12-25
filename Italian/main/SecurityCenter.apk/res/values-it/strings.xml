@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cta_dialog_title">Termini e Condizioni</string>
-    <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza MIUI. Per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati. Sei d'accordo?"</string>
+    <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza MIUI. Per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati. Continuare?"</string>
     <string name="cta_checkbox_title">Non chiedere più</string>
     <string name="cta_button_text_cancel">Annulla</string>
     <string name="cta_button_text_agree">Sì</string>
@@ -330,19 +330,19 @@
     <string name="hints_scan_result_safe">Sicuro</string>
     <string name="hints_scan_result_risk">Rischi rilevati</string>
     <string name="hints_scan_result_virus">Virus rilevati</string>
-    <string name="hints_virus_scan_result_descx">Questa app è un grande rischio per la sicurezza del tuo telefono</string>
+    <string name="hints_virus_scan_result_descx">Questa app è rischiosa per la sicurezza del tuo dispositivo</string>
     <string name="hints_unknown_virus_name">Sconosciuto</string>
     <string name="descx_quick_scan_preparation">Attendi un secondo…</string>
     <string name="descx_quick_scan_done">Scansione terminata</string>
     <string name="descx_quick_scan_cancel">Scansione interrotta</string>
-    <string name="hints_scanning_virus_by_cloud">Scansione del cloud…</string>
+    <string name="hints_scanning_virus_by_cloud">Scansione online…</string>
     <string name="hints_cleanning_text">Pulizia…</string>
     <string name="dialog_title_stop_virus_scan">Ferma scansione antivirus</string>
-    <string name="dialog_msg_stop_virus_scan">"Interrompere la scansione antivirus prima che sia terminata"</string>
+    <string name="dialog_msg_stop_virus_scan">Interrompe la scansione antivirus prima che sia terminata</string>
     <string name="protection_category_dangerous_title">Rischi (%d)</string>
     <string name="protection_category_recommend_title">Modifiche consigliate (%d)</string>
     <string name="protection_category_security_title">Puliti (%d)</string>
-    <string name="title_virus_no">Viruse rilevati</string>
+    <string name="title_virus_no">Virus rilevati</string>
     <string name="title_virus_yes">Nessun virus rilevato</string>
     <string name="summary_virus">Trovati %2$d virus</string>
     <string name="title_permission_no">Gestore permessi disattivato</string>
@@ -350,7 +350,7 @@
     <string name="summary_permission">Proteggi la mia privacy dalle app potenzialmente malevoli</string>
     <string name="title_mms_no">Filtro messaggi disattivato</string>
     <string name="title_mms_yes">Filtro messaggi attivato</string>
-    <string name="summary_mms">Filtra messaggi indesiderati (vendite, pubblicità, ecc.)</string>
+    <string name="summary_mms">Filtra messaggi indesiderati (marketing, pubblicità, ecc.)</string>
     <string name="title_usb_no">Debug USB attivato</string>
     <string name="title_usb_yes">Debug USB disattivato</string>
     <string name="summary_usb">Evita la diffusione di virus da altri dispositivi</string>
@@ -535,14 +535,14 @@
     <string name="summary_find_device">Localizza e rintraccia il tuo dispositivo ovunque ti trovi</string>
     <string name="title_cloud_space_almost_full">Lo spazio Cloud è quasi pieno, gli elementi potrebbero nonsincronizzarsi</string>
     <string name="summary_cloud_space_almost_full">Ottieni altro spazio di archiviazione</string>
-    <string name="title_cloud_space_full">Archiviazione Cloud piena, impossibile sincronizzarele foto</string>
-    <string name="summary_cloud_space_full">Ottieni altro spazio ed accedi a funzioni aggiuntive</string>
+    <string name="title_cloud_space_full">Archiviazione Cloud piena, impossibile sincronizzare le foto</string>
+    <string name="summary_cloud_space_full">Ottieni altro spazio ed accedi a funzionalità aggiuntive</string>
     <string name="title_miui_update">Aggiornamento disponibile</string>
     <string name="summary_miui_update">Aggiornamento disponibile per %s.</string>
     <string name="title_virus_cloudscan">Utilizza definizioni virus online</string>
     <string name="summary_virus_cloudscan">Carica nomi app e dettagli e controlla utilizzando le definizioni online</string>
     <string name="title_cleaner_cloudscan">Utilizza motore di pulizia online</string>
-    <string name="summary_cleaner_cloudscan">Carica e confronta i nomi sconosciuti delle carte con il database online</string>
+    <string name="summary_cleaner_cloudscan">Carica e confronta i nomi sconosciuti con il database online</string>
     <string name="title_live_talk_purchase">Ricarica adesso</string>
     <string name="summary_live_talk_purchase">Solo ¥ 0.05 al minuto per chiamate nazionali.</string>
     <string name="toast_network_switch">Questa applicazione può collegarsi ad internet</string>
@@ -567,7 +567,7 @@
     <string name="title_cmcc_app_check">Verifica non completa</string>
     <string name="summary_cmcc_app_check">Alcune applicazioni non possono essere verificate</string>
     <string name="cmcc_app_check_dialog_title">Sistema riparato</string>
-    <string name="cmcc_app_check_dialog_message">Riavvia il tuo dispositivo per completare la riparazione.</string>
+    <string name="cmcc_app_check_dialog_message">"Riavvia il dispositivo per completare l'operazione."</string>
     <string name="cmcc_app_check_dialog_positive">Riavvia adesso</string>
     <string name="cmcc_app_check_dialog_negative">Più tardi</string>
     <string name="app_not_installed_toast">"L'applicazione non è installata sul tuo dispositivo."</string>

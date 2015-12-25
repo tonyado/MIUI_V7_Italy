@@ -4,10 +4,10 @@
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="app_label">UI di sistema</string>
     <string name="status_bar_no_recent_apps">Nessuna applicazione in esecuzione</string>
-    <string name="battery_low_title">Collega il caricabatterie</string>
+    <string name="battery_low_title">"Collega l'alimentatore"</string>
     <string name="battery_low_percent_format">%d%% rimanente</string>
     <string name="invalid_charger">"Ricarica tramite USB non supportata.
-Utilizza solo il caricatore in dotazione."</string>
+Utilizza solo l'alimentatore in dotazione."</string>
     <string name="status_bar_settings_airplane">Modalità aereo</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
     <string name="status_bar_network_name_separator">|</string>
@@ -29,7 +29,7 @@ Utilizza solo il caricatore in dotazione."</string>
     <string name="screenshot_saving_title">Salvataggio screenshot…</string>
     <string name="screenshot_saving_text">Salvataggio screenshot in corso</string>
     <string name="screenshot_saved_title">Screenshot salvato</string>
-    <string name="screenshot_saved_text">Tocca per visualizzare lo screenshot.</string>
+    <string name="screenshot_saved_text">Tocca per visualizzare lo screenshot</string>
     <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
     <string name="accessibility_back">Indietro</string>
     <string name="accessibility_home">Home</string>
@@ -125,7 +125,7 @@ scorri in basso per bloccare"</string>
     <string name="activate_usb_title">Attiva USB</string>
     <string name="activate_usb_message">Per attivare questa funzione inserisci la SIM.</string>
     <string name="usb_function_charging_text">Collegato in modalità ricarica</string>
-    <string name="return_to_incall_screen">Premi qui per tornare alla chiamata</string>
+    <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
     <string name="call_status_dialing">Composizione</string>
     <string name="call_status_ringing">Chiamata in corso</string>
     <string name="reject_call">Rifiuta la chiamata</string>
@@ -141,11 +141,11 @@ scorri in basso per bloccare"</string>
     <string name="camera_key_action_shortcut_title">Collegamento</string>
     <string name="camera_key_action_toggle_title">Comando veloce</string>
     <string name="camera_key_action_app_title">Apri applicazione</string>
-    <string name="camera_key_action_shortcut_home">Torna in homescreen</string>
+    <string name="camera_key_action_shortcut_home">Torna alla schermata home</string>
     <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
     <string name="camera_key_action_shortcut_search">Cerca</string>
     <string name="camera_key_action_shortcut_call">Chiama</string>
-    <string name="camera_key_action_shortcut_wake">Blocca/Sblocca terminale</string>
+    <string name="camera_key_action_shortcut_wake">Blocca/Sblocca dispositivo</string>
     <string name="torch_activity_name">Torcia</string>
     <string name="torch_activity_hint">Puoi accedere velocemente alla torcia tenendo premuto il tasto [icon] nella lockscreen</string>
     <string name="torch_opened">Torcia attivata</string>
@@ -153,16 +153,16 @@ scorri in basso per bloccare"</string>
     <string name="lockscreen_carrier_default">Nessun servizio</string>
     <string name="chooseUsbActivity">Scegli come utilizzare il collegamento USB</string>
     <string name="usb_storage_title">USB connesso</string>
-    <string name="usb_storage_message">Sei connesso al tuo PC tramite USB. Tocca il tasto sottostante per copiare i file tra il computer ed il tuo dispositivo Android tramite USB.</string>
+    <string name="usb_storage_message">Sei connesso al PC tramite USB. Tocca il tasto sottostante per copiare i file tra il computer ed il tuo dispositivo.</string>
     <string name="usb_storage_error_message">"Riscontrato un problema nell'utilizzo dell'archivio USB"</string>
     <string name="usb_storage_notification_title">USB connesso</string>
     <string name="usb_storage_notification_message">Seleziona per copiare file da/al tuo computer.</string>
     <string name="usb_storage_stop_notification_title">Disattiva archivio USB</string>
     <string name="usb_storage_stop_notification_message">"Seleziona per disattivare l'archivio USB."</string>
     <string name="usb_storage_stop_title">Archivio USB in uso</string>
-    <string name="usb_storage_stop_message">"Prima di disattivare l'archivio USB assicurati di aver smontato (“scollegato”) il tuo dispositivo dal computer."</string>
+    <string name="usb_storage_stop_message">"Prima di disattivare l'archivio USB assicurati di aver espulso il tuo dispositivo dal computer."</string>
     <string name="dlg_confirm_kill_storage_users_title">Attiva archivio USB</string>
-    <string name="dlg_confirm_kill_storage_users_text">"Se attivi l'archivio USB alcune applicazioni installate non saranno disponibili finché non lo disattivi."</string>
+    <string name="dlg_confirm_kill_storage_users_text">"Se attivi l'archivio USB alcune applicazioni potrebbero bloccarsi finché non lo disattivi."</string>
     <string name="dlg_error_title">Operazione USB fallita</string>
     <string name="dlg_ok">OK</string>
     <string name="ext_media_checking_notification_title">Preparazione archivio USB</string>
@@ -174,7 +174,7 @@ scorri in basso per bloccare"</string>
     <string name="ext_media_badremoval_notification_title">Archivio USB rimosso in modo inaspettato</string>
     <string name="ext_media_badremoval_notification_message">"Smonta l'archivio USB prima di rimuoverlo per evitare perdite di dati."</string>
     <string name="ext_media_safe_unmount_notification_title">"Rimozione sicura dell'archivio USB"</string>
-    <string name="ext_media_safe_unmount_notification_message">"È possibile rimuovere l'archivio USB."</string>
+    <string name="ext_media_safe_unmount_notification_message">"È possibile rimuovere l'archivio USB"</string>
     <string name="ext_media_nomedia_notification_title">Archivio USB rimosso</string>
     <string name="ext_media_nomedia_notification_message">Archivio USB rimosso</string>
     <string name="ext_media_mountable_notification_title">Archivio USB connesso</string>
@@ -190,7 +190,7 @@ scorri in basso per bloccare"</string>
     <string name="status_bar_network_flow_limit">"   Limite mensile: %1$s"</string>
     <string name="drive_mode_tip">Modalità Auto - Guida con prudenza</string>
     <string name="no_notification_tips">Nessuna notifica</string>
-    <string name="expanded_notification_manager">Gestisci notifiche</string>
+    <string name="expanded_notification_manager">Gest. notifiche</string>
     <string name="disable_notification_title">Blocca notifiche</string>
     <string name="disable_notification_summary">Non mostrare mai notifiche per questa app.</string>
     <string name="expanded_confirm_disable_notification">Conferma</string>
@@ -217,7 +217,7 @@ scorri in basso per bloccare"</string>
     <string name="mdb_restore_info1">Eseguirà il ripristino dei dati del dispositivo</string>
     <string name="mdb_restore_info2">Non interrompere il collegamento USB</string>
     <string name="mdb_restore_cancel">Annulla</string>
-    <string name="mdb_usb_disconnection_exit">USB disconnessa, ripristino interrotto</string>
+    <string name="mdb_usb_disconnection_exit">USB disconnesso, ripristino interrotto</string>
     <string name="mdb_restore_mode">Modalità Ripristino</string>
     <string name="mdb_entering">Avvio</string>
     <string name="status_bar_recording_back">Premi per tornare al Registratore</string>
@@ -226,6 +226,7 @@ scorri in basso per bloccare"</string>
     <string name="headset_info">Personalizza Tasti funzione</string>
     <string name="headset_custom">Personalizza</string>
     <string name="usb_share_net_info">Utilizza la connessione internet del computer</string>
+    <string name="hint_for_long_press_app_switch_key">Tieni premuto per visualizzare il menu</string>
     <string name="battery_profiles">Profili utilizzo batteria</string>
     <string name="oldman_airplane_mode_text">aereo</string>
     <string name="oldman_incall_text">in chiamata</string>
