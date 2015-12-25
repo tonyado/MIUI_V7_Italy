@@ -298,11 +298,8 @@
     <string name="open_browser">Apri nel browser</string>
     <string name="title_share_link">Condividi URL</string>
     <string name="connecting">Connessione…</string>
-<<<<<<< HEAD
     <string name="clear_bigfiles">Elimina file di grosse dimensioni, foto duplicate ed altri file inutili</string>
-=======
     <string name="clear_bigfiles">Elimina file di grandi dimensioni, foto duplicate, ed altri file inutili</string>
->>>>>>> upstream/master
     <string name="clear_immediately">Pulisci adesso</string>
     <string name="clear_safe_notify">Barra per le notifiche di sicurezza</string>
     <string name="nb_clear_set">Pulisci la ROM, controlla la batteria e le informazioni sui blocchi nel pannello delle notifiche</string>
