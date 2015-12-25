@@ -6,8 +6,7 @@
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
-    <string name="sdcard_not_mounted_dialog_message">"Inserisci una scheda SD ora.
-"</string>
+    <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora</string>
     <string name="resource_mute">Nessuna</string>
     <string name="resource_default">Suoneria predefinita</string>
     <string name="resource_ringtone_default">Suonerie</string>
@@ -32,7 +31,7 @@
     <string name="resource_pack_price_info">%1$s Originale</string>
     <string name="resource_pack_discount_info">%1$s Salvato!</string>
     <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti. Vuoi continuare?</string>
-    <string name="resource_pack_warning">Attenzione! Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente.</string>
+    <string name="resource_pack_warning">Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente.</string>
     <string name="resource_title">Dettagli</string>
     <string name="resource_download">Download</string>
     <string name="resource_downloading">Download in corso</string>
@@ -40,7 +39,7 @@
     <string name="resource_import_successful">Download completato.</string>
     <string name="resource_import_failed">Impossibile importare</string>
     <string name="resource_delta_update_successful">Tema aggiornato</string>
-    <string name="resource_delta_update_failed">Aggiornamento integrativo fallito! Verrà scaricata la risorsa completa.</string>
+    <string name="resource_delta_update_failed">Aggiornamento integrativo fallito. Verrà scaricata la risorsa completa.</string>
     <string name="resource_delta_update_total">%1$d aggiornamenti integrativi. Hai risparmiato in totale %2$s</string>
     <string name="resource_apply">Applica</string>
     <string name="resource_update">Aggiorna</string>
@@ -119,7 +118,7 @@
     <string name="resource_account_login_title">Accedi</string>
     <string name="resource_account_fail_to_add">Impossibile aggiungere account!</string>
     <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
-    <string name="resource_account_login_before_action">Accedi al tuo account Xiaomi.</string>
+    <string name="resource_account_login_before_action">Accedi al tuo Account Mi.</string>
     <string name="resource_send">Invia</string>
     <string name="resource_save_to_note">Salva nelle note</string>
     <string name="resource_present">Regala</string>
@@ -159,7 +158,7 @@
     <string name="resource_comment_upload_hint">I commenti verranno mostrati dopo la moderazione.</string>
     <string name="resource_comment_sending">Inserimento…</string>
     <string name="resource_comment_upload_failed">Impossibile aggiungere commenti!</string>
-    <string name="resource_comment_upload_success">Commento inviato! Il tuo commento verrà visualizzato dopo una rapida moderazione.</string>
+    <string name="resource_comment_upload_success">"Commento inviato. Il tuo commento verrà visualizzato dopo l'approvazione."</string>
     <string name="resource_comment_upload_data_invalid">Commento non valido!</string>
     <string name="resource_comment_upload_not_logined">"Effettua prima l'accesso"</string>
     <string name="resource_comment_upload_not_bought">Scarica questo tema prima di lasciare un commento.</string>
@@ -178,7 +177,7 @@
     <string name="resource_comment_rating_star_tips">Tocca le stelle per votare:</string>
     <string name="resource_clear_search_history">Cancella la cronologia delle ricerche</string>
     <string name="resource_clear_search_history_dialog">Vuoi cancellare tutta la cronologia delle ricerche?</string>
-    <string name="fail_to_add_account">Impossibile aggiungere account!</string>
+    <string name="fail_to_add_account">Impossibile aggiungere account</string>
     <string name="account_unactivated">Account non attivato.</string>
     <string name="to_activate_the_account">Attiva il tuo Account Mi</string>
     <string name="resource_menu_refresh">Aggiorna</string>
@@ -196,7 +195,7 @@
     <string name="resource_download_notification_title_one">Temi scaricati</string>
     <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
     <string name="resource_tab_to_view">Tocca per vedere.</string>
-    <string name="resource_search_color">Choose a color to search</string>
+    <string name="resource_search_color">Scegli il colore da cercare</string>
     <string name="resource_search_color_hint_red">Rosso</string>
     <string name="resource_search_color_hint_blue">Blu</string>
     <string name="resource_search_color_hint_cyan">Ciano</string>
@@ -211,11 +210,11 @@
     <string name="resource_search_color_hint_yellow">Giallo</string>
     <string name="app_name">Temi</string>
     <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere…</string>
-    <string name="theme_changed_message">Applicato con successo!</string>
-    <string name="theme_changed_failed_message">Cambio tema non riuscito!</string>
+    <string name="theme_changed_message">Applicato con successo</string>
+    <string name="theme_changed_failed_message">Cambio tema non riuscito</string>
     <string name="backup_preference_title">Impostazioni Backup</string>
     <string name="backup_theme_dialog_ok">Backup</string>
-    <string name="backup_theme_dialog_message">eseguire il backup del tema corrente?</string>
+    <string name="backup_theme_dialog_message">Eseguire il backup del tema corrente?</string>
     <string name="backup_theme_progress_message">Backup in corso, attendere prego…</string>
     <string name="backup_theme_success_message">Backup tema eseguito correttamente</string>
     <string name="backup_theme_fail_trial_rights_message">Impossibile eseguire il backup dei temi in prova</string>

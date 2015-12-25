@@ -66,8 +66,8 @@
     <string name="activity_title_settings">Impostazioni</string>
     <string name="activity_title_news">Notizie</string>
     <string name="activity_title_white_list">Eccezioni</string>
-    <string name="activity_title_large_file">Grandi file</string>
-    <string name="deepclean_title_large_file">Elimina grandi file</string>
+    <string name="activity_title_large_file">File grossi</string>
+    <string name="deepclean_title_large_file">Elimina file grossi</string>
     <string name="activity_title_uninstall_apps">App</string>
     <string name="deepclean_title_uninstall_apps">App usate raramente</string>
     <string name="toast_garbage_cleanup_success">Pulizia completata</string>
@@ -78,7 +78,7 @@
     <string name="hints_residual_header_left">Residui</string>
     <string name="hints_memory_header_left">Memoria</string>
     <string name="hints_header_left">%d</string>
-    <string name="hints_large_file_header_left">File grandi</string>
+    <string name="hints_large_file_header_left">File grossi</string>
     <string name="hints_installed_apps_header_left">App installate</string>
     <string name="toast_resolve_apk_error">Risolvi errori APK</string>
     <string name="hints_apk_version">Versione: %s</string>
@@ -102,7 +102,7 @@
     <string name="white_list_cache_header">File in cache: %d</string>
     <string name="white_list_ad_header">Pubblicità: %d</string>
     <string name="white_list_apk_header">Pacchetti di installazione: %d</string>
-    <string name="white_list_large_file_header">File grandi: %d</string>
+    <string name="white_list_large_file_header">File grossi: %d</string>
     <string name="white_list_residual_header">Residui: %d</string>
     <string name="white_list_title">Lista eccezioni</string>
     <string name="toast_network_eror">Errore di rete</string>
@@ -137,7 +137,7 @@
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
     <string name="title_delete_large_file">Eliminare questo file?</string>
-    <string name="summary_delete_large_file">Alcuni file di grandi dimensioni possono essere utili quando non si ha una connessione Internet a disposizione (es: mappe, agende, etc.). Assicurati di non aver bisogno di questi file.</string>
+    <string name="summary_delete_large_file">Alcuni file di grosse dimensioni possono essere utili quando non si ha una connessione Internet a disposizione (es: mappe, agende, etc.). Assicurati di non aver bisogno di questi file.</string>
     <string name="title_delete_cache">Eliminare dati cache</string>
     <string name="summary_delete_cache">Alcune applicazioni potrebbero aver bisogno di questi file per funzionare correttamente.</string>
     <string name="positive_confirm">OK</string>
@@ -247,7 +247,7 @@
     <string name="deepclean_large_content">Elimina i file più grandi di 10 MB</string>
     <string name="deepclean_app_content">Disinstalla applicazioni che non utilizzi da 7 giorni</string>
     <string name="deepclean_similar_ignore">Ignora</string>
-    <string name="hints_scanfinish">Nessun file da eliminare, prova con la Pulizia Approfondita</string>
+    <string name="hints_scanfinish">Nessun file da eliminare, prova con la Pulizia approfondita</string>
     <string name="hints_cleanfinish">Pulizia terminata</string>
     <string name="hints_num">0</string>
     <string name="mainbtn_text_quick_cleanup">Pulisci %s</string>
@@ -256,7 +256,7 @@
     <string name="pref_summary_open_optimizer_memory_scan">Controlla e pulisci automaticamente la memoria</string>
     <string name="toast_select_white_need_remove">Seleziona gli elementi da rimuovere</string>
     <string name="pref_title_auto_deepclean_and_alert">Notifica app non utilizzate</string>
-    <string name="notification_summary_of_apps_cleanup">Le app non utilizzate stanno occupando %s di spazio</string>
+    <string name="notification_summary_of_apps_cleanup">Le app non utilizzate occupano %s di spazio</string>
     <string name="notification_title_of_apps_cleanup">App non utilizzate</string>
     <string name="pref_title_apps_check_time">Frequenza</string>
     <string name="pref_title_apps_check_size">Limite spazio di archiviazione</string>
@@ -298,7 +298,11 @@
     <string name="open_browser">Apri nel browser</string>
     <string name="title_share_link">Condividi URL</string>
     <string name="connecting">Connessione…</string>
+<<<<<<< HEAD
+    <string name="clear_bigfiles">Elimina file di grosse dimensioni, foto duplicate ed altri file inutili</string>
+=======
     <string name="clear_bigfiles">Elimina file di grandi dimensioni, foto duplicate, ed altri file inutili</string>
+>>>>>>> upstream/master
     <string name="clear_immediately">Pulisci adesso</string>
     <string name="clear_safe_notify">Barra per le notifiche di sicurezza</string>
     <string name="nb_clear_set">Pulisci la ROM, controlla la batteria e le informazioni sui blocchi nel pannello delle notifiche</string>
@@ -328,7 +332,7 @@
     <string name="title_of_garbage_data_set">Aggiornamenti database strumento di pulizia</string>
     <string name="tips_of_garbage_data_set">Aggiorna il database dello strumento di pulizia per trovare altri file da eliminare</string>
     <string name="title_of_cloud_service">Servizi cloud</string>
-    <string name="tips_of_cloud_service">Accedi al tuo Mi Account per utilizzare altri servizi Mi</string>
+    <string name="tips_of_cloud_service">Accedi al tuo Account Mi per utilizzare altri servizi Mi</string>
     <string name="login_immediately">Accedi</string>
     <string name="button_text_install_now">Installa</string>
     <string name="total_clean_text">Pulisci</string>

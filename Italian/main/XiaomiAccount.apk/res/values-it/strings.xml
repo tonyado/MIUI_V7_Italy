@@ -4,8 +4,8 @@
     <string name="passport_phone_num_hint_text">Numero di telefono</string>
     <string name="passport_login">Accedi con un account esistente</string>
     <string name="passport_login_short">Accedi</string>
-    <string name="passport_login_with_email_or_id"><u>Accedi con email o Mi ID</u></string>
-    <string name="passport_email_or_id_hint_text">Email o Mi ID</string>
+    <string name="passport_login_with_email_or_id"><u>Accedi con email o ID Account Mi</u></string>
+    <string name="passport_email_or_id_hint_text">Email o ID Account Mi</string>
     <string name="passport_verify">Verifica</string>
     <string name="passport_register">Crea un account</string>
     <string name="passport_register_by_email"><u>Registrati tramite email</u></string>
@@ -76,9 +76,9 @@ Per attivare il tuo account, segui il
     <string name="passport_input_vcode_hint">Inserisci il codice di verifica</string>
     <string name="passport_confirm">Conferma</string>
     <string name="passport_login_notice">Accesso in corso…</string>
-    <string name="passport_login_check_find_device">Verifica stato Trova Dispositivo...</string>
-    <string name="passport_login_check_find_device_failed">"Impossibile verificare Trova Dispositivo. Verifica la tua connessione di rete."</string>
-    <string name="passport_login_find_device_bind">Questo dispositivo è già associato ad un ID Mi Account (%s). Accedi epr attivare questo dispositivo.</string>
+    <string name="passport_login_check_find_device">Verifica stato Trova Dispositivo…</string>
+    <string name="passport_login_check_find_device_failed">"Impossibile verificare Trova Dispositivo. Verifica la connessione di rete."</string>
+    <string name="passport_login_find_device_bind">Questo dispositivo è già associato ad un ID Account Mi (%s). Accedi per attivare questo dispositivo.</string>
     <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_reging">Creazione account…</string>
@@ -99,11 +99,11 @@ Per attivare il tuo account, segui il
     <string name="passport_skip_setup_account_msg">Puoi impostare un Account Mi più tardi nelle Impostazioni.</string>
     <string name="passport_xiaomi_account_dspt">Utilizza il tuo Account Mi per accedere da qualsiasi dispositivo a Mi Cloud, MIUI Theme Store ed altri servizi.</string>
     <string name="passport_xiaomi_account_sec_dspt"/>
-    <string name="passport_xiaomi_account_sec_dspt2">Per accedere al tuo Mi Account è necessaria una connessione Internet. Inoltre, la geolocalizzazione e Mi Cloud verranno attivati automaticamente.</string>
-    <string name="passport_xiaomi_account_sec_dspt2_vip">Per accedere al tuo Mi Account è necessaria una connessione Internet. Inoltre, la geolocalizzazione, Mi Cloud e MI VIP verranno attivati automaticamente.</string>
+    <string name="passport_xiaomi_account_sec_dspt2">Per accedere al tuo Account Mi è necessaria una connessione internet. Inoltre, la geolocalizzazione e Mi Cloud verranno attivati automaticamente.</string>
+    <string name="passport_xiaomi_account_sec_dspt2_vip">Per accedere al tuo Account Mi è necessaria una connessione internet. Inoltre, la geolocalizzazione, Mi Cloud e MI VIP verranno attivati automaticamente.</string>
     <string name="passport_remove_unactivated_account_notice">Il tuo account non è stato attivato</string>
     <string name="passport_remove_confirm">Esci</string>
-    <string name="passport_find_password_on_web_msg">Visita account.mi.com per reimpostare la password.</string>
+    <string name="passport_find_password_on_web_msg">Visita <b>account.mi.com</b> per reimpostare la password.</string>
     <string name="passport_relogin">Accedi di nuovo</string>
     <string name="passport_skip_login">"Salta l'accesso"</string>
     <string name="passport_checking_account">Verifica password…</string>
@@ -134,8 +134,8 @@ Per attivare il tuo account, segui il
     <string name="passport_register_restricted_title">Impossibile utilizzare questo numero</string>
     <string name="passport_register_restricted">Sono stati associati troppi account a questo numero, provane uno diverso</string>
     <string name="passport_change_phone_number">Cambia numero</string>
-    <string name="passport_recycle_account_prompt">Questo è il tuo Mi Account?</string>
-    <string name="passport_confirm_recycle_account">Si</string>
+    <string name="passport_recycle_account_prompt">Questo è il tuo Account Mi?</string>
+    <string name="passport_confirm_recycle_account">Sì</string>
     <string name="passport_reject_recycle_account">No</string>
     <string name="passport_input_password_for_login">Questo numero è associato ad un account esistente, inserisci la tua password</string>
     <string name="passport_wrong_password">Password non corretta</string>
@@ -144,11 +144,11 @@ Per attivare il tuo account, segui il
     <string name="passport_setting">Impostazione…</string>
     <string name="passport_reset_password_title">Ripristina password</string>
     <string name="passport_reset_fail_title">Impossibile ripristinare</string>
-    <string name="passport_identitfication_expired">Codice di verifica scaduto, inizia da capo</string>
+    <string name="passport_identitfication_expired">Codice di verifica scaduto, inizia daccapo</string>
     <string name="passport_restart">Inizia da capo</string>
-    <string name="passport_restart_register_title">Crea un Mi Account</string>
+    <string name="passport_restart_register_title">Crea un Account Mi</string>
     <string name="passport_restart_register_prompt">Potrebbe essere necessario un altro messaggio di verifica per creare il tuo account.</string>
-    <string name="passport_wait_for_sms_prompt">Iniziare da capo adesso? Il messaggio di verifica potrebbeimpiegare fino a 10 minuti per essere consegnato quando il telefono è sotto copertura.</string>
+    <string name="passport_wait_for_sms_prompt">Iniziare daccapo adesso? Il messaggio di verifica potrebbe impiegare fino a 10 minuti per essere consegnato.</string>
     <string name="app_name">Account Mi</string>
     <string name="account">Account</string>
     <string name="micloud_account_name">Account Mi</string>
@@ -159,7 +159,7 @@ Per attivare il tuo account, segui il
     <string name="cloud_service_dspt">Sincronizza foto, contatti, note, app e molto altro su tutti i tuoi dispositivi.</string>
     <string name="theme_store">MIUI Themes Store</string>
     <string name="theme_store_dspt">Scegli il tuo look. Centinaia di temi gratuiti e personalizzabili per rendere unico il tuo dispositivo.</string>
-    <string name="mi_account_dspt_provision">"Accedi a Mi Cloud, MIUI Theme Store ed altri servizi Mi da qualunque posizione. "</string>
+    <string name="mi_account_dspt_provision">"Accedi a Mi Cloud, MIUI Theme Store ed altri servizi Mi da qualunque posizione."</string>
     <string name="logout_failed">Impossibile uscire</string>
     <string name="timeout_retry">Richiesta scaduta, riprova.</string>
     <string name="no_response_retry">Nessuna risposta, riprova.</string>
@@ -184,12 +184,12 @@ Per attivare il tuo account, segui il
     <string name="nobind">Non collegato</string>
     <string name="button_unbind">Scollega</string>
     <string name="unbind_weibo_description">"Scollegando l'account non potrai sincronizzare i contatti e non potrai accedere al tuo Account Mi tramite Sina Weibo"</string>
-    <string name="unbind_sns_description">"Scollegando l'account non potrai accedere alle informazioni del tuo Account %s per accedere al tuo Mi Account"</string>
+    <string name="unbind_sns_description">"Scollegando l'account non potrai accedere alle informazioni del tuo Account %s per accedere al tuo Account Mi"</string>
     <string name="confirm_unbind">Confermi?</string>
     <string name="binded_description" formatted="false">"%s collegato correttamente. Completa il tuo profilo utilizzando le informazioni personali su %s."</string>
     <string name="update_contacts">Aggiorna contatti</string>
     <string name="update_contacts_description">"Sina Weibo userà il tuo Account Mi per sincronizzare i dati tra le varie piattaforme."</string>
-    <string name="updated_nothing">Non è stato aggiornato niente!</string>
+    <string name="updated_nothing">Non è stato aggiornato niente</string>
     <string name="access_token_expired_warning">"L'account Weibo è scaduto"</string>
     <string name="access_token_invalid_warning">"L'account Weibo non è valido"</string>
     <string name="service_error">Errore di servizio</string>
@@ -197,7 +197,7 @@ Per attivare il tuo account, segui il
     <string name="account_user_secure_info">Informazioni di sicurezza</string>
     <string name="account_user_email">Email</string>
     <string name="account_user_phone">Telefono</string>
-    <string name="account_user_recovery_phone">Recupera tramite telfono</string>
+    <string name="account_user_recovery_phone">Recupera tramite telefono</string>
     <string name="account_user_name">Nome</string>
     <string name="account_user_id">ID Account Mi</string>
     <string name="account_user_details">Informazioni utente</string>
@@ -260,7 +260,7 @@ Inserisci il codice di verifica contenuto nell'email"</string>
     <string name="get_phone_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questo numero. Aspetta 24 ore e riprova.</string>
     <string name="get_email_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questa email. Aspetta 24 ore e riprova.</string>
     <string name="mi_account_identity_title">Verifica la tua identità</string>
-    <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro Mi Account.</string>
+    <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro Account Mi.</string>
     <string name="mili_center">Mi Credit</string>
     <string name="mipay_center">Account bancari</string>
     <string name="mi_pass">Mi Pass</string>

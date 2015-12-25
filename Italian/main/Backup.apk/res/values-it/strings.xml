@@ -4,7 +4,7 @@
     <string name="local_app_name">Backup</string>
     <string name="local_home_title">Locale</string>
     <string name="button_backup">Backup</string>
-    <string name="start_backup">Inizio Backup</string>
+    <string name="start_backup">Esegui Backup</string>
     <string name="button_cancel">Annulla</string>
     <string name="backup_empty">Nessun backup trovato</string>
     <string name="backup_items_sysdata_tailer">" Dati Sistema, "</string>
@@ -16,7 +16,7 @@
     <string name="button_continue">Continua</string>
     <string name="backup_finished">Backup completato</string>
     <string name="backup_report">Rapporto Backup</string>
-    <string name="backup_hint">Non spegnere il telefono</string>
+    <string name="backup_hint">Non spegnere il dispositivo</string>
     <string name="backup_hint_onpad">Mantieni il dispositivo acceso</string>
     <string name="delete_backup_title">Elimina backup</string>
     <string name="delete">Elimina</string>
@@ -37,7 +37,7 @@
     <string name="restore_launcher_layout_hit">(Nota: Ripristina il layout del launcher)</string>
     <string name="settings_summary">Backup impostazioni telefono e messaggi</string>
     <string name="camera_summary">Impostazioni fotocamera (non comprende le foto)</string>
-    <string name="account_summary">Backup Gmail, Email e Account Xiaomi</string>
+    <string name="account_summary">Backup Gmail, Email e Account Mi</string>
     <string name="cloud_app_name">Backup Online</string>
     <string name="cloud_home_title">Online</string>
     <string name="prompt_reading">Lettura in corso…</string>
@@ -57,7 +57,7 @@
     <string name="local_restore_window_title">Ripristino Locale</string>
     <string name="account_login">Login</string>
     <string name="miliao_account_login">Login Mi Talk</string>
-    <string name="miliao_account_guide">Utilizza il tuo Mi Account per accedere a Mi Cloud, MIUI Theme Store ed altri servizi da dove vuoi.</string>
+    <string name="miliao_account_guide">Utilizza il tuo Account Mi per accedere a Mi Cloud, MIUI Theme Store ed altri servizi.</string>
     <string name="auto_backup">Backup Automatico</string>
     <string name="contact_title">Contatti</string>
     <string name="call_title">Registro chiamate</string>
@@ -107,7 +107,7 @@
     <string name="sc_service_unavailable">Servizio non disponibile</string>
     <string name="sc_unauthorized">Certificato non valido</string>
     <string name="sc_request_timeout">Richiesta scaduta</string>
-    <string name="sc_precondition_failed">Il tuo account Xiaomi non è associato ad alcun indirizzo email</string>
+    <string name="sc_precondition_failed">Il tuo Account Mi non è associato ad alcun indirizzo email</string>
     <string name="sc_internal_server_error">Errore interno server</string>
     <string name="sc_others">Eccezione programma</string>
     <string name="succeed">completato</string>
@@ -118,7 +118,7 @@
     <string name="progress_backup_hint">Backup in corso…</string>
     <string name="cancel_backup">Annulla Backup</string>
     <string name="restore_contact">Ripristino contatti</string>
-    <string name="restore_contact_content">"Il ripristino contatti potrebbe produrre dei duplicati, sicuro di voler procedere? Nota: Puoi verificare la presenza di duplicati nella lista contatti"</string>
+    <string name="restore_contact_content">"Il ripristino dei contatti potrebbe produrre dei duplicati, sicuro di voler procedere? Nota: Puoi verificare la presenza di duplicati nella lista contatti"</string>
     <string name="progress_restore_hint">Ripristino in corso…</string>
     <string name="cancel_restore">Annulla ripristino</string>
     <string name="restore_failed">Ripristino fallito!</string>
@@ -152,7 +152,7 @@
     <string name="current_sim">SIM card</string>
     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
-    <string name="no_network">"Errore di rete Verificare connessione di rete e riprovare"</string>
+    <string name="no_network">"Errore di rete. Verifica la connessione di rete e riprova"</string>
     <string name="retry">Riprova</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="deselect_all">Deseleziona tutto</string>
@@ -160,37 +160,37 @@
     <string name="refresh">Aggiorna</string>
     <string name="cloud_item_info_summary">" (Locale : %1$s | Online : %2$s)"</string>
     <string name="total_num">%d elementi totali</string>
-    <string name="cloud_restore_guide">"Premi Ripristina per recuperare i dati Puoi anche ripristinare %s in Backup"</string>
+    <string name="cloud_restore_guide">"Premi Ripristina per recuperare i dati. Puoi anche ripristinare %s in Backup"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Installa Mi Talk ed accedi.
 \u0009http://www.miliao.com
 
-2.\u0009Entra nelle impostazioni di Mi Talk e seleziona ”Backup contatti su account Xiaomi”"</string>
+2.\u0009Entra nelle impostazioni di Mi Talk e seleziona \"Backup contatti su Account Mi\"</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
-    <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su altri terminali, non MI-ONE</string>
+    <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su dispositivi di altre marche</string>
     <string name="guarded_mode_dialog_title">Modalità Guard</string>
     <string name="guarded_mode_dialog_message">Impossibile eseguire backup e ripristino in modalità Guard</string>
     <string name="multi_select_title">Selezionati %1$s elemento(i)</string>
-    <string name="enable_encrypt_title">Crittografia abilitato</string>
-    <string name="disable_encrypt_title">Crittografia disabilitato</string>
-    <string name="enable_encrypt_indicator">Backup non crittografato, click per abilitarlo.</string>
+    <string name="enable_encrypt_title">Crittografia abilitata</string>
+    <string name="disable_encrypt_title">Crittografia disabilitata</string>
+    <string name="enable_encrypt_indicator">Backup non crittografato, tocca per abilitarla.</string>
     <string name="enable_encrypt">Abilita adesso</string>
-    <string name="already_enable_encrypt">Crittografia abilitato</string>
-    <string name="enable_encrypt_summery1">"Il sistema cripterà il tuo backup locale basato sull'account Xiaomi, devi accedere al tuo account Xiaomi per rimuovere dati o usare altri terminali per ripristinare il backup."</string>
-    <string name="enable_encrypt_summery2">Il nuovo backup verrà crittografato automaticamente. Devi accedere al tuo account Xiaomi per rimuovere dati o usare altri terminali per ripristinare il backup.</string>
-    <string name="enable_encrypt_xiaomi_account">Questo backup è stato creato da %1$s, si prega di eliminare l\'account attuale ed accedere a %2$s per ripristinare i dati.</string>
+    <string name="already_enable_encrypt">Crittografia abilitata</string>
+    <string name="enable_encrypt_summery1">"Il sistema cripterà il tuo backup locale basato sull'Account Mi. Devi accedere al tuo Account Mi per rimuovere dati o usare altri dispositivi per ripristinare il backup."</string>
+    <string name="enable_encrypt_summery2">Il nuovo backup verrà crittografato automaticamente. Devi accedere al tuo Account Mi per rimuovere i dati o usare altri dispositivi per ripristinare il backup.</string>
+    <string name="enable_encrypt_xiaomi_account">"Questo backup è stato creato da %1$s, si prega di eliminare l'account attuale ed accedere a %2$s per ripristinare i dati."</string>
     <string name="enable_encrypt_ok">OK</string>
     <string name="no_encrypt_password">Nessuna password crittografata</string>
     <string name="enable_encrypt_fail">Abilitazione crittografia fallita</string>
     <string name="read_encrypt_fail">Lettura crittografia fallita</string>
-    <string name="exchange_account">Account exchange</string>
+    <string name="exchange_account">Account Exchange</string>
     <string name="system_backup">Backup</string>
     <string name="backup_empty_info">Esegui il backup dei tuoi dati, impostazioni e applicazioni</string>
-    <string name="backup_empty_info_onpad">" Esegui il backup dei tuoi dati, impostazioni e applicazioni"</string>
+    <string name="backup_empty_info_onpad">"Esegui il backup dei tuoi dati, impostazioni e applicazioni"</string>
     <string name="system_backup_info">Impostazioni di sistema, layout desktop, etc.</string>
     <string name="software_backup_info">Backup applicazioni e dati app</string>
     <string name="account_contact_backup_info">Dati (Backup informazioni Xiaomi e Gmail)</string>
     <string name="files_backup_info">Tutti i file sulla scheda SD (incluse foto, canzoni, video, dati app, etc.)</string>
-    <string name="select_backup_item">Selezione elementi backup</string>
+    <string name="select_backup_item">Seleziona elementi backup</string>
     <string name="restore_data">Ripristina dati</string>
     <string name="backup_data">Backup dati</string>
     <string name="sd_not_available">Nessuna scheda SD rilevata</string>
@@ -215,8 +215,8 @@
     <string name="feature_title_call_log">Registro chiamate</string>
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_account">Account</string>
-    <string name="summary_err_backup_encrypting">Accedi al tuo Mi Account.</string>
-    <string name="summary_err_restore_encrypting">Impossibile ripristinare. Accertati che questo backup sia stato eseguito con il tuo Mi Account.</string>
+    <string name="summary_err_backup_encrypting">Accedi al tuo Account Mi.</string>
+    <string name="summary_err_restore_encrypting">Impossibile ripristinare. Accertati che questo backup sia stato eseguito con il tuo Account Mi.</string>
     <string name="summary_err_backup_no_network">Impossibile collegarsi alla rete</string>
     <string name="summary_err_restore_no_network">Impossibile collegarsi alla rete</string>
     <string name="err_authentication_failed">Autenticazione fallita</string>
@@ -226,7 +226,7 @@
     <string name="err_version_unsupported">Versione backup non supportata.</string>
     <string name="err_bakfile_broken">Impossibile utilizzare questo backup.</string>
     <string name="err_filesystem_mount">Impossibile accedere alla memoria del router</string>
-    <string name="err_router_disconnected">Controlla la connessione del tuo router e riprovs</string>
+    <string name="err_router_disconnected">Controlla la connessione del tuo router e riprova</string>
     <string name="err_router_files_delete">Impossibile eliminare i file di backup sul router</string>
     <string name="backup_is_running">Dispositivo in fase di backup</string>
     <string name="restore_is_running">Dispositivo in fase di ripristino</string>
@@ -235,24 +235,22 @@
     <string name="notif_restore_title">Ripristino dei dati</string>
     <string name="notif_restore_content">Ripristino dei dati utente</string>
     <string name="notif_backup_complete_title">Backup eseguito correttamente</string>
-    <string name="notif_restore_complete_title">Ripristino eseguito correttamente</string>
+    <string name="notif_restore_complete_title">Ripristino da backup eseguito correttamente</string>
     <string name="custom_progress">%d elementi</string>
     <string name="remote_receive">Ricevi</string>
     <string name="click_to_view">Tocca per mostrare</string>
     <string name="trans_one_key_migrate">Trasferisci</string>
-    <string name="trans_main_tutor">Trasferisci contatti, registro chiamate, messaggi, layout home, app, impostazioni, etc. su un nuovo dispositivo</string>
-    <string name="trans_sender">Sono un mittente</string>
-    <string name="trans_receiver">Sono un ricevente</string>
+    <string name="trans_main_tutor">Trasferisci contatti, registro chiamate, messaggi, layout home, app, impostazioni e altro su un nuovo dispositivo</string>
+    <string name="trans_sender">Sono il mittente</string>
+    <string name="trans_receiver">Sono il ricevente</string>
     <string name="trans_waiting_for_sender">in attesa della connessione del vecchio dispositivo…</string>
-    <string name="trans_waiting_ensurance">"Accertati che il vecchio dispositivo sia acceso
-ed il Trasferimento sia attivato"</string>
+    <string name="trans_waiting_ensurance">"Accertati che il vecchio dispositivo sia acceso ed il trasferimento sia attivato"</string>
     <string name="trans_my_device">Il mio dispositivo</string>
     <string name="trans_sender_searching">In cerca di nuovi dispositivi</string>
-    <string name="trans_sender_searching_ensurance">"Accertati che il nuovo dispositivo sia acceso
-In attesa che il vecchio dispositivo si colleghi…"</string>
-    <string name="trans_select_device_send">Seleziona un dispositivo su cui trasferire i dati.</string>
+    <string name="trans_sender_searching_ensurance">"Accertati che il nuovo dispositivo sia acceso. In attesa che il vecchio dispositivo si colleghi…"</string>
+    <string name="trans_select_device_send">Seleziona il dispositivo su cui trasferire i dati.</string>
     <string name="trans_sender_connectting">Conferma sul nuovo dispositivo</string>
-    <string name="trans_select_device_receive">Selezion un dispositivo per la ricezione dei dati.</string>
+    <string name="trans_select_device_receive">Seleziona un dispositivo per la ricezione dei dati.</string>
     <string name="trans_backingup">Backup in corso…</string>
     <string name="trans_backingup_no_items">Sincronizzazione…</string>
     <string name="trans_restoring">Ripristino…</string>
@@ -264,31 +262,31 @@ In attesa che il vecchio dispositivo si colleghi…"</string>
     <string name="trans_detail_category_files">File</string>
     <string name="trans_sending_completed">Dati inviati</string>
     <string name="trans_receiving_completed">Dati ricevuti</string>
-    <string name="trans_time_format_second">meno di unminuto</string>
+    <string name="trans_time_format_second">meno di un minuto</string>
     <string name="trans_progress_subdescript_transing_sender">In invio %s</string>
     <string name="trans_progress_subdescript_transing_receiver">In ricezione %s</string>
     <string name="trans_progress_subdescript_transingsd_sender">Invio file…</string>
     <string name="trans_progress_subdescript_transingsd_receiver">Ricezione file…</string>
     <string name="trans_progress_subdescript_br_sender">Backup di %s</string>
     <string name="trans_progress_subdescript_br_receiver">Ricezione di %s</string>
-    <string name="trans_progress_subdescript_waiting">In attesadi ricevere %s</string>
+    <string name="trans_progress_subdescript_waiting">In attesa di ricevere %s</string>
     <string name="trans_cancel_confirm">Trasferimento in corso, annullare adesso?</string>
     <string name="trans_cancelling">Annullamento</string>
     <string name="trans_device_disconnected">Dispositivo disconnesso</string>
     <string name="trans_connecting_toast">Connessione…</string>
     <string name="trans_connect_failed_toast">Impossibile connettersi</string>
     <string name="trans_generate_qr_code_failed">Impossibile creare QR code</string>
-    <string name="trans_scan_invalid_qrcode">QR code non valido</string>
-    <string name="trans_scan_qr_code_tips">Scansiona QR code utilizando un nuovo dispositivo</string>
-    <string name="trans_show_qr_code_tips">Scansiona QR code utilizzando un vecchio dispositivo</string>
-    <string name="trans_operate_new_phone_tips">Scansiona QR code utilizzando un nuovo dispositivo
+    <string name="trans_scan_invalid_qrcode">Codice QR non valido</string>
+    <string name="trans_scan_qr_code_tips">Scansiona Codice QR utilizzando il nuovo dispositivo</string>
+    <string name="trans_show_qr_code_tips">Scansiona Codice QR utilizzando il vecchio dispositivo</string>
+    <string name="trans_operate_new_phone_tips">Scansiona Codice QR utilizzando il nuovo dispositivo
 Vai in Impostazioni > Impostazioni aggiuntive > Trasferimento
- Tocca [Sono un ricevente] per generare un QR code"</string>
+ Tocca [Sono il ricevente] per generare un Codice QR"</string>
     <string name="trans_operate_old_phone_tips1">"Metodo A
 1. Installa l'app Transfer sul tuo vecchio dispositivo
-2. Apri l'app e seleziona [Sono un mittente]
-3. Scansiona il QR code con il tuo vecchio dispositivo"</string>
+2. Apri l'app e seleziona [Sono il mittente]
+3. Scansiona il Codice QR con il vecchio dispositivo"</string>
     <string name="trans_operate_old_phone_tips2">"Metodo B
 Vai in Impostazioni > Impostazioni aggiuntive > Trasferimento
- tocca [Sono un mittente]"</string>
+ tocca [Sono il mittente]"</string>
 </resources>

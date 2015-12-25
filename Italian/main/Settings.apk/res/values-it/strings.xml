@@ -397,7 +397,10 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
     <string name="date_time_set_date_title">Data</string>
     <string name="date_time_set_date">Imposta data</string>
+<<<<<<< HEAD
+=======
     <string name="date_time_date_format_title">Formato data</string>
+>>>>>>> upstream/master
     <string name="date_time_date_format">Scegli il formato della data</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
@@ -3220,7 +3223,7 @@ ed esegui il software."</string>
     <string name="screen_paper_mode_apps_loading">Solo un secondo…</string>
     <string name="screen_resolution_title">Risoluzione dello schermo</string>
     <string name="screen_resolution_switch">Cambia risoluzione</string>
-    <string name="screen_resolution_summary">Diminuire la risoluzione del display può aumentare la durata della batteria e la velocità del sistema, ma le immagini sullo schermo appariranno meno definite. Devi riavviare per applicare i cambi.</string>
+    <string name="screen_resolution_summary">Diminuire la risoluzione del display può aumentare la durata della batteria e la velocità del sistema, ma le immagini sullo schermo appariranno meno definite. Devi riavviare per applicare la modifica.</string>
     <string name="screen_resolution_confirm">Riavvia</string>
     <string name="finish_application">Fine</string>
     <string name="header_category_accounts">Account</string>
@@ -3236,7 +3239,7 @@ ed esegui il software."</string>
     <string name="application_forbid_auto_startup">Impedisci a %s di avviarsi in background</string>
     <string name="floating_window_switch_label">Mostra finestre popup</string>
     <string name="floating_window_switch_label_disable">Nascondi finestre popup</string>
-    <string name="app_floating_window_dlg_enable">"L'abilitazione dell'impostazione finestra flottante di %1$s richiede il riavvio dell'applicazione. Puoi anche chiude l'app manualmente. 
+    <string name="app_floating_window_dlg_enable">"L'abilitazione dell'impostazione finestra flottante di %1$s richiede il riavvio dell'applicazione. Puoi anche chiudere l'app manualmente. 
 Abilitare le finestre flottanti?"</string>
     <string name="app_floating_window_dlg_disable">"La disabilitazione dell'impostazione finestra flottante di %1$s provocherà la chiusura dell'applicazione. 
 Disabilitare le finestre flottanti?"</string>
@@ -3245,7 +3248,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wps_connect_summary">Assicurati che il router supporti il WPS e che sia abilitato</string>
     <string name="retry">Riprova</string>
     <string name="brightness_auto_adjust_off">La luminosità dello schermo rimarrà invariata in ogni condizione di luce</string>
-    <string name="brightness_auto_adjust_on">La luminosità dello schermo varierà in relazione alla luce ambientale</string>
+    <string name="brightness_auto_adjust_on">La luminosità dello schermo varierà in base alla luce ambientale</string>
     <string name="private_sms_need_to_unlock">Password richiesta:</string>
     <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo account Xiaomi</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
@@ -3292,7 +3295,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
     <string name="bt_trace_log_summary">Abilita trace log del Bluetooth</string>
     <string name="bluetooth_ask_enablement_detected">" vuole attivare il Bluetooth."</string>
-    <string name="bluetooth_ask_enablement_and_discovery_detected">" vuole attivare il Bluetooth e rendere il tuo telefono visibile ad altri dispositivi per %1$d secondi."</string>
+    <string name="bluetooth_ask_enablement_and_discovery_detected">" vuole attivare il Bluetooth e rendere il tuo dispositivo visibile ad altri dispositivi per %1$d secondi."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" vuole attivare il Bluetooth e rendere il tuo telefono visibile ad altri dispositivi. Puoi modificare nelle impostazioni Bluetooth."</string>
     <string name="wifi_share">Condivisione Wi-Fi</string>
     <string name="wifi_share_turn_on">Attivato</string>
