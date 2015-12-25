@@ -234,8 +234,6 @@ Per attivare il tuo account, segui il
     <string name="failed_dup_secure_phone_number">Questo numero è già associato ad un Account Mi</string>
     <string name="confirm_phone_number_dialog_title">Conferma numero di telefono</string>
     <string name="confirm_phone_number_dialog_message">Il codice di verifica verrà inviato a: %s.</string>
-    <string name="confirm_email_address_dialog_title">Conferma indirizzo email</string>
-    <string name="confirm_email_address_dialog_message">Il codice di verifica verrà inviato a: %s.</string>
     <string name="change_phone_number">Cambia numero di telefono</string>
     <string name="change_email_address">Cambia indirizzo email</string>
     <string name="checking_phone_num_availible">Verifico tramite telefono…</string>
@@ -246,11 +244,7 @@ Per attivare il tuo account, segui il
     <string name="replace_binded_phone">Cambia numero di telefono</string>
     <string name="delete_action">Elimina</string>
     <string name="phone_send_verify_code_prompt">Invia codice di verifica a %s</string>
-    <string name="email_send_verify_code_prompt">"Invia un'email a %s
-Inserisci il codice di verifica contenuto nell'email"</string>
-    <string name="restart_email_bind_title">"Cambia l'email di ripristino"</string>
     <string name="restart_phone_bind_title">Cambia il numero di telefono di ripristino</string>
-    <string name="restart_email_bind_message">"È necessario un po' di tempo per la ricezione dell'email, sei sicuro di voler cambiare l'email di ripristino?"</string>
     <string name="restart_phone_bind_message">"È necessario un po' di tempo per la ricezione dell'SMS, sei sicuro di voler cambiare il recapito telefonico di ripristino?"</string>
     <string name="restart_action">Riavvia</string>
     <string name="error_dup_binded_email">Questo indirizzo email è già associato ad un altro Account Mi.</string>
@@ -258,11 +252,19 @@ Inserisci il codice di verifica contenuto nell'email"</string>
     <string name="just_a_second">Un attimo…</string>
     <string name="trying_read_verify_code_sms">Ricezione codice di verifica…</string>
     <string name="get_phone_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questo numero. Aspetta 24 ore e riprova.</string>
-    <string name="get_email_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questa email. Aspetta 24 ore e riprova.</string>
     <string name="mi_account_identity_title">Verifica la tua identità</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro Account Mi.</string>
+    <string name="input_email_address_notice">Useremo questa mail per verificare il tuo account</string>
+    <string name="send_email_activate_message">Email di verifica inviata</string>
+    <string name="activate_email_notice">Assicurati di attivar eil tuo account entro 24 ore</string>
+    <string name="change_activate_email">Cambia indirizzo email</string>
+    <string name="resend_active_email">Invia di nuovo</string>
+    <string name="confirm_activate_email">Verificato</string>
+    <string name="resend_email_success">Email inviata di nuovo</string>
+    <string name="resend_email_reach_limit_title">Impossibile inviare email</string>
+    <string name="resend_email_reach_limit_message">Hai richiesto tropep email di verifica. Assicurati che la mail di verifica nonsia nella cartella Spam.</string>
     <string name="mili_center">Mi Credit</string>
-    <string name="mipay_center">Account bancari</string>
+    <string name="mipay_center">Mi Wallet</string>
     <string name="mi_pass">Mi Pass</string>
     <string name="bind_settings">Account</string>
     <string name="cloud_service">Mi Cloud</string>

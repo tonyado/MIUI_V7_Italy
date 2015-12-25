@@ -93,8 +93,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
 Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
     <string name="user_agreement_p5">"
 "</string>
-    <string name="user_agreement_p6">"
-L'utilizzo di questa funzione è soggetto a "</string>
+    <string name="user_agreement_p6">"L'utilizzo di questa funzione è soggetto a "</string>
     <string name="user_agreement_p7">"Condizioni di utilizzo Mi Cloud"</string>
     <string name="user_agreement_p8">.</string>
     <string name="user_agreement_title">"Termini del Servizio Mi Cloud"</string>
@@ -319,7 +318,7 @@ al tuo Account Mi per riattivare Mi Cloud."</string>
     <string name="buy_more_space_b_class">"Accedi su <u>i.mi.com</u> per avere spazio di archiviazione aggiuntivo.
 Ti servirà la carta di credito di una banca cinese per acquistare spazio aggiuntivo."</string>
     <string name="buy_more_space_c_class">"Questa funzione richiede la carta di credito di una banca cinese.
-Visita <u>i.mi.com</u> per avere spazio di archiviazione aggiuntivo."</string>
+Visita mi.com/micloud per avere spazio di archiviazione aggiuntivo."</string>
     <string name="micloud_member_buy_title">Conferma ordine</string>
     <string name="micloud_member_buy_content" formatted="false">"Valido per %s-%s-%s
 

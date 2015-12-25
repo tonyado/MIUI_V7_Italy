@@ -41,4 +41,8 @@ Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzio
     <string name="unlock_error_user_name">Nome utente non valido</string>
     <string name="unlock_error_interrupted">Interrotto</string>
     <string name="unlock_error_rpc">Errore RPC</string>
+    <string name="device_lost">Questo dispositivo è stato smarrito</string>
+    <string name="default_lock_msg_words_with_phone">Ciao! Ho smarrito questo telefono. Potresti contattarmi? Grazie!</string>
+    <string name="default_lock_msg_words">Ciao! Ho smarrito questo telefono. Ti contatterò al più presto. Grazie per la tua collaborazione!</string>
+    <string name="lock_msg_phone">Informazioni di contatto: %s</string>
 </resources>

@@ -108,4 +108,8 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="group_name_friends">Amici</string>
     <string name="group_name_family">Famiglia</string>
     <string name="group_name_coworkers">Colleghi</string>
+    <string name="fp_nav_center_action_choose_dlg_title">Personalizza il tasto Home</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Puoi tornare alla Home premendo il tasto Home. Puoi secegliere se eseguire le astessa azione con un tocco. Personalizza il tasto Home in Impostazioni > Impostazioni aggiuntive > Tasti.</string>
+    <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Personalizza</string>
+    <string name="fp_nav_center_action_choose_dlg_negative_btn_text">No grazie</string>
 </resources>

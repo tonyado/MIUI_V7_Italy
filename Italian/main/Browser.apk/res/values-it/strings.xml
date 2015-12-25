@@ -739,4 +739,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="download_btn_select_none">Deseleziona tutto</string>
     <string name="download_memory_info_avai">" disponibile %s|"</string>
     <string name="download_memory_info_total">" totale ​%s"</string>
+    <string name="go_supermarket_button">Vai</string>
+    <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nellì'app Store"</string>
 </resources>

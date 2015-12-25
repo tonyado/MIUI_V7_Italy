@@ -59,32 +59,10 @@
     <string name="online_resource_entry">Risorse online</string>
     <string name="status_bar_and_notification_bar">Barra notifiche e barra di stato</string>
     <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
-	<string name="status_bar_app_enable_message">Badge</string>
-	<string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
-	<string name="status_bar_app_enable_keyguard">Lockscreen</string>
-    <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
-    <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
-    <string name="status_bar_settings_notification_priority">Priorità</string>
-    <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
-    <string name="status_bar_settings_show_home_message">Badge icona app</string>
-    <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto sullo schermo</string>
-    <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla lockscreen</string>
-    <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
-    <string name="status_bar_settings_notification_led">Luce di notifica</string>
-    <string name="status_bar_settings_notification_bar">Barra notifiche</string>
-    <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
-    <string name="status_bar_settings_show_screenshot_notification">Mostra notifiche screenshot</string>
-    <string name="status_bar_settings_status_bar">Barra di stato</string>
-    <string name="status_bar_settings_show_notification_icon">Mostra icona di notifica</string>
-    <string name="status_bar_settings_show_network_speed">Mostra velocità di connessione</string>
-    <string name="status_bar_settings_expandable_under_keyguard">Abilita nella schermata di blocco</string>
-    <string name="status_bar_settings_basic_settings">Impostazioni base</string>
-    <string name="status_bar_settings_advanced">Impostazioni aggiuntive</string>
-    <string name="status_bar_settings_show_flow_info">Mostra dettagli trasmissione</string>
-    <string name="status_bar_app_disable_notification">Vuoto</string>
-    <string name="status_bar_app_enable_on_notificationBar">Pannello delle notifiche</string>
-    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lockscreen, pannello delle notifiche</string>
+    <string name="status_bar_app_enable_message">Badge</string>
+    <string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
+    <string name="status_bar_app_enable_keyguard">Lockscreen</string>
+    <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_settings_show_carrier">Mostra operatore</string>
     <string name="status_bar_settings_custom_carrier">"Modifica il nome dell'operatore"</string>
     <string name="status_bar_settings_no_carrier">Nessuna</string>
@@ -397,10 +375,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
     <string name="date_time_set_date_title">Data</string>
     <string name="date_time_set_date">Imposta data</string>
-<<<<<<< HEAD
-=======
     <string name="date_time_date_format_title">Formato data</string>
->>>>>>> upstream/master
     <string name="date_time_date_format">Scegli il formato della data</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
@@ -578,8 +553,8 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="bluetooth_profile_pbap_summary">Usa per condividere un contatto</string>
     <string name="bluetooth_profile_pan_nap">Condivisione connessione Internet</string>
     <string name="bluetooth_profile_map">Accesso ai messaggi</string>
-    <string name="bluetooth_profile_dun">Dial-up Network Access</string>
-    <string name="bluetooth_profile_sap">SIM Access</string>
+    <string name="bluetooth_profile_dun">Accesso Rete di Chiamata</string>
+    <string name="bluetooth_profile_sap">Accesso SIM</string>
     <string name="bluetooth_disconnect_a2dp_profile">"%1$s verrà disconnesso dall'audio multimediale."</string>
     <string name="bluetooth_disconnect_headset_profile">"%1$s verrà disconnesso dall'audio vivavoce."</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s verrà disconnesso dal dispositivo di input.</string>
@@ -2889,7 +2864,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="back_key">Indietro</string>
     <string name="screen_key_long_press_timeout">Definisci la durata della pressione lunga</string>
     <string name="under_keyguard">Schermata di blocco</string>
-    <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
+    <string name="enable_snapshot_screenlock">Tieni premuto Indietro per scattare una foto</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita menu pulsante accensione</string>
     <string name="trackball_wake_title">Attivazione con trackball</string>
     <string name="pref_volume_wake_title">Risveglio con i tasti del volume</string>
@@ -2964,8 +2939,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="apn_new">"Nuovo punto d'accesso"</string>
     <string name="apn_save">Salvare?</string>
     <string name="apn_save_msg">Salvare i cambiamenti degli APN?</string>
-    <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
-    <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
     <string name="activating">Attivazione in corso…</string>
     <string name="wifi_enable_watchdog_service_summary">Evita connessioni di scarsa qualità</string>
     <string name="wifi_disabled_help">Wi-Fi disconnesso a causa della scarsa qualità della connessione</string>
@@ -3018,14 +2991,14 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="frequently_fragment_delete">Rimuovi</string>
     <string name="show_fc">App chiuse forzatamente</string>
     <string name="show_fc_summary">Mostra app chiuse forzatamente</string>
-    <string name="shuting_down_find_device">Turning off Find device…</string>
-    <string name="checking_find_device_status">Checking Find device status…</string>
-    <string name="failed_to_check_find_device_status_title">Failed to check Find device status</string>
-    <string name="failed_to_check_find_device_status_content">Failed to check find device status, Wait a minute or two and try again.</string>
-    <string name="failed_to_shut_down_find_device_title">"Couldn't turn off Find device"</string>
-    <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
-    <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
-    <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
+    <string name="shuting_down_find_device">Disattivazione Trova Telefono…</string>
+    <string name="checking_find_device_status">Verifica stato trova Telefono…</string>
+    <string name="failed_to_check_find_device_status_title">Impossibile verificare lo stato di Trova Telefono</string>
+    <string name="failed_to_check_find_device_status_content">Impossibile verificare lo stato di Trova Telefono, attendi un minuto o due e riprova.</string>
+    <string name="failed_to_shut_down_find_device_title">Impossibile disattivare Trova Telefono</string>
+    <string name="failed_to_shut_down_find_device_content">Impossibile disattivare Trova Telefono. Attendi un minuto o due e riprova.</string>
+    <string name="shut_down_find_device_network_failure_title">Impossibile connettersi alla rete</string>
+    <string name="shut_down_find_device_network_failure_content">Impossibile disattivare Trova Telefono. Accertati che il dispositivo sia connesso ad internet.</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="shut_down_find_device_failure_confirm">OK</string>
     <string name="factory_reset_summary">Elimina tutti i dati dalla memoria interna del tuo dispositivo</string>
@@ -3144,7 +3117,7 @@ Seleziona il sistema operativo del tuo computer:"</string>
     <string name="msd_install_retry_reinstall">Reinstalla il driver.</string>
     <string name="msd_install_retry_reinstall_mac">"Cerca Android File Transfer,
 ed esegui il software."</string>
-    <string name="msd_install_status_undo">Installla driver</string>
+    <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver installato.</string>
     <string name="msd_driver_download">Scarica driver</string>
     <string name="msd_driver_download_xp">"Per i PC, scarica Mi Phone Manager per il rilevamento dell'unità di memoria USB"</string>
@@ -3375,6 +3348,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="free_wifi_summary">Wi-Fi libero, offerto in parte da %1$s</string>
     <string name="free_wifi_connect_title">Wi-Fi disponibile</string>
     <string name="free_wifi_connect_summary">Questa connessione Wi-Fi libero è in parte offerta da %1$s. Tocca per connetterti.</string>
+    <string name="free_xiaomi_wifi_connect_summary">Tocca per collegarti a %1$s.</string>
     <string name="free_wifi_manage_summary">Tocca per vedere %1$s.</string>
     <string name="free_wifi_connect_dialog_title">Wi-Fi libero disponibile</string>
     <string name="free_wifi_connect_dialog_summary">Questo Wi-Fi libero %1$s è in parte offerto da %2$s.</string>
@@ -3618,7 +3592,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="page_layout_page2_large_summary">Grande</string>
     <string name="page_layout_page2_huge_summary">Molto grande</string>
     <string name="page_layout_page2_godzilla_summary">XXL</string>
-    <string name="oldman_mode_summary_cta">La modalità Lite deve collegarsi ad internet edaccedere ai tuoi contatti, messaggi e posizione per funzioanre correttamente.</string>
+    <string name="oldman_mode_summary_cta">La modalità Lite deve collegarsi ad internet ed accedere ai tuoi contatti, messaggi e posizione per funzionare correttamente.</string>
     <string name="page_layout_32">Play Store</string>
     <string name="page_layout_33">Google</string>
     <string name="zen_mode_option_miui_silent">Modalità silenziosa</string>
@@ -3652,13 +3626,13 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_notify_cmcc_connected_title">Notifica rete CMCC</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostra notifica quando collegato alla rete CMCC</string>
     <string name="wifi_switch_to_gsm_title">Use GSM?</string>
-    <string name="wifi_switch_to_gsm_message">Lost connection to WLAN. Use mobile data connection instead?</string>
+    <string name="wifi_switch_to_gsm_message">Connessione Wi-Fi persa. Vuoi utilizzare la connessione su rete dati?</string>
     <string name="wifi_datanetwork_switch_not_remind">Non chiedere più</string>
     <string name="skip_lock_screen_confirm_msg">Le seguenti funzioni verranno disattivate per la lockscreen: notifiche, controllo musica, slide sinistro per la Fotocamera e slide destro per Mi Home.</string>
     <string name="performance_category">Prestazioni</string>
     <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
     <string name="fluency_mode_confirm_and_reboot">Riavvia adesso</string>
-    <string name="gesture_wakeup_title">Doppo tap sullo schermo per attivarlo</string>
+    <string name="gesture_wakeup_title">Doppio tap sullo schermo per attivarlo</string>
     <string name="install_no_market_app_title">Fonti sconosciute</string>
     <string name="install_no_market_app_summary">"Consenti l'installazione di applicazioni non provenienti dal Play Store"</string>
     <string name="lock_screen_secure_after_timeout_title">Password richiesta</string>
@@ -3733,4 +3707,6 @@ assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="forget_password_button_text"><u>Password dimenticata</u></string>
     <string name="print_enable">Attiva stampa</string>
     <string name="print_remind">Prima attiva la stampa</string>
+    <string name="fp_nav_center_back_to_home_title">Tocca il tasto Home per tornare alla Home screen</string>
+    <string name="convenience_key_category_title">Tasto di utilità</string>
 </resources>

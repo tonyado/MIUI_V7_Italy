@@ -62,4 +62,5 @@
     <string name="fingerprint_not_identified_msg">Inserisci la password per sbloccare il dispositivo.</string>
     <string name="invalid_sim_pin_hint">Digita un PIN tra 4 e 8 numeri</string>
     <string name="invalid_sim_puk_hint">Il codice PUK dovrebbe essere di 8 o più numeri</string>
+    <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
 </resources>

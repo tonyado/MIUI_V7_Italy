@@ -445,11 +445,9 @@
     <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero indicare erroneamente che MIUI sta impedendo alle app di avviarsi. Per verificare i permessi concessi alle singole app, vai in Impostazioni > Applicazioni</string>
     <string name="button_text_known">OK</string>
     <string name="empty_title_perm_apps">Vuoto</string>
+    <string name="reject_all">Limita tutto</string>
+    <string name="confirm_reject_all_permission">"Limitare tutte le app nell'utilizzo di questa funzione?"</string>
     <string name="permission_group_title_charges_related">Costi</string>
-    <string name="permission_group_title_privacy_related">Privacy</string>
-    <string name="permission_group_title_media_related">Multimedia</string>
-    <string name="permission_group_title_settings_related">Impostazioni</string>
-    <string name="permission_group_title_others">Altro</string>
     <string name="permission_action_accept">Accetta</string>
     <string name="permission_action_prompt">Chiedi sempre</string>
     <string name="permission_action_reject">Nega</string>
