@@ -151,7 +151,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="log_share">Condividi</string>
     <string name="notification_restart">Aggiorna di nuovo</string>
     <string name="autosetmode">Impostazioni aggiornamento</string>
-    <string name="on_checking">Cerca aggiornamento</string>
+    <string name="on_checking">Sto cercando…</string>
     <string name="auto_update">Aggiorna automaticamente</string>
     <string name="update_downfull_no_info_title">Impossibile scaricare</string>
     <string name="update_downfull_no_info_sum">Impossibile scaricare, controlla di nuovo con il tasto di aggiornamento.</string>
