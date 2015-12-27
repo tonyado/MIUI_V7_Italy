@@ -115,11 +115,11 @@
     <string name="show_dev_on">Ora sei uno sviluppatore.</string>
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>
+	<string name="header_category_device">DISPOSITIVO</string>
+    <string name="header_category_personal">PERSONALE</string>
+    <string name="header_category_system">SISTEMA</string>
     <string name="header_category_connections">Connessioni</string>
-    <string name="header_category_device">Dispositivo</string>
-    <string name="header_category_personal">Personale</string>
     <string name="header_category_access">Accesso</string>
-    <string name="header_category_system">Sistema</string>
     <string name="turn_on_radio">Attiva segnale cellulare</string>
     <string name="turn_off_radio">Disattiva segnale cellulare</string>
     <string name="sms_over_ims_on">Attiva SMS su IMS</string>
