@@ -339,7 +339,7 @@
     <string name="airplane_mode">Modalità aereo</string>
     <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
-    <string name="radio_controls_summary">Gestisci Wi‑Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
+    <string name="radio_controls_summary">Gestisci Wi-Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
     <string name="roaming">Roaming dati</string>
     <string name="roaming_enable">Connessione a servizi di dati in roaming</string>
     <string name="roaming_disable">Connessione a servizi di dati in roaming</string>
@@ -604,7 +604,7 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi-Fi durante sospensione</string>
     <string name="wifi_setting_sleep_policy_error">"Si è verificato un problema durante la modifica dell'impostazione"</string>
     <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
-    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando Wi‑Fi è attivo"</string>
+    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando Wi-Fi è attivo"</string>
     <string name="wifi_add_network">Aggiungi rete</string>
     <string name="wifi_access_points">Reti Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Pulsante di comando WPS</string>
@@ -622,7 +622,7 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione auto (WPS)</string>
-    <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere a una rete Wi‑Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi‑Fi e viceversa.</string>
+    <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere a una rete Wi-Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi-Fi e viceversa.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Imposta protezione Wi-Fi</string>
     <string name="wifi_wps_setup_msg">Avvio WPS…</string>
@@ -685,7 +685,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_and_mobile_skipped_message">AVVISO. Finché non disporrai di una connessione internet, il dispositivo non sarà in grado di verificare che il software sia aggiornato.</string>
     <string name="wifi_connect_failed_message">Impossibile collegare il dispositivo alla rete Wi-Fi.</string>
     <string name="wifi_advanced_titlebar">Wi-Fi avanzate</string>
-    <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi‑Fi</string>
+    <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Specifica campo di frequenza di funzionamento</string>
     <string name="wifi_setting_frequency_band_error">Errore di impostazione della banda di frequenza.</string>
     <string name="wifi_advanced_mac_address_title">Indirizzo MAC</string>
@@ -1054,9 +1054,9 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e mobili per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
     <string name="location_loading_injected_setting">Recupero…</string>
-    <string name="location_network_based">Posizione Wi‑Fi e rete mobile</string>
+    <string name="location_network_based">Posizione Wi-Fi e rete mobile</string>
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
-    <string name="location_neighborhood_level_wifi">Posizione determinata da Wi‑Fi</string>
+    <string name="location_neighborhood_level_wifi">Posizione determinata da Wi-Fi</string>
     <string name="location_gps">Satelliti GPS</string>
     <string name="location_street_level">Consenti alle applicazioni di utilizzare il GPS per individuare la tua posizione</string>
     <string name="assisted_gps">Utilizza GPS assistito</string>
@@ -1522,8 +1522,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_wake_lock_label">Attivato</string>
     <string name="battery_stats_phone_signal_label">Segnale rete mobile</string>
     <string name="awake">Tempo di attività dispositivo</string>
-    <string name="wifi_on_time">Tempo accensione Wi‑Fi</string>
-    <string name="bluetooth_on_time">Tempo accensione Wi‑Fi</string>
+    <string name="wifi_on_time">Tempo accensione Wi-Fi</string>
+    <string name="bluetooth_on_time">Tempo accensione Wi-Fi</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
     <string name="history_details_title">Dettagli utilizzo batteria</string>
     <string name="details_title">Dettagli di utilizzo</string>
@@ -1758,7 +1758,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="wifi_setup_status_connecting">Connessione…</string>
     <string name="wifi_setup_status_proceed_to_next">Vai al passaggio successivo</string>
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
-    <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi‑Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>
+    <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto…</string>
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per continuare con la configurazione.
 
@@ -1872,7 +1872,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_menu_roaming">Roaming dei dati</string>
     <string name="data_usage_menu_restrict_background">Limita dati in background</string>
     <string name="data_usage_menu_split_4g">Separa utilizzo 4G</string>
-    <string name="data_usage_menu_show_wifi">Mostra utilizzo Wi‑Fi</string>
+    <string name="data_usage_menu_show_wifi">Mostra utilizzo Wi-Fi</string>
     <string name="data_usage_menu_show_ethernet">Mostra utilizzo Ethernet</string>
     <string name="data_usage_menu_metered">Hotspot mobili</string>
     <string name="data_usage_menu_auto_sync">Sincronizzazione automatica dei dati</string>
@@ -1886,7 +1886,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_disable_mobile_limit">Imposta limite dati mobili</string>
     <string name="data_usage_disable_4g_limit">Imposta limite dati 4G</string>
     <string name="data_usage_disable_3g_limit">Imposta limite dati 2G-3G</string>
-    <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi‑Fi</string>
+    <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi-Fi</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
     <string name="data_usage_tab_mobile">Mobile</string>
@@ -1924,8 +1924,8 @@ Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni accou
 
 Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
     <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
-    <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.
+    <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.</string>
+    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.
 
 Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
@@ -1938,10 +1938,10 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="data_usage_total_during_range">%2$s: utilizzati circa %1$s.</string>
     <string name="data_usage_total_during_range_mobile">"%2$s: utilizzati quasi %1$s, misurati dal dispositivo. I dati possono differire da quelli dell'operatore."</string>
     <string name="data_usage_metered_title">Hotspot mobili</string>
-    <string name="data_usage_metered_body">"Seleziona le reti Wi‑Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
+    <string name="data_usage_metered_body">"Seleziona le reti Wi-Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
     <string name="data_usage_metered_mobile">Reti mobili</string>
-    <string name="data_usage_metered_wifi">Reti Wi‑Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili, attiva il Wi‑Fi.</string>
+    <string name="data_usage_metered_wifi">Reti Wi-Fi</string>
+    <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili, attiva il Wi-Fi.</string>
     <string name="cryptkeeper_emergency_call">Chiamata di emergenza</string>
     <string name="cryptkeeper_return_to_call">Torna a chiamata</string>
     <string name="vpn_name">Nome</string>
@@ -2028,7 +2028,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="user_add_user_item_title">Utente</string>
     <string name="user_add_profile_item_title">Profilo con limitazioni</string>
     <string name="user_add_user_title">Aggiungi nuovo utente</string>
-    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del dispositivo, come il Wi‑Fi, che riguardano tutti.
+    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del dispositivo, come il Wi-Fi, che riguardano tutti.
 
 Dopo la creazione di un nuovo utente, la persona in questione deve svolgere una procedura di configurazione.
 
