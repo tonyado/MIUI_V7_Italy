@@ -124,6 +124,7 @@
     <string name="account_setup_options_mail_window_auto">Automatico</string>
     <string name="account_setup_options_mail_window_default">Usa imp. predefinite account</string>
     <string name="account_setup_options_mail_window_label">Giorni da sincronizzare</string>
+    <string name="account_setup_options_mail_window_label_imap_or_pop3">Conservare per</string>
     <string name="account_setup_options_title">Impostazioni account</string>
     <string name="account_setup_outgoing_port_label">Porta</string>
     <string name="account_setup_outgoing_require_login_label">Richiedi accesso</string>
@@ -368,6 +369,7 @@
     <string name="folder_sent_name_en1">Messaggi inviati</string>
     <string name="folder_sent_name_en2">Messaggio inviato</string>
     <string name="folder_shortcut_widget_label">Cartella email</string>
+    <string name="folder_synchronization_mail_settings">Impostazioni di sincronizzazione delle cartelle</string>
     <string name="folder_trash_name_en0">Cestino</string>
     <string name="folder_trash_name_en1">Messaggi eliminati</string>
     <string name="folder_trash_name_en2">Messaggio eliminato</string>
