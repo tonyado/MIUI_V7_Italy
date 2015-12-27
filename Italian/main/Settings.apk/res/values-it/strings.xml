@@ -93,10 +93,7 @@
     <string name="header_category_personal">PERSONALE</string>
     <string name="header_category_system">SISTEMA</string>
     <string name="header_category_connections">Connessioni</string>
-    <string name="header_category_device">Dispositivo</string>
-    <string name="header_category_personal">Personale</string>
     <string name="header_category_access">Accesso</string>
-    <string name="header_category_system">Sistema</string>
     <string name="turn_on_radio">Attiva segnale cellulare</string>
     <string name="turn_off_radio">Disattiva segnale cellulare</string>
     <string name="sms_over_ims_on">Attiva SMS su IMS</string>
