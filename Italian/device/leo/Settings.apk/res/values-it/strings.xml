@@ -616,12 +616,12 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="bluetooth_dock_settings_a2dp">Per musica e audio media</string>
     <string name="bluetooth_dock_settings_remember">Ricorda impostazioni</string>
     <string name="wifi_assistant_intro_setup">"Introduzione
- Assistente Wi‑Fi"</string>
+ Assistente Wi-Fi"</string>
     <string name="wifi_assistant_no_thanks">NO, GRAZIE</string>
     <string name="wifi_assistant_setup">CONFIGURA</string>
-    <string name="wifi_assistant_card_message">"Connetti automaticamente alle reti disponibili con l'assistente Wi‑Fi."</string>
+    <string name="wifi_assistant_card_message">"Connetti automaticamente alle reti disponibili con l'assistente Wi-Fi."</string>
     <string name="wifi_assistant_title">Assistente Wi‑Fi</string>
-    <string name="wifi_assistant_title_message">%1$s ti connette automaticamente alla migliore rete Wi‑Fi disponibile</string>
+    <string name="wifi_assistant_title_message">%1$s ti connette automaticamente alla migliore rete Wi-Fi disponibile</string>
     <string name="wifi_assistant_open_app">APRI APP</string>
     <string name="wifi_display_settings_title">Trasmetti schermo</string>
     <string name="wifi_display_enable_menu_item">Attiva display wireless</string>
@@ -663,7 +663,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_settings_summary">Configura e gestisci punti di accesso wireless</string>
     <string name="wifi_setup_wizard_title">Seleziona Wi-Fi</string>
-    <string name="wifi_select_network">Seleziona Wi‑Fi</string>
+    <string name="wifi_select_network">Seleziona Wi-Fi</string>
     <string name="wifi_starting">Attivazione Wi-Fi…</string>
     <string name="wifi_stopping">Disattivazione Wi-Fi…</string>
     <string name="wifi_error">Errore</string>
@@ -679,19 +679,19 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="wifi_scan_always_available">Scansione sempre disponibile</string>
     <string name="wifi_scan_always_available_title">Permetti sempre la scansione</string>
     <string name="wifi_scan_always_available_summary">Consenti al servizio di geolocalizzazione di Google e ad altre app di eseguire la scansione delle reti, anche quando il Wi-Fi non è attivo</string>
-    <string name="wifi_automatically_manage_title">Gestisci automaticamente il  Wi‑Fi</string>
-    <string name="wifi_automatically_manage_summary">Permetti a %1$s di gestire la tua connessione Wi‑Fi</string>
+    <string name="wifi_automatically_manage_title">Gestisci automaticamente il  Wi-Fi</string>
+    <string name="wifi_automatically_manage_summary">Permetti a %1$s di gestire la tua connessione Wi-Fi</string>
     <string name="wifi_install_credentials">Installa certificati</string>
     <string name="wifi_scan_notify_text_location_on">Per una maggiore precisione nella localizzazione e altri motivi, Google e altre app sono in grado di cercare reti nelle vicinanze, anche quando la connessione Wi-Fi è disattivata. Se non desideri consentire tale ricerca, accedi ad Avanzate > Scansione sempre disponibile.</string>
     <string name="wifi_scan_notify_text_location_off">Le app possono cercare reti nelle vicinanze, anche quando la connessione Wi-Fi è disattivata. Se non desideri consentire tale ricerca, accedi ad Advanzate > Scansione sempre disponibile.</string>
     <string name="wifi_scan_notify_remember_choice">Non mostrare più</string>
     <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi-Fi durante la sospensione</string>
-    <string name="wifi_setting_on_during_sleep_title">Wi‑Fi attivo durante la sospensione</string>
+    <string name="wifi_setting_on_during_sleep_title">Wi-Fi attivo durante la sospensione</string>
     <string name="wifi_setting_sleep_policy_error">"Si è verificato un problema durante la modifica dell'impostazione"</string>
     <string name="wifi_suspend_efficiency_title">"Migliora l'efficienza"</string>
     <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
-    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando il Wi‑Fi è attivo"</string>
-    <string name="wifi_limit_optimizations_summary">"Limita l'utilizzo della batteria da parte del Wi‑Fi"</string>
+    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando il Wi-Fi è attivo"</string>
+    <string name="wifi_limit_optimizations_summary">"Limita l'utilizzo della batteria da parte del Wi-Fi"</string>
     <string name="wifi_add_network">Aggiungi rete</string>
     <string name="wifi_access_points">Reti Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Pulsante di comando WPS</string>
@@ -710,7 +710,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione auto (WPS)</string>
-    <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere a una rete Wi‑Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi‑Fi e viceversa.</string>
+    <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere a una rete Wi-Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi-Fi e viceversa.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Imposta protezione Wi-Fi</string>
     <string name="wifi_wps_setup_msg">Avvio WPS…</string>
@@ -788,7 +788,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_connect_failed_message">Impossibile collegare il dispositivo alla rete Wi-Fi.</string>
     <string name="wifi_saved_access_points_titlebar">Reti salvate</string>
     <string name="wifi_advanced_titlebar">Wi-Fi avanzate</string>
-    <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi‑Fi</string>
+    <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Specifica campo di frequenza di funzionamento</string>
     <string name="wifi_setting_frequency_band_error">Errore di impostazione della banda di frequenza.</string>
     <string name="wifi_advanced_mac_address_title">Indirizzo MAC</string>
@@ -826,15 +826,15 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_p2p_cancel_connect_message">"Vuoi annullare l'invito a connettersi con %1$s?"</string>
     <string name="wifi_p2p_delete_group_message">Eliminare questo gruppo?</string>
     <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi</string>
-    <string name="wifi_hotspot_checkbox_text">Hotspot Wi‑Fi</string>
-    <string name="wifi_hotspot_checkbox_text_summary">Usa la connessione del cellulare per condividere la rete Wi‑Fi</string>
+    <string name="wifi_hotspot_checkbox_text">Hotspot Wi-Fi</string>
+    <string name="wifi_hotspot_checkbox_text_summary">Usa la connessione del cellulare per condividere la rete Wi-Fi</string>
     <string name="wifi_tether_starting">Attivazione hotspot…</string>
     <string name="wifi_tether_stopping">Disattivazione hotspot…</string>
     <string name="wifi_tether_enabled_subtext">Hotspot %1$s attivo</string>
     <string name="wifi_tether_failed_subtext">Errore hotspot Wi-Fi portatile</string>
     <string name="wifi_tether_configure_ap_text">Configura hotspot Wi-Fi</string>
-    <string name="wifi_hotspot_configure_ap_text">Configurazione hotspot Wi‑Fi</string>
-    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK hotspot Wi‑Fi portatile</string>
+    <string name="wifi_hotspot_configure_ap_text">Configurazione hotspot Wi-Fi</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK hotspot Wi-Fi portatile</string>
     <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">Hotspot-Android</string>
     <string name="testing_wifi_info">Informazioni Wi-Fi</string>
@@ -1175,7 +1175,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="master_clear_confirm_title">Ripristinare?</string>
     <string name="master_clear_not_available">"Il ripristino di fabbrica non è disponibile per l'utente"</string>
     <string name="master_clear_progress_title">Cancellazione</string>
-    <string name="master_clear_progress_text">Attendere prego...</string>
+    <string name="master_clear_progress_text">Attendere prego…</string>
     <string name="media_format_title">Formatta archivio USB</string>
     <string name="media_format_summary">"Elimina i dati nell'arch. USB"</string>
     <string name="media_format_desc">"Eliminare tutto l'archivio USB? "<b>Tutti</b> i dati memorizzati al suo interno andranno persi.</string>
@@ -1215,7 +1215,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="sms_change_default_dialog_title">Cambiare app per SMS?</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizzare %s anziché %s come app per SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Utilizzare %s come app per SMS?</string>
-    <string name="network_scorer_change_active_dialog_title">Cambiare assistente Wi‑Fi?</string>
+    <string name="network_scorer_change_active_dialog_title">Cambiare assistente Wi-Fi?</string>
     <string name="network_scorer_change_active_dialog_text">Utilizza %1$s invece di %2$s per gestire le connessioni di rete?</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Utilizza %s per gestire le tue connessioni di rete?</string>
     <string name="mobile_unknown_sim_operator">Operatore SIM sconosciuto</string>
@@ -1238,9 +1238,9 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e mobili per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
     <string name="location_category_enhanced_location">Maggiori località</string>
-    <string name="location_network_based">Posizione Wi‑Fi e rete mobile</string>
+    <string name="location_network_based">Posizione Wi-Fi e rete mobile</string>
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
-    <string name="location_neighborhood_level_wifi">Posizione determinata da Wi‑Fi</string>
+    <string name="location_neighborhood_level_wifi">Posizione determinata da Wi-Fi</string>
     <string name="location_gps">Satelliti GPS</string>
     <string name="location_street_level">Consenti alle applicazioni di utilizzare il GPS per individuare la tua posizione</string>
     <string name="assisted_gps">Utilizza GPS assistito</string>
@@ -1574,13 +1574,13 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="oem_unlock_enable">Abilita sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Consenti al dispositivo lo sblocco OEM</string>
     <string name="wifi_display_certification">Certificazione Display wireless</string>
-    <string name="wifi_verbose_logging">Abilita Logging verbose Wi‑Fi</string>
-    <string name="wifi_aggressive_handover">Aggressivo handover Wi‑Fi a rete cellulare</string>
-    <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi‑Fi Roam Scans</string>
+    <string name="wifi_verbose_logging">Abilita Logging verbose Wi-Fi</string>
+    <string name="wifi_aggressive_handover">Aggressivo handover Wi-Fi a rete cellulare</string>
+    <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi-Fi Roam Scans</string>
     <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione Display wireless</string>
-    <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
-    <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
-    <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
+    <string name="wifi_verbose_logging_summary">Increase Wi-Fi logging level, show per SSID RSSI in Wi-Fi Picker</string>
+    <string name="wifi_aggressive_handover_summary">When enabled, Wi-Fi will be more aggressive in handing over the data connection to Cellular, when Wi-Fi signal is low</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi-Fi Roam Scans based on the amount of data traffic present at the interface</string>
     <string name="select_logd_size_title">Dimensione Logger buffer</string>
     <string name="select_logd_size_dialog_title">Seleziona la dimensione del log Logger</string>
     <string name="allow_mock_location">Posizioni fittizie</string>
@@ -1766,8 +1766,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_wake_lock_label">Attivato</string>
     <string name="battery_stats_phone_signal_label">Segnale rete mobile</string>
     <string name="awake">Tempo di attività dispositivo</string>
-    <string name="wifi_on_time">Tempo accensione Wi‑Fi</string>
-    <string name="bluetooth_on_time">Tempo accensione Wi‑Fi</string>
+    <string name="wifi_on_time">Tempo accensione Wi-Fi</string>
+    <string name="bluetooth_on_time">Tempo accensione Wi-Fi</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
     <string name="history_details_title">Dettagli utilizzo batteria</string>
     <string name="details_title">Dettagli di utilizzo</string>
@@ -2045,7 +2045,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="wifi_setup_status_connecting">Connessione…</string>
     <string name="wifi_setup_status_proceed_to_next">Vai al passaggio successivo</string>
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
-    <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi‑Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>
+    <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto…</string>
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per continuare con la configurazione.
 
@@ -2179,8 +2179,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_menu_restrict_background">Limita dati in background</string>
     <string name="data_usage_menu_allow_background">Consenti dati in background</string>
     <string name="data_usage_menu_split_4g">Separa utilizzo 4G</string>
-    <string name="data_usage_menu_show_wifi">Mostra utilizzo Wi‑Fi</string>
-    <string name="data_usage_menu_hide_wifi">Nascondi utilizzo Wi‑Fi</string>
+    <string name="data_usage_menu_show_wifi">Mostra utilizzo Wi-Fi</string>
+    <string name="data_usage_menu_hide_wifi">Nascondi utilizzo Wi-Fi</string>
     <string name="data_usage_menu_show_ethernet">Mostra utilizzo Ethernet</string>
     <string name="data_usage_menu_hide_ethernet">Nascondi utilizzo Ethernet</string>
     <string name="data_usage_menu_metered">Hotspot mobili</string>
@@ -2200,7 +2200,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_disable_mobile_limit">Imposta limite dati mobili</string>
     <string name="data_usage_disable_4g_limit">Imposta limite dati 4G</string>
     <string name="data_usage_disable_3g_limit">Imposta limite dati 2G-3G</string>
-    <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi‑Fi</string>
+    <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi-Fi</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
     <string name="data_usage_tab_mobile">Mobili</string>
@@ -2241,8 +2241,8 @@ Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni accou
 
 Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
     <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
-    <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.
+    <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.</string>
+    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.
 
 Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
@@ -2255,11 +2255,11 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="data_usage_total_during_range">%2$s: utilizzati circa %1$s.</string>
     <string name="data_usage_total_during_range_mobile">"%2$s: utilizzati quasi %1$s, misurati dal dispositivo. I dati possono differire da quelli dell'operatore."</string>
     <string name="data_usage_metered_title">Hotspot mobili</string>
-    <string name="data_usage_metered_body">"Seleziona le reti Wi‑Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
+    <string name="data_usage_metered_body">"Seleziona le reti Wi-Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
     <string name="data_usage_metered_mobile">Reti mobili</string>
-    <string name="data_usage_metered_wifi">Reti Wi‑Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili, attiva il Wi‑Fi.</string>
-    <string name="data_usage_disclaimer">Carrier data accounting may differ from your device.</string>
+    <string name="data_usage_metered_wifi">Reti Wi-Fi</string>
+    <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili, attiva il Wi-Fi.</string>
+    <string name="data_usage_disclaimer">I dati conteggiati dal tuo gestore potrebbero essere diversi.</string>
     <string name="cryptkeeper_emergency_call">Chiamata di emergenza</string>
     <string name="cryptkeeper_return_to_call">Torna a chiamata</string>
     <string name="vpn_name">Nome</string>
@@ -2322,8 +2322,8 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="sim_enabler_airplane_on">ERRORE, modalità aereo attiva!</string>
     <string name="sim_enabler_in_call">ERRORE, in chiamata!</string>
     <string name="sim_enabler_both_inactive">Errore, non puoi disattivare tutte le SIM</string>
-    <string name="sim_enabler_enabling">Attivazione...</string>
-    <string name="sim_enabler_disabling">Disattivazione...</string>
+    <string name="sim_enabler_enabling">Attivazione…</string>
+    <string name="sim_enabler_disabling">Disattivazione…</string>
     <string name="sub_activate_success">Attivazione avvenuta con successo.</string>
     <string name="sub_activate_failed">Attivazione fallita.</string>
     <string name="sub_deactivate_success">Disattivazione avvenuta con successo.</string>
@@ -2368,7 +2368,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="user_add_user_item_title">Utente</string>
     <string name="user_add_profile_item_title">Profilo con limitazioni</string>
     <string name="user_add_user_title">Aggiungi nuovo utente</string>
-    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del dispositivo, come il Wi‑Fi, che riguardano tutti.
+    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del dispositivo, come il Wi-Fi, che riguardano tutti.
 
 Dopo la creazione di un nuovo utente, la persona in questione deve svolgere una procedura di configurazione.
 
@@ -2423,7 +2423,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="nfc_payment_no_apps">Paga con un tocco</string>
     <string name="nfc_payment_favor_foreground">Favor foreground app</string>
     <string name="nfc_payment_learn_more">Ulteriori informazioni</string>
-    <string name="nfc_more_title">Altro...</string>
+    <string name="nfc_more_title">Altro…</string>
     <string name="nfc_payment_menu_item_add_service">Trova app</string>
     <string name="nfc_payment_set_default_label">Impostare come preferenza?</string>
     <string name="nfc_payment_set_default">Utilizzare sempre %1$s per Touch e Pay?</string>
@@ -2561,7 +2561,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="keywords_lockscreen">slide password pattern pin</string>
     <string name="setup_wifi_nfc_tag">Imposta un Tag NFC</string>
     <string name="write_tag">Scrivi</string>
-    <string name="status_awaiting_tap">Tocca un tag da scrivere...</string>
+    <string name="status_awaiting_tap">Tocca un tag da scrivere…</string>
     <string name="status_invalid_password">Password non valida,si prega di riprovare.</string>
     <string name="status_write_success">Con successo!</string>
     <string name="status_failed_to_write">Impossibile scrivere i dati su un Tag NFC. Se il problema persiste, prova su un tag diverso</string>
@@ -2611,7 +2611,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="no_condition_providers">Nessuna condizione fornitori installata.</string>
     <string name="condition_provider_security_warning_title">Attivare %1$s?</string>
     <string name="condition_provider_security_warning_summary">%1$s sarà in grado di aggiungere le condizioni quando si esce dalla modalità Non disturbare.</string>
-    <string name="loading_notification_apps">Caricamento app...</string>
+    <string name="loading_notification_apps">Caricamento app…</string>
     <string name="app_notification_block_title">Blocco</string>
     <string name="app_notification_block_summary">Non mostrare mai notifiche da questa app</string>
     <string name="app_notification_priority_title">Priorità</string>
