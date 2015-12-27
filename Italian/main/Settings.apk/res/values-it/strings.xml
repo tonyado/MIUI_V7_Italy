@@ -89,6 +89,9 @@
     <string name="show_dev_on">Ora sei uno sviluppatore.</string>
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>
+	<string name="header_category_device">DISPOSITIVO</string>
+    <string name="header_category_personal">PERSONALE</string>
+    <string name="header_category_system">SISTEMA</string>
     <string name="header_category_connections">Connessioni</string>
     <string name="header_category_device">Dispositivo</string>
     <string name="header_category_personal">Personale</string>
