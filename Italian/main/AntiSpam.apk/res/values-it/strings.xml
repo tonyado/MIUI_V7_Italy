@@ -296,7 +296,7 @@
     <string name="mark_harass_block">Segnalato come indesiderato</string>
     <string name="mark_number_info">Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai realmente cercando qualcosa da acquistare). Blocca soltanto i numeri da cui non vuoi mai ricevere chiamate.</string>
     <string name="dlg_title_not_open_stranger_identify">Attiva identificazione numeri sconosciuti</string>
-    <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'identificazione dei numeri sconosciuti in Telefono > Impostazioni, prima di segnalare un numero."</string>
+    <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'identificazione dei numeri sconosciuti in \"Telefono > Impostazioni\" prima di segnalare un numero."</string>
     <string name="button_to_setting">Impostazioni</string>
     <string name="button_text_delete">Elimina</string>
     <string name="special_number_group">Blocco numeri speciali</string>
