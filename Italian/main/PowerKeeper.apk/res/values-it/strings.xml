@@ -20,12 +20,12 @@
     <string name="power_mode_view_app_list_title">App</string>
     <string name="power_mode_view_event_title">Eventi</string>
     <string name="power_event_view_event_title">Comandi</string>
-    <string name="hide_mode">Gestisci utilizzo batteri app</string>
-    <string name="hide_mode_desc_title">Gestisci utilizzo batteri app</string>
-    <string name="hide_mode_desc">Risparmia batteria limitando i processi in background delle singole applicazioni, Wi-Fi, connessione dati mobile e GPS</string>
+    <string name="hide_mode">Gestisci utilizzo batteria app</string>
+    <string name="hide_mode_desc_title">Gestisci utilizzo batteria app</string>
+    <string name="hide_mode_desc">Risparmia batteria limitando i processi in background delle singole applicazioni, Wi-Fi, connessione dati cellulare e GPS</string>
     <string name="normal">Modalità predefinita</string>
     <string name="reading">Modalità lettura</string>
-    <string name="media">Modalità media</string>
+    <string name="media">Modalità multimedia</string>
     <string name="action_bar_delete">Elimina</string>
     <string name="operation_create_group">Nome</string>
     <string name="operation_create_group_message">Inserisci il nome del nuovo gruppo</string>
@@ -33,9 +33,9 @@
     <string name="error_filename_too_long">Il nome del file è troppo lungo.</string>
     <string name="alter_message_delete">Eliminare?</string>
     <string name="alter_message_switch_mode">Cambiare modalità?</string>
-    <string name="alter_message_switch_mode_message">Quando cambi modalità,le impostazioni precedenti non saranno più applicate a questa app.</string>
+    <string name="alter_message_switch_mode_message">Quando cambi modalità, le impostazioni precedenti non saranno più applicate a questa app.</string>
     <string name="alter_message_open_hide_title">"Gestire l'utilizzo della batteria delle app?"</string>
-    <string name="alter_message_open_hide_message">Le applicazioni aggiunte a questa lista non potranno connettersi alla rete Wi-Fi, alalrete dati mobile o GPS e potrebbero non funzionare corretamente.</string>
+    <string name="alter_message_open_hide_message">Le applicazioni aggiunte a questa lista non potranno connettersi alla rete Wi-Fi, alla rete dati cellulare o GPS e potrebbero non funzionare correttamente.</string>
     <string name="alter_message_abandon_title">Annullare le modifiche?</string>
     <string name="power_configure_screen_brightness_enable">Imposta luminosità schermo</string>
     <string name="power_dialog_event_trigger_title">Evento</string>
@@ -94,8 +94,8 @@
     <string name="power_config_data_connect_summary">Consenti alle applicazioni di connettersi alla rete in background</string>
     <string name="power_config_alarm_sync_title">Attivazione sveglia</string>
     <string name="power_config_alarm_sync_summary">"Consenti all'applicazione di attivare le sveglie in background"</string>
-    <string name="power_config_location_title">Accesso alla posizione</string>
-    <string name="power_config_location_summary">"Consenti all'applicazione di rilevare la posizione del dispositivo"</string>
+    <string name="power_config_location_title">Accesso alla posizione GPS</string>
+    <string name="power_config_location_summary">"Consenti all'applicazione di rilevare la posizione GPS del dispositivo"</string>
     <string name="power_config_idle_notification_title">Mostra solo la prima notifica</string>
     <string name="power_config_idle_notification_summary">Mostra solo la prima notifica delle applicazioni</string>
     <string name="power_config_keyguard_notification_title">Notifiche lockscreen</string>
@@ -110,7 +110,7 @@
     <string name="add_user_define_group_failed">Impossibile aggiungere il profilo</string>
     <string name="mode_settings">Impostazioni</string>
     <string name="power_hide_mode_title">Gestisci utilizzo batteria delle app</string>
-    <string name="power_hide_mode_summary">Risparmia la batteria effettuando delle restrizioni sulle singole app, processi in background , connessioni Wi-Fi e dati mobili, e GPS</string>
+    <string name="power_hide_mode_summary">Risparmia la batteria effettuando delle restrizioni sulle singole app, processi in background, connessioni Wi-Fi e dati cellulare e GPS</string>
     <string name="low_power_auto_title">Restrizioni app quando la batteria è scarica</string>
     <string name="app_list_title">Scegli applicazioni</string>
     <string name="power_hide_mode_app_list_summary">Impostazioni app</string>
@@ -134,7 +134,7 @@
     <string name="location_enable_description">Le applicazioni possono utilizzare il rilevamento della posizione in background</string>
     <string name="location_disable_description">Rilevata applicazione che utilizza dati sulla posizione in background, rilevamento posizione bloccata</string>
     <string name="power_config_apps">Risparmio batteria in background</string>
-    <string name="power_config_mode_title">Livello controllo batteria in background </string>
+    <string name="power_config_mode_title">Livello controllo batteria in background</string>
     <string name="power_config_disable_title">Disattivato</string>
     <string name="power_config_disable_description">MIUI non limita la funzionalità della app in background</string>
     <string name="power_config_normal_title">Normale</string>
