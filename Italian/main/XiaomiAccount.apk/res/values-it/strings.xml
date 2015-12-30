@@ -130,7 +130,7 @@ Per attivare il tuo account, segui il
     <string name="passport_notification_title">Errore di accesso per %1$s</string>
     <string name="passport_sim_index_info">SIM %1$d - %2$s</string>
     <string name="passport_choose_which_one_sim">Scegli un numero telefonico</string>
-    <string name="passport_send_too_many_code">Sono stati inviati troppi codici di verifica a questo numero. Attendi 24 ore e prova di nuovo.</string>
+    <string name="passport_send_too_many_code">Sono stati inviati troppi codici di verifica a questo numero. Attendi 24 ore e riprova.</string>
     <string name="passport_register_restricted_title">Impossibile utilizzare questo numero</string>
     <string name="passport_register_restricted">Sono stati associati troppi account a questo numero, provane uno diverso</string>
     <string name="passport_change_phone_number">Cambia numero</string>
@@ -256,13 +256,13 @@ Per attivare il tuo account, segui il
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro Account Mi.</string>
     <string name="input_email_address_notice">Useremo questa mail per verificare il tuo account</string>
     <string name="send_email_activate_message">Email di verifica inviata</string>
-    <string name="activate_email_notice">Assicurati di attivar eil tuo account entro 24 ore</string>
+    <string name="activate_email_notice">Assicurati di attivare il tuo account entro 24 ore</string>
     <string name="change_activate_email">Cambia indirizzo email</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="confirm_activate_email">Verificato</string>
     <string name="resend_email_success">Email inviata di nuovo</string>
     <string name="resend_email_reach_limit_title">Impossibile inviare email</string>
-    <string name="resend_email_reach_limit_message">Hai richiesto tropep email di verifica. Assicurati che la mail di verifica nonsia nella cartella Spam.</string>
+    <string name="resend_email_reach_limit_message">Hai richiesto troppe email di verifica. Assicurati che la mail di verifica non sia nella cartella Spam.</string>
     <string name="mili_center">Mi Credit</string>
     <string name="mipay_center">Mi Wallet</string>
     <string name="mi_pass">Mi Pass</string>

@@ -31,7 +31,7 @@
     <string name="title_select_shortcut">Seleziona collegamento</string>
     <string name="title_select_live_folder">Seleziona cartella</string>
     <string name="app_being_backup_message">App in fase di backup.</string>
-    <string name="app_being_restored_message">"L?app è stata ripristinata"</string>
+    <string name="app_being_restored_message">"L'app è stata ripristinata"</string>
     <string name="menu_add">Aggiungi</string>
     <string name="menu_wallpaper">Sfondo</string>
     <string name="menu_search">Cerca</string>
@@ -176,8 +176,8 @@
     <string name="select_photo">Foto</string>
     <string name="select_frame">Cornice</string>
     <string name="photo_confirm">Conferma</string>
-    <string name="photo_load_failed">Impossibile caricare foto!</string>
-    <string name="frame_load_failed">Impossibile caricare il widget Cornice!</string>
+    <string name="photo_load_failed">Impossibile caricare foto.</string>
+    <string name="frame_load_failed">Impossibile caricare il widget Cornice.</string>
     <string name="gadget_weather_loading">Nessun dato meteo</string>
     <string name="gadget_weather_title">Meteo</string>
     <string name="gadget_weather_title_24">Meteo</string>

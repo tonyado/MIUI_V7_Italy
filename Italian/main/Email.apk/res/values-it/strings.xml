@@ -184,13 +184,13 @@
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Allegati</string>
     <string name="authority_email_provider">com.android.email.provider</string>
-    <string name="auto_advance_help_title">"Dopo l'eliminazione di un messaggio mostra..."</string>
+    <string name="auto_advance_help_title">"Dopo l'eliminazione di un messaggio mostra…"</string>
     <string name="auto_advance_label">Avanzamento automatico</string>
     <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
-    <string name="auto_sync_off">Sincro. automatica disattivata.</string>
+    <string name="auto_sync_off">Sincron. automatica disattivata.</string>
     <string name="bcc">Ccn</string>
     <string name="bcc_heading">"Ccn: "</string>
-    <string name="blank_feedback_toast">Il feedback è vuoto, inserire un feedback!</string>
+    <string name="blank_feedback_toast">Il feedback è vuoto, inserisci un feedback.</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Scrivi email</string>
     <string name="body_inline_pic_text">[Picture]</string>
@@ -224,8 +224,8 @@
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
-    <string name="compose_attachment_number_limit">Non puoi inserire più di 10 allegati!</string>
-    <string name="compose_picturesexceedlimits">Non puoi inserire più di 5 immagini!</string>
+    <string name="compose_attachment_number_limit">Non puoi inserire più di 10 allegati</string>
+    <string name="compose_picturesexceedlimits">Non puoi inserire più di 5 immagini</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">Conferma</string>
@@ -423,7 +423,7 @@
     <string name="login_failed_title">Accesso non riuscito</string>
     <string name="long_press_to_select_tip">Tieni premuto per selezionare una conversazione, quindi tocca per sceglierne altre.</string>
     <string name="mail">Email</string>
-    <string name="mail_body_turncated">Email troppo grande per essere caricata, ne verrà visualizzata una parte e potrai leggerla per intero da PC più tardi</string>
+    <string name="mail_body_turncated">Email troppo grande per essere caricata, ne verrà visualizzata una parte e potrai leggerla per intero dal PC più tardi</string>
     <string name="mail_header_network_not_available">Non hai una connessione di rete.</string>
     <string name="mailbox_list_account_selector_combined_view">Visualizzazione combinata</string>
     <string name="mailbox_name_display_drafts">Bozze</string>
@@ -486,7 +486,7 @@
     <string name="message_invite_tentative">Forse</string>
     <string name="message_invite_title">Invito calendario</string>
     <string name="message_saved">Messaggio salvato come bozza.</string>
-    <string name="message_view_attachment_background_load">"Nota. Prima dell'invio verranno scaricati uno o più allegati del messaggio inoltrato."</string>
+    <string name="message_view_attachment_background_load">"Prima dell'invio verranno scaricati uno o più allegati del messaggio inoltrato."</string>
     <string name="mibill_privacy_policy_button1">Non adesso</string>
     <string name="mibill_privacy_policy_button2">OK</string>
     <string name="mibill_privacy_policy_description">Mi Wallet analizzerà il contenuto delle tue email e recupererà tutti i documenti relativi alle carte di credito. Questo servizio è disattivato di default per gli account aziendali.</string>
@@ -511,7 +511,7 @@
     <string name="no_content_in_body">[No Body]</string>
     <string name="no_conversations">Nessun messaggio.</string>
     <string name="no_mails">Nessuna mail</string>
-    <string name="no_matched_attachment">Nessun allegato corrispondente!</string>
+    <string name="no_matched_attachment">Nessun allegato corrispondente.</string>
     <string name="not_subject">(Nessun oggetto)</string>
     <string name="not_synced_title">Account non sincronizzato</string>
     <string name="notification_action_archive">Archivia</string>
@@ -533,12 +533,12 @@
     <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
     <string name="outbox_alert_description_auth_error">Errore di autorizzazione sincronizzazione della posta in arrivo</string>
     <string name="outbox_alert_description_cannot_authenticate">%s Errore sistema mail</string>
-    <string name="outbox_alert_description_email_size_error">"E' stato raggiunta la dimensione massima per le Email."</string>
+    <string name="outbox_alert_description_email_size_error">"È stata raggiunta la dimensione massima per le Email."</string>
     <string name="outbox_alert_description_fail_authentication">Username o password sbagliata.</string>
-    <string name="outbox_alert_description_fail_network">Non è stato possibilecollegarsi alla rete.</string>
+    <string name="outbox_alert_description_fail_network">Non è stato possibile collegarsi alla rete.</string>
     <string name="outbox_alert_description_http_error">Errore HTTP nella sincronizzazione della posta in arrivo</string>
     <string name="outbox_alert_description_insufficient_storage_error">Spazio insufficiente nel server mail</string>
-    <string name="outbox_alert_description_provision_error">Erore durante la sincronizzazione della posta in uscita</string>
+    <string name="outbox_alert_description_provision_error">Errore durante la sincronizzazione della posta in uscita</string>
     <string name="outbox_alert_description_reject_by_server">Rifiutata da %s</string>
     <string name="outbox_alert_description_sent_failed">"Le dimensioni dell'allegato superano quelle massime del destinatario"</string>
     <string name="outbox_alert_duplicate_click">Non toccare di nuovo, mail in sincronizzazione</string>
@@ -551,11 +551,11 @@
     <string name="outbox_no_mails">Nessuna mail in uscita</string>
     <string name="parase_setup_data">Recupero dati di configurazione…</string>
     <string name="password_expire_warning_content_title">Password blocco schermo in scadenza</string>
-    <string name="password_expire_warning_dialog_content_fmt">Devi modificare il PIN o la password di blocco dello schermo a breve altrimenti i dati relativi a %s verranno cancellati. Apportare la modifica ora?</string>
+    <string name="password_expire_warning_dialog_content_fmt">Devi modificare il PIN o la password di blocco dello schermo a breve altrimenti i dati relativi a %s verranno cancellati. Continuare?</string>
     <string name="password_expire_warning_dialog_title">Password blocco schermo in scadenza</string>
     <string name="password_expire_warning_ticker_fmt">\"%s\" richiede la modifica del PIN o della password di blocco dello schermo.</string>
     <string name="password_expired_content_title">Password blocco schermo scaduta</string>
-    <string name="password_expired_dialog_content_fmt">I dati relativi a %s stanno per essere cancellati dal dispositivo. È possibile ripristinarli modificando il PIN o la password di blocco dello schermo. Apportare la modifica ora?</string>
+    <string name="password_expired_dialog_content_fmt">I dati relativi a %s stanno per essere cancellati dal dispositivo. È possibile ripristinarli modificando il PIN o la password di blocco dello schermo. Continuare?</string>
     <string name="password_expired_dialog_title">Password blocco schermo scaduta</string>
     <string name="password_expired_ticker">Il PIN o la password di blocco dello schermo sono scaduti.</string>
     <string name="perference_change_pw_notnull_tips">La password non può essere vuota</string>
@@ -698,7 +698,7 @@
     <string name="security_notification_content_change_title">Regole di sicurezza modificate</string>
     <string name="security_notification_content_unsupported_title">Non si verificano i presupposti di sicurezza</string>
     <string name="security_notification_content_update_title">Si richiede un aggiornamento di sicurezza</string>
-    <string name="security_unsupported_ticker_fmt">"L'account \"%s\" non può essere sincronizzato a causa."</string>
+    <string name="security_unsupported_ticker_fmt">"L'account \"%s\" non può essere sincronizzato."</string>
     <string name="select_attachment_type">Scegli tipo di allegato</string>
     <string name="select_no_file">Nessun allegato selezionato per la condivisione.</string>
     <string name="send">Invia</string>
@@ -710,7 +710,7 @@
     <string name="sending_message">Invio messaggio…</string>
     <string name="sent_folder_selection_title">Selez. cartella Posta inviata server %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Impossibile validare il certificato del server
-\u0009 (Controlla se è impostato 'Orario si sincronizzazione automatica')"</string>
+\u0009 (Controlla se è impostato 'Orario di sincronizzazione automatica')"</string>
     <string name="ser_resp_err_map_nouser">Nessun utente</string>
     <string name="ser_resp_err_map_or">Oppure</string>
     <string name="ser_resp_err_map_pserr">Nome utente o password non corre</string>
@@ -790,8 +790,8 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_other_views">Altro</string>
-    <string name="wrong_password">Password errata!</string>
+    <string name="wrong_password">Password errata</string>
     <string name="yes">Sì</string>
     <string name="you_are_in_mobile_network">Stai usando la rete dati cellulare</string>
-    <string name="zip_viewer_no_file">Nessun file!</string>
+    <string name="zip_viewer_no_file">Nessun file</string>
 </resources>
