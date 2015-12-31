@@ -10,7 +10,7 @@
     <string name="find_device_error_password_changed">La password account è stata cambiata recentemente.</string>
     <string name="find_device_error_network">Cerca la tua connessione e riprova.</string>
     <string name="find_device_error_server">Errore del server</string>
-    <string name="find_device_error_account_sys_timeout">Impossibile collegarsi all'Account Mi"</string>
+    <string name="find_device_error_account_sys_timeout">"Impossibile collegarsi all'Account Mi"</string>
     <string name="find_device_stop_noise">Tocca OK per silenziare</string>
     <string name="find_device_noise_title">Suono di localizzazione dispositivo</string>
     <string name="find_device_success_title">Trova dispositivo</string>
