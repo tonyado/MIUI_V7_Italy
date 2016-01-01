@@ -547,7 +547,7 @@
     <string name="summary_live_talk_purchase">Solo ¥ 0.05 al minuto per chiamate nazionali.</string>
     <string name="toast_network_switch">Questa applicazione può collegarsi ad internet</string>
     <string name="toast_flow_notification">Notifiche utilizzo dati attivate</string>
-    <string name="toast_show_notification">Inserto nel pannello di notifica</string>
+    <string name="toast_show_notification">Mostra nel pannello di notifica</string>
     <string name="toast_virus_cloudscan">La scansione virus utilizzerà il database online</string>
     <string name="toast_cleaner_cloudscan">Lo Strumento di pulizia utilizzerà il database online</string>
     <string name="toast_garbage_lib">Aggiornamenti automatici attivati per lo Strumento di pulizia</string>
