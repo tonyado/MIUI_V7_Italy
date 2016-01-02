@@ -51,9 +51,8 @@ Ricarica ed inizia a parlare."</string>
     <string name="setting_activate_domestic_title">Ricarica (chiamate nazionali)</string>
     <string name="setting_activate_international_title">TRicarica (chiamate internazionali)</string>
     <string name="livetalk_introduction_text">Chiamate internazionali a basso costo</string>
-    <string name="livetalk_about">Informazioni</string>
-    <string name="livetalk_about_info">Ricarica pacchetto</string>
-    <string name="livetalk_version">Versione 0.9 | Beta</string>
+    <string name="livetalk_common_problem">FAQ</string>
+    <string name="livetalk_provision_title">Provision</string>
     <string name="livetalk_before_provision">Ho letto e accetto</string>
     <string name="livetalk_provision">Termini del servizio</string>
     <string name="livetalk_experience_button">Prova adesso</string>
@@ -108,6 +107,8 @@ Ricarica ed inizia a parlare."</string>
     <string name="not_support_message">"Il pacchetto di ricarica non supporta questi numeri. Puoi provare ad effetuare una chiamata normale."</string>
     <string name="network_error_title">Errore di rete</string>
     <string name="network_error_message_livetalk">Prova ad effetuare una chiamata normale. Verrà addebitata in base ai costi previsti dal tuo operatore.</string>
+    <string name="network_unconnected_title">Errore di rete</string>
+    <string name="network_unconnected_message_livetalk">Errore di rete, prova ad effettuare una chiamata normale. I costi dipendono dal piano tariffario del tuo operatore.</string>
     <string name="title_purchase">Ricarica</string>
     <string name="chose_product_title">Pacchetto di ricarica</string>
     <string name="chose_product_summary">Chiama a costo minore</string>
@@ -124,7 +125,6 @@ Ricarica ed inizia a parlare."</string>
     <string name="title_country">Paese</string>
     <string name="title_rates">Tariffe</string>
     <string name="title_duration">Durata</string>
-    <string name="provision_title">Connessione internet</string>
     <string name="use_history">Attività</string>
     <string name="no_more">No</string>
     <string name="get_use_history_failed">Impossibile recuperare cronologia</string>
@@ -836,7 +836,7 @@ Potrebbero essere necessari fino a 5 minuti."</string>
     <string name="ota_skip_activation_dialog_title">"Saltare l'attivazione?"</string>
     <string name="ota_skip_activation_dialog_message">"Se salti l'attivazione, non potrai effettuare chiamate o connetterti alla rete dati mobile (ma potrai connetterti via Wi-Fi). Finché non attivi il tuo telefono, ti verrà richiesto di attivarlo ogni volta che lo accendi."</string>
     <string name="ota_skip_activation_dialog_skip_label">Salta</string>
-    <string name="ota_activate">Attivato</string>
+    <string name="ota_activate">Attiva</string>
     <string name="ota_title_activate_success">Il telefono è attivato.</string>
     <string name="ota_title_problem_with_activation">"Problema con l'attivazione"</string>
     <string name="ota_listen">"Segui le istruzioni vocali finché non senti che l'attivazione è stata completata."</string>
@@ -963,6 +963,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="name_hint_text">Nome.</string>
     <string name="phone_number_hint_text">Numero di telefono.</string>
     <string name="back">Indietro</string>
+    <string name="sim_card_num">SIM %s</string>
     <string name="always_enable_mms">Ricevi sempre gli MMS</string>
     <string name="always_enable_mms_summary">Ricevi MMS anche quando la connessione dati è disattivata</string>
     <string name="networks_title">Operatori di rete</string>

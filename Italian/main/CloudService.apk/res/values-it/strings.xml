@@ -36,7 +36,7 @@
     <string name="bad_authentication">Nome utente o password non validi</string>
     <string name="header_data_and_synchronization">Dati e sincronizzazione</string>
     <string name="header_cloud_backup_settings">Backup e ripristino</string>
-    <string name="header_other_settings">Altro</string>
+    <string name="header_find_device_settings">Trova telefono</string>
     <string name="title_reg">Crea un account</string>
     <string name="unactivated_user">Disattivato</string>
     <string name="error_network">Impossibile connettersi alla rete</string>
@@ -233,6 +233,8 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per liberare spazio
     <string name="micloud_main_suggest_setting">"In attesa di connessione Wi-Fi per sincronizzare.
 Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_sync_pending">In attesa di sincronizzazione</string>
+    <string name="micloud_main_title_not_synced">Non sincronizzato</string>
+    <string name="micloud_main_message_not_synced">%s dati non sincronizzati</string>
     <string name="micloud_main_data_unsynced">%d non sincronizzato</string>
     <string name="micloud_main_detail">Mostra dettagli</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
@@ -403,6 +405,14 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_upgrade_member">Ottieni spazio aggiuntivo</string>
     <string name="micloud_notif_title_depend_wifi">%d in attesa di sincronizzazione</string>
     <string name="micloud_notif_content_depend_wifi">Collegati ad una rete Wi-Fi per sincronizzare.</string>
+    <string name="micloud_notif_title_master_depend_wifi">Impossibile sincronizzare con Mi Cloud</string>
+    <string name="micloud_notif_content_master_depend_wifi">Collegati prima alla rete Wi-Fi</string>
+    <string name="micloud_notif_title_memory_low">Impossibile sincronizzare con Mi Cloud</string>
+    <string name="micloud_notif_content_memory_low">Spazio di archiviazione insufficiente</string>
+    <string name="micloud_notif_title_battery_low">Impossibile sincronizzare con Mi Cloud</string>
+    <string name="micloud_notif_content_battery_low">Livello batteria troppo basso.</string>
+    <string name="micloud_notif_title_sync_with_off">Sincronizza con Mi Cloud</string>
+    <string name="micloud_notif_content_sync_with_off">Tocca per sincronizzare adesso il dispositivo</string>
     <string name="micloud_find_device_guide_title">"Accedi a %s per localizzare, bloccare o formattare il tuo dispositivo."</string>
     <string name="micloud_find_device_guide_content">Quando cambi SIM, verrà inviato automaticamente un SMS per riattivare questa funzione.</string>
     <string name="micloud_find_device_guide_button">Attiva Trova Dispositivo</string>

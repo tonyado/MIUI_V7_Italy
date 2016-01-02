@@ -41,6 +41,8 @@
     <string name="voice_report_incoming_call">Chiamata</string>
     <string name="voice_report_unknown_num">Numero sconosciuto</string>
     <string name="incall_error_call_failed">Impossibile effettuare la chiamata</string>
-    <string name="dial_conference_fail_prompt">"Impossibile avviare l'audioconferenza, la rete non supporta la tecnologia VoLTE."</string>
     <string name="dial_vt_fail_prompt">La rete non supporta VoLTE. Effettuare una chiamata normale?</string>
+    <string name="dial_conference_fail_prompt">"Impossibile avviare l'audioconferenza, la rete non supporta la tecnologia VoLTE."</string>
+    <string name="voice_dial_out">Chiamata vocale</string>
+    <string name="notification_missedCall_call_back_miui">Chiama</string>
 </resources>
