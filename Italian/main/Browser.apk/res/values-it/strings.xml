@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="pull_to_refresh_pull_label">Trascina er aggiornare…</string>
+    <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
+    <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_action_bar_home_description">Vai alla home</string>
     <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -249,7 +252,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="allow">Consenti</string>
     <string name="block">Blocca</string>
     <string name="show_security_tip_dialog_title">Termini del Servizio</string>
-    <string name="show_check_security_url_check_tip_dialog_title">Sicurezza URL</string>
+    <string name="show_weather_location_getter_tip_dialog_description">I servizi Meteo hanno bisogno delle informazioni sulla tua posizione per fornire dati aggiornati nel browser. Puoi disattivarequesta funzione nelle Impostazioni.</string>
     <string name="show_check_security_url_check_tip_dialog_description">"L'indirizzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzione nelle Impostazioni."</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Connetti a questa rete</string>
