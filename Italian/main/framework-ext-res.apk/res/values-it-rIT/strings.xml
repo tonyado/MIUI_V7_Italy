@@ -18,7 +18,7 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_power_mode">Consumo</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
-    <string name="status_bar_toggle_quiet_mode">Anti-disturbo</string>
+    <string name="status_bar_toggle_quiet_mode">Non disturb.</string>
     <string name="status_bar_toggle_paper_mode">Mod. Lettura</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
@@ -50,8 +50,8 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="global_actions_reboot">Riavvia</string>
     <string name="global_actions_shutdown">Spegni</string>
     <string name="global_actions_silent_mode">Modalità silenziosa</string>
-    <string name="reboot_info_auto_boot">Il telefono si avvierà alle %s grazie alla pianificazione di avvio automatico</string>
-    <string name="reboot_info_shutdown_alarm">Il telefono si avvierà e suonerà alle %s</string>
+    <string name="reboot_info_auto_boot">Il dispositivo si avvierà alle %s grazie alla pianificazione di avvio automatico</string>
+    <string name="reboot_info_shutdown_alarm">Il dispositivo si avvierà e suonerà alle %s</string>
     <string name="key_btn_space">Spazio</string>
     <string name="key_btn_ok">OK</string>
     <string name="lockscreen_access_pattern_start">Sequenza avviata</string>
@@ -83,7 +83,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="permdesc_manageLocationPolicy">"Consenti all'applicazione di gestire le autorizzazioni sulla posizione e definisci regole specifiche per ogni app."</string>
     <string name="location_usage_restricted_title">Localizzazione in background limitata</string>
     <string name="location_usage_restricted_body">Tocca per rimuovere limitazioni.</string>
-    <string name="fc_dialog_body">"Inviare il bug report a Xiaomi per l'analisi? Questo rapporto potrebbe contenere informazioni di identificazione personale. Il tuo rapporto verrà utilizzato per aiutare la risoluzione di questo bug non verrà mai condiviso in nessun conteso commerciale."</string>
+    <string name="fc_dialog_body">"Inviare il bug report a Xiaomi per l'analisi? Questo rapporto potrebbe contenere informazioni di identificazione personale. Il tuo rapporto verrà utilizzato per aiutare la risoluzione di questo problema."</string>
     <string name="fc_dialog_jump_to_preview">Mostra il riassunto</string>
     <string name="livetalk_not_enable">Pacchetto ricarica disattivato</string>
     <string name="internal_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali</string>

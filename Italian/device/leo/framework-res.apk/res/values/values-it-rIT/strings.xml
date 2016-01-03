@@ -86,7 +86,7 @@
     <string name="CnipMmi">Numero chiamante presente</string>
     <string name="CnirMmi">Numero chiamante con restrizioni</string>
     <string name="ThreeWCMmi">Chiamata a tre</string>
-    <string name="RuacMmi">Rifiuto di chiamate fastidiose non desiderate</string>
+    <string name="RuacMmi">Rifiuto di chiamate indesiderate</string>
     <string name="CndMmi">Recapito numero chiamante</string>
     <string name="DndMmi">Non disturbare</string>
     <string name="CLIRDefaultOnNextCallOn">ID chiamante generalmente limitato. Prossima chiamata: limitato</string>
@@ -151,7 +151,7 @@
     <string name="contentServiceSync">Sinc</string>
     <string name="contentServiceSyncNotificationTitle">Sincronizzazione</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Troppe eliminazioni di %s.</string>
-    <string name="low_memory">Spazio di archiviazione del telefono esaurito. Elimina alcuni file per liberare spazio.</string>
+    <string name="low_memory">Spazio di archiviazione del dispositivo esaurito. Elimina alcuni file per liberare spazio.</string>
     <string name="me">Io</string>
     <string name="power_dialog">Opzioni telefono</string>
     <string name="silent_mode">Modalità silenziosa</string>
@@ -164,11 +164,11 @@
     <string name="silent_mode_ring">Suoneria</string>
     <string name="shutdown_progress">Spegnimento…</string>
     <string name="shutdown_confirm">Il dispositivo verrà spento.</string>
-    <string name="shutdown_confirm_question">Spegnere?</string>
+    <string name="shutdown_confirm_question">Continuare?</string>
     <string name="reboot_safemode_title">Riavvia in safe mode</string>
     <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
     <string name="recent_tasks_title">Recenti</string>
-    <string name="no_recent_tasks">Nessuna applicazione recente.</string>
+    <string name="no_recent_tasks">Nessuna applicazione in esecuzione.</string>
     <string name="global_actions">Opzioni telefono</string>
     <string name="global_action_lock">Blocco schermo</string>
     <string name="global_action_power_off">Spegni</string>
@@ -183,11 +183,11 @@
     <string name="permgrouplab_costMoney">Servizi a pagamento</string>
     <string name="permgroupdesc_costMoney">Consente alle applicazioni di svolgere operazioni a pagamento.</string>
     <string name="permgrouplab_messages">I tuoi messaggi</string>
-    <string name="permgroupdesc_messages">Leggere e scrivere SMS, email e altri messaggi.</string>
+    <string name="permgroupdesc_messages">Leggere e scrivere SMS, email ed altri messaggi.</string>
     <string name="permgrouplab_personalInfo">Informazioni personali</string>
     <string name="permgroupdesc_personalInfo">Accedere direttamente ai contatti e al calendario memorizzati sul telefono.</string>
     <string name="permgrouplab_location">La tua posizione</string>
-    <string name="permgroupdesc_location">"Monitorare la posizione fisica dell'utente"</string>
+    <string name="permgroupdesc_location">"Monitorare la posizione GPS dell'utente"</string>
     <string name="permgrouplab_network">Comunicazione di rete</string>
     <string name="permgroupdesc_network">Consente alle applicazioni di accedere alla rete.</string>
     <string name="permgrouplab_accounts">I tuoi account</string>
