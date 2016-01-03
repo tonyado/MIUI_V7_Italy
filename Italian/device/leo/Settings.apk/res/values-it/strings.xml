@@ -2728,9 +2728,9 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="dndm_notification">Modalità Non disturbare abilitata.</string>
     <string name="dndm_open">Non disturbare</string>
     <string name="dndm_summary">"Quando l'opzione \"Non disturbare\" è attiva, le chiamate e gli avvisi ricevuti mentre il dispositivo è in standby saranno in modalità silenziosa."</string>
-    <string name="dndm_auto_setting_group">Programmato</string>
-    <string name="dndm_auto_button_title">Ora</string>
-    <string name="dndm_auto_time_setting">Ore di silenzio</string>
+    <string name="dndm_auto_setting_group">Programmazione</string>
+    <string name="dndm_auto_button_title">Programmato</string>
+    <string name="dndm_auto_time_setting">Fascia oraria</string>
     <string name="dndm_auto_time_setting_summary">Dalle %1$s alle %2$s</string>
     <string name="dndm_auto_time_turn_on">Dalle</string>
     <string name="dndm_auto_time_turn_on_title">Attiva Non disturbare automaticamente</string>
@@ -2786,6 +2786,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="search_bluetooth">Bluetooth</string>
     <string name="search_android_beam">Beam</string>
     <string name="search_vpn">VPN</string>
+    <string name="search_virtual_sim">SIM virtuale</string>
     <string name="search_tether">Hotspot</string>
     <string name="search_brightness">Luminosità</string>
     <string name="search_wallpaper">Sfondo</string>
@@ -2820,7 +2821,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="device_cpu4_info">Quad-core</string>
     <string name="max_cpu6_info">Hexa-core Max</string>
     <string name="device_cpu8_info">Octa-core</string>
-    <string name="max_cpu8_info">"Octa-core Max "</string>
+    <string name="max_cpu8_info">"Snapdragon 810 "</string>
     <string name="available_size">%s disponibile</string>
     <string name="total_size">%s totale</string>
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
@@ -2897,16 +2898,16 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="back_key">Indietro</string>
     <string name="screen_key_long_press_timeout">Definisci la durata della pressione lunga</string>
     <string name="under_keyguard">Schermata di blocco</string>
-    <string name="enable_snapshot_screenlock">Premi a lungo il pulsante Indietro per scattare una foto</string>
-    <string name="disable_power_key_long_press_under_keyguard">Disabilita menu di spegnimento</string>
+    <string name="enable_snapshot_screenlock">Tieni premuto Indietro per scattare una foto</string>
+    <string name="disable_power_key_long_press_under_keyguard">Disabilita menu pulsante accensione</string>
     <string name="trackball_wake_title">Attivazione con trackball</string>
     <string name="pref_volume_wake_title">Risveglio con i tasti del volume</string>
     <string name="pref_volume_wake_summary">Premendo i tasti del volume il dispositivo viene risvegliato</string>
     <string name="media_button">Tasto media</string>
     <string name="preferred_media_app_summary">Scegli lettore musicale</string>
     <string name="no_media_button_receiver">No</string>
-    <string name="camera_key_action_title">MI Button</string>
-    <string name="camera_key_action_setting_title">MI Button</string>
+    <string name="camera_key_action_title">Mi Button</string>
+    <string name="camera_key_action_setting_title">Mi Button</string>
     <string name="camera_key_action_category_title">"L'uso della fotocamera non è permesso"</string>
     <string name="camera_key_action_none_title">Nessuna azione</string>
     <string name="camera_key_action_shortcut_title">Scorciatoia</string>
@@ -2932,7 +2933,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
     <string name="lock_settings">Lockscreen</string>
-    <string name="unlock_set_unlock_summary">Prego impostare un blocco schermo</string>
+    <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
     <string name="lock_settings_picker_settings">Imposta blocco schermo</string>
     <string name="lock_screen_unlock_show">Disabilita swipe screen</string>
     <string name="lock_screen_unlock_show_summary">"Vai direttamente alla schermata Home o all'immissione password dopo lo sblocco"</string>
@@ -2967,8 +2968,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="pref_button_light">Luce tasti</string>
     <string name="pref_button_light_summary">Retroilluminazione tasti Menu, Home e Indietro</string>
     <string name="button_light_timeout">Retroilluminazione tasti</string>
-    <string name="sim_change_failed_enable_sim_lock">Abilita blocco SIM per cambiare il PIN</string>
-    <string name="sim_lock_change_not_supported">Impossibile cambiare il blocco SIM.La SIM non lo supporta.</string>
+    <string name="sim_change_failed_enable_sim_lock">Abilita blocco SIM per modificare il PIN</string>
+    <string name="sim_lock_change_not_supported">Impossibile modificare il blocco SIM. La SIM non lo supporta.</string>
     <string name="apn_new">"Nuovo punto d'accesso"</string>
     <string name="apn_save">Salvare?</string>
     <string name="apn_save_msg">Salvare i cambiamenti degli APN?</string>
@@ -3026,6 +3027,16 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="frequently_fragment_delete">Rimuovi</string>
     <string name="show_fc">App chiuse forzatamente</string>
     <string name="show_fc_summary">Mostra app chiuse forzatamente</string>
+    <string name="shuting_down_find_device">Disattivazione Trova dispositivo…</string>
+    <string name="checking_find_device_status">Verifica stato Trova dispositivo…</string>
+    <string name="failed_to_check_find_device_status_title">Impossibile verificare lo stato di Trova dispositivo</string>
+    <string name="failed_to_check_find_device_status_content">Impossibile verificare lo stato di Trova dispositivo, riprova più tardi.</string>
+    <string name="failed_to_shut_down_find_device_title">Impossibile disattivare Trova dispositivo</string>
+    <string name="failed_to_shut_down_find_device_content">Impossibile disattivare Trova dispositivo. Riprova più tardi.</string>
+    <string name="shut_down_find_device_network_failure_title">Impossibile connettersi alla rete</string>
+    <string name="shut_down_find_device_network_failure_content">Impossibile disattivare Trova dispositivo. Accertati che il dispositivo sia connesso ad internet.</string>
+    <string name="check_find_device_status_failure_confirm">OK</string>
+    <string name="shut_down_find_device_failure_confirm">OK</string>
     <string name="factory_reset_summary">Elimina tutti i dati dalla memoria interna del tuo dispositivo</string>
     <string name="erase_sure">Dati personali</string>
     <string name="erase_personal_data">Dati personali</string>
@@ -3119,6 +3130,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="virtual_sim_category_title">SIM virtuale</string>
     <string name="virtual_sim_title">Rete dati roaming</string>
     <string name="virtual_sim_description">Servizio di roaming internazionale affidabile</string>
+    <string name="virtual_sim_search_title">SIM virtuale</string>
     <string name="power_mode">Impostazioni alimentazione</string>
     <string name="high_performance_title">Sembra che stai eseguendo un test di benchmark. Imposta la modalità \"Alte Prestazioni\" per avere risultati migliori.</string>
     <string name="high_performance_notif_title">Avviso utilizzo della batteria</string>
@@ -3131,7 +3143,7 @@ Seleziona il sistema operativo del tuo computer:"</string>
     <string name="msd_install_next">Avanti</string>
     <string name="msd_install">Reinstallare il driver?</string>
     <string name="msd_install_finish">OK</string>
-    <string name="msd_pc_system_install_summary_xp">1. Eseguire il setup per installare</string>
+    <string name="msd_pc_system_install_summary_xp">1. Esegui il setup per installare</string>
     <string name="msd_pc_system_install_finish_summary_xp">"Dopo aver installato questo driver
 %1$s apparirà come memoria di massa USB quando connesso ad un computer."</string>
     <string name="msd_pc_system_install_finish_summary_vista">"Per Windows Vista e versioni più recenti di Windows,
@@ -3284,16 +3296,16 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_priority_label">Priorità</string>
     <string name="wifi_available_title">Connetti al Wi-Fi</string>
     <string name="msg_wlan_signal_found">"È disponibile punto d'accesso Wi-Fi %s, connettersi ora?"</string>
-    <string name="wifi_signal_found_msg">"Un punto d'acceso Wi-Fi è disponibile, connettersi ora?"</string>
+    <string name="wifi_signal_found_msg">"Punto d'accesso Wi-Fi disponibile, connettersi ora?"</string>
     <string name="miui_data_usage_menu_metered">Hotspot mobile</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi scegli il contenuto che vuoi inviare.</string>
     <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
     <string name="bt_trace_log_summary">Abilita trace log del Bluetooth</string>
-    <string name="bluetooth_ask_enablement_detected">" vuole attivare il Bluetooth."</string>
-    <string name="bluetooth_ask_enablement_and_discovery_detected">" vuole attivare il Bluetooth e rendere il tuo Mi Note Pro visibile ad altri dispositivi per %1$d secondi."</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" vuole attivare il Bluetooth e rendere il tuo Mi Note Pro visibile ad altri dispositivi. Puoi modificare nelle impostazioni Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_detected">" desidera attivare il Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_discovery_detected">" desidera attivare il Bluetooth e rendere il tuo Mi Note Pro visibile ad altri dispositivi per %1$d secondi."</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" desidera attivare il Bluetooth e rendere il tuo Mi Note Pro visibile ad altri dispositivi. Puoi modificare nelle impostazioni Bluetooth."</string>
     <string name="wifi_share">Condivisione Wi-Fi</string>
     <string name="wifi_share_turn_on">Attivato</string>
     <string name="wifi_share_turn_off">Disattivato</string>
@@ -3372,6 +3384,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="free_wifi_summary">Wi-Fi libero, offerto in parte da %1$s</string>
     <string name="free_wifi_connect_title">Wi-Fi disponibile</string>
     <string name="free_wifi_connect_summary">Questa connessione Wi-Fi libero è in parte offerta da %1$s. Tocca per connetterti.</string>
+    <string name="free_xiaomi_wifi_connect_summary">Tocca per collegarti a %1$s.</string>
     <string name="free_wifi_manage_summary">Tocca per vedere %1$s.</string>
     <string name="free_wifi_connect_dialog_title">Wi-Fi libero disponibile</string>
     <string name="free_wifi_connect_dialog_summary">Questo Wi-Fi libero %1$s è in parte offerto da %2$s.</string>
@@ -3380,7 +3393,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="free_wifi_connecting">Connessione in corso…</string>
     <string name="free_wifi_connected">Connesso ad un Wi-Fi libero</string>
     <string name="free_wifi_connect_fail">Impossibile collegarsi alla rete</string>
-    <string name="free_wifi_connect_fail2">Impossibile accedere. Attendi un minuto o due e riprova.</string>
+    <string name="free_wifi_connect_fail2">Impossibile accedere. Riprova più tardi.</string>
     <string name="free_wifi_login_again">Accedi nuovamente</string>
     <string name="free_wifi_connected_count">%1$s utenti connessi</string>
     <string name="free_wifi_speed_title">Connessione lenta?</string>
@@ -3392,7 +3405,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="xiaomi_router_available_notif_title">Un router Xiaomi è disponibile</string>
     <string name="xiaomi_router_available_notif_summary">Tocca per visualizzare</string>
     <string name="restrict_background_data_title">Limita dati in background</string>
-    <string name="restrict_background_data_dialog_summary">Le app in esecuzione in background non possono ricevere messaggi</string>
+    <string name="restrict_background_data_dialog_summary">Le app in background non possono ricevere messaggi</string>
     <string name="restrict_background_data_notification_summary">Le app non possono connettersi alla rete se i dati in background sono limitati</string>
     <string name="accessibility_screen_magnification_enable">"Gesti per l'ingrandimento"</string>
     <string name="miui_screensaver_state_on">Attivato</string>
@@ -3552,7 +3565,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="location_agps_register_network_type">Tipo di accesso di rete</string>
     <string name="location_agps_register_network_type_dialog_summary">Scegli una rete</string>
     <string name="location_agps_register_network_type_dialog_title">Seleziona rete</string>
-    <string name="location_agps_roaming_help">"Selezionando tutte le reti potresti incrementare l'utilizzo di dati in roaming. Se superi le soglie previste dal tuo piano tariffario potresti incorrere in costi aggiuntivi."</string>
+    <string name="location_agps_roaming_help">"Selezionando tutte le reti potresti incrementare l'utilizzo di dati in roaming."</string>
     <string name="supl_not_set">Non impostato</string>
     <string name="location_agps_def_supl_host">221.176.0.55</string>
     <string name="location_agps_def_supl_port">7275</string>
@@ -3572,8 +3585,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="layout_size_huge_text">Molto grande</string>
     <string name="layout_size_exhuge_text">XXL</string>
     <string name="page_layout_confirm_title">Cambia impostazioni di visualizzazione</string>
-    <string name="page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche. Il tempo richiesto è di circa 1 minuto.</string>
-    <string name="provision_page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche. Il tempo richiesto è di circa 1 minuto.</string>
+    <string name="page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche.</string>
+    <string name="provision_page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche.</string>
     <string name="page_layout_1">Sun 28/12</string>
     <string name="page_layout_2">Fotocamera</string>
     <string name="page_layout_3">Galleria</string>
@@ -3653,8 +3666,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
     <string name="wifi_notify_cmcc_connected_title">Notifica rete CMCC</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostra notifica quando collegato alla rete CMCC</string>
-    <string name="wifi_switch_to_gsm_title">Use GSM?</string>
-    <string name="wifi_switch_to_gsm_message">Lost connection to WLAN. Use mobile data connection instead?</string>
+    <string name="wifi_switch_to_gsm_title">Usare rete GSM?</string>
+    <string name="wifi_switch_to_gsm_message">Connessione Wi-Fi persa. Vuoi utilizzare la connessione dati cellulare?</string>
     <string name="wifi_datanetwork_switch_not_remind">Non chiedere più</string>
     <string name="skip_lock_screen_confirm_msg">Le seguenti funzioni verranno disattivate per la lockscreen: notifiche, controllo musica, slide sinistro per la Fotocamera e slide destro per Mi Home.</string>
     <string name="performance_category">Prestazioni</string>
@@ -3713,11 +3726,11 @@ Disabilitare le finestre flottanti?"</string>
     <string name="add_fingerprint_instruction_title">Appoggia il dito sul lettore di impronte</string>
     <string name="add_fingerprint_instruction_msg">"Sblocca il dispositivo o verifica il pagamento con l'impronta digitale"</string>
     <string name="add_fingerprint_put_finger_title">Posiziona il dito</string>
-    <string name="add_fingerprint_put_finger_msg">Dopo la pressione del sensore, rimuovi il dito e riprova.</string>
-    <string name="add_fingerprint_put_finger_edge_msg">Dopo la pressione del sensore rimuovi il dito e ripeti.</string>
+    <string name="add_fingerprint_put_finger_msg">Dopo il tocco del sensore, solleva il dito e ripeti.</string>
+    <string name="add_fingerprint_put_finger_edge_msg">Dopo il tocco del sensore solleva il dito e ripeti.</string>
     <string name="add_fingerprint_move_finger_title">Solleva il dito</string>
-    <string name="add_fingerprint_done_title">Fatto!</string>
-   <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il tuo dispositivo con le impronte digitali.</string>
+    <string name="add_fingerprint_done_title">Finito.</string>
+    <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il tuo dispositivo con le impronte digitali.</string>
     <string name="information_dialog_button_text">Ho capito</string>
     <string name="max_fingerprint_number_reached">Non è possibile aggiungere più di 5 impronte digitali. Per aggiungere una nuova impronta, elimina prima qualcuna delle esistenti.</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">"Eliminare i dati sull'impronta?"</string>
@@ -3727,5 +3740,16 @@ Disabilitare le finestre flottanti?"</string>
     <string name="add_fingerprint_instruction_dialog_msg">"Per aggiungere la tua impronta digitale, appoggia il dito sul sensore.
 Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="add_fingerprint_toast_text">Appoggia il dito sul sensore adesso</string>
+    <string name="onekey_migrate">Trasferisci</string>
+    <string name="lock_settings_with_fingerprint">Lockscreen e password</string>
+    <string name="confirm_fingerprint_msg">Appoggia il dito sul lettore di impronte</string>
+    <string name="managed_profile_location_category">Profilo lavoro</string>
+    <string name="managed_profile_location_switch_title">Posizione per il profilo di lavoro</string>
+    <string name="managed_profile_location_switch_lockdown">Disattivato dalla tua azienda</string>
+    <string name="forget_password_button_text"><u>Password dimenticata</u></string>
+    <string name="print_enable">Attiva stampa</string>
+    <string name="print_remind">Prima attiva la stampa</string>
+    <string name="fp_nav_center_back_to_home_title">Tocca il tasto Home per tornare alla schermata Home</string>
+    <string name="convenience_key_category_title">Tasto di utilità</string>
     <string name="resolver_settings_label">Ordina</string>
 </resources>
