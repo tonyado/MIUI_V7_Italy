@@ -233,7 +233,7 @@
     <string name="privacy_app_desc_message">Account, password e messaggi</string>
     <string name="privacy_app_desc_setting">Account, password e impostazioni</string>
     <string name="privacy_app_desc_search">Account, password e cronologia di ricerca</string>
-    <string name="privacy_browser_desc">Elementi ricercati</string>
+    <string name="privacy_browser_desc">Cronologia elementi</string>
     <string name="title_delete_clipboard">Contenuti degli appunti</string>
     <string name="empty_content_no_privacy">Vuoto</string>
     <string name="hints_storage_clean_size">Liberati %s dalla memoria interna</string>
