@@ -4,6 +4,7 @@
     <string name="purchase">Acquista</string>
     <string name="purchase_list">Cronologia di acquisto</string>
     <string name="sim_card_activate">SIM attuale</string>
+    <string name="sim_card_summary_no_sim_card">Inserire SIM</string>
     <string name="feedback">Feedback</string>
     <string name="default_areacode">Prefisso predefinito</string>
     <string name="area_code_preference_summary">Componi automaticamente il prefisso internazionale</string>
@@ -15,6 +16,7 @@
     <string name="left_minutes">" min"</string>
     <string name="loading">Solo un secondo…</string>
     <string name="loading_product">Solo un secondo…</string>
+    <string name="loading_order">Solo un secondo…</string>
     <string name="get_product_list_failed">Impossibile caricare la lista</string>
     <string name="send_order_failed">Ordine non inviato</string>
     <string name="purchase_limit">Hai raggiunto il limite di ricarica</string>
@@ -832,6 +834,7 @@ There are %d remaining attempts."</string>
 Dopo aver premuto “Attiva”, ascolta le istruzioni fornite per attivare il tuo telefono."</string>
     <string name="ota_hfa_activation_title">Attivazione…</string>
     <string name="ota_hfa_activation_dialog_message">"Il telefono sta attivando il tuo servizio dati mobile.
+
 Potrebbero essere necessari fino a 5 minuti."</string>
     <string name="ota_skip_activation_dialog_title">"Saltare l'attivazione?"</string>
     <string name="ota_skip_activation_dialog_message">"Se salti l'attivazione, non potrai effettuare chiamate o connetterti alla rete dati mobile (ma potrai connetterti via Wi-Fi). Finché non attivi il tuo telefono, ti verrà richiesto di attivarlo ogni volta che lo accendi."</string>
@@ -1270,4 +1273,9 @@ La tua SIM sarà cancellata se fallisci un altro tentativo.</string>
     <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete VoLTE. Abilita la connessione dati cellulare.</string>
     <string name="volte_switch_title">VoLTE abilitato</string>
     <string name="volte_switch_summary">Abilita il VoLTE per migliorare la qualità audio e video in chiamata</string>
+    <string name="cdma_alert_title">La scheda UIM deve esere la predefinita</string>
+    <string name="cdma_alert_message">"Se selezioni un'altra scheda come predefinita per i dati su rete mobile, non potrai utilizzare la tua scheda UIM China Telecom UIM (ad esclusione del roaming)."</string>
+    <string name="config_default_data_sim">Impostazioni</string>
+    <string name="got_it">OK</string>
+    <string name="can_not_use_for_not_data_sim">"(Impossibile utilizzare: deve essere impostata come SIM dati predefinita)"</string>
 </resources>

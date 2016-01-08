@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="miuishare_app_name">MiuiShare</string>
-    <string name="miuishare_title_more">Altro</string>
-    <string name="miuishare_title_share">Condividi</string>
-    <string name="miuishare_account_login_ok">Accedi</string>
-    <string name="miuishare_account_activate_ok">Attiva</string>
-    <string name="miuishare_account_login_cancel">Annulla</string>
-    <string name="miuishare_account_login_confirmation">Accesso necessario</string>
-    <string name="miuishare_account_activate_confirmation">Attivazione necessaria</string>
-    <string name="miuishare_account_need_login">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'Account Mi con il quale sei attualmente collegato. Continuare?"</string>
-    <string name="miuishare_account_need_activate">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'Account Mi che non è attualmente attivato. Continuare?"</string>
-    <string name="miuishare_wechat_timeline_title">Timeline Wechat</string>
-    <string name="miuishare_weibo_title">Weibo</string>
-    <string name="miuishare_publish">Invia</string>
-    <string name="miuishare_share_done">Contenuto inviato.</string>
-    <string name="miuishare_share_editor_title">Condividi</string>
-    <string name="miuishare_no_network">Nessuna rete disponibile</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -40,6 +24,7 @@
     <string name="toast_vip_download_one_limit">"Hai raggiunto il limite dei download per questo mese. Puoi scaricare altri brani con l'iscrizione Premium il prossimo mese."</string>
     <string name="toast_vip_download_some_limit">"Hai raggiunto il limite dei download per questo mese. Puoi scaricare altri brani con l'iscrizione Premium il prossimo mese."</string>
     <string name="toast_cancel_download">Download annullato</string>
+    <string name="toast_download_in_process">Download in corso</string>
     <string name="buy_vip">Effettua iscrizione Premium</string>
     <string name="upgrade_vip">Aggiorna a Premium</string>
     <string name="confirm_download">Download</string>
@@ -491,6 +476,22 @@ attendere o selezionare Musica Online."</string>
     <string name="repeat_all_notif">Ripeti tutti i brani.</string>
     <string name="shuffle_on_notif">Shuffle attivato.</string>
     <string name="shuffle_off_notif">Shuffle disattivato.</string>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_title_more">Altro</string>
+    <string name="miuishare_title_share">Condividi</string>
+    <string name="miuishare_account_login_ok">Accedi</string>
+    <string name="miuishare_account_activate_ok">Attiva</string>
+    <string name="miuishare_account_login_cancel">Annulla</string>
+    <string name="miuishare_account_login_confirmation">Accesso necessario</string>
+    <string name="miuishare_account_activate_confirmation">Attivazione necessaria</string>
+    <string name="miuishare_account_need_login">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'Account Mi con il quale sei attualmente collegato. Continuare?"</string>
+    <string name="miuishare_account_need_activate">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'Account Mi che non è attualmente attivato. Continuare?"</string>
+    <string name="miuishare_wechat_timeline_title">Timeline Wechat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuishare_publish">Invia</string>
+    <string name="miuishare_share_done">Contenuto inviato.</string>
+    <string name="miuishare_share_editor_title">Condividi</string>
+    <string name="miuishare_no_network">Nessuna rete disponibile</string>
     <string name="download_start">Avvio download…</string>
     <string name="already_download">Download in corso…</string>
     <string name="download_complete">Download completato</string>
@@ -502,4 +503,22 @@ attendere o selezionare Musica Online."</string>
     <string name="download_cloud_error_not_auth">Accedi al tuo Account Mi e riprova.</string>
     <string name="download_cloud_error_retryable">Errore del server Mi Cloud, riprova più tardi.</string>
     <string name="download_cloud_error_unknow">Non è stato possibile scaricare file da Mi Cloud.</string>
+    <string name="cloud_space_full">Spazio di archiviazione insufficiente</string>
+    <string name="cloud_space_full_message">Spazio insufficiente sul tuo Mi Cloud per aggiungere altri brani. Per aumentare spazio, aggiorna il tuo Mi Account.</string>
+    <string name="do_not_remind_again">Non mostrare più</string>
+    <string name="not_now">Non adesso</string>
+    <string name="upgrade_membership">Ottieni più spazio</string>
+    <string name="version_info">Versione</string>
+    <string name="current_version">Versione attuale</string>
+    <string name="music_traffic">Piano dati musica</string>
+    <string name="music_traffic_summary">Ascolta e scarica canzoni senza utilizzare il traffico dati</string>
+    <string name="traffic_free_to_play">Utilizza il piano dati musica</string>
+    <string name="notification_des_next_song">Prossimo brano: %s</string>
+    <string name="settings_notification_title">Widget pannello notifiche</string>
+    <string name="settings_notification_text">Mostra il widget nel pannello delle notifiche</string>
+    <string name="notification_title_no_song">Guarda cosa ascoltano gli altri!</string>
+    <string name="notification_des_no_song">Mi Music. Novità ogni giorno.</string>
+    <string name="notification_headset_settings">Cuffie collegate</string>
+    <string name="notification_headset_info">Tocca per vedere le impostazioni.</string>
+    <string name="notification_headset_custom">Rifiuta</string>
 </resources>
