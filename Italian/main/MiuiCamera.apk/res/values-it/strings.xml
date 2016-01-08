@@ -186,9 +186,12 @@
     <string name="snapshot_lower_than_video">La risoluzione dello snapshot video è più bassa di quella video. Raggiungere i valori del video. Seleziona una risoluzione uguale o superiore a quella del video.</string>
     <string name="snapshotsize_low_powermode">Il supporto per la risoluzione foto in \"Modalità risparmio\" non è supportata. Verrà utilizzato il valore del video. Selezionare la modalità \"Consumo intenso\" per dimensione immagine.</string>
     <string name="accessibility_shutter_button">Pulsante scatto</string>
+    <string name="accessibility_audio_shutter_bg">Sfondo scatto vocale</string>
     <string name="accessibility_review_thumbnail">Foto recenti</string>
     <string name="accessibility_camera_picker">Fotocamera frontale o posteriore</string>
-    <string name="accessibility_hdr">Tasto funzione HDR</string>
+    <string name="accessibility_hdr">Tasto HDR</string>
+    <string name="accessibility_countdown">Conto alla rovescia</string>
+    <string name="accessibility_peak">Focus Peak</string>
     <string name="empty">" "</string>
     <string name="pref_camera_autoexposure_title">Esposizione automatica</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Multi-Zona</string>
@@ -355,6 +358,7 @@
     <string name="pref_camera_snap_enable_summary">Quando lo schermo è disattivato, tieni premuto il tasto Volume - per entrare in Modalità Quick Snap. Premilo di nuovo per scattare una foto.</string>
     <string name="pref_camera_snap_entry_take_picture">Quando lo schermo è disattivato, tieni premuto il tasto Volume - per avviare lo scatto multiplo. Rilascia il tasto per interrompere.</string>
     <string name="pref_camera_snap_entry_take_movie">Quando lo schermo è disattivato, tieni premuto il tasto Volume - per registrare un video. Rilascia il tasto per interrompere.</string>
+    <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Impossibile utilizzare la modalità Quick snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva."</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
     <string name="simple_mode_button_text_tilt_shift">Disattiva Tilt-shift</string>
     <string name="pref_camera_fisheye_title">Fish eye</string>
