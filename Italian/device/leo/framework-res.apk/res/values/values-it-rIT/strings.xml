@@ -15,13 +15,13 @@
     <string name="search_go">Cerca</string>
     <string name="selectAll">Seleziona tutto</string>
     <string name="unknownName">(Sconosciuto)</string>
-    <string name="untitled">&lt;senza nome></string>
+    <string name="untitled">(senza nome)</string>
     <string name="VideoView_error_button">OK</string>
-    <string name="VideoView_error_text_unknown">Spiacenti. Impossibile riprodurre il video.</string>
+    <string name="VideoView_error_text_unknown">Impossibile riprodurre il video.</string>
     <string name="VideoView_error_title">Impossibile riprodurre il video</string>
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attenzione</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Spiacenti, questo video non è valido per lo streaming su questo dispositivo.</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Questo video non è valido per lo streaming su questo dispositivo.</string>
     <string name="selectTextMode">Seleziona testo…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="config_ethernet_iface_regex">eth\\d</string>
@@ -163,10 +163,12 @@
     <string name="silent_mode_vibrate">Vibrazione</string>
     <string name="silent_mode_ring">Suoneria</string>
     <string name="shutdown_progress">Spegnimento…</string>
+    <string name="reboot_progress">Riavvio…</string>
     <string name="shutdown_confirm">Il dispositivo verrà spento.</string>
     <string name="shutdown_confirm_question">Continuare?</string>
     <string name="reboot_safemode_title">Riavvia in safe mode</string>
     <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
+    <string name="reboot_confirm">Il tuo dispositivo verrà ravviato.</string>
     <string name="recent_tasks_title">Recenti</string>
     <string name="no_recent_tasks">Nessuna applicazione in esecuzione.</string>
     <string name="global_actions">Opzioni telefono</string>
@@ -185,7 +187,7 @@
     <string name="permgrouplab_messages">I tuoi messaggi</string>
     <string name="permgroupdesc_messages">Leggere e scrivere SMS, email ed altri messaggi.</string>
     <string name="permgrouplab_personalInfo">Informazioni personali</string>
-    <string name="permgroupdesc_personalInfo">Accedere direttamente ai contatti e al calendario memorizzati sul telefono.</string>
+    <string name="permgroupdesc_personalInfo">Accedere direttamente ai contatti e al calendario memorizzati sul dispositivo.</string>
     <string name="permgrouplab_location">La tua posizione</string>
     <string name="permgroupdesc_location">"Monitorare la posizione GPS dell'utente"</string>
     <string name="permgrouplab_network">Comunicazione di rete</string>
@@ -245,7 +247,7 @@
     <string name="permlab_enableCarMode">abilitazione modalità auto</string>
     <string name="permdesc_enableCarMode">"Consente a un'applicazione di abilitare la modalità auto."</string>
     <string name="permlab_killBackgroundProcesses">interruzione processi in background</string>
-    <string name="permdesc_killBackgroundProcesses">"Consente a un'applicazione di terminare i processi in background di altre applicazioni, anche se la memoria non è insufficiente."</string>
+    <string name="permdesc_killBackgroundProcesses">"Consente a un'applicazione di terminare i processi in background di altre applicazioni, anche se la memoria è libera."</string>
     <string name="permlab_forceStopPackages">interruzione forzata di altre applicazioni</string>
     <string name="permdesc_forceStopPackages">"Consente a un'applicazione di interrompere forzatamente altre applicazioni."</string>
     <string name="permlab_forceBack">"chiusura forzata dell'applicazione"</string>
@@ -290,10 +292,10 @@
     <string name="permdesc_readInputState">"Consente il rilevamento da parte delle applicazioni dei tasti premuti anche durante l'interazione con un'altra applicazione (come nel caso di inserimento di una password). Non dovrebbe essere mai necessario per le normali applicazioni."</string>
     <string name="permlab_bindInputMethod">associaz. a un metodo di inserimento</string>
     <string name="permdesc_bindInputMethod">"Consente l'associazione all'interfaccia principale di un metodo di inserimento. Non dovrebbe essere mai necessario per le normali applicazioni."</string>
-    <string name="permlab_bindAccessibilityService">associazione ad un servizio di acccessibilità</string>
+    <string name="permlab_bindAccessibilityService">associazione ad un servizio di accessibilità</string>
     <string name="permdesc_bindAccessibilityService">"Consente al titolare di collegare all'interfaccia di primo livello di un servizio di accessibilità. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_bindTextService">associazione a un servizio di testo</string>
-    <string name="permdesc_bindTextService">"Consente al titolare di collegarsi all'interfaccia di primo livello di un servizio di testo (ad esempio SpellCheckerService). Non dovrebbe essere mai necessaria per le normali applicazioni."</string>
+    <string name="permdesc_bindTextService">"Consente al proprietario di collegarsi all'interfaccia di primo livello di un servizio di testo (ad esempio SpellCheckerService). Non dovrebbe essere mai necessaria per le normali applicazioni."</string>
     <string name="permlab_bindVpnService">associazione a un servizio VPN</string>
     <string name="permdesc_bindVpnService">"Consente l'associazione all'interfaccia principale di un servizio VPN. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_bindWallpaper">associazione a sfondo</string>
@@ -301,14 +303,14 @@
     <string name="permlab_bindRemoteViews">associazione a un servizio widget</string>
     <string name="permdesc_bindRemoteViews">"Consente l'associazione all'interfaccia principale di un servizio widget. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_bindDeviceAdmin">interazione con un amministratore dispositivo</string>
-    <string name="permdesc_bindDeviceAdmin">"Consente l'invio di intent a un amministratore del dispositivo. L'autorizzazione non deve mai essere necessaria per le normali applicazioni."</string>
+    <string name="permdesc_bindDeviceAdmin">"Consente l'invio di intent ad un amministratore del dispositivo. L'autorizzazione non deve mai essere necessaria per le normali applicazioni."</string>
     <string name="permlab_setOrientation">modifica orientamento dello schermo</string>
     <string name="permdesc_setOrientation">"Consente a un'applicazione di cambiare la rotazione dello schermo in qualsiasi momento. Non dovrebbe essere mai necessario per le normali applicazioni."</string>
     <string name="permlab_setPointerSpeed">cambio velocità del puntatore</string>
     <string name="permdesc_setPointerSpeed">"Consente a un'applicazione di modificare la velocità del puntatore del mouse o del trackpad in qualsiasi momento. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
-    <string name="permlab_setKeyboardLayout">cambia disposizione tastieria</string>
+    <string name="permlab_setKeyboardLayout">cambia disposizione tastiera</string>
     <string name="permdesc_setKeyboardLayout">"Consente all'applicazione di modificare la disposizione dei tasti sulla tastiera. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
-    <string name="permlab_signalPersistentProcesses">invio segnali Linuz alle applicazioni</string>
+    <string name="permlab_signalPersistentProcesses">invio segnali Linux alle applicazioni</string>
     <string name="permdesc_signalPersistentProcesses">"Consente all'applicazione di richiedere l'invio del segnale fornito a tutti i processi persistenti."</string>
     <string name="permlab_persistentActivity">esecuzione permanente delle applicazioni</string>
     <string name="permdesc_persistentActivity">"Consente a un'applicazione di rendere delle sue parti costanti in modo che il sistema non possa usarla per altre applicazioni."</string>
@@ -477,7 +479,7 @@
     <string name="permlab_changeWifiMulticastState">consenti ricezione multicast Wi-Fi</string>
     <string name="permdesc_changeWifiMulticastState">"Consente a un'applicazione di ricevere pacchetti non direttamente indirizzati al tuo dispositivo. Può essere utile durante la ricerca di servizi offerti nelle vicinanze. Consuma di più rispetto alla modalità non multicast."</string>
     <string name="permlab_bluetoothAdmin">accesso alle impostazioni Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">"Consente all'applicazione di configurare il Bluetooth del tuo telefono, e di scoprire ed accoppiarsi con dispositivi remoti."</string>
+    <string name="permdesc_bluetoothAdmin">"Consente all'applicazione di configurare il Bluetooth del tuo dispositivo, e di scoprire ed accoppiarsi con dispositivi remoti."</string>
     <string name="permlab_accessWimaxState">visualizzazione stato WiMAX</string>
     <string name="permdesc_accessWimaxState">"Consente a un'applicazione di visualizzare le informazioni relative allo stato della rete WiMAX."</string>
     <string name="permlab_changeWimaxState">modifica stato WiMAX</string>
@@ -686,10 +688,10 @@ Visita "<b>google.com/accounts/recovery</b></string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
-    <string name="granularity_label_character">character</string>
+    <string name="granularity_label_character">carattere</string>
     <string name="granularity_label_word">parola</string>
     <string name="granularity_label_link">link</string>
-    <string name="granularity_label_line">riga</string>
+    <string name="granularity_label_line">linea</string>
     <string name="hour_ampm" formatted="false">%-l%P</string>
     <string name="hour_cap_ampm" formatted="false">%-l%p</string>
     <string name="factorytest_failed">Test di fabbrica non riuscito</string>
@@ -700,11 +702,11 @@ Visita "<b>google.com/accounts/recovery</b></string>
     <string name="web_user_agent_target_content">"Mobile "</string>
     <string name="js_dialog_title">Avviso relativo alla pagina %s:</string>
     <string name="js_dialog_title_default">JavaScript</string>
-    <string name="js_dialog_before_unload">"Uscire da questa pagina? 
+    <string name="js_dialog_before_unload">Uscire da questa pagina? 
 
 %s
 
-Seleziona OK per continuare o Annulla per rimanere nella pagina corrente."</string>
+Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</string>
     <string name="save_password_label">Conferma</string>
     <string name="double_tap_toast">Suggerimento. Tocca due volte per aumentare/ridurre lo zoom.</string>
     <string name="autofill_this_form">Compl. auto</string>
@@ -874,7 +876,7 @@ Vuoi chiuderla?"</string>
     <string name="screen_compat_mode_hint">Riattiva questa modalità utilizzando Impostazioni > Applicazioni > Gestisci applicazioni.</string>
     <string name="smv_application">"L'applicazione %1$s (processo %2$s) ha violato la norma StrictMode autoimposta."</string>
     <string name="smv_process">Il processo %1$s ha violato la norma StrictMode autoimposta.</string>
-    <string name="android_upgrading_title">Upgrade di Android…</string>
+    <string name="android_upgrading_title">Aggiornamento Android…</string>
     <string name="android_upgrading_apk">Ottimizzazione applicazione %1$d di %2$d.</string>
     <string name="android_upgrading_starting_apps">Avvio applicazioni.</string>
     <string name="android_upgrading_complete">"Conclusione dell'avvio."</string>
@@ -982,11 +984,11 @@ Vuoi chiuderla?"</string>
     <string name="ext_media_nofs_notification_title">Archivio USB vuoto</string>
     <string name="ext_media_nofs_notification_message">Archivio USB vuoto o con filesystem non supportato.</string>
     <string name="ext_media_unmountable_notification_title">Archivio USB danneggiato</string>
-    <string name="ext_media_unmountable_notification_message">Archivio USB danneggiato. Potrebbe essere necessario riformattarlo.</string>
+    <string name="ext_media_unmountable_notification_message">Archivio USB danneggiato. Potrebbe essere necessario formattarlo.</string>
     <string name="ext_media_badremoval_notification_title">Rimozione imprevista archivio USB</string>
     <string name="ext_media_badremoval_notification_message">"Smonta l'archivio USB prima della rimozione per evitare la perdita di dati."</string>
     <string name="ext_media_safe_unmount_notification_title">"Puoi rimuovere l'archivio USB"</string>
-    <string name="ext_media_safe_unmount_notification_message">"Puoi rimuovere l'archivio USB in tutta sicurezza."</string>
+    <string name="ext_media_safe_unmount_notification_message">"Puoi rimuovere l'archivio USB senza problemi."</string>
     <string name="ext_media_nomedia_notification_title">Archivio USB rimosso</string>
     <string name="ext_media_nomedia_notification_message">Archivio USB rimosso. Inserisci un nuovo supporto.</string>
     <string name="activity_list_empty">Nessuna attività corrispondente trovata</string>
@@ -995,7 +997,7 @@ Vuoi chiuderla?"</string>
     <string name="permlab_copyProtectedData">Consente di invocare il servizio contenitore predefinito per la copia di contenuti. Da non usare per normali applicazioni.</string>
     <string name="permdesc_copyProtectedData">Consente di invocare il servizio contenitore predefinito per la copia di contenuti. Da non usare per normali applicazioni.</string>
     <string name="permlab_route_media_output">Route media output</string>
-    <string name="permdesc_route_media_output">Allows an application to route media output to other external devices.</string>
+    <string name="permdesc_route_media_output">"Consente ad un'app di deviare un output media verso dispositivi esterni."</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Tocca due volte per il comando dello zoom</string>
     <string name="gadget_host_error_inflating">"Errore durante l'ampliamento del widget"</string>
     <string name="ime_action_go">Vai</string>
@@ -1055,14 +1057,14 @@ per l'account %s"</string>
     <string name="gpsNotifTicker">Richiesta posizione da %s</string>
     <string name="gpsNotifTitle">Richiesta posizione</string>
     <string name="gpsNotifMessage">Richiesto da %1$s (%2$s)</string>
-    <string name="gpsVerifYes">Si</string>
+    <string name="gpsVerifYes">Sì</string>
     <string name="gpsVerifNo">No</string>
     <string name="sync_too_many_deletes">Limite di eliminazioni superato</string>
     <string name="sync_too_many_deletes_desc">Esistono %1$d elementi eliminati per %2$s, account %3$s. Cosa vuoi fare?</string>
     <string name="sync_really_delete">Elimina gli elementi.</string>
     <string name="sync_undo_deletes">Annulla le eliminazioni.</string>
-    <string name="sync_do_nothing">Non fare nulla per ora.</string>
-    <string name="choose_account_label">Seleziona un account</string>
+    <string name="sync_do_nothing">Non fare nulla.</string>
+    <string name="choose_account_label">Scegli un account</string>
     <string name="add_account_label">Aggiungi un account</string>
     <string name="add_account_button_label">Aggiungi account</string>
     <string name="number_picker_increment_button">Aumenta</string>
@@ -1092,7 +1094,7 @@ per l'account %s"</string>
     <string name="shareactionprovider_share_with">Condividi con</string>
     <string name="shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="content_description_sliding_handle">Maniglia scorrevole. Tocca e tieni premuto.</string>
-    <string name="description_target_unlock_tablet">Fai scorrere per sbloccare.</string>
+    <string name="description_target_unlock_tablet">Scorri per sbloccare.</string>
     <string name="keyboard_headset_required_to_hear_password">Collega gli auricolari per ascoltare la pronuncia dei tasti premuti per la password.</string>
     <string name="keyboard_password_character_no_headset">Punto.</string>
     <string name="action_bar_home_description">Vai alla home page</string>
