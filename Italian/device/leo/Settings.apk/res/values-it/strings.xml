@@ -42,6 +42,7 @@
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
     <string name="music_dirac_mode_piston_color">Color Edition</string>
     <string name="music_dirac_mode_headset">Cuffie Mi</string>
+    <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
@@ -66,13 +67,13 @@
     <string name="status_bar_settings_notification_priority">Priorità</string>
     <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
-	<string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto sullo schermo</string>
+    <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto</string>
     <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla lockscreen</string>
     <string name="status_bar_settings_show_keyguard_notification_summary"/>
-    <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
-    <string name="status_bar_settings_notification_led">Luce di notifica</string>
-    <string name="status_bar_settings_notification_bar">Barra notifiche</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Suono e vibrazione</string>
+    <string name="status_bar_settings_notification_led">LED di notifica</string>
+    <string name="status_bar_settings_notification_bar">Pannello delle notifiche</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
     <string name="status_bar_settings_show_screenshot_notification">Mostra notifiche screenshot</string>
     <string name="status_bar_settings_status_bar">Barra di stato</string>
@@ -114,12 +115,12 @@
     <string name="device_info_default">Sconosciuto</string>
     <string name="show_dev_on">Ora sei uno sviluppatore.</string>
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
-    <string name="header_category_wireless_networks">WIRELESS E RETI</string>
-	<string name="header_category_device">DISPOSITIVO</string>
-    <string name="header_category_personal">PERSONALE</string>
-    <string name="header_category_system">SISTEMA</string>
+    <string name="header_category_wireless_networks">Wireless e Reti</string>
     <string name="header_category_connections">Connessioni</string>
+    <string name="header_category_device">Dispositivo</string>
+    <string name="header_category_personal">Personale</string>
     <string name="header_category_access">Accesso</string>
+    <string name="header_category_system">Sistema</string>
     <string name="turn_on_radio">Attiva segnale cellulare</string>
     <string name="turn_off_radio">Disattiva segnale cellulare</string>
     <string name="sms_over_ims_on">Attiva SMS su IMS</string>
@@ -213,10 +214,10 @@
     <string name="bluetooth_rename_button">Rinomina</string>
     <string name="bluetooth_disconnect_title">Disconnettere?</string>
     <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:&lt;br>&lt;b>%1$s&lt;/b></string>
-    <string name="bluetooth_empty_list_user_restricted">Non hai il permesso per modificare le impostazioni bluetooth</string>
-    <string name="bluetooth_is_visible_message">%1$s è visibile ai dispositivi nelle vicinanze, mentre le impostazioni sono aperte.</string>
-    <string name="bluetooth_is_disconnect_question">Disconnetti da %1$s?</string>
-    <string name="bluetooth_broadcasting">Broadcasting</string>
+    <string name="bluetooth_empty_list_user_restricted">Non hai i permessi per modificare le impostazioni Bluetooth</string>
+    <string name="bluetooth_is_visible_message">%1$s è visibile ai dispositivi nelle vicinanze quando il Bluetooth è attivo.</string>
+    <string name="bluetooth_is_disconnect_question">Disconnettere da %1$s?</string>
+    <string name="bluetooth_broadcasting">Trasmissione</string>
     <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
     <string name="bluetooth_disable_profile_message">Verrà disattivato&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Connesso</string>
@@ -290,7 +291,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="proxy_error_empty_host_set_port">Il campo Porta deve essere vuoto se il campo Host è vuoto.</string>
     <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
     <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
-    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_url_title">"URL PAC: "</string>
     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="radio_info_signal_location_label">Posizione:</string>
     <string name="radio_info_neighboring_location_label">CID adiacente:</string>
@@ -350,7 +351,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
     <string name="phone_info_label">Info dispositivo</string>
-    <string name="field_test_info_label">Field test info</string>
+    <string name="field_test_info_label">Campo informazioni test</string>
     <string name="sd_card_settings_label">Archivio USB</string>
     <string name="proxy_settings_label">Impostazioni proxy</string>
     <string name="cancel">Annulla</string>
@@ -367,7 +368,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
     <string name="radio_controls_summary">Gestisci Wi-Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
-    <string name="cellular_data_title">Dati cellulari</string>
+    <string name="cellular_data_title">Dati cellulare</string>
     <string name="calls_title">Chiamate</string>
     <string name="sms_messages_title">Messaggi SMS</string>
     <string name="cellular_data_summary">"Consenti l'utilizzo di dati mobili"</string>
@@ -395,7 +396,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="zone_auto_summaryOff">Utilizza il fuso orario fornito dalla rete</string>
     <string name="date_time_24hour_title">Formato 24 ore</string>
     <string name="date_time_24hour">Usa formato 24 ore</string>
-    <string name="date_time_set_time_title">Orario</string>
+    <string name="date_time_set_time_title">Ora</string>
     <string name="date_time_set_time">Imposta ora</string>
     <string name="date_time_set_timezone_title">Fuso orario</string>
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
@@ -437,7 +438,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
 
 La crittografia potrebbe richiedere più di un'ora. Devi iniziare con una batteria carica e tenere il dispositivo collegato fino al completamento della crittografia. Se interrompi la procedura, perderai alcuni o tutti i tuoi dati."</string>
     <string name="crypt_keeper_button_text">Esegui crittografia dispositivo</string>
-    <string name="crypt_keeper_low_charge_text">Carica la batteria e riprova.</string>
+    <string name="crypt_keeper_low_charge_text">Ricarica la batteria e riprova.</string>
     <string name="crypt_keeper_unplugged_text">Collega il caricabatterie e riprova.</string>
     <string name="crypt_keeper_dialog_need_password_title">Nessun PIN/Password di blocco dello schermo</string>
     <string name="crypt_keeper_dialog_need_password_message">Devi impostare un PIN o una password di blocco dello schermo per poter iniziare la crittografia.</string>
@@ -526,7 +527,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="bluetooth_enter_pin_msg">Dispositivo</string>
     <string name="bluetooth_pairing_key_msg">Codice di abbinamento</string>
     <string name="bluetooth_enter_pin_msg_hs">Il dispositivo richiede una passkey di Alta Sicurezza con 16 caratteri</string>
-    <string name="bluetooth_enter_passkey_msg">Digita il codice di abbinamento poi premi Invio</string>
+    <string name="bluetooth_enter_passkey_msg">Digita il codice di abbinamento e premi Invio</string>
     <string name="bluetooth_enable_alphanumeric_pin">Il PIN contiene lettere o simboli</string>
     <string name="bluetooth_pin_values_hint">Di solito 0000 o 1234</string>
     <string name="bluetooth_enter_pin_other_device">"Potrebbe essere necessario digitare questo PIN anche sull'altro dispositivo."</string>
@@ -579,7 +580,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="bluetooth_profile_pbap_summary">Usa per condividere un contatto</string>
     <string name="bluetooth_profile_pan_nap">Condivisione connessione Internet</string>
     <string name="bluetooth_profile_map">Accesso ai messaggi</string>
-    <string name="bluetooth_profile_dun">Dial-up Network Access</string>
+    <string name="bluetooth_profile_dun">Accesso Rete di Chiamata</string>
     <string name="bluetooth_profile_sap">Accesso SIM</string>
     <string name="bluetooth_disconnect_a2dp_profile">"%1$s verrà disconnesso dall'audio multimediale."</string>
     <string name="bluetooth_disconnect_headset_profile">"%1$s verrà disconnesso dall'audio vivavoce."</string>
@@ -620,7 +621,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="wifi_assistant_no_thanks">NO, GRAZIE</string>
     <string name="wifi_assistant_setup">CONFIGURA</string>
     <string name="wifi_assistant_card_message">"Connetti automaticamente alle reti disponibili con l'assistente Wi-Fi."</string>
-    <string name="wifi_assistant_title">Assistente Wi‑Fi</string>
+    <string name="wifi_assistant_title">Assistente Wi-Fi</string>
     <string name="wifi_assistant_title_message">%1$s ti connette automaticamente alla migliore rete Wi-Fi disponibile</string>
     <string name="wifi_assistant_open_app">APRI APP</string>
     <string name="wifi_display_settings_title">Trasmetti schermo</string>
@@ -987,7 +988,7 @@ Tentativi rimasti :"</string>
     <string name="system_update_settings_list_item_title">Aggiornamenti sistema</string>
     <string name="system_update_settings_list_item_summary"/>
     <string name="firmware_version">Versione di Android</string>
-	<string name="security_patch">Livello patch sicurezza Android</string>
+    <string name="security_patch">Livello patch sicurezza Android</string>
     <string name="model_number">Modello</string>
     <string name="processor_info">Processor info</string>
     <string name="fcc_equipment_id">ID attrezzatura</string>
@@ -1046,7 +1047,7 @@ Tentativi rimasti :"</string>
     <string name="sd_mount_summary"/>
     <string name="sd_format">Formatta archivio USB</string>
     <string name="sd_format_summary">"Elimina i dati nell'archivio USB interno come musica e foto"</string>
-     <string name="storage_usb">Memoria USB</string>
+    <string name="storage_usb">Memoria USB</string>
     <string name="storage_uicc">Memoria UICC</string>
     <string name="usb_eject">Smonta memoria USB</string>
     <string name="usb_eject_summary">Smonta la memoria USB se vuoi rimuoverla con sicurezza</string>
@@ -1260,7 +1261,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="license_title">Licenza</string>
     <string name="terms_title">Termini e condizioni</string>
     <string name="wallpaper_attributions">Sfondi</string>
-    <string name="wallpaper_attributions_values">"Satellite imagery providers:
+    <string name="wallpaper_attributions_values">"Satelliti utilizzati per le immagini:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Licenze open source</string>
     <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
@@ -1578,9 +1579,9 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="wifi_aggressive_handover">Aggressivo handover Wi-Fi a rete cellulare</string>
     <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi-Fi Roam Scans</string>
     <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione Display wireless</string>
-    <string name="wifi_verbose_logging_summary">Increase Wi-Fi logging level, show per SSID RSSI in Wi-Fi Picker</string>
-    <string name="wifi_aggressive_handover_summary">When enabled, Wi-Fi will be more aggressive in handing over the data connection to Cellular, when Wi-Fi signal is low</string>
-    <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi-Fi Roam Scans based on the amount of data traffic present at the interface</string>
+    <string name="wifi_verbose_logging_summary">Aumenta il livello di accesso Wi-Fi, mostra per SSID RSSI nella selezione Wi-Fi</string>
+    <string name="wifi_aggressive_handover_summary">Quando attivato, la connessione Wi-Fi sarà più aggressiva nel prevalere sulla connessione dati mobile quando il segnale Wi-Fi è debole</string>
+    <string name="wifi_allow_scan_with_traffic_summary">"Consenti/nega la scansione Wi-Fi basata sui dati dell'interfaccia"</string>
     <string name="select_logd_size_title">Dimensione Logger buffer</string>
     <string name="select_logd_size_dialog_title">Seleziona la dimensione del log Logger</string>
     <string name="allow_mock_location">Posizioni fittizie</string>
@@ -1802,7 +1803,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="usage_type_computed_power">Consumi utilizzati</string>
     <string name="usage_type_actual_power">Consumi osservati</string>
     <string name="battery_action_stop">Termina</string>
-    <string name="battery_action_app_details">Informazioni applicazioni</string>
+    <string name="battery_action_app_details">Informazioni applicazione</string>
     <string name="battery_action_app_settings">Impostazioni applicazioni</string>
     <string name="battery_action_display">Impostazioni schermo</string>
     <string name="battery_action_wifi">Impostazioni Wi-Fi</string>
@@ -1880,7 +1881,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="voice_service_preference_section_title">Servizi input vocale</string>
     <string name="voice_interactor_preference_summary">Interazione completa con il testo</string>
     <string name="voice_recognizer_preference_summary">Semplice discorso al testo</string>
-    <string name="voice_interaction_security_warning">"Questo motore di sintesi vocale potrebbe essere in grado di raccogliere il testo pronunciato, inclusi dati personali come password e numeri di carte di credito. Deriva dal motore %s. Abilitare l'uso di questo motore di sintesi vocale?"</string>
+    <string name="voice_interaction_security_warning">"Questo motore di sintesi vocale potrebbe essere in grado di raccogliere il testo pronunciato, inclusi i dati personali come password e numeri di carte di credito. Deriva dal motore %s. Abilitare l'uso di questo motore di sintesi vocale?"</string>
     <string name="tts_settings">Impostazioni di sintesi vocale</string>
     <string name="tts_settings_title">Output sintesi vocale</string>
     <string name="use_default_tts_settings_title">Usa sempre mie imp.</string>
@@ -2242,9 +2243,7 @@ Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni accou
 Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
     <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
     <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.
-
-Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
+    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi. Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">avviso</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
@@ -3456,6 +3455,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="now">Riavvia adesso</string>
     <string name="need_reboot_now">"Devi riavviare per completare l'aggiornamento, aggiorna adesso"</string>
     <string name="welcome">Benvenuto</string>
+    <string name="resolver_settings_label">Ordina</string>
     <string name="launching_pho">Caricamento informazioni dispositivo, attendere…</string>
     <string name="launching_cit">Avvio Rilevamento Hardware, attendere…</string>
     <string name="launching_rep">Segnalazione bug in corso, attendere…</string>
@@ -3751,5 +3751,12 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="print_remind">Prima attiva la stampa</string>
     <string name="fp_nav_center_back_to_home_title">Tocca il tasto Home per tornare alla schermata Home</string>
     <string name="convenience_key_category_title">Tasto di utilità</string>
-    <string name="resolver_settings_label">Ordina</string>
+    <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
+    <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
+    <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
+    <string name="open_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica</string>
+    <string name="close_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica. Nota: disattivando questa funzione apporterai significativi cambiamenti ai layout ed altri elementi della UI.</string>
+    <string name="optimization_close">Disattiva e riavvia</string>
+    <string name="optimization_open">Attiva</string>
+    <string name="optimization_cancel">Annulla</string>
 </resources>
