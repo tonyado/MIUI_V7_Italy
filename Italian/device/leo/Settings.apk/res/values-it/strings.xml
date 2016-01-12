@@ -59,11 +59,11 @@
     <string name="online_resource_entry">Risorse online</string>
     <string name="status_bar_and_notification_bar">Barra notifiche e barra di stato</string>
     <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
+    <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
+    <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
 	<string name="status_bar_app_enable_message">Badge</string>
 	<string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
 	<string name="status_bar_app_enable_keyguard">Lockscreen</string>
-    <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
-    <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
     <string name="status_bar_settings_notification_priority">Priorità</string>
     <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
@@ -71,7 +71,7 @@
     <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto</string>
     <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla lockscreen</string>
     <string name="status_bar_settings_show_keyguard_notification_summary"/>
-    <string name="status_bar_settings_notification_sound_vibrate">Suono e vibrazione</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
     <string name="status_bar_settings_notification_led">LED di notifica</string>
     <string name="status_bar_settings_notification_bar">Pannello delle notifiche</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
@@ -84,6 +84,10 @@
     <string name="status_bar_settings_advanced">Impostazioni aggiuntive</string>
     <string name="status_bar_settings_show_flow_info">Mostra dettagli trasmissione</string>
     <string name="status_bar_app_disable_notification">Vuoto</string>
+    <string name="status_bar_app_enable_message">Badge</string>
+    <string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
+    <string name="status_bar_app_enable_keyguard">Lockscreen</string>
+    <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_app_enable_on_notificationBar">Pannello delle notifiche</string>
     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lockscreen, pannello delle notifiche</string>
     <string name="status_bar_settings_show_carrier">Mostra operatore</string>
@@ -2382,8 +2386,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_setup_button_setup_later">Non ora</string>
     <string name="user_cannot_manage_message">Solo il proprietario del dispositivo può gestire gli utenti.</string>
     <string name="user_cannot_add_accounts_message">I profili con limitazioni non possono aggiungere account</string>
-    <string name="user_remove_user_menu">Elimina %1$s da dispositivo</string>
-    <string name="user_add_on_lockscreen_menu">Aggiunggi gli utenti quando il dispositivo è bloccato</string>
+    <string name="user_remove_user_menu">Elimina %1$s dal dispositivo</string>
+    <string name="user_add_on_lockscreen_menu">Aggiungi gli utenti quando il dispositivo è bloccato</string>
     <string name="user_new_user_name">Nuovo utente</string>
     <string name="user_new_profile_name">Nuovo profilo</string>
     <string name="user_confirm_remove_self_title">Eliminare te stesso?</string>
