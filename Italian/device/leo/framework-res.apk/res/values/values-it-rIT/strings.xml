@@ -168,7 +168,7 @@
     <string name="shutdown_confirm_question">Continuare?</string>
     <string name="reboot_safemode_title">Riavvia in safe mode</string>
     <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
-    <string name="reboot_confirm">Il tuo dispositivo verrà ravviato.</string>
+    <string name="reboot_confirm">Il tuo dispositivo verrà riavviato.</string>
     <string name="recent_tasks_title">Recenti</string>
     <string name="no_recent_tasks">Nessuna applicazione in esecuzione.</string>
     <string name="global_actions">Opzioni telefono</string>
