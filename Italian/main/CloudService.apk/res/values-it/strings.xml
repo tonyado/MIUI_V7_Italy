@@ -77,6 +77,9 @@ Localizza, blocca o cancella il dispositivo da "</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">" . Puoi attivare questa funzione in qualsiasi momento in Impostazioni."</string>
     <string name="find_device_dspt_provision_4">Se cambi SIM verrà inviato automaticamente un SMS per riattivare questa funzione.</string>
+	<string name="mx_dspt_provision">"Mi Message consente di inviare messaggi ad altri utenti MIUI senza incorrere in spese di SMS.
+
+È possibile disattivare o attivare questa funzione in qualsiasi momento in Impostazioni. "</string>
     <string name="find_device_send_sms_alert">"
 
 Se cambi SIM, verrà inviato automaticamente un altro SMS per attivare questa funzione.</string>

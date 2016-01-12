@@ -70,7 +70,7 @@
     <string name="status_bar_settings_notification_sound_vibrate">Suono e vibrazione</string>
     <string name="status_bar_settings_notification_led">Luce notifica</string>
     <string name="status_bar_settings_notification_bar">Pannello delle notifiche</string>
-    <string name="status_bar_settings_toggle_collapse_after_clicked">CHiudi dopo il tocco</string>
+    <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
     <string name="status_bar_settings_show_screenshot_notification">Mostra notifiche screenshot</string>
     <string name="status_bar_settings_status_bar">Barra di stato</string>
     <string name="status_bar_settings_show_notification_icon">Mostra le icone delle notifiche</string>
@@ -746,7 +746,10 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="wifi_not_in_range">Fuori portata</string>
     <string name="wifi_wps_available_first_item">WPS disponibile</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibile)"</string>
-    <string name="wifi_wps_nfc_enter_password">Enter your network password</string>
+	<string name="wifi_secured_first_item">Protetta con %1$s</string>
+    <string name="wifi_secured_second_item">, protetta con %1$s</string>
+    <string name="wifi_security_none">Nessuna</string>
+    <string name="wifi_wps_nfc_enter_password">Inserisci la tua password di rete </string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
