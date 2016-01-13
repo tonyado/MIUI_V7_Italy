@@ -58,8 +58,8 @@
         <item quantity="one">Trovato %d file di grandi dimensioni, puoi rimuoverlo</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
-        <item quantity="other">Trovate %d foto, puoi rimuovere quelle doppie o ridondanti</item>
-        <item quantity="one">Trovata %d foto, puoi rimuoverla se doppia o ridondante</item>
+        <item quantity="other">Trovate %d foto, puoi rimuovere quelle duplicate o ridondanti</item>
+        <item quantity="one">Trovata %d foto, puoi rimuoverla se duplicata o ridondante</item>
     </plurals>
     <plurals name="deepclean_apk_summary">
         <item quantity="other">Trovati %d APK, puoi eliminare quelli non necessari.</item>
