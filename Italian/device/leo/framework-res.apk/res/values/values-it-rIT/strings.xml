@@ -275,11 +275,10 @@
     <string name="permlab_batteryStats">lettura statistiche batteria</string>
     <string name="permdesc_batteryStats">"Consente a un'applicazione di leggere i dati di utilizzo della batteria. Potrebbe consentire all'applicazione di trovare informazioni dettagliate sulle applicazioni che utilizzi."</string>
     <string name="permlab_updateBatteryStats">modifica statistiche batteria</string>
-    <string name="permdesc_batteryStats">Consente la modifica delle statistiche sulla batteria raccolte. Da non usare per normali applicazioni.</string>
     <string name="permlab_backup">controllo del backup di sistema e ripristino</string>
-    <string name="permdesc_backup">"Consente all'applicazione di controllare il meccanismo di backup e ripristino del sistema. Da non usare per normali applicazioni."</string>
+    <string name="permdesc_backup">"Consente a un'applicazione di controllare il meccanismo di backup e ripristino del sistema. Da non usare per normali applicazioni."</string>
     <string name="permlab_confirm_full_backup">"conferma di un'operazione completa di backup o di ripristino"</string>
-    <string name="permdesc_confirm_full_backup">"Consente all'applicazione di avviare l'interfaccia utente di conferma del backup completo. Non utilizzare per nessuna applicazione."</string>
+    <string name="permdesc_confirm_full_backup">"Consente a un'applicazione di avviare l'interfaccia utente di conferma del backup completo. Non utilizzare per nessuna applicazione."</string>
     <string name="permlab_internalSystemWindow">visualizzazione finestre non autorizzate</string>
     <string name="permdesc_internalSystemWindow">"Consente la creazione di finestre destinate all'uso nell'interfaccia utente di sistema interna. Da non usare per normali applicazioni."</string>
     <string name="permlab_systemAlertWindow">visualizzazione avvisi di sistema</string>
@@ -484,7 +483,7 @@
     <string name="permdesc_bluetoothAdmin">"Consente all'applicazione di configurare il Bluetooth del tuo dispositivo e di scoprire ed abbinarsi con dispositivi remoti."</string>
     <string name="permlab_accessWimaxState">visualizzazione stato WiMAX</string>
     <string name="permdesc_accessWimaxState">"Consente a un'applicazione di visualizzare le informazioni relative allo stato della rete WiMAX."</string>
-    <string name="permlab_changeWimaxState">modifica stato WiMAX</string>
+    <string name="permlab_changeWimaxState">Modifica stato WiMAX</string>
     <string name="permdesc_changeWimaxState">"Consente a un'applicazione di connettersi/disconnettersi dalla rete WiMAX."</string>
     <string name="permlab_bluetooth">Abbina con dispositivi Bluetooth</string>
     <string name="permdesc_bluetooth">"Consente a un'applicazione di configurare il Bluetooth e di rilevare e abbinare dispositivi remoti."</string>
@@ -837,8 +836,8 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="replace">Sostituisci…</string>
     <string name="delete">Elimina</string>
     <string name="textSelectionCABTitle">Selezione testo</string>
-    <string name="addToDictionary">aggiungi al dizionario</string>
-    <string name="deleteText">elimina</string>
+    <string name="addToDictionary">Aggiungi al dizionario</string>
+    <string name="deleteText">Elimina</string>
     <string name="inputMethod">Metodo inserimento</string>
     <string name="editTextMenuTitle">Azioni testo</string>
     <string name="low_internal_storage_view_title">Spazio di archiviazione in esaurimento</string>
@@ -999,7 +998,7 @@ Vuoi chiuderla?"</string>
     <string name="activity_list_empty">Nessuna attività corrispondente trovata</string>
     <string name="permlab_pkgUsageStats">aggiornare le statistiche di utilizzo dei componenti</string>
     <string name="permdesc_pkgUsageStats">"Consente a un'applicazione di modificare le statistiche di utilizzo dei componenti. Da non usare per normali applicazioni."</string>
-    <string name="permlab_copyProtectedData">Consente a un'applicazione di richiamare il servizio contenitore predefinito per la copia di contenuti. Da non usare per normali applicazioni.</string>
+    <string name="permlab_copyProtectedData">"Consente a un'applicazione di richiamare il servizio contenitore predefinito per la copia di contenuti. Da non usare per normali applicazioni."</string>
     <string name="permdesc_copyProtectedData">"Consente a un'applicazione di richiamare il servizio container predefinito per la copia di contenuti. Da non usare per normali applicazioni."</string>
     <string name="permlab_route_media_output">Indirizzamento uscita media</string>
     <string name="permdesc_route_media_output">"Consente a un'applicazione di indirizzare l'uscita di media verso dispositivi esterni."</string>

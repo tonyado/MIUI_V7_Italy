@@ -63,13 +63,13 @@
     <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
 	<string name="status_bar_app_enable_message">Badge</string>
 	<string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
-	<string name="status_bar_app_enable_keyguard">Lockscreen</string>
+	<string name="status_bar_app_enable_keyguard">Schermata di blocco</string>
     <string name="status_bar_settings_notification_priority">Priorità</string>
     <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
     <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
     <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto</string>
-    <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla lockscreen</string>
+    <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla Schermata di blocco</string>
     <string name="status_bar_settings_show_keyguard_notification_summary"/>
     <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
     <string name="status_bar_settings_notification_led">LED di notifica</string>
@@ -79,22 +79,19 @@
     <string name="status_bar_settings_status_bar">Barra di stato</string>
     <string name="status_bar_settings_show_notification_icon">Mostra icona di notifica</string>
     <string name="status_bar_settings_show_network_speed">Mostra velocità di connessione</string>
-    <string name="status_bar_settings_expandable_under_keyguard">Abilita nella schermata di blocco</string>
+    <string name="status_bar_settings_expandable_under_keyguard">Abilita nella Schermata di blocco</string>
     <string name="status_bar_settings_basic_settings">Impostazioni base</string>
     <string name="status_bar_settings_advanced">Impostazioni aggiuntive</string>
     <string name="status_bar_settings_show_flow_info">Mostra dettagli trasmissione</string>
     <string name="status_bar_app_disable_notification">Vuoto</string>
-    <string name="status_bar_app_enable_message">Badge</string>
-    <string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
-    <string name="status_bar_app_enable_keyguard">Lockscreen</string>
     <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_app_enable_on_notificationBar">Pannello delle notifiche</string>
-    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lockscreen, pannello delle notifiche</string>
+    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Schermata di blocco, pannello delle notifiche</string>
     <string name="status_bar_settings_show_carrier">Mostra operatore</string>
     <string name="status_bar_settings_custom_carrier">"Modifica il nome dell'operatore"</string>
     <string name="status_bar_settings_no_carrier">Nessuna</string>
     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
-    <string name="status_bar_settings_show_carrier_summary">Mostra solo nella schermata di blocco</string>
+    <string name="status_bar_settings_show_carrier_summary">Mostra solo nella Schermata di blocco</string>
     <string name="status_bar_settings_show_wifi_name">Mostra Wi-Fi</string>
     <string name="status_bar_settings_custom_wifi_name">Modifica nome rete Wi-Fi</string>
     <string name="status_bar_settings_toggle_position">Posizione comandi</string>
@@ -418,22 +415,22 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="lock_after_timeout">Blocca automaticamente</string>
     <string name="lock_after_timeout_summary">%1$s dopo la sospensione</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s dopo la sospensione eccetto quando bloccato da %2$s</string>
-    <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario su blocco schermo</string>
+    <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario sulla Schermata di blocco</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="security_enable_widgets_title">Abilita widget</string>
     <string name="security_enable_widgets_disabled_summary">"Disattivati dall'amministratore"</string>
-    <string name="owner_info_settings_summary"/>
-    <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare su blocco schermo</string>
-    <string name="show_user_info_on_lockscreen_label">Mostra info utente in schermata blocco</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare sulla Schermata di blocco</string>
+    <string name="show_user_info_on_lockscreen_label">Mostra info utente sulla Schermata di blocco</string>
     <string name="user_info_settings_title">Dati utente</string>
-    <string name="show_profile_info_on_lockscreen_label">Mostra info profilo in schermata di blocco</string>
+    <string name="show_profile_info_on_lockscreen_label">Mostra info profilo sulla Schermata di blocco</string>
     <string name="profile_info_settings_title">Informazioni profilo</string>
     <string name="Accounts_settings_title">Account</string>
     <string name="location_settings_title">Geolocalizzazione</string>
     <string name="account_settings_title">Account</string>
     <string name="security_settings_title">Sicurezza</string>
-    <string name="security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco SIM, blocco cred.</string>
-    <string name="cdma_security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco archivio credenziali</string>
+    <string name="security_settings_summary">Imposta La mia posizione, blocco schermo, blocco SIM, blocco cred.</string>
+    <string name="cdma_security_settings_summary">Imposta La mia posizione, blocco schermo, blocco archivio credenziali</string>
     <string name="security_passwords_title">Password</string>
     <string name="crypt_keeper_settings_title">Crittografia</string>
     <string name="crypt_keeper_encrypt_title">Esegui crittografia dispositivo</string>
@@ -521,7 +518,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="manage_device_admin">Amministratori dispositivo</string>
     <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
     <string name="manage_trust_agents">Agenti di attendibilità</string>
-    <string name="disabled_because_no_backup_security">Imposta prima una lockscreen</string>
+    <string name="disabled_because_no_backup_security">Imposta prima una Schermata di blocco</string>
     <string name="manage_trust_agents_summary">Mostra o disattiva agenti di attendibilità</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>
@@ -564,7 +561,6 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Condividere i contatti e il registro chiamate?</string>
     <string name="bluetooth_pairing_dialog_contants_request">%1$s vuole accedere ai tuoi contatti e al registro chiamate.</string>
     <string name="bluetooth_pairing_dialog_paring_request">%1$s vuole abbinarsi con il Bluetooth. Quando connesso, avrà accesso ai contatti e al registro chiamate.</string>
-    <string name="bluetooth_preference_paired_devices">Dispositivi abbinati</string>
     <string name="bluetooth_preference_found_devices">Dispositivi disponibili</string>
     <string name="bluetooth_preference_no_found_devices">Nessun dispositivo disponibile</string>
     <string name="bluetooth_device_context_connect">Connetti</string>
@@ -758,7 +754,9 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="wifi_not_in_range">Fuori portata</string>
     <string name="wifi_wps_available_first_item">WPS disponibile</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibile)"</string>
-    <string name="wifi_wps_nfc_enter_password">Inserisci la password di rete</string>
+    <string name="wifi_secured_first_item">Protetta con %1$s</string>
+    <string name="wifi_secured_second_item">, protetta con %1$s</string>
+    <string name="wifi_wps_nfc_enter_password">Inserisci la tua password di rete</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -905,6 +903,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="volume_media_mute">Disattiva audio musica e altri contenuti multimediali</string>
     <string name="volume_notification_mute">Disattiva audio notifiche</string>
     <string name="volume_alarm_mute">Disattiva audio sveglie</string>
+    <string name="vibrate_when_ringing_title">Vibra quando squilla</string>
     <string name="dock_settings">Dock</string>
     <string name="dock_settings_title">Impostazioni dock</string>
     <string name="dock_audio_settings_title">Audio</string>
@@ -1073,7 +1072,7 @@ Tentativi rimasti :"</string>
     <string name="dlg_confirm_usb_unmount_title">Smontare la memoria USB?</string>
     <string name="dlg_confirm_uicc_unmount_title">Smontare la memoria UICC?</string>
     <string name="dlg_confirm_usb_unmount_text">Se smonti la memoria USB, alcune app in uso smetteranno di funzionare e potrebbero non essere più disponibili.</string>
-    <string name="dlg_confirm_uicc_unmount_text">Se smonti la memoria UICC, alcune app in uso smetteranno di funzionare e potrebbero non essere più disponibili..</string>
+    <string name="dlg_confirm_uicc_unmount_text">Se smonti la memoria UICC, alcune app in uso smetteranno di funzionare e potrebbero non essere più disponibili.</string>
     <string name="dlg_error_usb_unmount_text">Impossibile smontare la memoria USB. Riprova più tardi.</string>
     <string name="dlg_error_uicc_unmount_text">Impossibile smontare la memoria UICC. Riprova più tardi.</string>
     <string name="usb_unmount_inform_text">La memoria USB sarà smontata.</string>
@@ -1639,7 +1638,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.
 
 Dopo avere aumentato lo zoom puoi:
-"<ul><li>"Eseguire una panoramica: trascina due o più dita sullo schermo.
+"<li><ul>"Eseguire una panoramica: trascina due o più dita sullo schermo.
 "<li>Regolare il livello di zoom: pizzica con due o più dita verso l'interno o verso l'esterno.</li></ul></li>"
 
 Puoi anche ingrandire temporaneamente l'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.
@@ -1654,7 +1653,7 @@ Passaggio 1. Premi e tieni premuto il tasto di accensione fino all'emissione di 
 
 Passaggio 2. Tocca con due dita e tieni premuto finché senti un suono di conferma.
 
-Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia nella schermata di blocco, l'accessibilità viene attivata temporaneamente fino allo sblocco del dispositivo."</string>
+Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia nella Schermata di blocco, l'accessibilità viene attivata temporaneamente fino allo sblocco del dispositivo."</string>
     <string name="accessibility_toggle_large_text_preference_title">Testo grande</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title">Testo ad Alto contrasto</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Ingrandimento schermo</string>
@@ -1711,8 +1710,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
     <string name="enable_service_title">Utilizzare %1$s?</string>
     <string name="capabilities_list_title">%1$s deve:</string>
-    <string name="enable_service_encryption_warning">Se attivi %1$s, il tuo dispositivo non userà la password del lockscreen per migliorare la crittografia dei dati.</string>
-    <string name="secure_lock_encryption_warning">Poiché hai attivato un servizio di accessibilità, non verrà usata la password del lockscreen per migliorare la crittografia dei dati."</string>
+    <string name="enable_service_encryption_warning">Se attivi %1$s, il tuo dispositivo non userà la password della Schermata di blocco per migliorare la crittografia dei dati.</string>
+    <string name="secure_lock_encryption_warning">Poiché hai attivato un servizio di accessibilità, non verrà usata la password della Schermata di blocco per migliorare la crittografia dei dati."</string>
     <string name="enable_service_pattern_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare la sequenza di sblocco.</string>
     <string name="enable_service_pin_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare il PIN.</string>
     <string name="enable_service_password_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare la password.</string>
@@ -2584,9 +2583,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="zen_mode_option_off">Interrompi sempre</string>
     <string name="zen_mode_option_important_interruptions">Consenti solo le interruzioni di priorità</string>
     <string name="zen_mode_option_no_interruptions">Non interrompere</string>
-    <string name="ringtone_title">Suoneria telefono</string>
     <string name="notification_ringtone_title">Suoneria notifiche predefinita</string>
-    <string name="vibrate_when_ringing_title">Vibra quando squilla</string>
     <string name="notification_section_header">Notifiche</string>
     <string name="notification_pulse_title">LED di notifica</string>
     <string name="lock_screen_notifications_title">Quando il dispositivo è bloccato</string>
@@ -2938,7 +2935,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="battery_indicator_style">Indicatore batteria</string>
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
-    <string name="lock_settings">Lockscreen</string>
+    <string name="lock_settings">Schermata di blocco</string>
     <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
     <string name="lock_settings_picker_settings">Imposta blocco schermo</string>
     <string name="lock_screen_unlock_show">Disabilita swipe screen</string>
@@ -2947,8 +2944,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="timezone_settings">Fuso orario</string>
     <string name="security_privacy_settings_title">Privacy</string>
     <string name="nearby_wifi">Reti disponibili</string>
-    <string name="unlock_set_enter_system">Salta schermata di blocco</string>
-    <string name="unlock_set_enter_system_summary">Vai direttamente alla schermata Home dopo lo sblocco</string>
+    <string name="unlock_set_enter_system">Salta Schermata di blocco</string>
+    <string name="unlock_set_enter_system_summary">Vai direttamente alla Schermata Home dopo lo sblocco</string>
     <string name="forget_wifi_message">Il tuo dispositivo non si connetterà più a questa rete automaticamente.</string>
     <string name="button_disconnect_network">Disconnesso dalla rete</string>
     <string name="no_nearby_wifi">Nessuna rete rilevata</string>
@@ -3071,7 +3068,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="show_magnifier_when_input">"Lente d'ingrandimento testo"</string>
     <string name="volume_hifi_description">Impostazioni Hi-Fi</string>
     <string name="volume_voice_description">Voce</string>
-    <string name="volume_system_description">Scatto fotocamera, schermata di blocco, e altre notifiche di sistema</string>
+    <string name="volume_system_description">Scatto fotocamera, Schermata di blocco e altre notifiche di sistema</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_restore">Reimposta livelli</string>
     <string name="volume_restore_alert">Reimpostando i livelli del volume ai valori predefiniti verranno rimosse le attuali impostazioni</string>
@@ -3524,7 +3521,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="cleaner">Pulizia</string>
     <string name="power_mgr">Batteria</string>
     <string name="symbols_not_allowed_for_password">La password non può contenere simboli</string>
-    <string name="reset_legacy_password_settings_preface_text">Devi ripristinare la tua password della schermata di blocco.</string>
+    <string name="reset_legacy_password_settings_preface_text">Devi ripristinare la tua password della Schermata di blocco.</string>
     <string name="priority_storage_title">Impostazioni di archiviazione</string>
     <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
     <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati saranno salvati automaticamente nella memoria interna del dispositivo</string>
@@ -3676,7 +3673,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_switch_to_gsm_title">Usare rete GSM?</string>
     <string name="wifi_switch_to_gsm_message">Connessione Wi-Fi persa. Vuoi utilizzare la connessione dati cellulare?</string>
     <string name="wifi_datanetwork_switch_not_remind">Non chiedere più</string>
-    <string name="skip_lock_screen_confirm_msg">Le seguenti funzioni verranno disattivate per la lockscreen: notifiche, controllo musica, slide sinistro per la Fotocamera e slide destro per Mi Home.</string>
+    <string name="skip_lock_screen_confirm_msg">Le seguenti funzioni verranno disattivate per la Schermata di blocco: notifiche, controllo musica, slide sinistro per la Fotocamera e slide destro per Mi Home.</string>
     <string name="performance_category">Prestazioni</string>
     <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
     <string name="fluency_mode_confirm_and_reboot">Riavvia adesso</string>
@@ -3718,7 +3715,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="edge_mode_guide_title">"Tocca l'area evidenziata per utilizzare i comandi laterali"</string>
     <string name="apply_password_to_category_title">Applica password a…</string>
     <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
-    <string name="secure_keyguard_business_title">Password lockscreen</string>
+    <string name="secure_keyguard_business_title">Password Schermata di blocco</string>
     <string name="fingerprint_and_password_entrance_title">Password e impronte digitali</string>
     <string name="password_entrance_title">Password</string>
     <string name="turn_off_common_password_confirm_msg">Anche la password verrà disattivata.</string>
@@ -3748,7 +3745,7 @@ Disabilitare le finestre flottanti?"</string>
 Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="add_fingerprint_toast_text">Appoggia il dito sul sensore adesso</string>
     <string name="onekey_migrate">Trasferisci</string>
-    <string name="lock_settings_with_fingerprint">Lockscreen e password</string>
+    <string name="lock_settings_with_fingerprint">Schermata di blocco e password</string>
     <string name="confirm_fingerprint_msg">Appoggia il dito sul lettore di impronte</string>
     <string name="managed_profile_location_category">Profilo lavoro</string>
     <string name="managed_profile_location_switch_title">Posizione per il profilo di lavoro</string>

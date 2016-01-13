@@ -355,16 +355,10 @@
     <string name="camera_snap_mode_title">Modalità Quick Snap</string>
     <string name="camera_snap_mode_title_detail">Tocca per i dettagli</string>
     <string name="pref_camera_snap_enable_title">Modalità Quick Snap</string>
-<<<<<<< HEAD
     <string name="pref_camera_snap_enable_summary">"Quando lo schermo è disattivato, tieni premuto il tasto Volume '-' per entrare in Modalità Quick Snap. Premilo di nuovo per scattare una foto."</string>
     <string name="pref_camera_snap_entry_take_picture">"Quando lo schermo è disattivato, tieni premuto il tasto Volume '-' per avviare lo scatto multiplo. Rilascia il tasto per interrompere."</string>
     <string name="pref_camera_snap_entry_take_movie">"Quando lo schermo è disattivato, tieni premuto il tasto Volume '-' per registrare un video. Rilascia il tasto per interrompere."</string>
-=======
-    <string name="pref_camera_snap_enable_summary">Quando lo schermo è disattivato, tieni premuto il tasto Volume - per entrare in Modalità Quick Snap. Premilo di nuovo per scattare una foto.</string>
-    <string name="pref_camera_snap_entry_take_picture">Quando lo schermo è disattivato, tieni premuto il tasto Volume - per avviare lo scatto multiplo. Rilascia il tasto per interrompere.</string>
-    <string name="pref_camera_snap_entry_take_movie">Quando lo schermo è disattivato, tieni premuto il tasto Volume - per registrare un video. Rilascia il tasto per interrompere.</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Impossibile utilizzare la modalità Quick snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva."</string>
->>>>>>> upstream/master
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
     <string name="simple_mode_button_text_tilt_shift">Disattiva Tilt-shift</string>
     <string name="pref_camera_fisheye_title">Fish-eye</string>
