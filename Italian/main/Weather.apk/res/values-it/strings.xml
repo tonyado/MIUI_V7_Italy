@@ -14,7 +14,7 @@
     <string name="menu_location">Località</string>
     <string name="button_allow">OK</string>
     <string name="button_confirm">Consenti</string>
-    <string name="button_abandon">Ignora cambiamenti</string>
+    <string name="button_abandon">Ignora modifiche</string>
     <string name="button_exit">Esci</string>
     <string name="button_not_allow">Annulla</string>
     <string name="act_weather_find_city_net_no_good">Impossibile connettersi alla rete.</string>
@@ -81,7 +81,7 @@
     <string name="information_time_source">%1$s | %2$s</string>
     <string name="daily_forcast_no_wind">Vento assente</string>
     <string name="title_share_link">Condividi URL</string>
-    <string name="network_not_available">"Impossibile colelgarsi alla rete"</string>
+    <string name="network_not_available">"Impossibile collegarsi alla rete"</string>
     <string name="no_network_btn">Riprova</string>
     <string name="share">Condividi</string>
     <string name="open_browser">Apri nel browser</string>

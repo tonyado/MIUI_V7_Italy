@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="setup_wizard_next_button_label">Avanti</string>
+    <string name="setup_wizard_back_button_label">Indietro</string>
     <string name="music_audio_effect_optimize">Impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>
@@ -40,6 +42,7 @@
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
     <string name="music_dirac_mode_piston_color">Color Edition</string>
     <string name="music_dirac_mode_headset">Cuffie Mi</string>
+    <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
@@ -57,20 +60,20 @@
     <string name="status_bar_and_notification_bar">Barra notifiche e barra di stato</string>
     <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
-    <string name="status_bar_app_enable_message">Badge</string>
-    <string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
-    <string name="status_bar_app_enable_keyguard">Lockscreen</string>
     <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
+	<string name="status_bar_app_enable_message">Badge</string>
+	<string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
+	<string name="status_bar_app_enable_keyguard">Lockscreen</string>
     <string name="status_bar_settings_notification_priority">Priorità</string>
     <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
     <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto sullo schermo</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto</string>
     <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla lockscreen</string>
-    <string name="status_bar_settings_show_keyguard_notification_summary" />
+    <string name="status_bar_settings_show_keyguard_notification_summary"/>
     <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
-    <string name="status_bar_settings_notification_led">Luce di notifica</string>
-    <string name="status_bar_settings_notification_bar">Barra notifiche</string>
+    <string name="status_bar_settings_notification_led">LED di notifica</string>
+    <string name="status_bar_settings_notification_bar">Pannello delle notifiche</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
     <string name="status_bar_settings_show_screenshot_notification">Mostra notifiche screenshot</string>
     <string name="status_bar_settings_status_bar">Barra di stato</string>
@@ -81,6 +84,10 @@
     <string name="status_bar_settings_advanced">Impostazioni aggiuntive</string>
     <string name="status_bar_settings_show_flow_info">Mostra dettagli trasmissione</string>
     <string name="status_bar_app_disable_notification">Vuoto</string>
+    <string name="status_bar_app_enable_message">Badge</string>
+    <string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
+    <string name="status_bar_app_enable_keyguard">Lockscreen</string>
+    <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_app_enable_on_notificationBar">Pannello delle notifiche</string>
     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lockscreen, pannello delle notifiche</string>
     <string name="status_bar_settings_show_carrier">Mostra operatore</string>
@@ -108,10 +115,12 @@
     <string name="device_info_default">Sconosciuto</string>
     <string name="show_dev_on">Ora sei uno sviluppatore.</string>
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
-    <string name="header_category_wireless_networks">WIRELESS E RETI</string>
-    <string name="header_category_device">DISPOSITIVO</string>
-    <string name="header_category_personal">PERSONALE</string>
-    <string name="header_category_system">SISTEMA</string>
+    <string name="header_category_wireless_networks">Wireless e Reti</string>
+    <string name="header_category_connections">Connessioni</string>
+    <string name="header_category_device">Dispositivo</string>
+    <string name="header_category_personal">Personale</string>
+    <string name="header_category_access">Accesso</string>
+    <string name="header_category_system">Sistema</string>
     <string name="turn_on_radio">Attiva segnale cellulare</string>
     <string name="turn_off_radio">Disattiva segnale cellulare</string>
     <string name="sms_over_ims_on">Attiva SMS su IMS</string>
@@ -137,7 +146,7 @@
     <string name="radioInfo_data_connecting">Connessione</string>
     <string name="radioInfo_data_connected">Connesso</string>
     <string name="radioInfo_data_suspended">Sospeso</string>
-    <string name="radioInfo_unknown">sconosciuto</string>
+    <string name="radioInfo_unknown">Sconosciuto</string>
     <string name="radioInfo_display_packets">pkt</string>
     <string name="radioInfo_display_bytes">byte</string>
     <string name="radioInfo_display_dbm">dBm</string>
@@ -153,7 +162,7 @@
     <string name="font_size_save">OK</string>
     <string name="sdcard_setting">Archivio USB</string>
     <string name="battery_info_status_label">Stato batteria:</string>
-    <string name="battery_info_power_label">Presa di corrente:</string>
+    <string name="battery_info_power_label">Alimentatore:</string>
     <string name="battery_info_scale_label">Scala batteria:</string>
     <string name="battery_info_level_label">Livello batteria:</string>
     <string name="battery_info_health_label">Condizioni batteria:</string>
@@ -164,7 +173,7 @@
     <string name="battery_info_temperature_units">°C</string>
     <string name="battery_info_uptime">"Tempo dall'avvio:"</string>
     <string name="battery_info_awake_battery">Tempo di attività con batteria:</string>
-    <string name="battery_info_awake_plugged">Tempo di attività sotto carica:</string>
+    <string name="battery_info_awake_plugged">Tempo di attività in carica:</string>
     <string name="battery_info_screen_on">Tempo accensione schermo:</string>
     <string name="battery_info_status_unknown">Sconosciuta</string>
     <string name="battery_info_status_charging">In carica</string>
@@ -173,7 +182,7 @@
     <string name="battery_info_status_charging_wireless">(wireless)</string>
     <string name="battery_info_status_discharging">Non in carica</string>
     <string name="battery_info_status_not_charging">Non in carica</string>
-    <string name="battery_info_status_full">Carica</string>
+    <string name="battery_info_status_full">Carica completata</string>
     <string name="battery_info_power_unplugged">Non collegato</string>
     <string name="battery_info_power_ac">CA</string>
     <string name="battery_info_power_usb">USB</string>
@@ -191,7 +200,7 @@
     <string name="bluetooth_is_discoverable">Visibile a tutti dispositivi Bluetooth vicini (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Visibile a tutti dispositivi Bluetooth vicini</string>
     <string name="bluetooth_not_visible_to_other_devices">Non visibile ad altri dispositivi Bluetooth</string>
-    <string name="bluetooth_only_visible_to_paired_devices">Visibile solo ai dispositivi accoppiati</string>
+    <string name="bluetooth_only_visible_to_paired_devices">Visibile solo ai dispositivi abbinati</string>
     <string name="bluetooth_visibility_timeout">Timeout visibilità</string>
     <string name="bluetooth_lock_voice_dialing">Blocca composizione vocale</string>
     <string name="bluetooth_lock_voice_dialing_summary">"Impedisci l'uso del compositore Bluetooth quando lo schermo è bloccato"</string>
@@ -205,8 +214,12 @@
     <string name="bluetooth_rename_button">Rinomina</string>
     <string name="bluetooth_disconnect_title">Disconnettere?</string>
     <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_empty_list_user_restricted">Non hai i permessi per modificare le impostazioni Bluetooth</string>
+    <string name="bluetooth_is_visible_message">%1$s è visibile ai dispositivi nelle vicinanze quando il Bluetooth è attivo.</string>
+    <string name="bluetooth_is_disconnect_question">Disconnettere da %1$s?</string>
+    <string name="bluetooth_broadcasting">Trasmissione</string>
     <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
-    <string name="bluetooth_disable_profile_message">Verrà disattivato:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Su:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_disable_profile_message">Verrà disattivato:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Da:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Connesso</string>
     <string name="bluetooth_connected_no_headset">Collegato (telefono escluso)</string>
     <string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
@@ -216,21 +229,26 @@
     <string name="bluetooth_disconnecting">Disconnessione…</string>
     <string name="bluetooth_connecting">Connessione…</string>
     <string name="bluetooth_unknown" />
-    <string name="bluetooth_pairing">Accoppiamento…</string>
+    <string name="bluetooth_pairing">Abbinamento…</string>
     <string name="bluetooth_device">Dispositivo Bluetooth senza nome</string>
     <string name="progress_scanning">Ricerca</string>
-    <string name="bluetooth_no_devices_found">Nessun dispositivo Bluetooth in vicinanze.</string>
-    <string name="bluetooth_notif_ticker">Richiesta accoppiamento Bluetooth</string>
-    <string name="bluetooth_notif_title">Richiesta accoppiamento</string>
-    <string name="bluetooth_notif_message">"Tocca per accoppiare con %1$s."</string>
+    <string name="bluetooth_no_devices_found">Nessun dispositivo Bluetooth nelle vicinanze.</string>
+    <string name="bluetooth_notif_ticker">Richiesta abbinamento Bluetooth</string>
+    <string name="bluetooth_notif_title">Richiesta abbinamento</string>
+    <string name="bluetooth_notif_message">Tocca per abbinare con %1$s.</string>
     <string name="bluetooth_show_received_files">Mostra file ricevuti</string>
-    <string name="device_picker">Selettore dispositivo Bluetooth</string>
+    <string name="device_picker">Scegli il dispositivo Bluetooth</string>
     <string name="bluetooth_permission_request">Richiesta autorizzazione Bluetooth</string>
-    <string name="bluetooth_ask_enablement">"Un'app chiede di attivare il Bluetooth."</string>
-    <string name="bluetooth_ask_discovery">"Un'app chiede di rendere il tuo dispositivo visualizzabile da altri dispositivi Bluetooth per %1$d secondi."</string>
-    <string name="bluetooth_ask_lasting_discovery">"Un'app chiede di rendere il tuo dispositivo visualizzabile da altri dispositivi Bluetooth. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
-    <string name="bluetooth_ask_enablement_and_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tuo dispositivo visualizzabile da altri dispositivi per %1$d secondi."</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tuo dispositivo visualizzabile da altri dispositivi. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
+    <string name="bluetooth_ask_enablement">"Un'app desidera attivare il Bluetooth."</string>
+    <string name="bluetooth_ask_discovery">"Un'app desidera rendere il tuo dispositivo visibile ad altri dispositivi Bluetooth per %1$d secondi."</string>
+    <string name="bluetooth_ask_lasting_discovery">"Un'app chiede di rendere il tuo dispositivo visibile ad altri dispositivi Bluetooth. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
+    <string name="bluetooth_ask_start_broadcast">%1$s desidera attivare la trasmissione via Bluetooth per comunicare con altri dispositivi nelle vicinanze. Puoi modificare tale impostazione in un secondo momento nelle impostazioni relative al Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s desidera attivare la funzione Bluetooth e la trasmissione via Bluetooth per comunicare con altri dispositivi nelle vicinanze. Puoi modificare tale impostazione in un secondo momento nelle impostazioni relative al Bluetooth.</string>
+    <string name="bluetooth_broadcasting_explaination">"Quando questa funzione è attiva, il telefono può comunicare con altri dispositivi nelle vicinanze.
+
+La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
+    <string name="bluetooth_ask_enablement_and_discovery">"Un'app desidera attivare il Bluetooth e di rendere il tuo dispositivo visibile da altri dispositivi per %1$d secondi."</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">"Un'app desidera attivare il Bluetooth e di rendere il tuo dispositivo visibile da altri dispositivi. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
     <string name="bluetooth_turning_on">Attivazione Bluetooth…</string>
     <string name="bluetooth_turning_off">Disattivazione Bluetooth…</string>
     <string name="bluetooth_auto_connect">Connessione automatica</string>
@@ -252,12 +270,13 @@
     <string name="intent_sender_data_label">Dati:</string>
     <string name="intent_sender_sendbroadcast_text">Invia broadcast</string>
     <string name="intent_sender_action_label">Azione:</string>
-    <string name="intent_sender_startactivity_text">Inizio attività</string>
+    <string name="intent_sender_startactivity_text">Inizia attività</string>
     <string name="intent_sender_resource_label">Risorsa:</string>
     <string name="intent_sender_account_label">Account:</string>
     <string name="proxy_settings_title">Proxy</string>
     <string name="proxy_clear_text">Rimuovi</string>
     <string name="proxy_port_label">Porta proxy</string>
+    <string name="proxy_port_hint">8080</string>
     <string name="proxy_exclusionlist_label">Ignora proxy per</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_defaultView_text">Ripristina predefinite</string>
@@ -272,10 +291,12 @@
     <string name="proxy_error_empty_host_set_port">Il campo Porta deve essere vuoto se il campo Host è vuoto.</string>
     <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
     <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
-    <string name="proxy_url">"URL PAC: "</string>
+    <string name="proxy_url_title">"URL PAC: "</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="radio_info_signal_location_label">Posizione:</string>
     <string name="radio_info_neighboring_location_label">CID adiacente:</string>
     <string name="radio_info_cellinfo_label">CellInfo:</string>
+    <string name="radio_info_dcrtinfo_label">DcRtInfo:</string>
     <string name="radio_info_data_attempts_label">Tentativi dati:</string>
     <string name="radio_info_gprs_service_label">Servizio GPRS:</string>
     <string name="radio_info_roaming_label">Roaming:</string>
@@ -330,9 +351,16 @@
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
     <string name="phone_info_label">Info dispositivo</string>
+    <string name="field_test_info_label">Campo informazioni test</string>
     <string name="sd_card_settings_label">Archivio USB</string>
     <string name="proxy_settings_label">Impostazioni proxy</string>
     <string name="cancel">Annulla</string>
+    <string name="cancel_all_caps">ANNULLA</string>
+    <string name="continue_all_caps">CONTINUA</string>
+    <string name="okay">OK</string>
+    <string name="yes_all_caps">SI</string>
+    <string name="no_all_caps">NO</string>
+    <string name="forget">DIMENTICA</string>
     <string name="settings_label">Impostazioni</string>
     <string name="settings_label_launcher">Impostazioni</string>
     <string name="settings_shortcut">Scorciatoia Impostazioni</string>
@@ -340,6 +368,11 @@
     <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
     <string name="radio_controls_summary">Gestisci Wi-Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
+    <string name="cellular_data_title">Dati cellulare</string>
+    <string name="calls_title">Chiamate</string>
+    <string name="sms_messages_title">Messaggi SMS</string>
+    <string name="cellular_data_summary">"Consenti l'utilizzo di dati mobili"</string>
+    <string name="allow_data_usage_title">"Consenti l'utilizzo di dati mobili quando sei in roaming"</string>
     <string name="roaming">Roaming dati</string>
     <string name="roaming_enable">Connessione a servizi di dati in roaming</string>
     <string name="roaming_disable">Connessione a servizi di dati in roaming</string>
@@ -361,10 +394,15 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="zone_auto">Fuso orario automatico</string>
     <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
     <string name="zone_auto_summaryOff">Utilizza il fuso orario fornito dalla rete</string>
+    <string name="date_time_24hour_title">Formato 24 ore</string>
     <string name="date_time_24hour">Usa formato 24 ore</string>
+    <string name="date_time_set_time_title">Ora</string>
     <string name="date_time_set_time">Imposta ora</string>
+    <string name="date_time_set_timezone_title">Fuso orario</string>
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
+    <string name="date_time_set_date_title">Data</string>
     <string name="date_time_set_date">Imposta data</string>
+    <string name="date_time_date_format_title">Formato data</string>
     <string name="date_time_date_format">Scegli il formato della data</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
@@ -374,7 +412,8 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="biometric_weak_liveliness_title">Controllo vitalità</string>
     <string name="biometric_weak_liveliness_summary">Richiedi battito di ciglia durante sblocco</string>
     <string name="lock_after_timeout">Blocca automaticamente</string>
-    <string name="lock_after_timeout_summary">%1$s dopo sospensione</string>
+    <string name="lock_after_timeout_summary">%1$s dopo la sospensione</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s dopo la sospensione eccetto quando bloccato da %2$s</string>
     <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario su blocco schermo</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="security_enable_widgets_title">Abilita widget</string>
@@ -385,7 +424,9 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="user_info_settings_title">Dati utente</string>
     <string name="show_profile_info_on_lockscreen_label">Mostra info profilo in schermata di blocco</string>
     <string name="profile_info_settings_title">Informazioni profilo</string>
+    <string name="Accounts_settings_title">Account</string>
     <string name="location_settings_title">Geolocalizzazione</string>
+    <string name="account_settings_title">Account</string>
     <string name="security_settings_title">Sicurezza</string>
     <string name="security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco SIM, blocco cred.</string>
     <string name="cdma_security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco archivio credenziali</string>
@@ -398,20 +439,27 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
 
 La crittografia potrebbe richiedere più di un'ora. Devi iniziare con una batteria carica e tenere il dispositivo collegato fino al completamento della crittografia. Se interrompi la procedura, perderai alcuni o tutti i tuoi dati."</string>
     <string name="crypt_keeper_button_text">Esegui crittografia dispositivo</string>
-    <string name="crypt_keeper_low_charge_text">Carica la batteria e riprova.</string>
+    <string name="crypt_keeper_low_charge_text">Ricarica la batteria e riprova.</string>
     <string name="crypt_keeper_unplugged_text">Collega il caricabatterie e riprova.</string>
-    <string name="crypt_keeper_dialog_need_password_title">Nessun PIN/password di blocco dello schermo</string>
+    <string name="crypt_keeper_dialog_need_password_title">Nessun PIN/Password di blocco dello schermo</string>
     <string name="crypt_keeper_dialog_need_password_message">Devi impostare un PIN o una password di blocco dello schermo per poter iniziare la crittografia.</string>
+    <string name="crypt_keeper_confirm_encrypt">È necessario inserire la sequenza di sblocco per confermare la crittografia del dispositivo.</string>
     <string name="crypt_keeper_confirm_title">Crittografare?</string>
     <string name="crypt_keeper_final_desc">"L'operazione di crittografia non è reversibile e la sua interruzione causerà la perdita di dati. La crittografia richiede almeno un'ora, durante la quale il dispositivo verrà riavviato diverse volte."</string>
     <string name="crypt_keeper_setup_title">Crittografia</string>
     <string name="crypt_keeper_setup_description">Attendi il termine della crittografia del dispositivo. ^1% completato.</string>
+    <string name="crypt_keeper_setup_time_remaining">Attendi che il telefono viene crittografato. Tempo rimanente: ^1</string>
     <string name="crypt_keeper_cooldown">Riprova tra ^1 secondi.</string>
+    <string name="crypt_keeper_warn_wipe">Avvertimento: Il dispositivo sarà formattato dopo ^1 altro tentativo fallito!</string>
     <string name="crypt_keeper_enter_password">Digita la password</string>
     <string name="crypt_keeper_failed_title">Crittografia non riuscita</string>
     <string name="crypt_keeper_failed_summary">"La crittografia è stata interrotta e non è possibile portarla a termine. Di conseguenza, i dati memorizzati sul dispositivo non sono più accessibili. 
 
 Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dati di fabbrica. Quando configuri il dispositivo dopo il ripristino, hai la possibilità di ripristinare i dati di cui hai effettuato il backup nel tuo account Google."</string>
+    <string name="crypt_keeper_data_corrupt_title">Decrittazione senza successo</string>
+    <string name="crypt_keeper_data_corrupt_summary">"La password che hai inserito è corretta, ma i dati sono corrotti. 
+
+Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fabbrica. Quando configurerai il telefono dopo il reset, avrai l'opportunità di ripristinare il tuo backup salvato con il tuo account Google."</string>
     <string name="crypt_keeper_switch_input_method">Cambia metodo di immissione</string>
     <string name="lock_settings_picker_title">Scegli blocco schermo</string>
     <string name="backup_lock_settings_picker_title">Scegli blocco di backup</string>
@@ -459,6 +507,7 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="lockpassword_password_requires_digit">La password deve contenere almeno una cifra.</string>
     <string name="lockpassword_password_requires_symbol">La password deve contenere almeno un simbolo.</string>
     <string name="lockpassword_password_recently_used">"L'amministratore del dispositivo non consente l'utilizzo di una password recente."</string>
+    <string name="lockpassword_pin_no_sequential_digits">Un ascendente, discendente o ripetizione di sequenza di cifre è vietata</string>
     <string name="lockpassword_ok_label">OK</string>
     <string name="lockpassword_cancel_label">Annulla</string>
     <string name="lockpattern_tutorial_cancel_label">Annulla</string>
@@ -477,35 +526,50 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
     <string name="bluetooth_settings_summary">Gestisci le connessioni, imposta il nome e la rilevabilità del dispositivo</string>
-    <string name="bluetooth_pairing_request">Richiesta accoppiamento Bluetooth</string>
-    <string name="bluetooth_enter_pin_msg">"Per eseguire l'accoppiamento con &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, digita il PIN richiesto del dispositivo:"</string>
-    <string name="bluetooth_enter_passkey_msg">"Per eseguire l'accoppiamento con &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, digita la passkey richiesta del dispositivo:"</string>
+    <string name="bluetooth_pairing_request">Richiesta abbinamento Bluetooth</string>
+    <string name="bluetooth_enter_pin_msg">Dispositivo</string>
+    <string name="bluetooth_pairing_key_msg">Codice di abbinamento</string>
+    <string name="bluetooth_enter_pin_msg_hs">Il dispositivo richiede una passkey di Alta Sicurezza con 16 caratteri</string>
+    <string name="bluetooth_enter_passkey_msg">Digita il codice di abbinamento e premi Invio</string>
     <string name="bluetooth_enable_alphanumeric_pin">Il PIN contiene lettere o simboli</string>
     <string name="bluetooth_pin_values_hint">Di solito 0000 o 1234</string>
-    <string name="bluetooth_enter_pin_other_device">"Potrebbe inoltre essere necessario digitare questo PIN sull'altro dispositivo."</string>
-    <string name="bluetooth_enter_passkey_other_device">"Potrebbe inoltre essere necessario digitare questa passkey sull'altro dispositivo."</string>
-    <string name="bluetooth_confirm_passkey_msg">"Per l'accoppiamento con:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assicurati che sia visualizzata questa passkey:&lt;br>&lt;b>%2$s&lt;/b>"</string>
-    <string name="bluetooth_incoming_pairing_msg">Da:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Accoppiare con questo dispositivo?</string>
-    <string name="bluetooth_display_passkey_pin_msg">"Per eseguire l'accoppiamento con &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, digita sul dispositivo &lt;br>&lt;b>%2$s&lt;/b>, quindi premi A capo o Invio."</string>
-    <string name="bluetooth_pairing_accept">Accoppia</string>
+    <string name="bluetooth_enter_pin_other_device">"Potrebbe essere necessario digitare questo PIN anche sull'altro dispositivo."</string>
+    <string name="bluetooth_enter_passkey_other_device">"Potrebbe essere necessario digitare questa passkey anche sull'altro dispositivo."</string>
+    <string name="bluetooth_confirm_passkey_msg">"Per l'abbinamento con:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assicurati che sia visualizzata questa passkey:&lt;br>&lt;b>%2$s&lt;/b>"</string>
+    <string name="bluetooth_incoming_pairing_msg">Da:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Abbinare con questo dispositivo?</string>
+    <string name="bluetooth_display_passkey_pin_msg">"Per eseguire l'abbinamento con &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, digita sul dispositivo &lt;br>&lt;b>%2$s&lt;/b>, quindi premi A capo o Invio."</string>
+    <string name="bluetooth_pairing_accept">Abbina</string>
+    <string name="bluetooth_pairing_accept_all_caps">ABBINA</string>
     <string name="bluetooth_pairing_decline">Annulla</string>
+    <string name="bluetooth_pairing_will_share_phonebook">"L'abbinamento consente l'accesso ai contatti e al registro chiamate."</string>
     <string name="bluetooth_error_title" />
-    <string name="bluetooth_pairing_error_message">"Impossibile eseguire l'accoppiamento con %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Impossibile eseguire l'accoppiamento con %1$s. La passkey o il PIN è errato."</string>
+    <string name="bluetooth_pairing_error_message">"Impossibile eseguire l'abbinamento con %1$s."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Impossibile eseguire l'abbinamento con %1$s. La passkey o il PIN è errato."</string>
     <string name="bluetooth_pairing_device_down_error_message">Impossibile comunicare con %1$s.</string>
-    <string name="bluetooth_pairing_rejected_error_message">Accoppiamento rifiutato da %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Abbinamento rifiutato da %1$s.</string>
     <string name="bluetooth_connecting_error_message">Impossibile collegarsi a %1$s.</string>
     <string name="bluetooth_preference_scan_title">Cerca dispositivi</string>
     <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
     <string name="bluetooth_searching_for_devices">Ricerca…</string>
     <string name="bluetooth_preference_device_settings">Impostazioni dispositivo</string>
-    <string name="bluetooth_preference_paired_devices">Dispositivi accoppiati</string>
+    <string name="bluetooth_preference_paired_devices">Dispositivi salvati</string>
+	<string name="bluetooth_preference_paired_dialog_title">Dispositivo abbinato</string>
+    <string name="bluetooth_preference_paired_dialog_name_label">Nome</string>
+    <string name="bluetooth_preference_paired_dialog_internet_option">Connessione internet</string>
+    <string name="bluetooth_preference_paired_dialog_keyboard_option">Tastiera</string>
+    <string name="bluetooth_preference_paired_dialog_contacts_option">Contatti e registro chiamate</string>
+    <string name="bluetooth_pairing_dialog_title">Abbinare con questo dispositivo?</string>
+    <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Condividere i contatti e il registro chiamate?</string>
+    <string name="bluetooth_pairing_dialog_contants_request">%1$s vuole accedere ai tuoi contatti e al registro chiamate.</string>
+    <string name="bluetooth_pairing_dialog_paring_request">%1$s vuole abbinarsi con il Bluetooth. Quando connesso, avrà accesso ai contatti e al registro chiamate.</string>
+    <string name="bluetooth_preference_paired_devices">Dispositivi abbinati</string>
     <string name="bluetooth_preference_found_devices">Dispositivi disponibili</string>
+    <string name="bluetooth_preference_no_found_devices">Nessun dispositivo disponibile</string>
     <string name="bluetooth_device_context_connect">Connetti</string>
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
-    <string name="bluetooth_device_context_pair_connect">Accoppia e connetti</string>
-    <string name="bluetooth_device_context_unpair">Disaccoppia</string>
-    <string name="bluetooth_device_context_disconnect_unpair">Disconnetti e disaccoppia</string>
+    <string name="bluetooth_device_context_pair_connect">Abbina e connetti</string>
+    <string name="bluetooth_device_context_unpair">Dissocia</string>
+    <string name="bluetooth_device_context_disconnect_unpair">Disconnetti e dissocia</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni…</string>
     <string name="bluetooth_menu_advanced">Avanzate</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>
@@ -516,23 +580,29 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="bluetooth_profile_opp">Trasferimento file</string>
     <string name="bluetooth_profile_hid">Dispositivo di input</string>
     <string name="bluetooth_profile_pan">Accesso Internet</string>
+    <string name="bluetooth_profile_pbap">Condivisione contatto</string>
+    <string name="bluetooth_profile_pbap_summary">Usa per condividere un contatto</string>
     <string name="bluetooth_profile_pan_nap">Condivisione connessione Internet</string>
     <string name="bluetooth_profile_map">Accesso ai messaggi</string>
+    <string name="bluetooth_profile_dun">Accesso Rete di Chiamata</string>
+    <string name="bluetooth_profile_sap">Accesso SIM</string>
     <string name="bluetooth_disconnect_a2dp_profile">"%1$s verrà disconnesso dall'audio multimediale."</string>
     <string name="bluetooth_disconnect_headset_profile">"%1$s verrà disconnesso dall'audio vivavoce."</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s verrà disconnesso dal dispositivo di input.</string>
     <string name="bluetooth_disconnect_pan_user_profile">"L'accesso Internet tramite %1$s verrà disconnesso."</string>
     <string name="bluetooth_disconnect_pan_nap_profile">%1$s verrà disconnesso dalla condivisione della connessione internet del dispositivo.</string>
-    <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth accoppiato</string>
+    <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth abbinato</string>
     <string name="bluetooth_device_advanced_online_mode_title">Connetti</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Connessione a dispositivo Bluetooth</string>
     <string name="bluetooth_device_advanced_profile_header_title">Profili</string>
     <string name="bluetooth_device_advanced_rename_device">Rinomina</string>
-    <string name="bluetooth_device_advanced_enable_opp_title">Consenti trasfer. file arrivo</string>
+    <string name="bluetooth_device_advanced_enable_opp_title">Consenti trasfer. file in arrivo</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Collegato ad audio media</string>
     <string name="bluetooth_headset_profile_summary_connected">Collegato ad audio telefono</string>
     <string name="bluetooth_opp_profile_summary_connected">Collegato al server di trasferimento file</string>
     <string name="bluetooth_map_profile_summary_connected">Connesso alla mappa</string>
+    <string name="bluetooth_dun_profile_summary_connected">Connesso al Server DUN</string>
+    <string name="bluetooth_sap_profile_summary_connected">Connessione al Server accesso SIM</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Non collegato al server di trasferimento file</string>
     <string name="bluetooth_hid_profile_summary_connected">Connesso a dispositivo di input</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Connesso a dispositivo per accesso Internet</string>
@@ -540,6 +610,8 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio media</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usa per audio telefono</string>
     <string name="bluetooth_opp_profile_summary_use_for">Usa per trasferimento file</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Usa per accesso Dial-up alla rete</string>
+    <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
     <string name="bluetooth_hid_profile_summary_use_for">"Utilizza per l'input"</string>
     <string name="bluetooth_pan_profile_summary_use_for">Usa per accesso Internet</string>
     <string name="bluetooth_map_profile_summary_use_for">Utilizza per la mappa</string>
@@ -548,6 +620,14 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="bluetooth_dock_settings_headset">Come vivavoce</string>
     <string name="bluetooth_dock_settings_a2dp">Per musica e audio media</string>
     <string name="bluetooth_dock_settings_remember">Ricorda impostazioni</string>
+    <string name="wifi_assistant_intro_setup">"Introduzione
+ Assistente Wi-Fi"</string>
+    <string name="wifi_assistant_no_thanks">NO, GRAZIE</string>
+    <string name="wifi_assistant_setup">CONFIGURA</string>
+    <string name="wifi_assistant_card_message">"Connetti automaticamente alle reti disponibili con l'assistente Wi-Fi."</string>
+    <string name="wifi_assistant_title">Assistente Wi-Fi</string>
+    <string name="wifi_assistant_title_message">%1$s ti connette automaticamente alla migliore rete Wi-Fi disponibile</string>
+    <string name="wifi_assistant_open_app">APRI APP</string>
     <string name="wifi_display_settings_title">Trasmetti schermo</string>
     <string name="wifi_display_enable_menu_item">Attiva display wireless</string>
     <string name="wifi_display_no_devices_found">Nessun dispositivo Bluetooth vicino.</string>
@@ -569,6 +649,8 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_display_wps_config">Configurazione WPS</string>
     <string name="wifi_display_listen_channel">"Canale d'ascolto"</string>
     <string name="wifi_display_operating_channel">Canale operativo</string>
+    <string name="wifi_band_24ghz">2.4GHz</string>
+    <string name="wifi_band_5ghz">5GHz</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Consenti lo scambio di dati quando il dispositivo tocca un altro dispositivo</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -586,6 +668,7 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_settings_summary">Configura e gestisci punti di accesso wireless</string>
     <string name="wifi_setup_wizard_title">Seleziona Wi-Fi</string>
+    <string name="wifi_select_network">Seleziona Wi-Fi</string>
     <string name="wifi_starting">Attivazione Wi-Fi…</string>
     <string name="wifi_stopping">Disattivazione Wi-Fi…</string>
     <string name="wifi_error">Errore</string>
@@ -595,16 +678,25 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_notify_open_networks_summary">Avvisa quando è disponibile una rete aperta</string>
     <string name="wifi_poor_network_detection">Evita connessioni deboli</string>
     <string name="wifi_poor_network_detection_summary">Non utilizzare una rete Wi-Fi a meno che non abbia una buona connessione a Internet</string>
+    <string name="wifi_rssi_threshold_check">Abilita soglia RSSI</string>
+    <string name="wifi_rssi_threshold_check_summary">Non connetterti ad un AP se il segnale è debole</string>
+    <string name="wifi_avoid_poor_network_detection_summary">Usa solo reti con una buona connessione</string>
     <string name="wifi_scan_always_available">Scansione sempre disponibile</string>
+    <string name="wifi_scan_always_available_title">Permetti sempre la scansione</string>
     <string name="wifi_scan_always_available_summary">Consenti al servizio di geolocalizzazione di Google e ad altre app di eseguire la scansione delle reti, anche quando il Wi-Fi non è attivo</string>
+    <string name="wifi_automatically_manage_title">Gestisci automaticamente il  Wi-Fi</string>
+    <string name="wifi_automatically_manage_summary">Permetti a %1$s di gestire la tua connessione Wi-Fi</string>
     <string name="wifi_install_credentials">Installa certificati</string>
     <string name="wifi_scan_notify_text_location_on">Per una maggiore precisione nella localizzazione e altri motivi, Google e altre app sono in grado di cercare reti nelle vicinanze, anche quando la connessione Wi-Fi è disattivata. Se non desideri consentire tale ricerca, accedi ad Avanzate > Scansione sempre disponibile.</string>
     <string name="wifi_scan_notify_text_location_off">Le app possono cercare reti nelle vicinanze, anche quando la connessione Wi-Fi è disattivata. Se non desideri consentire tale ricerca, accedi ad Advanzate > Scansione sempre disponibile.</string>
     <string name="wifi_scan_notify_remember_choice">Non mostrare più</string>
-    <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi-Fi durante sospensione</string>
+    <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi-Fi durante la sospensione</string>
+    <string name="wifi_setting_on_during_sleep_title">Wi-Fi attivo durante la sospensione</string>
     <string name="wifi_setting_sleep_policy_error">"Si è verificato un problema durante la modifica dell'impostazione"</string>
+    <string name="wifi_suspend_efficiency_title">"Migliora l'efficienza"</string>
     <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
-    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando Wi-Fi è attivo"</string>
+    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando il Wi-Fi è attivo"</string>
+    <string name="wifi_limit_optimizations_summary">"Limita l'utilizzo della batteria da parte del Wi-Fi"</string>
     <string name="wifi_add_network">Aggiungi rete</string>
     <string name="wifi_access_points">Reti Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Pulsante di comando WPS</string>
@@ -616,6 +708,7 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_menu_connect">Connetti alla rete</string>
     <string name="wifi_menu_forget">Elimina rete</string>
     <string name="wifi_menu_modify">Modifica rete</string>
+    <string name="wifi_menu_write_to_nfc">Crea un tag NFC</string>
     <string name="wifi_empty_list_wifi_off">Per visualizzare le reti disponibili, attiva Wi-Fi.</string>
     <string name="wifi_empty_list_wifi_on">Ricerca reti Wi-Fi in corso…</string>
     <string name="wifi_empty_list_user_restricted">"Non disponi dell'autorizzazione per cambiare la rete Wi-Fi."</string>
@@ -642,9 +735,10 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_signal">Intensità segnale</string>
     <string name="wifi_status">Stato</string>
     <string name="wifi_speed">Velocità di collegamento</string>
+    <string name="wifi_frequency">Frequenza</string>
     <string name="wifi_ip_address">Indirizzo IP</string>
+    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_eap_method">Metodo EAP</string>
-
     <string name="please_select_phase2">Fase 2 di autenticazione</string>
     <string name="wifi_eap_ca_cert">Certificato CA</string>
     <string name="wifi_eap_user_cert">Certificato utente</string>
@@ -668,8 +762,12 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_scan_always_turnon_message">"Per migliorare la precisione della posizione e per altri scopi, %1$s chiede di attivare la ricerca della rete, anche quando il Wi-Fi è disattivato.
 
 Consetirlo a tutte le app che vogliono eseguire la ricerca?"</string>
+    <string name="wifi_scan_always_turnoff_message">Per disattivare, vai su Avanzate nel menu in alto.</string>
     <string name="wifi_scan_always_confirm_allow">Consenti</string>
     <string name="wifi_scan_always_confirm_deny">Rifiuta</string>
+    <string name="wifi_hotspot_title">Accedere per connetterti?</string>
+    <string name="wifi_hotspot_message">"%1$s richiede l'accesso prima di collegarsi alla rete."</string>
+    <string name="wifi_hotspot_connect">CONNETTI</string>
     <string name="wifi_connect">Connetti</string>
     <string name="wifi_failed_connect_message">Impossibile connettersi alla rete</string>
     <string name="wifi_forget">Elimina</string>
@@ -684,12 +782,14 @@ Consetirlo a tutte le app che vogliono eseguire la ricerca?"</string>
 La configurazione del dispositivo può richiedere notevole attività di rete."</string>
     <string name="wifi_and_mobile_skipped_message">AVVISO. Finché non disporrai di una connessione internet, il dispositivo non sarà in grado di verificare che il software sia aggiornato.</string>
     <string name="wifi_connect_failed_message">Impossibile collegare il dispositivo alla rete Wi-Fi.</string>
+    <string name="wifi_saved_access_points_titlebar">Reti salvate</string>
     <string name="wifi_advanced_titlebar">Wi-Fi avanzate</string>
     <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Specifica campo di frequenza di funzionamento</string>
     <string name="wifi_setting_frequency_band_error">Errore di impostazione della banda di frequenza.</string>
     <string name="wifi_advanced_mac_address_title">Indirizzo MAC</string>
     <string name="wifi_advanced_ip_address_title">Indirizzo IP</string>
+    <string name="wifi_saved_access_points_label">Reti salvate</string>
     <string name="wifi_advanced_settings_label">Impostazioni IP</string>
     <string name="wifi_ip_settings_menu_save">Salva</string>
     <string name="wifi_ip_settings_menu_cancel">Annulla</string>
@@ -698,10 +798,13 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_ip_settings_invalid_dns">Digita un indirizzo DNS valido.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">Digita un prefisso di rete di 0-32 caratteri.</string>
     <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_gateway">Gateway</string>
-    
+    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Lunghezza prefisso</string>
+    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_device_info">Informazioni dispositivo</string>
     <string name="wifi_p2p_persist_network">Memorizza questa connessione</string>
@@ -719,11 +822,15 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_p2p_cancel_connect_message">"Vuoi annullare l'invito a connettersi con %1$s?"</string>
     <string name="wifi_p2p_delete_group_message">Eliminare questo gruppo?</string>
     <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi</string>
+    <string name="wifi_hotspot_checkbox_text">Hotspot Wi-Fi</string>
+    <string name="wifi_hotspot_checkbox_text_summary">Usa la connessione del cellulare per condividere la rete Wi-Fi</string>
     <string name="wifi_tether_starting">Attivazione hotspot…</string>
     <string name="wifi_tether_stopping">Disattivazione hotspot…</string>
     <string name="wifi_tether_enabled_subtext">Hotspot %1$s attivo</string>
     <string name="wifi_tether_failed_subtext">Errore hotspot Wi-Fi portatile</string>
     <string name="wifi_tether_configure_ap_text">Configura hotspot Wi-Fi</string>
+    <string name="wifi_hotspot_configure_ap_text">Configurazione hotspot Wi-Fi</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK hotspot Wi-Fi portatile</string>
     <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">Hotspot-Android</string>
     <string name="testing_wifi_info">Informazioni Wi-Fi</string>
@@ -1619,7 +1726,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="tts_default_rate_title">Velocità voce</string>
     <string name="tts_default_rate_summary">Velocità di pronuncia del testo</string>
     <string name="tts_default_pitch_title">Tono</string>
-    <string name="tts_default_pitch_summary">Interessa il tono del testo parlato</string>
+    <string name="tts_default_pitch_summary">Scegli il tono del testo parlato</string>
     <string name="tts_default_lang_title">Lingua</string>
     <string name="tts_lang_not_selected">Lingua non selezionata</string>
     <string name="tts_default_lang_summary">Imposta la voce specifica della lingua per il testo parlato</string>
@@ -1925,9 +2032,7 @@ Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni accou
 Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
     <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
     <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.
-
-Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
+    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi. Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">avviso</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
@@ -2190,14 +2295,14 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="device_internal_memory">Memoria interna</string>
     <string name="device_sd_memory">Scheda SD</string>
     <string name="device_cpu2_info">Dual-core</string>
-    <string name="device_cpu4_info">Quad-core</string>
+    <string name="device_cpu4_info">Snapdragon 801</string>
     <string name="device_cpu8_info">Octa-core</string>
     <string name="available_size">%s disponibile</string>
     <string name="total_size">%s totale</string>
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
     <string name="account_list">Tutti</string>
     <string name="account_add">Aggiungi</string>
-    <string name="xiaomi_account">Account Xiaomi</string>
+    <string name="xiaomi_account">Account Mi</string>
     <string name="sync_settings">Sincronizzazione</string>
     <string name="sms_received_sound_title">Messaggio ricevuto</string>
     <string name="sms_delivered_sound_title">Messaggio inviato</string>

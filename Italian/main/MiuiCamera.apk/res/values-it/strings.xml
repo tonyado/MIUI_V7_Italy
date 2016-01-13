@@ -12,14 +12,14 @@
     <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
     <string name="confirm_restore_title">Ripristina le impostazioni predefinite</string>
     <string name="confirm_restore_message">Ripristinare le impostazioni predefinite della fotocamera?</string>
-    <string name="confirm_location_title">Registra posizione</string>
+    <string name="confirm_location_title">Utilizza posizione GPS</string>
     <string name="confirm_location_message">Vuoi attivare i servizi di localizzazione per la fotocamera?</string>
-    <string name="confirm_location_alert">Memorizza posizione foto</string>
+    <string name="confirm_location_alert">Memorizza posizione GPS quando scatti una foto</string>
     <string name="start_capture">OK</string>
-    <string name="pref_camera_recordlocation_title">Rileva posizione</string>
+    <string name="pref_camera_recordlocation_title">Utilizza posizione GPS</string>
     <string name="pref_camera_recordlocation_entry_off">Disattivato</string>
     <string name="pref_camera_recordlocation_entry_on">Attivato</string>
-    <string name="pref_camera_sound_title">Audio fotocamera</string>
+    <string name="pref_camera_sound_title">"Suoni nell'applicazione"</string>
     <string name="pref_front_mirror_title">Fotoc. frontale (effetto specchio)</string>
     <string name="pref_video_quality_title">Qualità video</string>
     <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
@@ -111,7 +111,7 @@
     <string name="pref_camera_coloreffect_entry_brannan">Alba</string>
     <string name="pref_camera_coloreffect_entry_sketch">Fumetto</string>
     <string name="pref_camera_coloreffect_entry_seventy">"Anni '70"</string>
-    <string name="pref_camera_coloreffect_entry_fisheye">Fisheye</string>
+    <string name="pref_camera_coloreffect_entry_fisheye">Fish-eye</string>
     <string name="pref_camera_coloreffect_entry_jstyle">Giappone</string>
     <string name="pref_camera_coloreffect_entry_xproii">XPro II</string>
     <string name="pref_camera_coloreffect_entry_mosaic">Pixel</string>
@@ -159,7 +159,7 @@
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
     <string name="pref_camera_antibanding_entry_3">Auto</string>
-    <string name="dialog_ok">Ok</string>
+    <string name="dialog_ok">OK</string>
     <string name="spaceIsLow_content">Lo spazio di archiviazione USB si sta esaurendo. Modifica la qualità delle immagini oppure elimina alcuni file.</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
@@ -183,8 +183,8 @@
     <string name="pano_review_saving_indication_str">Salvataggio…</string>
     <string name="tap_to_focus">Tocca per mettere a fuoco</string>
     <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale."</string>
-    <string name="snapshot_lower_than_video">La risoluzione dello snapshot video è più bassa di quella video. Raggiungere i valori del video. Seleziona una risoluzione uguale o superiore a quella del video.</string>
-    <string name="snapshotsize_low_powermode">Il supporto per la risoluzione foto in \"Modalità risparmio\" non è supportata. Verrà utilizzato il valore del video. Selezionare la modalità \"Consumo intenso\" per dimensione immagine.</string>
+    <string name="snapshot_lower_than_video">La risoluzione dello snapshot video è più bassa di quella video. Seleziona una risoluzione uguale o superiore a quella del video.</string>
+    <string name="snapshotsize_low_powermode">"La modifica della risoluzione foto in \"Modalità risparmio\" non è supportata. Verrà utilizzato il valore del video. Selezionare la modalità \"Alte prestazioni\" per modificare l'impostazione."</string>
     <string name="accessibility_shutter_button">Pulsante scatto</string>
     <string name="accessibility_audio_shutter_bg">Sfondo scatto vocale</string>
     <string name="accessibility_review_thumbnail">Foto recenti</string>
@@ -242,7 +242,7 @@
     <string name="accessibility_module_picker">ModulePicker</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_setting_title">Impostazioni</string>
-    <string name="pref_scan_qrcode_title">Scansiona codice QR</string>
+    <string name="pref_scan_qrcode_title">Riconoscimento codice QR</string>
     <string name="pref_manual_exposure_title">Esp. manuale</string>
     <string name="pref_camera_exposuretime_entry_auto">Auto</string>
     <string name="pref_camera_exposuretime_entry_32s">32s</string>
@@ -292,7 +292,7 @@
     <string name="pref_video_speed_slow_title">Slow-motion</string>
     <string name="pref_camera_manual_mode_title">Manuale</string>
     <string name="effect_setting_top_text">Filtri fotocamera</string>
-    <string name="pref_camera_settings">Impostazioni dispositivo</string>
+    <string name="pref_camera_settings">Impostazioni applicazione</string>
     <string name="pref_capture_settings">Impostazioni fotocamera</string>
     <string name="pref_camcorder_settings">Impostazioni videocamera</string>
     <string name="pref_advance_settings">Impostazioni aggiuntive</string>
@@ -355,12 +355,18 @@
     <string name="camera_snap_mode_title">Modalità Quick Snap</string>
     <string name="camera_snap_mode_title_detail">Tocca per i dettagli</string>
     <string name="pref_camera_snap_enable_title">Modalità Quick Snap</string>
+<<<<<<< HEAD
+    <string name="pref_camera_snap_enable_summary">"Quando lo schermo è disattivato, tieni premuto il tasto Volume '-' per entrare in Modalità Quick Snap. Premilo di nuovo per scattare una foto."</string>
+    <string name="pref_camera_snap_entry_take_picture">"Quando lo schermo è disattivato, tieni premuto il tasto Volume '-' per avviare lo scatto multiplo. Rilascia il tasto per interrompere."</string>
+    <string name="pref_camera_snap_entry_take_movie">"Quando lo schermo è disattivato, tieni premuto il tasto Volume '-' per registrare un video. Rilascia il tasto per interrompere."</string>
+=======
     <string name="pref_camera_snap_enable_summary">Quando lo schermo è disattivato, tieni premuto il tasto Volume - per entrare in Modalità Quick Snap. Premilo di nuovo per scattare una foto.</string>
     <string name="pref_camera_snap_entry_take_picture">Quando lo schermo è disattivato, tieni premuto il tasto Volume - per avviare lo scatto multiplo. Rilascia il tasto per interrompere.</string>
     <string name="pref_camera_snap_entry_take_movie">Quando lo schermo è disattivato, tieni premuto il tasto Volume - per registrare un video. Rilascia il tasto per interrompere.</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Impossibile utilizzare la modalità Quick snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva."</string>
+>>>>>>> upstream/master
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
     <string name="simple_mode_button_text_tilt_shift">Disattiva Tilt-shift</string>
-    <string name="pref_camera_fisheye_title">Fish eye</string>
-    <string name="simple_mode_button_text_fisheye">Disattiva Fish eye</string>
+    <string name="pref_camera_fisheye_title">Fish-eye</string>
+    <string name="simple_mode_button_text_fisheye">Disattiva Fish-eye</string>
 </resources>

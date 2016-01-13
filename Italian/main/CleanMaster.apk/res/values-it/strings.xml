@@ -233,7 +233,7 @@
     <string name="privacy_app_desc_message">Account, password e messaggi</string>
     <string name="privacy_app_desc_setting">Account, password e impostazioni</string>
     <string name="privacy_app_desc_search">Account, password e cronologia di ricerca</string>
-    <string name="privacy_browser_desc">Elementi ricercati</string>
+    <string name="privacy_browser_desc">Cronologia elementi</string>
     <string name="title_delete_clipboard">Contenuti degli appunti</string>
     <string name="empty_content_no_privacy">Vuoto</string>
     <string name="hints_storage_clean_size">Liberati %s dalla memoria interna</string>
@@ -358,21 +358,21 @@
     <string name="hints_quick_deep_clean">Pulisci</string>
     <string name="hints_quick_deep_uninstall">Rimuovi</string>
     <string name="hints_cache_msd_title">Aggiornamento delta</string>
-    <string name="hints_cache_msd_desc">"L'eliminazione degli aggiornaemnti delta non influenzeranno l'utilizzo dell'applicazione"</string>
+    <string name="hints_cache_msd_desc">"L'eliminazione degli aggiornamenti delta non influenzeranno l'utilizzo dell'applicazione"</string>
     <string name="hints_installed_app_never">Mai utilizzata</string>
-    <string name="hints_installed_app_fewer">Raramente utilizzata</string>
-    <string name="hints_installed_app_near">Recentemente utilizzata</string>
+    <string name="hints_installed_app_fewer">Utilizzata raramente</string>
+    <string name="hints_installed_app_near">Utilizzata di recente</string>
     <string name="activity_title_deep_apk">Elimina APK</string>
-    <string name="deepclean_apk_content">Elimina APKo app non necessarie</string>
-    <string name="deepclean_apk_summary_empty">Sembra tutto OK, nessun APK da eliminare</string>
+    <string name="deepclean_apk_content">Elimina APK o App non necessarie</string>
+    <string name="deepclean_apk_summary_empty">Tutto OK, nessun APK da eliminare</string>
     <string name="deepclean_apk_version_error">Sconosciuto</string>
     <string name="title_delete_deepclean">Elimina</string>
-    <string name="summary_delete_apk">Eliminare permanentemente gli APK selezionati?</string>
+    <string name="summary_delete_apk">Eliminare definitivamente gli APK selezionati?</string>
     <string name="activity_title_video">Elimina video</string>
     <string name="deepclean_video_content">Elimina i video non necessari o già visti</string>
     <string name="deepclean_video_summary_empty">Sembra tutto OK</string>
     <string name="hints_video_download">Video scaricati</string>
     <string name="hints_video_camera">Video registrati</string>
-    <string name="summary_delete_video">Eliminare permanentemente i video selezionati?</string>
+    <string name="summary_delete_video">Eliminare definitivamente i video selezionati?</string>
     <string name="empty_title_video">Nessun video da eliminare​</string>
 </resources>

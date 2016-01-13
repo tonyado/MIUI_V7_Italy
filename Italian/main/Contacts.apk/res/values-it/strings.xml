@@ -429,7 +429,7 @@ Motivo: \"%s\""</string>
     <string name="take_photo">Scatta foto</string>
     <string name="take_new_photo">Scatta nuova foto</string>
     <string name="pick_photo">Scegli la foto dalla Galleria</string>
-    <string name="pick_new_photo">Seleziona nuova foto dalla galleria</string>
+    <string name="pick_new_photo">Seleziona nuova foto dalla Galleria</string>
     <string name="locale_change_in_progress">"Elenco contatti in fase di aggiornamento per l'applicazione della modifica della lingua."</string>
     <string name="upgrade_in_progress">Elenco contatti in fase di aggiornamento.</string>
     <string name="upgrade_out_of_memory">"Contatti in fase di aggiornamento. 
@@ -680,12 +680,12 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_find_profile_no_recommend">Profilo non consigliato</string>
     <string name="miprofile_find_profile_batch_request_failed">Impossibile aggiungere profilo</string>
     <string name="miprofile_error_not_opened">Disattiva le schede contatti</string>
-    <string name="miprofile_error_not_set">"La tua scheda di contatto non è stata sincronizzata con il server</string>
-    <string name="miprofile_error_accept_self">Non è possibile scambiare la tua scheda di contatto</string>
+    <string name="miprofile_error_not_set">"La tua scheda contatto non è stata sincronizzata con il server</string>
+    <string name="miprofile_error_accept_self">Non è possibile scambiare la tua scheda contatto</string>
     <string name="miprofile_error_no_miaccount">Accedi al tuo Account Mi</string>
     <string name="miprofile_error_unknown">Errore sconosciuto</string>
     <string name="miprofile_nick_name_edit_dialog_title">Modifica nickname</string>
-    <string name="miprofile_nick_name_edit_dialog_message">Il nick name verrà mostrato nel registro chiamate e nei dettagli</string>
+    <string name="miprofile_nick_name_edit_dialog_message">Il nickname verrà mostrato nel registro chiamate e nei dettagli</string>
     <string name="miprofile_nick_name_edit_dialog_hint">"Inserisci un nickname come 'Mish' ad esempio"</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="in_call_show">Video</string>
@@ -711,7 +711,7 @@ Le schede contatti sono disattivate"</string>
     <string name="in_call_show_video_pick">Scegli</string>
     <string name="in_call_show_video_pick_filter">"l video deve essere minore di 3 MB e deve durare meno di 20 secondi. "</string>
     <string name="in_call_show_view_play_error">Si è verificato un errore durante la riproduzione del video, riprova</string>
-    <string name="in_call_show_camera_open_error">"Si è verificato un errore nell'apertura della fotocamera, riprovare"</string>
+    <string name="in_call_show_camera_open_error">"Si è verificato un errore nell'apertura della fotocamera, riprova"</string>
     <string name="in_call_show_filter_processing">Processo in corso…</string>
     <string name="in_call_show_filter_process_error">Si è verificato un errore, riprova.</string>
     <string name="in_call_show_filter_none">Normale</string>
@@ -856,14 +856,14 @@ Le schede contatti sono disattivate"</string>
     <string name="pref_key_rebuild_t9_index_message">"Ricostruisci i dati dell'indice per risolvere problemi con la ricerca"</string>
     <string name="pref_key_photo">Foto</string>
     <string name="pref_key_photo_word_title">Foto per tutti</string>
-    <string name="pref_key_photo_word_summary">"Assegna automaticamente una immagine ai contatti che non ce l'hanno"</string>
+    <string name="pref_key_photo_word_summary">"Assegna automaticamente un'immagine ai contatti che non ce l'hanno"</string>
     <string name="remove_duplicate">"MIUI ti aiuterà a trovare ed unire i contatti duplicati.
 
 Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="ic_menu_back">Indietro</string>
     <string name="preference_display">Visualizzazione</string>
-    <string name="preference_simple_mode_title">Semplificata</string>
-    <string name="preference_simple_mode_description">Nascondi immagine e altri dati del contatto nella vista a elenco</string>
+    <string name="preference_simple_mode_title">Vista dettagliata</string>
+    <string name="preference_simple_mode_description">"Mostra l'immagine e gli altri dati del contatto nell'elenco dei contatti"</string>
     <string name="preference_contacts">Contatti</string>
     <string name="preference_contacts_display">Preferenze visualizzazione</string>
     <string name="preference_contacts_more">Organizza contatti</string>
@@ -1019,7 +1019,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="device_other_guide">Se il tuo dispositivo non è nella lista, segui i passi seguenti</string>
     <string name="my_phone_provider_bluetooth">Il mio dispositivo ha il Bluetooh</string>
     <string name="my_phone_not_provider_bluetooth">Il mio dispositivo non ha il Bluetooh</string>
-    <string name="other_phone">Altri telefoni</string>
+    <string name="other_phone">Altri dispositivi</string>
     <string name="device_import_title">Importa</string>
     <string name="device_import_progress_begin_message">Importazione…</string>
     <string name="device_import_progress_end_message">Importazione completata</string>
@@ -1105,7 +1105,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="voip_loading_contact">Solo un attimo…</string>
     <string name="create_voip_shortcut_success">Collegamento creato</string>
     <string name="no_voip_contacts">Nessun contatto Mi Voice</string>
-    <string name="calls_voip_prompt">VOIP</string>
+    <string name="calls_voip_prompt">VoIP</string>
     <string name="yellowPageNavigationLabel">Directory</string>
     <string name="yellowPageNavigationIconLabel">Directory</string>
     <string name="login_ok">Accedi</string>
@@ -1150,10 +1150,10 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
     <string name="voip_recommend_msg">Tocca per utilizzare Mi Voice</string>
     <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
-    <string name="cloud_state_syncing">Sincronizzato con Mi Cloud</string>
+    <string name="cloud_state_syncing">Sincronizzo con Mi Cloud</string>
     <string name="cloud_state_loading">Solo un attimo…</string>
     <string name="cloud_state_disabled">La sincronizzazione con Mi Cloud è disattivata</string>
-    <string name="more_call_logs">Per altri dati sulle chiamate su go i.mi.com</string>
+    <string name="more_call_logs">Per altri dati sul Registro chiamate vai su <u>http://i.mi.com</u></string>
     <string name="transfer_accounts">Trasferisci account</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
 </resources>
