@@ -1539,15 +1539,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_system_title">Sistema</string>
     <string name="accessibility_captioning_title">Sottotitoli</string>
     <string name="accessibility_screen_magnification_title">Gesti di ingrandimento</string>
-    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.
-
-Dopo avere aumentato lo zoom puoi:
-"<li><ul>"Eseguire una panoramica: trascina due o più dita sullo schermo.
-"<li>"Regolare il livello di zoom: pizzica con due o più dita verso l'interno o verso l'esterno."</li></ul></li>"
-
-Puoi anche ingrandire temporaneamente l'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.
-
-Nota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
+    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.\n\nDopo avere aumentato lo zoom puoi:\n"<ul><li>"Eseguire una panoramica: trascina due o più dita sullo schermo."</li>\n<li>"Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale."</li></ul>\n\n"Puoi anche ingrandire temporaneamente l\'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.\n\nNota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
     <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
     <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
     <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
