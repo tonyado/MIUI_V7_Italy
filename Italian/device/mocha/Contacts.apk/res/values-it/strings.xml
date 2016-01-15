@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_export_vcard_type" />
-    <string name="config_import_vcard_type" />
     <string name="config_export_file_prefix"/>
     <string name="config_export_file_suffix"/>
     <string name="config_export_file_extension">vcf</string>

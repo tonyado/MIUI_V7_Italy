@@ -544,11 +544,11 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
     <string name="bluetooth_searching_for_devices">Ricerca…</string>
     <string name="bluetooth_preference_device_settings">Impostazioni dispositivo</string>
-    <string name="bluetooth_preference_paired_devices">Dispositivi salvati</string>
     <string name="bluetooth_preference_paired_dialog_title">Dispositivo abbinato</string>
     <string name="bluetooth_preference_paired_dialog_name_label">Nome</string>
     <string name="bluetooth_preference_paired_dialog_internet_option">Connessione internet</string>
     <string name="bluetooth_preference_paired_dialog_keyboard_option">Tastiera</string>
+    <string name="bluetooth_preference_paired_dialog_contacts_option">Contatti e registro chiamate</string>
     <string name="bluetooth_pairing_dialog_title">Abbinare con questo dispositivo?</string>
     <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Condividere i contatti e il registro chiamate?</string>
     <string name="bluetooth_pairing_dialog_contants_request">%1$s vuole accedere ai tuoi contatti e al registro chiamate.</string>
@@ -2214,7 +2214,7 @@ Puoi trovare controlli di utilizzo dei dati più appropriati nelle impostazioni 
     <string name="data_usage_auto_sync_on_dialog_title">Attivare sincronizzazione automatica dati?</string>
     <string name="data_usage_auto_sync_on_dialog">"Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul dispositivo.
 
-Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul dispositivo. Gli account Google funzionano in questo modo.
+Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul dispositivo. Gli account Google funzionano in questo modo.</string>
     <string name="data_usage_auto_sync_off_dialog_title">Disattivare sincronizzazione automatica dati?</string>
     <string name="data_usage_auto_sync_off_dialog">"In questo modo limiterai l'utilizzo di dati e della batteria, ma dovrai sincronizzare ciascun account manualmente per raccogliere le informazioni recenti. Inoltre non riceverai notifiche quando si verificano gli aggiornamenti."</string>
     <string name="data_usage_cycle_editor_title">Data reimpostazione ciclo utilizzo</string>
