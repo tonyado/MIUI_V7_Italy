@@ -255,4 +255,7 @@
     <string name="wallpaper_auto_change_title">Schermata di blocco</string>
     <string name="wallpaper_scaling_message">Ridimensionamento alla dimensione applicata</string>
     <string name="cant_edit_lock_screen">Impossibile modificare lo stile della schermata di blocco.</string>
+    <string name="screen_number">Schermata n° %d</string>
+    <string name="delete_screen">Elimina tasto schermo</string>
+    <string name="add_screen">Aggiungi tasto schermo</string>
 </resources>

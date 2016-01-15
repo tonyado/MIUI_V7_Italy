@@ -1278,4 +1278,5 @@ La tua SIM sarà cancellata se fallisci un altro tentativo.</string>
     <string name="config_default_data_sim">Impostazioni</string>
     <string name="got_it">OK</string>
     <string name="can_not_use_for_not_data_sim">"(Impossibile utilizzare: deve essere impostata come SIM dati predefinita)"</string>
+    <string name="network_unlock">Sblocca</string>
 </resources>

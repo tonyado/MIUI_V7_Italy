@@ -93,6 +93,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="screen_pinning_description_accessible">In questo modo resterà visualizzato fino a che non toglierai la spunta. Tieni premuto Indietro e Panoramica per togliere la spunta.</string>
     <string name="screen_pinning_positive">Ho capito</string>
     <string name="screen_pinning_negative">No grazie</string>
+    <string name="accessibility_managed_profile">Profilo di lavoro</string>
+    <string name="managed_profile_foreground_toast">Stai utilizzando il tuo profilo di lavoro</string>
     <string name="status_bar_date_format">d/M, E</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
@@ -222,11 +224,7 @@ scorri in basso per bloccare"</string>
     <string name="mdb_entering">Avvio</string>
     <string name="status_bar_recording_back">Premi per tornare al Registratore</string>
     <string name="status_bar_recording_pause">La registrazione è in pausa.</string>
-    <string name="headset_settings">Cuffie collegate</string>
-    <string name="headset_info">Personalizza Tasti funzione</string>
-    <string name="headset_custom">Personalizza</string>
     <string name="usb_share_net_info">Utilizza la connessione internet del computer</string>
-    <string name="hint_for_long_press_app_switch_key">Tieni premuto per visualizzare il menu</string>
     <string name="battery_profiles">Profili utilizzo batteria</string>
     <string name="oldman_airplane_mode_text">aereo</string>
     <string name="oldman_incall_text">in chiamata</string>
@@ -244,4 +242,5 @@ scorri in basso per bloccare"</string>
     <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
     <string name="screen_button_notification_text">Per riattivarli, premi i pulsanti Home e Accensione contemporaneamente.</string>
     <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>
+    <string name="lland">L Land</string>
 </resources>
