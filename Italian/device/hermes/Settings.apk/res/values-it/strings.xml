@@ -2814,9 +2814,9 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="device_sd_memory">Scheda SD</string>
     <string name="device_cpu2_info">Dual-core</string>
     <string name="device_cpu4_info">Quad-core</string>
-    <string name="max_cpu6_info">Hexa-core Max</string>
-    <string name="device_cpu8_info">MediaTek Helio X10 MT6795</string>
-    <string name="max_cpu8_info">"MediaTek Helio X10 "</string>
+    <string name="max_cpu6_info">"Hexa-core a "</string>
+    <string name="device_cpu8_info">Octa-core</string>
+    <string name="max_cpu8_info">"Octa-core a "</string>
     <string name="available_size">%s disponibile</string>
     <string name="total_size">%s totale</string>
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>

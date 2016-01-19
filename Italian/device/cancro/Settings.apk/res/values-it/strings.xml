@@ -24,8 +24,8 @@
     <string name="music_hifi_title">Audio Hi-Fi</string>
     <string name="music_hifi_volume">Volume Hi-Fi</string>
     <string name="music_hifi_summary">Riduce disturbo e distorsione ed aumenta la qualità audio</string>
-    <string name="music_mi_effect_title">Dirac HD Sound</string>
-    <string name="music_mi_effect_summary">Abilita sempre Dirac HD Sound se ascolti tramite altoparlante</string>
+    <string name="music_mi_effect_title">Miglioramento Mi Sound</string>
+    <string name="music_mi_effect_summary">Utilizza il miglioramento Mi Sound quando utilizzi le cuffie</string>
     <string name="music_headphone_settings">Impostazione tipo di auricolari</string>
     <string name="music_dirac_control">Ottimizza qualità audio</string>
     <string name="music_dirac_mode_off">Dirac disattivato</string>
@@ -1123,7 +1123,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="master_clear_failed">Nessun ripristino eseguito perché il servizio System Clear non è disponibile.</string>
     <string name="master_clear_confirm_title">Ripristinare?</string>
     <string name="media_format_title">Formatta archivio USB</string>
-    <string name="media_format_summary">"Formattare i dati nell'arch. USB"</string>
+    <string name="media_format_summary">"Elimina i dati nell'arch. USB"</string>
     <string name="media_format_desc">"Formattare tutto l'archivio USB? "<b>Tutti</b> i dati memorizzati al suo interno andranno persi.</string>
     <string name="media_format_button_text">Formatta archivio USB</string>
     <string name="media_format_final_desc">"Formattare l'archivio USB, eliminando tutti i file memorizzati al suo interno? Quest'azione è irreversibile."</string>
@@ -1986,7 +1986,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="show_all_anrs_summary">Mostra finestra ANR per applicazioni in background</string>
     <string name="data_usage_summary_title">Utilizzo dati</string>
     <string name="data_usage_cycle">Ciclo utilizzo dati</string>
-    <string name="data_usage_menu_roaming">Roaming dei dati</string>
+    <string name="data_usage_menu_roaming">Roaming dati</string>
     <string name="data_usage_menu_restrict_background">Limita dati in background</string>
     <string name="data_usage_menu_split_4g">Separa utilizzo 4G</string>
     <string name="data_usage_menu_show_wifi">Mostra utilizzo Wi-Fi</string>
@@ -2024,11 +2024,9 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
 Puoi trovare controlli di utilizzo dei dati più appropriati nelle impostazioni disponibili all'interno dell'applicazione."</string>
     <string name="data_usage_restrict_denied_dialog">La limitazione dei dati in background è possibile solo se hai impostato un limite per i dati mobili.</string>
     <string name="data_usage_auto_sync_on_dialog_title">Attivare sincronizzazione automatica dati?</string>
-    <string name="data_usage_auto_sync_on_dialog">"Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul dispositivo.
+    <string name="data_usage_auto_sync_on_dialog">Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul dispositivo.
 
-Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul dispositivo. Gli account Google funzionano in questo modo.
-
-Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni account, vai a Impostazioni > Account."</string>
+Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul dispositivo. Gli account Google funzionano in questo modo.</string>
     <string name="data_usage_auto_sync_off_dialog_title">Disattivare sincronizzazione automatica dati?</string>
     <string name="data_usage_auto_sync_off_dialog">"In questo modo limiterai l'utilizzo di dati e della batteria, ma dovrai sincronizzare ciascun account manualmente per raccogliere le informazioni recenti. Inoltre non riceverai notifiche quando si verificano gli aggiornamenti."</string>
     <string name="data_usage_cycle_editor_title">Data reimpostazione ciclo utilizzo</string>
@@ -2128,14 +2126,14 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="ssl_ca_cert_settings_button">Verifica credenziali attendibili</string>
     <string name="user_settings_title">Utenti</string>
     <string name="user_list_title">Utenti e profili</string>
-    <string name="user_add_user_menu">Aggiungi utente o profilo</string>
+    <string name="user_add_user_menu">Aggiungi utente</string>
     <string name="user_summary_restricted_profile">Profilo con limitazioni</string>
     <string name="user_need_lock_message">Prima di poter creare un profilo con limitazioni, devi impostare un blocco schermo per proteggere le tue app e i tuoi dati personali.</string>
     <string name="user_set_lock_button">Imposta blocco</string>
     <string name="user_summary_not_set_up">Non configurato</string>
-    <string name="user_summary_restricted_not_set_up">Non impostato - Profilo con limitazioni</string>
+    <string name="user_summary_restricted_not_set_up">Non impostato - Profilo con limitazioni</string>
     <string name="user_owner">Proprietario</string>
-    <string name="user_you">Tu (%s)</string>
+    <string name="user_you">Tu (%s)</string>
     <string name="user_nickname">Nickname</string>
     <string name="user_add_user_type_title">Aggiungi</string>
     <string name="user_add_user_item_summary">Gli utenti hanno applicazioni e contenuti personali</string>
@@ -2153,12 +2151,12 @@ Qualsiasi utente può accettare le autorizzazioni delle app aggiornate per conto
 Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate per conto di tutti gli altri utenti."</string>
     <string name="user_setup_dialog_title">"Configurare l'utente ora?"</string>
     <string name="user_setup_dialog_message">Assicurati che la persona possa utilizzare il dispositivo e configurare il suo spazio.</string>
-    <string name="user_setup_profile_dialog_message">Configurare il profilo ora?</string>
+    <string name="user_setup_profile_dialog_message">Configurare il profilo ora?</string>
     <string name="user_setup_button_setup_now">Configura ora</string>
     <string name="user_setup_button_setup_later">Non ora</string>
     <string name="user_cannot_manage_message">Solo il proprietario del dispositivo può gestire gli utenti.</string>
     <string name="user_cannot_add_accounts_message">I profili con limitazioni non possono aggiungere account</string>
-    <string name="user_remove_user_menu">Elimina %1$s da dispositivo</string>
+    <string name="user_remove_user_menu">Elimina %1$s dal dispositivo</string>
     <string name="user_new_user_name">Nuovo utente</string>
     <string name="user_new_profile_name">Nuovo profilo</string>
     <string name="user_confirm_remove_self_title">Eliminare te stesso?</string>
@@ -2219,18 +2217,18 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="sim_status_title">Stato SIM</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
-    <string name="do_not_disturb_mode">Anti-disturbo</string>
-    <string name="dndm_notification">Anti-disturbo abilitato.</string>
-    <string name="dndm_open">Anti-disturbo</string>
-    <string name="dndm_auto_setting_group">Programmato</string>
-    <string name="dndm_auto_button_title">Ora</string>
-    <string name="dndm_auto_time_setting">Impostazioni orario</string>
+    <string name="do_not_disturb_mode">Non disturbare</string>
+    <string name="dndm_notification">Modalità Non disturbare abilitata.</string>
+    <string name="dndm_open">Non disturbare</string>
+    <string name="dndm_auto_setting_group">Programmazione</string>
+    <string name="dndm_auto_button_title">Programmato</string>
+    <string name="dndm_auto_time_setting">Fascia oraria</string>
     <string name="dndm_auto_time_setting_summary">Dalle %1$s alle %2$s</string>
     <string name="dndm_auto_time_turn_on">Dalle</string>
-    <string name="dndm_auto_time_turn_on_title">Attiva Anti-distubo automaticamente</string>
+    <string name="dndm_auto_time_turn_on_title">Attiva Non disturbare automaticamente</string>
     <string name="dndm_auto_time_turn_off">Alle</string>
-    <string name="dndm_auto_time_turn_off_title">Disattiva Anti-distubo automaticamente </string>
-    <string name="dndm_dlg_remove_vip">Rimuovere dalla lista delle eccezioni?</string>
+    <string name="dndm_auto_time_turn_off_title">Disattiva Non disturbare automaticamente</string>
+    <string name="dndm_dlg_remove_vip">Rimuovere dalle eccezioni?</string>
     <string name="dndm_dlg_remove_ok">Rimuovi</string>
     <string name="dndm_menu_add_vip_custom">Aggiungi eccezione</string>
     <string name="dndm_mute_all">Silenzia chiamate e messaggi</string>
@@ -2240,14 +2238,14 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="dndm_vip_call_summary_none">Tocca per configurare</string>
     <string name="dndm_vip_call_summary_custom">%d eccezioni</string>
     <string name="dndm_vip_call_summary_contact">Tutti i contatti</string>
-    <string name="dndm_vip_call_button_title">Consenti chiamate da lista eccezioni</string>
+    <string name="dndm_vip_call_button_title">Consenti chiamate nella lista eccezioni</string>
     <string name="dndm_vip_list_group">Lista eccezioni</string>
     <string name="dndm_vip_list_custom">Eccezioni</string>
     <string name="dndm_vip_list_contact">Tutti i contatti</string>
     <string name="dndm_vip_list_custom_group">Eccezioni</string>
-    <string name="dndm_repeated_call_setting_title">Chiamate ricevute</string>
+    <string name="dndm_repeated_call_setting_title">Chiamate ripetute</string>
     <string name="dndm_repeated_call_summary_none">Silenzia chiamate ripetute dallo stesso numero</string>
-    <string name="dndm_repeated_call_summary_3min">Se lo stesso numero ti richiama entro tre minuti il dispositivo squillerà</string>
+    <string name="dndm_repeated_call_summary_3min">"La seconda chiamata della stessa persona nell'arco di tre minuti non sarà in modalità silenziosa."</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
     <string name="dndm_wristband">Mi Band</string>
@@ -2258,8 +2256,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="every_day">Tutti i giorni</string>
     <string name="legal_workday">Giorni lavorativi</string>
     <string name="never">Mai</string>
-    <string name="dndm_wristband_detailed">"Attiva la modalità Anti-Disturbo se Mi Band rileva che stai dormendo entro un'ora prima dell'orario programmato"</string>
-    <string name="dndm_wristband_detailed2">"Disattiva la modalità Anti-Disturbo se Mi Band rileva che ti sei svegliato un'ora prima della fine dell'orario programmato"</string>
+    <string name="dndm_wristband_detailed">"Attiva la modalità Non disturbare se Mi Band rileva che stai dormendo entro un'ora prima dell'orario programmato"</string>
+    <string name="dndm_wristband_detailed2">"Disattiva la modalità Non disturbare se Mi Band rileva che ti sei svegliato un'ora prima della fine dell'orario programmato"</string>
     <string name="search_airplane">Modalità aereo</string>
     <string name="search_network">Rete</string>
     <string name="search_wifi">Wi-fi</string>
@@ -2305,7 +2303,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="device_internal_memory">Memoria interna</string>
     <string name="device_sd_memory">Scheda SD</string>
     <string name="device_cpu2_info">Dual-core</string>
-    <string name="device_cpu4_info">Snapdragon 801</string>
+    <string name="device_cpu4_info">Quad-core</string>
     <string name="device_cpu8_info">Octa-core</string>
     <string name="available_size">%s disponibile</string>
     <string name="total_size">%s totale</string>
@@ -2529,7 +2527,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="system_storage">Memoria interna</string>
     <string name="usage_log">Statistiche uso app</string>
     <string name="bluetooth_device_searchable">Visibile</string>
-    <string name="usb_charging_title">Velocizza la carica</string>
+    <string name="usb_charging_title">Velocizza la ricarica</string>
     <string name="usb_charging_summary">Chiudi tutte le altre funzioni di connessione USB per velocizzare la carica.</string>
     <string name="usb_msd_title">Dispositivo di memorizzazione di massa</string>
     <string name="usb_msd_summary">Trasferimento file via Windows o OS X</string>
@@ -2668,6 +2666,7 @@ ed esegui il software."</string>
     <string name="vpn_settings_password">VPN</string>
     <string name="vpn_safe">Sicurezza</string>
     <string name="vpn_configure">Configurazione</string>
+    <string name="vpn_enable">VPN</string>
     <string name="vpn_dns_servers_hint">es. 8.8.8.8</string>
     <string name="vpn_routes_hint">es. 10.0.0.0/8</string>
     <string name="sync_wifi_label">Wi-Fi</string>
@@ -2720,7 +2719,7 @@ ed esegui il software."</string>
     <string name="screen_paper_mode_apps_title">Utilizza la modalità Lettura per queste applicazioni</string>
     <string name="screen_paper_mode_off_apps_title">Non utilizzare la modalità Lettura per queste applicazioni</string>
     <string name="screen_paper_mode_adjust_level">Potenza</string>
-    <string name="screen_paper_mode_update_white_pkg_list_title">Lista aggiornamento rete</string>
+    <string name="screen_paper_mode_update_white_pkg_list_title">Aggiorna automaticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Aggiorna la lista delle applicazioni compatibili con la modalità Lettura</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termini e Condizioni</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Per aggiornare la lista delle applicazioni compatibili con la modalità Lettura, è richiesta una connessione di rete. Continuare?</string>
@@ -2785,7 +2784,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="select_ssid_type_title">Seleziona SSID</string>
     <string name="gsm_to_wifi_connect_type_title">Da rete cellulare a Wi-Fi</string>
     <string name="wifi_priority_settings_label">Impostazioni priorità</string>
-    <string name="wifi_priority_type_title">"Impostazione manuale priorità AP"</string>
+    <string name="wifi_priority_type_title">Impostazione manuale priorità AP</string>
     <string name="wifi_priority_type_summary">"Imposta manualmente la priorità per ciascun punto d'accesso"</string>
     <string name="wifi_priority_settings_title">Impostazione priorità AP</string>
     <string name="wifi_priority_settings_summary">"Tocca per impostare la priorità di ciascun punto d'accesso"</string>
@@ -3167,10 +3166,10 @@ Disabilitare le finestre flottanti?"</string>
     <string name="lock_screen_secure_after_timeout_title">Password richiesta</string>
     <string name="lock_screen_secure_after_timeout_summary">Password richiesta tra %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Password richiesta adesso</string>
-    <string name="choose_smartcover_type">Seleziona la tipologia di case</string>
-    <string name="normal_smartcover_title">Front cover oscurata</string>
-    <string name="smallwindow_smartcover_title">Front cover trasparente</string>
     <string name="theme_settings_title">Temi</string>
+    <string name="choose_smartcover_type">Scegli il tipo di cover</string>
+    <string name="normal_smartcover_title">Cover frontale oscurata</string>
+    <string name="smallwindow_smartcover_title">Cover frontale trasparente</string>
     <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
     <string name="children_mode_title">Modalità Genitore</string>
     <string name="children_mode_tips_on">Dopo aver disattivato la modalità Genitore, tocca il tasto Home per tornare alla Home</string>

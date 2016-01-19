@@ -11,7 +11,7 @@
     <string name="backup_items_sysdata_tailer">" Dati Sistema, "</string>
     <string name="backup_items_app_tailer">" Dati Apps "</string>
     <string name="backup_failed">Backup fallito, riprova</string>
-    <string name="sdcard_unmounted"> Scheda SD non trovata.</string>
+    <string name="sdcard_unmounted">Scheda SD non trovata.</string>
     <string name="backup_progress">Creazione backup in corso…</string>
     <string name="button_ok">OK</string>
     <string name="button_continue">Continua</string>

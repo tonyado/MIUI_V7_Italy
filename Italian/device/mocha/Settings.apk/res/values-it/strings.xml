@@ -2434,7 +2434,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="device_internal_memory">Memoria interna</string>
     <string name="device_sd_memory">Scheda SD</string>
     <string name="device_cpu2_info">Dual-core</string>
-    <string name="device_cpu4_info">NVIDIA Tegra K1</string>
+    <string name="device_cpu4_info">Quad-core</string>
     <string name="device_cpu8_info">Octa-core</string>
     <string name="available_size">%s disponibile</string>
     <string name="total_size">%s totale</string>
