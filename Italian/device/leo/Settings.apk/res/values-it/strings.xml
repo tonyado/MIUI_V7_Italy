@@ -24,8 +24,8 @@
     <string name="music_hifi_title">Audio Hi-Fi</string>
     <string name="music_hifi_volume">Volume Hi-Fi</string>
     <string name="music_hifi_summary">Riduce disturbo e distorsione ed aumenta la qualità audio</string>
-    <string name="music_mi_effect_title">Dirac HD Sound</string>
-    <string name="music_mi_effect_summary">Abilita sempre Dirac HD Sound se ascolti tramite altoparlante</string>
+    <string name="music_mi_effect_title">Miglioramento Mi Sound</string>
+    <string name="music_mi_effect_summary">Utilizza il miglioramento Mi Sound quando utilizzi le cuffie</string>
     <string name="music_headphone_settings">Impostazione tipo di auricolari</string>
     <string name="music_dirac_control">Ottimizza qualità audio</string>
     <string name="music_dirac_mode_off">Dirac disattivato</string>
@@ -67,7 +67,7 @@
     <string name="status_bar_settings_notification_priority">Priorità</string>
     <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
-    <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
+	<string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
     <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto</string>
     <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla Schermata di blocco</string>
     <string name="status_bar_settings_show_keyguard_notification_summary"/>
@@ -118,7 +118,7 @@
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
     <string name="header_category_wireless_networks">Wireless e Reti</string>
     <string name="header_category_connections">Connessioni</string>
-    <string name="header_category_device">Dispositivo</string>
+	<string name="header_category_device">Dispositivo</string>
     <string name="header_category_personal">Personale</string>
     <string name="header_category_access">Accesso</string>
     <string name="header_category_system">Sistema</string>
@@ -551,8 +551,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
     <string name="bluetooth_searching_for_devices">Ricerca…</string>
     <string name="bluetooth_preference_device_settings">Impostazioni dispositivo</string>
-    <string name="bluetooth_preference_paired_devices">Dispositivi salvati</string>
-	<string name="bluetooth_preference_paired_dialog_title">Dispositivo abbinato</string>
+    <string name="bluetooth_preference_paired_dialog_title">Dispositivo abbinato</string>
     <string name="bluetooth_preference_paired_dialog_name_label">Nome</string>
     <string name="bluetooth_preference_paired_dialog_internet_option">Connessione internet</string>
     <string name="bluetooth_preference_paired_dialog_keyboard_option">Tastiera</string>
@@ -561,6 +560,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Condividere i contatti e il registro chiamate?</string>
     <string name="bluetooth_pairing_dialog_contants_request">%1$s vuole accedere ai tuoi contatti e al registro chiamate.</string>
     <string name="bluetooth_pairing_dialog_paring_request">%1$s vuole abbinarsi con il Bluetooth. Quando connesso, avrà accesso ai contatti e al registro chiamate.</string>
+    <string name="bluetooth_preference_paired_devices">Dispositivi salvati</string>
     <string name="bluetooth_preference_found_devices">Dispositivi disponibili</string>
     <string name="bluetooth_preference_no_found_devices">Nessun dispositivo disponibile</string>
     <string name="bluetooth_device_context_connect">Connetti</string>
@@ -873,7 +873,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="home_settings">Pagina Home</string>
     <string name="display_settings_title">Schermo</string>
     <string name="sound_settings">Audio</string>
-    <string name="ringtone_title">Suoneria telefono</string>
+    <string name="ringtone_title">Suoneria</string>
     <string name="ringtone_summary"/>
     <string name="all_volume_title">Volumi</string>
     <string name="musicfx_title">Effetti musicali</string>
@@ -994,7 +994,7 @@ Tentativi rimasti :"</string>
     <string name="system_update_settings_list_item_title">Aggiornamenti sistema</string>
     <string name="system_update_settings_list_item_summary"/>
     <string name="firmware_version">Versione di Android</string>
-    <string name="security_patch">Livello patch sicurezza Android</string>
+	<string name="security_patch">Livello patch sicurezza Android</string>
     <string name="model_number">Modello</string>
     <string name="processor_info">CPU</string>
     <string name="fcc_equipment_id">ID attrezzatura</string>
@@ -1185,7 +1185,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="master_clear_progress_text">Attendere prego…</string>
     <string name="media_format_title">Formatta archivio USB</string>
     <string name="media_format_summary">"Elimina i dati nell'arch. USB"</string>
-    <string name="media_format_desc">"Eliminare tutto l'archivio USB? "<b>Tutti</b> i dati memorizzati al suo interno andranno persi.</string>
+    <string name="media_format_desc">"Formattare tutto l'archivio USB? "<b>Tutti</b> i dati memorizzati al suo interno andranno persi.</string>
     <string name="media_format_button_text">Formatta archivio USB</string>
     <string name="media_format_final_desc">"Formattare l'archivio USB, eliminando tutti i file memorizzati al suo interno? Quest'azione è irreversibile."</string>
     <string name="media_format_final_button_text">Elimina tutto</string>
@@ -2174,7 +2174,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_data_limit">Imposta limite dati</string>
     <string name="data_usage_cycle">Ciclo utilizzo dati</string>
     <string name="data_usage_app_items_header_text">Uso App</string>
-    <string name="data_usage_menu_roaming">Roaming dei dati</string>
+    <string name="data_usage_menu_roaming">Roaming dati</string>
     <string name="data_usage_menu_restrict_background">Limita dati in background</string>
     <string name="data_usage_menu_allow_background">Consenti dati in background</string>
     <string name="data_usage_menu_split_4g">Separa utilizzo 4G</string>
@@ -2223,11 +2223,9 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
 Puoi trovare controlli di utilizzo dei dati più appropriati nelle impostazioni disponibili all'interno dell'applicazione."</string>
     <string name="data_usage_restrict_denied_dialog">La limitazione dei dati in background è possibile solo se hai impostato un limite per i dati mobili.</string>
     <string name="data_usage_auto_sync_on_dialog_title">Attivare sincronizzazione automatica dati?</string>
-    <string name="data_usage_auto_sync_on_dialog">"Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul dispositivo.
+    <string name="data_usage_auto_sync_on_dialog">Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul dispositivo.
 
-Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul dispositivo. Gli account Google funzionano in questo modo.
-
-Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni account, vai a Impostazioni > Account."</string>
+Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul dispositivo. Gli account Google funzionano in questo modo.</string>
     <string name="data_usage_auto_sync_off_dialog_title">Disattivare sincronizzazione automatica dati?</string>
     <string name="data_usage_auto_sync_off_dialog">"In questo modo limiterai l'utilizzo di dati e della batteria, ma dovrai sincronizzare ciascun account manualmente per raccogliere le informazioni recenti. Inoltre non riceverai notifiche quando si verificano gli aggiornamenti."</string>
     <string name="data_usage_cycle_editor_title">Data reimpostazione ciclo utilizzo</string>
@@ -2423,8 +2421,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="nfc_more_title">Altro…</string>
     <string name="nfc_payment_menu_item_add_service">Trova app</string>
     <string name="nfc_payment_set_default_label">Impostare come preferenza?</string>
-    <string name="nfc_payment_set_default">Utilizzare sempre %1$s per Touch e Pay?</string>
-    <string name="nfc_payment_set_default_instead_of">Utilizzare sempre %1$s anziché %2$s per Touch e Pay?</string>
+    <string name="nfc_payment_set_default">Utilizzare sempre %1$s per Touch &amp; Pay?</string>
+    <string name="nfc_payment_set_default_instead_of">Utilizzare sempre %1$s anziché %2$s per Touch &amp; Pay?</string>
     <string name="restriction_settings_title">Limitazioni</string>
     <string name="restriction_menu_reset">Rimuovi limitazioni</string>
     <string name="restriction_menu_change_pin">Cambia PIN</string>
@@ -3212,7 +3210,7 @@ ed esegui il software."</string>
     <string name="screen_paper_mode_apps_title">Utilizza la modalità Lettura per queste applicazioni</string>
     <string name="screen_paper_mode_off_apps_title">Non utilizzare la modalità Lettura per queste applicazioni</string>
     <string name="screen_paper_mode_adjust_level">Potenza</string>
-    <string name="screen_paper_mode_update_white_pkg_list_title">Lista aggiornamento rete</string>
+    <string name="screen_paper_mode_update_white_pkg_list_title">Aggiorna automaticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Aggiorna la lista delle applicazioni compatibili con la modalità Lettura</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termini e Condizioni</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Per aggiornare la lista delle applicazioni compatibili con la modalità Lettura, è richiesta una connessione di rete. Continuare?</string>
@@ -3299,8 +3297,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
     <string name="bt_trace_log_summary">Abilita trace log del Bluetooth</string>
     <string name="bluetooth_ask_enablement_detected">" desidera attivare il Bluetooth."</string>
-    <string name="bluetooth_ask_enablement_and_discovery_detected">" desidera attivare il Bluetooth e rendere il tuo Mi Note Pro visibile ad altri dispositivi per %1$d secondi."</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" desidera attivare il Bluetooth e rendere il tuo Mi Note Pro visibile ad altri dispositivi. Puoi modificare nelle impostazioni Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_discovery_detected">" desidera attivare il Bluetooth e rendere il tuo dispositivo visibile ad altri dispositivi per %1$d secondi."</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" desidera attivare il Bluetooth e rendere il tuo dispositivo visibile ad altri dispositivi. Puoi modificare nelle impostazioni Bluetooth."</string>
     <string name="wifi_share">Condivisione Wi-Fi</string>
     <string name="wifi_share_turn_on">Attivato</string>
     <string name="wifi_share_turn_off">Disattivato</string>
