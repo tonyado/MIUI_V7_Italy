@@ -368,12 +368,12 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="airplane_mode">Modalità aereo</string>
     <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
-    <string name="radio_controls_summary">Gestisci Wi-Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
+    <string name="radio_controls_summary">Gestisci Wi-Fi, Bluetooth, modalità aereo, reti cellulare e VPN</string>
     <string name="cellular_data_title">Dati cellulare</string>
     <string name="calls_title">Chiamate</string>
     <string name="sms_messages_title">Messaggi SMS</string>
-    <string name="cellular_data_summary">"Consenti l'utilizzo di dati mobili"</string>
-    <string name="allow_data_usage_title">"Consenti l'utilizzo di dati mobili quando sei in roaming"</string>
+    <string name="cellular_data_summary">"Consenti l'utilizzo di dati cellulare"</string>
+    <string name="allow_data_usage_title">"Consenti l'utilizzo di dati cellulare quando sei in roaming"</string>
     <string name="roaming">Roaming dati</string>
     <string name="roaming_enable">Connessione a servizi di dati in roaming</string>
     <string name="roaming_disable">Connessione a servizi di dati in roaming</string>
@@ -713,7 +713,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione auto (WPS)</string>
-    <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere a una rete Wi-Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi-Fi e viceversa.</string>
+    <string name="wifi_required_info_text">Per poter completare la configurazione il dispositivo deve poter accedere a una rete Wi-Fi. Dopo la configurazione potrai passare dalla rete dati cellulare alla rete Wi-Fi e viceversa.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Imposta protezione Wi-Fi</string>
     <string name="wifi_wps_setup_msg">Avvio WPS…</string>
@@ -1215,8 +1215,8 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="bluetooth_tethering_overflow_error">Hotspot non possibile con più di %1$d dispositivi.</string>
     <string name="bluetooth_untether_blank">"L'hotspot sarà annullato per %1$s."</string>
     <string name="tethering_help_button_text">Guida</string>
-    <string name="network_settings_title">Reti mobili</string>
-    <string name="manage_mobile_plan_title">Piano dati mobile</string>
+    <string name="network_settings_title">Reti cellulare</string>
+    <string name="manage_mobile_plan_title">Piano dati cellulare</string>
     <string name="sms_application_title">App SMS predefinita</string>
     <string name="sms_change_default_dialog_title">Cambiare app per SMS?</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizzare %s anziché %s come app per SMS?</string>
@@ -1240,11 +1240,11 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_high_battery_use">Elevato utilizzo della batteria</string>
     <string name="location_low_battery_use">Basso utilizzo della batteria</string>
     <string name="location_mode_screen_title">Modalità di geolocalizzazione</string>
-    <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e mobili per stabilire la posizione</string>
-    <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e mobili per stabilire la posizione</string>
+    <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e Cellulare per stabilire la posizione</string>
+    <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e Cellulare per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
     <string name="location_category_enhanced_location">Maggiori località</string>
-    <string name="location_network_based">Posizione Wi-Fi e rete mobile</string>
+    <string name="location_network_based">Posizione Wi-Fi e Rete dati cellulare</string>
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
     <string name="location_neighborhood_level_wifi">Posizione determinata da Wi-Fi</string>
     <string name="location_gps">Satelliti GPS</string>
@@ -1585,7 +1585,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi-Fi Roam Scans</string>
     <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione Display wireless</string>
     <string name="wifi_verbose_logging_summary">Aumenta il livello di accesso Wi-Fi, mostra per SSID RSSI nella selezione Wi-Fi</string>
-    <string name="wifi_aggressive_handover_summary">Quando attivato, la connessione Wi-Fi sarà più aggressiva nel prevalere sulla connessione dati mobile quando il segnale Wi-Fi è debole</string>
+    <string name="wifi_aggressive_handover_summary">Quando attivato, la connessione Wi-Fi sarà più aggressiva nel prevalere sulla connessione dati cellulare quando il segnale Wi-Fi è debole</string>
     <string name="wifi_allow_scan_with_traffic_summary">"Consenti/nega la scansione Wi-Fi basata sui dati dell'interfaccia"</string>
     <string name="select_logd_size_title">Dimensione Logger buffer</string>
     <string name="select_logd_size_dialog_title">Seleziona la dimensione del log Logger</string>
@@ -1762,7 +1762,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_gps_on_label">GPS attivato</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Attivato</string>
-    <string name="battery_stats_phone_signal_label">Segnale rete mobile</string>
+    <string name="battery_stats_phone_signal_label">Segnale rete cellulare</string>
     <string name="awake">Tempo di attività dispositivo</string>
     <string name="wifi_on_time">Tempo accensione Wi-Fi</string>
     <string name="bluetooth_on_time">Tempo accensione Wi-Fi</string>
@@ -1787,8 +1787,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="usage_type_gps">GPS</string>
     <string name="usage_type_wifi_running">Wi-Fi attivo</string>
     <string name="usage_type_phone">Telefono</string>
-    <string name="usage_type_data_send">Dati mobili inviati</string>
-    <string name="usage_type_data_recv">Dati mobili ricevuti</string>
+    <string name="usage_type_data_send">Dati cellulare inviati</string>
+    <string name="usage_type_data_recv">Dati cellulare ricevuti</string>
     <string name="usage_type_radio_active">Rete cellulare attiva</string>
     <string name="usage_type_data_wifi_send">Dati Wi-Fi inviati</string>
     <string name="usage_type_data_wifi_recv">Dati Wi-Fi ricevuti</string>
@@ -2181,7 +2181,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_menu_hide_wifi">Nascondi utilizzo Wi-Fi</string>
     <string name="data_usage_menu_show_ethernet">Mostra utilizzo Ethernet</string>
     <string name="data_usage_menu_hide_ethernet">Nascondi utilizzo Ethernet</string>
-    <string name="data_usage_menu_metered">Hotspot mobili</string>
+    <string name="data_usage_menu_metered">Hotspot cellulare</string>
     <string name="data_usage_menu_auto_sync">Sincronizzazione automatica dei dati</string>
     <string name="data_usage_menu_sim_cards">SIM</string>
     <string name="data_usage_menu_cellular_networks">Reti cellulari</string>
@@ -2194,33 +2194,33 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_label_foreground">Primo piano</string>
     <string name="data_usage_label_background">Sfondo</string>
     <string name="data_usage_app_restricted">Limitato</string>
-    <string name="data_usage_disable_mobile">Disattivare i dati mobili?</string>
-    <string name="data_usage_disable_mobile_limit">Imposta limite dati mobili</string>
+    <string name="data_usage_disable_mobile">Disattivare dati cellulare?</string>
+    <string name="data_usage_disable_mobile_limit">Imposta limite dati cellulare</string>
     <string name="data_usage_disable_4g_limit">Imposta limite dati 4G</string>
     <string name="data_usage_disable_3g_limit">Imposta limite dati 2G-3G</string>
     <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi-Fi</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
-    <string name="data_usage_tab_mobile">Mobili</string>
+    <string name="data_usage_tab_mobile">Dati cellulare</string>
     <string name="data_usage_tab_slot">SIM</string>
     <string name="data_usage_tab_4g">4G</string>
     <string name="data_usage_tab_3g">2G-3G</string>
-    <string name="data_usage_list_mobile">Mobili</string>
+    <string name="data_usage_list_mobile">Dati cellulare</string>
     <string name="data_usage_list_none">Nessuna</string>
-    <string name="data_usage_enable_mobile">Dati mobili</string>
+    <string name="data_usage_enable_mobile">Dati cellulare</string>
     <string name="data_usage_enable_3g">Dati 2G-3G</string>
     <string name="data_usage_enable_4g">Dati 4G</string>
     <string name="data_usage_forground_label">Primo piano:</string>
     <string name="data_usage_background_label">Background:</string>
-    <string name="data_usage_app_settings">Visualizza impostazioni applicaz.</string>
+    <string name="data_usage_app_settings">Visualizza impostazioni app</string>
     <string name="data_usage_app_restrict_background">Limita dati in background</string>
-    <string name="data_usage_app_restrict_background_summary">Disattiva dati in background su reti mobili. Reti non mobili usate se disponibili.</string>
-    <string name="data_usage_app_restrict_background_summary_disabled">Per limitare i dati in background, imposta un limite dati mobili.</string>
+    <string name="data_usage_app_restrict_background_summary">Disattiva dati in background su reti cellulare. Reti Wi-Fi preferite.</string>
+    <string name="data_usage_app_restrict_background_summary_disabled">Per limitare i dati in background, imposta un limite dati cellulare.</string>
     <string name="data_usage_app_restrict_dialog_title">Limitare i dati in background?</string>
-    <string name="data_usage_app_restrict_dialog">"Questa funzione può causare l'interruzione del funzionamento di un'applicazione che dipende dai dati in background quando sono disponibili solo le reti mobili.
+    <string name="data_usage_app_restrict_dialog">"Questa funzione può causare l'interruzione del funzionamento di un'applicazione che dipende dai dati in background quando sono disponibili solo le reti cellulare.
 
 Puoi trovare controlli di utilizzo dei dati più appropriati nelle impostazioni disponibili all'interno dell'applicazione."</string>
-    <string name="data_usage_restrict_denied_dialog">La limitazione dei dati in background è possibile solo se hai impostato un limite per i dati mobili.</string>
+    <string name="data_usage_restrict_denied_dialog">La limitazione dei dati in background è possibile solo se hai impostato un limite per i dati cellulare.</string>
     <string name="data_usage_auto_sync_on_dialog_title">Attivare sincronizzazione automatica dati?</string>
     <string name="data_usage_auto_sync_on_dialog">Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul dispositivo.
 
@@ -2233,12 +2233,12 @@ Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modif
     <string name="data_usage_warning_editor_title">"Imposta avviso sull'utilizzo dei dati"</string>
     <string name="data_usage_limit_editor_title">Imposta limite di utilizzo dati</string>
     <string name="data_usage_limit_dialog_title">Limitazione utilizzo dati</string>
-    <string name="data_usage_limit_dialog_mobile">"La tua connessione dati mobili verrà disattivata al raggiungimento del limite specificato.
+    <string name="data_usage_limit_dialog_mobile">"La tua connessione dati cellulare verrà disattivata al raggiungimento del limite specificato.
 
 Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
     <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
-    <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi. Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
+    <string name="data_usage_restrict_background">Se limiti i dati cellulare in background alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.</string>
+    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati cellulare in background alcuni servizi e app non funzioneranno senza una rete Wi-Fi. Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">avviso</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
@@ -2248,11 +2248,11 @@ Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operat
     <string name="data_usage_received_sent">%1$s ricevuti, %2$s inviati</string>
     <string name="data_usage_total_during_range">%2$s: utilizzati circa %1$s.</string>
     <string name="data_usage_total_during_range_mobile">"%2$s: utilizzati quasi %1$s, misurati dal dispositivo. I dati possono differire da quelli dell'operatore."</string>
-    <string name="data_usage_metered_title">Hotspot mobili</string>
-    <string name="data_usage_metered_body">"Seleziona le reti Wi-Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
-    <string name="data_usage_metered_mobile">Reti mobili</string>
+    <string name="data_usage_metered_title">Hotspot cellulare</string>
+    <string name="data_usage_metered_body">"Seleziona le reti Wi-Fi che sono Hotspot cellulare. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
+    <string name="data_usage_metered_mobile">Reti cellulare</string>
     <string name="data_usage_metered_wifi">Reti Wi-Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili, attiva il Wi-Fi.</string>
+    <string name="data_usage_metered_wifi_disabled">Per selezionare Hotspot cellulare attiva il Wi-Fi.</string>
     <string name="data_usage_disclaimer">I dati conteggiati dal tuo gestore potrebbero essere diversi.</string>
     <string name="cryptkeeper_emergency_call">Chiamata di emergenza</string>
     <string name="cryptkeeper_return_to_call">Torna a chiamata</string>
@@ -2471,8 +2471,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_restrictions_controlled_by">Controllate da %1$s</string>
     <string name="app_not_supported_in_limited">Questa app non è supportata nei profili con limitazioni</string>
     <string name="app_sees_restricted_accounts">Questa app può accedere ai tuoi account</string>
-    <string name="restriction_wifi_config_title">Wi-Fi e mobile</string>
-    <string name="restriction_wifi_config_summary">Consenti la modifica di impostazioni Wi-Fi e rete mobile</string>
+    <string name="restriction_wifi_config_title">Wi-Fi e Dati cellulare</string>
+    <string name="restriction_wifi_config_summary">Consenti la modifica di impostazioni Wi-Fi e Dati cellulare</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_bluetooth_config_summary">Consenti la modifica di impostazioni e accoppiamenti Bluetooth</string>
     <string name="restriction_nfc_enable_title">NFC</string>
@@ -2703,8 +2703,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="field_info_location_area_label">Prefisso nazionale:</string>
     <string name="field_info_routing_area_label">Codice Routing:</string>
     <string name="field_info_tracking_area_label">Codice Spedizione:</string>
-    <string name="field_info_mobile_country_label">Codice Paese mobile:</string>
-    <string name="field_info_mobile_network_label">Codice Rete mobile:</string>
+    <string name="field_info_mobile_country_label">Codice Paese cellulare:</string>
+    <string name="field_info_mobile_network_label">Codice Rete cellulare:</string>
     <string name="field_info_frequency_band_label">Frequenza banda:</string>
     <string name="field_info_radio_frequency_channel_label">ARFCN:</string>
     <string name="field_info_cell_id_label">ID Cell:</string>
@@ -3154,7 +3154,7 @@ ed esegui il software."</string>
     <string name="msd_driver_download_mac">Per OS X, scarica <b>Android File Transfer</b> per installare i driver USB</string>
     <string name="msd_driver_download_mac_url">Ottieni i driver da http://www.android.com/filetransfer/</string>
     <string name="msd_install_download_zhushou">Mi PC Suite scaricato</string>
-    <string name="vpn_settings_password">VPN</string>
+    <string name="vpn_settings_password">Password VPN</string>
     <string name="vpn_safe">Sicurezza</string>
     <string name="vpn_configure">Configurazione</string>
     <string name="vpn_enable">VPN</string>
@@ -3290,7 +3290,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_available_title">Connetti al Wi-Fi</string>
     <string name="msg_wlan_signal_found">"È disponibile punto d'accesso Wi-Fi %s, connettersi ora?"</string>
     <string name="wifi_signal_found_msg">"Punto d'accesso Wi-Fi disponibile, connettersi ora?"</string>
-    <string name="miui_data_usage_menu_metered">Hotspot mobile</string>
+    <string name="miui_data_usage_menu_metered">Hotspot Dati cellulare</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi scegli il contenuto che vuoi inviare.</string>

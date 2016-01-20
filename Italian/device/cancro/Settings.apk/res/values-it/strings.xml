@@ -1675,8 +1675,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_action_bluetooth">Impostazioni Bluetooth</string>
     <string name="battery_desc_voice">Batteria utilizzata da chiamate vocali</string>
     <string name="battery_desc_standby">Utilizzo batteria quando il dispositivo è inattivo</string>
-    <string name="battery_desc_radio">Batteria utilizzata da segnale cellulare</string>
-    <string name="battery_sugg_radio">Passa a modalità in volo per ridurre i consumi nelle aree senza copertura cellulare</string>
+    <string name="battery_desc_radio">Batteria utilizzata dal segnale cellulare</string>
+    <string name="battery_sugg_radio">Attiva la Modalità aereo per ridurre i consumi nelle aree senza copertura cellulare</string>
     <string name="battery_desc_display">Batteria utilizzata da display e retroilluminazione</string>
     <string name="battery_sugg_display">Riduci la luminosità e/o il timeout dello schermo</string>
     <string name="battery_desc_wifi">Batteria utilizzata da Wi-Fi</string>
@@ -2663,7 +2663,7 @@ ed esegui il software."</string>
     <string name="msd_driver_download_mac">Per OS X, scarica <b>Android File Transfer</b> per installare i driver USB</string>
     <string name="msd_driver_download_mac_url">Ottieni i driver da http://www.android.com/filetransfer/</string>
     <string name="msd_install_download_zhushou">Mi PC Suite scaricato</string>
-    <string name="vpn_settings_password">VPN</string>
+    <string name="vpn_settings_password">Password VPN</string>
     <string name="vpn_safe">Sicurezza</string>
     <string name="vpn_configure">Configurazione</string>
     <string name="vpn_enable">VPN</string>

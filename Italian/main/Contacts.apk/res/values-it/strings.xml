@@ -927,7 +927,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="antispam_provider_format">Segnalato come spam da %s</string>
     <string name="type_mx_msg">Mi Message</string>
     <string name="qr_card_card">Il mio QR Code</string>
-    <string name="menu_new_favorite_action_bar">Nuovo</string>
+    <string name="menu_new_favorite_action_bar">Aggiungi a Preferiti</string>
     <string name="click_close">Tocca lo schermo per chiudere</string>
     <string name="phone_primary">Primario</string>
     <string name="phone_info_divider">" ｜ "</string>
@@ -1099,7 +1099,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="sim_error_anr_full">"Non c'è abbastanza spazio sulla SIM"</string>
     <string name="sim_error_password_error">La password che hai inserito non è valida</string>
     <string name="voip_name">Mi Voice</string>
-   <string name="voip_contacts_entry">Mi Voice</string>
+    <string name="voip_contacts_entry">Mi Voice</string>
     <string name="voip_shortcut_name">Mi Voice</string>
     <string name="voip_contact_label">Mi Voice</string>
     <string name="voip_loading_contact">Solo un attimo…</string>
