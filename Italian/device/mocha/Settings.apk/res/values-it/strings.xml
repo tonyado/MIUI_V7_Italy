@@ -2291,13 +2291,13 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="global_change_warning">Questa impostazione influisce su tutti gli utenti di questo dispositivo.</string>
     <string name="global_locale_change_title">Cambia lingua</string>
     <string name="global_font_change_title">Cambia le dimensioni del carattere</string>
-    <string name="nfc_payment_settings_title">Touch &amp; Pay</string>
+    <string name="nfc_payment_settings_title">Touch e Pay</string>
     <string name="nfc_payment_no_apps">Paga con un tocco</string>
     <string name="nfc_payment_learn_more">Ulteriori informazioni</string>
     <string name="nfc_payment_menu_item_add_service">Trova app</string>
     <string name="nfc_payment_set_default_label">Impostare come preferenza?</string>
-    <string name="nfc_payment_set_default">Utilizzare sempre %1$s per Touch &amp; Pay?</string>
-    <string name="nfc_payment_set_default_instead_of">Utilizzare sempre %1$s anziché %2$s per Touch &amp; Pay?</string>
+    <string name="nfc_payment_set_default">Utilizzare sempre %1$s per Touch e Pay?</string>
+    <string name="nfc_payment_set_default_instead_of">Utilizzare sempre %1$s anziché %2$s per Touch e Pay?</string>
     <string name="restriction_settings_title">Limitazioni</string>
     <string name="restriction_menu_reset">Rimuovi limitazioni</string>
     <string name="restriction_menu_change_pin">Cambia PIN</string>

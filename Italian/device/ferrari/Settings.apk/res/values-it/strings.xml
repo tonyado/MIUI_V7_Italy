@@ -2415,8 +2415,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="nfc_more_title">Altro…</string>
     <string name="nfc_payment_menu_item_add_service">Trova app</string>
     <string name="nfc_payment_set_default_label">Impostare come preferenza?</string>
-    <string name="nfc_payment_set_default">Utilizzare sempre %1$s per Touch &amp; Pay?</string>
-    <string name="nfc_payment_set_default_instead_of">Utilizzare sempre %1$s anziché %2$s per Touch &amp; Pay?</string>
+    <string name="nfc_payment_set_default">Utilizzare sempre %1$s per Touch e Pay?</string>
+    <string name="nfc_payment_set_default_instead_of">Utilizzare sempre %1$s anziché %2$s per Touch e Pay?</string>
     <string name="restriction_settings_title">Limitazioni</string>
     <string name="restriction_menu_reset">Rimuovi limitazioni</string>
     <string name="restriction_menu_change_pin">Cambia PIN</string>
