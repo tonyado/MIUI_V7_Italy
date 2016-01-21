@@ -3692,7 +3692,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="password_entrance_title">Password</string>
     <string name="turn_off_common_password_confirm_msg">Anche la password verrà disattivata.</string>
     <string name="apply_fingerprint_to_category_title">Applica impronta digitale a…</string>
-    <string name="fingerprint_list_title">Impronta digitale</string>
+    <string name="fingerprint_list_title">Impronta</string>
     <string name="add_fingerprint_text">Aggiungi impronta digitale</string>
     <string name="delete_fingerprint_text">Rimuovi impronta digitale</string>
     <string name="delete_fingerprint_confirm_msg">Rimuovere impronta digitale?</string>
