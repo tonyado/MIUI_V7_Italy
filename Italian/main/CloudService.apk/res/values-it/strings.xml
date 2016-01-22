@@ -36,7 +36,7 @@
     <string name="bad_authentication">Nome utente o password non validi</string>
     <string name="header_data_and_synchronization">Dati e sincronizzazione</string>
     <string name="header_cloud_backup_settings">Backup e ripristino</string>
-    <string name="header_find_device_settings">Trova telefono</string>
+    <string name="header_find_device_settings">Trova Dispositivo</string>
     <string name="title_reg">Crea un account</string>
     <string name="unactivated_user">Disattivato</string>
     <string name="error_network">Impossibile connettersi alla rete</string>
@@ -164,14 +164,14 @@ Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="micloud_storage_usage" formatted="false">Utilizzato %s / Totale %s</string>
     <string name="micloud_storage_full">Spazio Mi Cloud esaurito</string>
     <string name="micloud_title_dspt" formatted="false">"%s totale
- %s in uso | %s rimasti"</string>
-    <string name="micloud_title_dspt_remain">%s rimasti</string>
-    <string name="micloud_title_full_dspt">Hai esaurito lo spazio!</string>
+ %s in uso | %s disponibili"</string>
+    <string name="micloud_title_dspt_remain">%s disponibili</string>
+    <string name="micloud_title_full_dspt">Spazio esaurito.</string>
     <string name="micloud_user_space_usage">Spazio di archiviazione</string>
-    <string name="micloud_web_discription_01">Accedi a i.mi.com</string>
+    <string name="micloud_web_discription_01">Accedi a <b>i.mi.com</b></string>
     <string name="micloud_web_discription_02">per salvare i tuoi file o accedervi ovunque tu sia</string>
-    <string name="micloud_web_discription">Accedi a i.mi.com per archiviare i tuoi dati e consultarli ovunque ti trovi</string>
-    <string name="micloud_web_discription_international">Visita i.mi.com</string>
+    <string name="micloud_web_discription">Accedi a <b>i.mi.com</b> per archiviare i tuoi dati e consultarli ovunque ti trovi</string>
+    <string name="micloud_web_discription_international">Visita <b>i.mi.com</b></string>
     <string name="micloud_full_influence_title">Quando il tuo Mi Cloud è pieno…</string>
     <string name="micloud_warn_low_title">Spazio quasi esaurito…</string>
     <string name="micloud_warn_low_sum">Il tuo Mi Cloud è pieno al 90%.</string>
@@ -183,11 +183,11 @@ Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Devi rinnovare la tua iscrizione.</string>
     <string name="micloud_full_influence_dspt">"Tutte le tue foto, i video, le note e le app rimarranno nel backup Mi Cloud. 
 
-In questo modo, se smarrisci o danneggi il tuo dispositivo, i dati saranno ancora al sicuro… 
+In questo modo, se smarrisci o danneggi il tuo dispositivo, i dati saranno ancora al sicuro. 
 
-Quando il tuo Mi Cloud è pieno, i vecchi dati non verranno sovrascritti. Qualsiasi nuovo contenuto (ad es. foto, video, note e app) non sarà sincronizzato.
+Quando il tuo Mi Cloud è pieno i vecchi dati non verranno sovrascritti. Qualsiasi nuovo contenuto (ad es. foto, video, note e app) non sarà sincronizzato.
 
-Per rimediare a questo, puoi cancellare qualche vecchio file per liberare spazio oppure comprare spazio aggiuntivo."</string>
+Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggiuntivo."</string>
     <string name="micloud_upgrade_space">Ottieni spazio aggiuntivo</string>
     <string name="enable_sync_dspt">Sincronizzazione disattivata</string>
     <string name="enable_sync">Attiva</string>
@@ -209,7 +209,7 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per liberare spazio
     <string name="micloud_all_sub_resend_sms">"Quando attivi 'Trova Dispositivo', potrebbe essere inviato un SMS dopo il cambio SIM."</string>
     <string name="sync_item_calllog_title">Sincronizza registro chiamate</string>
     <string name="sync_item_calllog_summary">Sincronizza le chiamate effettuate e ricevute su questo dispositivo</string>
-    <string name="view_storage_title">Mostra spazio cloud</string>
+    <string name="view_storage_title">Mostra spazio Cloud</string>
     <string name="storage">Archiviazione</string>
     <string name="setting">Impostazioni</string>
     <string name="remind_later">Ricordamelo più tardi</string>
@@ -353,16 +353,16 @@ Ultimo backup: %2$s"</string>
     <string name="cloud_back_up_summary">Esegui backup quando collegato al Wi-Fi</string>
     <string name="cloud_back_up_close_info">Tocca per eseguire il backup.</string>
     <string name="cloud_backup_dialog_title">Esegui il backup su Mi Cloud</string>
-    <string name="cloud_back_up_dialog_content">Interrompere il backup in corso? Se interrompi adesso non potrai più utilizzare questo backup per ripristinare i dati.</string>
+    <string name="cloud_back_up_dialog_content">Interrompere il backup? Se interrompi adesso non potrai più utilizzare questo backup per ripristinare i dati.</string>
     <string name="cloud_back_up_button_ok">Interrompi</string>
     <string name="cloud_back_up_network_unavailable">Impossibile rimuovere. Collegarsi di nuovo alla rete Wi-Fi?</string>
     <string name="cloud_back_up_remove_success">Backup eliminato</string>
     <string name="cloud_backup_have_data">Backup trovato su Mi Cloud</string>
-    <string name="cloud_backup_select_recover">Scegli backup su Mi Cloud</string>
+    <string name="cloud_backup_select_recover">Scegli backup Mi Cloud</string>
     <string name="micloud_storage">Archiviazione</string>
     <string name="micloud_member">Abbonamento Mi Cloud</string>
     <string name="micloud_buy_member">Aggiorna abbonamento</string>
-    <string name="micloud_member_advantage">Ricevi altro spazio di archiviazione.</string>
+    <string name="micloud_member_advantage">Ottieni altro spazio di archiviazione.</string>
     <string name="micloud_main_title_sync_fail">Impossibile sincronizzare</string>
     <string name="micloud_main_title_sync_on_wifi">Utilizza Wi-Fi</string>
     <string name="micloud_main_title_sync_off">Sincronizzazione disattivata</string>
@@ -385,7 +385,7 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_confusion_entrance_notify_title">Il contenuto di Mi Cloud è stato modificato</string>
     <string name="micloud_confusion_entrance_notify_text">Tocca per vedere i dettagli.</string>
     <string name="micloud_confusion_account_notify_title">Verifica account</string>
-    <string name="micloud_confusion_account_notify_text">Il tuo Mi Account è stato modificato tramite un altro dispositivo.</string>
+    <string name="micloud_confusion_account_notify_text">Il tuo Account Mi è stato modificato tramite un altro dispositivo.</string>
     <string name="micloud_confusion_setting_notify_title">Proteggi il tuo account</string>
     <string name="micloud_confusion_setting_notify_text">Assicurati che nessuno dei tuoi vecchi dispositivi sia sincronizzato con il tuo Mi Cloud.</string>
     <string name="micloud_confusion_setting_password_error">La password inserita non è corretta</string>
@@ -431,8 +431,8 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_find_device_guide_fail_reopen">Attiva Trova Dispositivo su Mi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Controlla la tua connessione e riprova.</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">Connessione scaduta. Riprova più tardi.</string>
-    <string name="micloud_find_device_guide_noti_title">Attiva Trova Dispositivo per proteggere i tuoi dati anche se perdi il dispositivo</string>
+    <string name="micloud_find_device_guide_noti_title">Attiva \"Trova Dispositivo\" per proteggere i tuoi dati anche se perdi il dispositivo</string>
     <string name="micloud_find_device_guide_noti_content">Attiva</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Attiva Trova Dispositivo per mettere al sicuro i tuoi dati Wechat</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Attiva Trova Dispositivo per mettere al sicuro i tuoi dati Alipay</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Attiva \"Trova Dispositivo\" per mettere al sicuro i tuoi dati Wechat</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Attiva \"Trova Dispositivo\" per mettere al sicuro i tuoi dati Alipay</string>
 </resources>
