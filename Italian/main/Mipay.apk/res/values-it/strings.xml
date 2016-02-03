@@ -65,8 +65,8 @@
     <string name="mipay_set_password_modify_summary">Inserisci una nuova password</string>
     <string name="mipay_set_password_hint">Inserisci 6 cifre</string>
     <string name="mipay_check_password_summary">Inserisci la password per il pagamento</string>
-    <string name="mipay_login_password_error">"Verifica la password dell'Account Mi"</string>
-    <string name="mipay_check_login_password_summary">"Inserisci la password dell'Account Mi"</string>
+    <string name="mipay_login_password_error">Verifica la password del Mi Account</string>
+    <string name="mipay_check_login_password_summary">Inserisci la password del Mi Account</string>
     <string name="mipay_pay_check_password_title">Inserisci la password per il pagamento</string>
     <string name="mipay_pay_check_cvv2_title">Inserisci il CVV2</string>
     <string name="mipay_pay_check_sms_captcha_title">Inserisci il codice di controllo</string>

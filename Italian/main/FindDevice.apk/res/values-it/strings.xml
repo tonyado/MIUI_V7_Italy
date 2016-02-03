@@ -10,7 +10,7 @@
     <string name="find_device_error_password_changed">La password account è stata cambiata recentemente.</string>
     <string name="find_device_error_network">Cerca la tua connessione e riprova.</string>
     <string name="find_device_error_server">Errore del server</string>
-    <string name="find_device_error_account_sys_timeout">"Impossibile collegarsi all'Account Mi"</string>
+    <string name="find_device_error_account_sys_timeout">Impossibile collegarsi al Mi Account</string>
     <string name="find_device_crash">Trova Dispositivo si è chiuso in modo inaspettato</string> 
    <string name="find_device_stop_noise">Tocca OK per silenziare</string>
     <string name="find_device_noise_title">Suono di localizzazione dispositivo</string>
@@ -21,14 +21,14 @@
 Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzione."</string>
     <string name="i_know">OK</string>
     <string name="activate_xiaomi_account">Attiva questo dispositivo</string>
-    <string name="phone_locked">"Questo dispositivo potrebbe essere associato ad un Mi Account(%s). Esegui l'accesso per attivare il dispositivo."</string>
+    <string name="phone_locked">"Questo dispositivo potrebbe essere associato ad un Mi Account (%s). Esegui l'accesso per attivare il dispositivo."</string>
     <string name="password">Password</string>
     <string name="captcha">Captcha</string>
     <string name="stop_on_empty_password">La password non può essere vuota</string>
     <string name="stop_on_empty_captcha">Il captcha non può essere vuoto</string>
     <string name="unlocking">Attivazione…</string>
     <string name="unlock">Attiva</string>
-    <string name="verify_password_failed">"Impossibile verificare l'ID Mi Account. %s."</string>
+    <string name="verify_password_failed">"Impossibile verificare il Mi Account %s."</string>
     <string name="login_failed">Impossibile accedere</string>
     <string name="change_find_device_status_failed">Impossibile sbloccare. %s."</string>
     <string name="unlock_error_network">Impossibile collegarsi alla rete</string>

@@ -21,10 +21,10 @@
     <string name="disable_app">Disabilitata</string>
     <string name="stk_dialog_title">Strumenti SIM</string>
     <string name="default_tone_dialog_msg">Riproduci suono</string>
-    <string name="default_open_channel_msg">Canale Aperto?</string>
-    <string name="default_send_data_msg">Invio Dati</string>
-    <string name="default_receive_data_msg">Ricezione Dati</string>
-    <string name="default_close_channel_msg">Canale Chiuso</string>
+    <string name="default_open_channel_msg">Canale aperto?</string>
+    <string name="default_send_data_msg">Invio dati</string>
+    <string name="default_receive_data_msg">Ricezione dati</string>
+    <string name="default_close_channel_msg">Canale chiuso</string>
     <string name="stk_dialog_accept">SI</string>
     <string name="stk_dialog_reject">NO</string>
 </resources>

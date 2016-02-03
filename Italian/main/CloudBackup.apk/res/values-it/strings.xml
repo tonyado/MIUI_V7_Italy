@@ -30,7 +30,7 @@
     <string name="cloud_back_up_frequence_choice_title">Programmazione backup</string>
     <string name="cloud_back_up_frequence_long">Ogni 7 giorni</string>
     <string name="cloud_back_up_frequence_short">Ogni giorno</string>
-    <string name="cloud_back_up_share_activity_title">Aggiorna Account Mi</string>
+    <string name="cloud_back_up_share_activity_title">Aggiorna Mi Account</string>
     <string name="cloud_back_up_share_activity_discription">Ottieni altro spazio di archiviazione, backup giornalieri ed altro.</string>
     <string name="cloud_back_up_share_activity_confirm">Aggiorna</string>
     <string name="cloud_back_up_detail_discription">"Verrà eseguito il backup di questi elementi su Mi Cloud quando il dispositivo sarà connesso ad una rete Wi-Fi: 
