@@ -254,6 +254,7 @@
     <string name="add_contact">Contatto</string>
     <string name="add_nickname">Nickname</string>
     <string name="add_festival">Festival</string>
+    <string name="add_redpackage">Pacchetto Rosso</string>
     <string name="add_nickname_title">Aggiungi nickname</string>
     <string name="edit_nickname_for_nocontact">Nessun destinatario aggiunto. Aggiungere almeno un destinatario e premere per altre opzioni.</string>
     <string name="edit_nickname_for_nocontact_by_robot">Inserisci almeno un destinatario per poter modificare il nickname.</string>
@@ -369,6 +370,7 @@
     <string name="processing">Elaborazione…</string>
     <string name="title_date_type">Orario messaggio</string>
     <string name="mx_msg">Mi Message</string>
+    <string name="mx_msg_pageview_setting_title">Impostazioni Mi Message</string>
     <string name="mx_enable">Mi Message</string>
     <string name="mx_enable_ex">Mi Message e Voce</string>
     <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
@@ -376,6 +378,7 @@
     <string name="mx_btn_enable">Attiva</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="ex_type_mx">Messaggio cloud</string>
+    <string name="mx_dspt_listview">Invia messaggi ad altri dispositivi MIUI gratuitamente</string>
     <string name="mx_dspt">"Invia messaggi tramite Internet tra MIUI, l'attivazione per invio tramite Operatore è fallita una volta"</string>
     <string name="mx_current_status">Stato attuale: Online</string>
     <string name="mx_count_dspt">%1$d SMS e %2$d MMS inviati</string>
@@ -623,4 +626,7 @@
     <string name="wild_msg_title">Attiva sincronizzazione cloud</string>
     <string name="select_message_send_sim">Scegli SIM</string>
     <string name="card_insert_to_contact">Importa contatto</string>
+    <string name="red_package_default_hint">Buonafortuna!</string>
+    <string name="red_package_btn">Apri</string>
+    <string name="snippet_red_package">[Red Package]</string>
 </resources>

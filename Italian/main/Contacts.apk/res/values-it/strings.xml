@@ -229,6 +229,11 @@ Per aggiungere un contatto alla lista dei Preferiti:
     <string name="description_image_button_zero">zero</string>
     <string name="description_image_button_pound">cancelletto</string>
     <string name="description_voicemail_button">segreteria</string>
+    <string name="description_image_button_plus">Più</string>
+    <string name="description_image_button_comma">Virgola</string>
+    <string name="description_image_button_dial">Chiama</string>
+    <string name="description_image_button_sim1_dial">Chiama con SIM1</string>
+    <string name="description_image_button_sim2_dial">Chiama con SIM2</string>
     <string name="description_search_button">cerca</string>
     <string name="description_dial_button">componi</string>
     <string name="description_delete_button">cancella</string>
@@ -939,6 +944,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="menu_bar_group_ringtone_largeui">Suoneria</string>
     <string name="group_rename_dialog_title">Rinomina gruppo</string>
     <string name="group_sms_progress_msg">Creazione gruppo…</string>
+    <string name="group_detail_label_placeholder"> </string>
     <string name="group_create_success_toast">Gruppo creato</string>
     <string name="group_rename_success_toast">Gruppo rinominato</string>
     <string name="group_delete_success_toast">Gruppo eliminato</string>
@@ -1156,4 +1162,9 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="more_call_logs">Per altri dati sul Registro chiamate vai su <u>http://i.mi.com</u></string>
     <string name="transfer_accounts">Trasferisci account</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
+    <string name="dialer_menu_description">Tocca per vedereil tastierino</string>
+    <string name="back_view_description">Tocca per tornare indietro</string>
+    <string name="voip_audio_description">Tocca per effettuare una chiamata VoIP</string>
+    <string name="voip_video_description">Tocca per effettuate una video chiamata VoIP</string>
+    <string name="menu_newContactButton">Aggiungi</string>
 </resources>

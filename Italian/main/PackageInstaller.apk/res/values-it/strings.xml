@@ -82,6 +82,9 @@
     <string name="launch">Apri</string>
     <string name="unknown_apps_dlg_title">Blocca installazioni</string>
     <string name="unknown_apps_dlg_text">Per motivi di sicurezza, il dispositivo è impostato per bloccare le applicazioni non provenienti dal Google Play Store. Rimuovendo questa restrizione potrai installare applicazioni provenienti da altre fonti ma il dispositivo ed i tuoi dati potrebbero essere a rischio. Procedendo dichiari di essere a conoscenza dei rischi. Puoi modificare queste impostazioni in Impostazioni > Sicurezza > Origini sconosciute.</string>
+    <string name="unknown_apps_dlg_text1">"Il dispositivo è impostato per bloccare l'installazione di applicazioni provenienti da fonti sconosciute. Puoi disattivare questa funzione in "</string>
+    <string name="unknown_apps_dlg_text2">\"Impostazioni\"</string>
+    <string name="unknown_apps_dlg_text3">.</string>
     <string name="ok">OK</string>
     <string name="settings">Impostazioni</string>
     <string name="allow_source_dlg_title">Consentire applicazioni da altre fonti?</string>

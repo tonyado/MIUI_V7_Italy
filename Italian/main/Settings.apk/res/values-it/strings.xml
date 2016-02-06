@@ -64,7 +64,7 @@
     <string name="status_bar_settings_notification_priority">Priorità</string>
     <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
     <string name="status_bar_settings_show_home_message">Badge icona app</string>
-	<string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
+    <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
     <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto</string>
     <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla Schermata di blocco</string>
     <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
@@ -111,7 +111,7 @@
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
     <string name="header_category_wireless_networks">Wireless e Reti</string>
     <string name="header_category_connections">Connessioni</string>
-	<string name="header_category_device">Dispositivo</string>
+    <string name="header_category_device">Dispositivo</string>
     <string name="header_category_personal">Personale</string>
     <string name="header_category_access">Accesso</string>
     <string name="header_category_system">Sistema</string>
@@ -983,7 +983,7 @@ Tentativi rimasti :"</string>
     <string name="system_update_settings_list_item_title">Aggiornamenti sistema</string>
     <string name="system_update_settings_list_item_summary"/>
     <string name="firmware_version">Versione di Android</string>
-	<string name="security_patch">Livello patch sicurezza Android</string>
+    <string name="security_patch">Livello patch sicurezza Android</string>
     <string name="model_number">Modello</string>
     <string name="processor_info">CPU</string>
     <string name="fcc_equipment_id">ID attrezzatura</string>

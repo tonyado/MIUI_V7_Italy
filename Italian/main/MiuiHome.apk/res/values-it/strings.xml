@@ -246,7 +246,6 @@
     <string name="app_category_productivity">Produttività</string>
     <string name="recommend_apps_notice">App consigliate</string>
     <string name="recommend_apps_switch_title">App consigliate</string>
-    <string name="recommend_apps_switch_summary">Mostra le app consigliate in fondo allo schermo</string>
     <string name="recommend_apps_default_title">Vuoto</string>
     <string name="recommend_apps_tips">Questa funzione deve collegarsi ad internet per funzionare correttamente. Per disattivare questa funzione tocca il nome della cartella.</string>
     <string name="children_folder_title">Ragazzi</string>
@@ -258,4 +257,9 @@
     <string name="screen_number">Schermata n° %d</string>
     <string name="delete_screen">Elimina tasto schermo</string>
     <string name="add_screen">Aggiungi tasto schermo</string>
+    <string name="liked">Ti piace</string>
+    <string name="like">Mi piace</string>
+    <string name="share">Condividi</string>
+    <string name="settings">Impostazioni</string>
+    <string name="apply">Applica</string>
 </resources>
