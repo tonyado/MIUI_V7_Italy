@@ -603,7 +603,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="sim_account_name">SIM</string>
     <string name="miprofile_name">Il mio profilo</string>
     <string name="miprofile_edit_title">Modifica profilo</string>
-    <string name="miprofile_account_type">Account Mi</string>
+    <string name="miprofile_account_type">Mi Account</string>
     <string name="contact_detail_miprofile_request">Scambia schede contatti</string>
     <string name="contact_detail_miprofile_request_subtitle">Aggiorna foto profilo e contatto automaticamente</string>
     <string name="contact_detail_miprofile_request_success_toast">Richiesta inviata</string>
@@ -634,7 +634,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
     <string name="contact_detail_menu_delete_miprofile">Elimina scheda</string>
-    <string name="contact_detail_miprofile_exchange_closed">"Nessun numero di telefono associato con questo Account Mi
+    <string name="contact_detail_miprofile_exchange_closed">"Nessun numero di telefono associato con questo Mi Account
 Le schede contatti sono disattivate"</string>
     <string name="contact_detail_miprofile_privacy_settings">Richiede permessi di visualizzazione</string>
     <string name="miprofile_request_alertdialog_title">Scambio schede contatti</string>
@@ -650,7 +650,7 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_alertdialog_edit">Inserisci nome</string>
     <string name="miprofile_switch_off_alertdialog_message">Non potrai scambiare schede contatti con altre persone. Il tuoi contatti non potranno vedere il tuo profilo video."</string>
     <string name="miprofile_bind_account_alertdialog_title">Aggiungi numero di telefono</string>
-    <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Account Mi per utilizzare questa funzione."</string>
+    <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzione."</string>
     <string name="miprofile_bind_account_alertdialog_positive">Aggiungi numero</string>
     <string name="miprofile_request_header">Richieste di scambio (scadranno automaticamente tra una settimana)</string>
     <string name="miprofile_request_agree">Accetta</string>
@@ -682,7 +682,7 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_error_not_opened">Disattiva le schede contatti</string>
     <string name="miprofile_error_not_set">"La tua scheda contatto non è stata sincronizzata con il server</string>
     <string name="miprofile_error_accept_self">Non è possibile scambiare la tua scheda contatto</string>
-    <string name="miprofile_error_no_miaccount">Accedi al tuo Account Mi</string>
+    <string name="miprofile_error_no_miaccount">Accedi al tuo Mi Account</string>
     <string name="miprofile_error_unknown">Errore sconosciuto</string>
     <string name="miprofile_nick_name_edit_dialog_title">Modifica nickname</string>
     <string name="miprofile_nick_name_edit_dialog_message">Il nickname verrà mostrato nel registro chiamate e nei dettagli</string>
@@ -808,7 +808,7 @@ Le schede contatti sono disattivate"</string>
     <string name="photo_load_failed">Impossibile caricare la foto</string>
     <string name="empty_divider_title" />
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina i dati dei contatti usando l'Account Mi"</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina i dati dei contatti usando il Mi Account"</string>
     <string name="recent_contacts_label">Recenti</string>
     <string name="noRecentContacts">Nessun contatto recente</string>
     <string name="loading_groups">Caricamento gruppi…</string>
@@ -843,13 +843,13 @@ Le schede contatti sono disattivate"</string>
     <string name="export_vcard_description">Esporta vCard sulla scheda SD</string>
     <string name="export_sim_contact_finish_failure">Trasferiti: %1$d Rimasti: %2$d</string>
     <string name="pref_title_account_import">Importa da account</string>
-    <string name="pref_title_import_from_account">Importa da un Account Mi</string>
-    <string name="pref_summary_import_from_account">Trasferisci contatti da Google o Exchange al tuo Account Mi</string>
+    <string name="pref_title_import_from_account">Importa da un Mi Account</string>
+    <string name="pref_summary_import_from_account">Trasferisci contatti da Google o Exchange al tuo Mi Account</string>
     <string name="import_to_xiaomi_account_confirm">Importa</string>
-    <string name="import_to_xiaomi_account_progress_title">"Importa contatti sull'Account Mi"</string>
+    <string name="import_to_xiaomi_account_progress_title">Importa contatti sul Mi Account</string>
     <string name="import_to_xiaomi_account_progress_message">Importazione…</string>
     <string name="import_to_xiaomi_account_progress_finish">Importazione completata</string>
-    <string name="import_to_xiaomi_account_title">Vuoi importare i seguenti contatti sul tuo Account Mi?</string>
+    <string name="import_to_xiaomi_account_title">Vuoi importare i seguenti contatti sul tuo Mi Account?</string>
     <string name="select_show_contacts">Lista contatti</string>
     <string name="rebuild_t9_index_dialog_message">Ricostruzione indice…</string>
     <string name="pref_key_rebuild_t9_index_title">Ricostruzione indice</string>
@@ -1048,14 +1048,14 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="import_weibo_progress_name">Ricerca in corso di \"%1$s\"…</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="import_weibo_notification_title_done">Aggiornati %s contatti</string>
-    <string name="import_weibo_error_no_xiaomi_phone">"Non c'è nessun numero di telefono memorizzato nel tuo Account Mi"</string>
+    <string name="import_weibo_error_no_xiaomi_phone">"Non c'è nessun numero di telefono memorizzato nel tuo Mi Account"</string>
     <string name="import_weibo_error_no_matched_contacts">Nessun contatto corrispondente</string>
     <string name="import_weibo_error_no_network">Errore di rete</string>
     <string name="import_weibo_error_user_cancel">Utente eliminato</string>
     <string name="import_weibo_error_unknown">Errore sconosciuto</string>
     <string name="add_xiaomi_account_dialog_title">Scegli account</string>
-    <string name="add_xiaomi_account_dialog_msg">Usa il tuo Account Mi per sincronizzare ed eseguire il backup dei tuoi contatti tra vari dispositivi.</string>
-    <string name="add_xiaomi_account_dialog_btn">Usa Account Mi</string>
+    <string name="add_xiaomi_account_dialog_msg">Usa il tuo Mi Account per sincronizzare ed eseguire il backup dei tuoi contatti tra vari dispositivi.</string>
+    <string name="add_xiaomi_account_dialog_btn">Usa Mi Account</string>
     <string name="keep_local_btn">Usa la memoria interna del dispositivo"</string>
     <string name="batch_delete">Eliminazione multipla</string>
     <string name="starred_contacts">Preferiti</string>
@@ -1102,7 +1102,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="voip_contacts_entry">Mi Voice</string>
     <string name="voip_shortcut_name">Mi Voice</string>
     <string name="voip_contact_label">Mi Voice</string>
-    <string name="voip_loading_contact">Solo un attimo…</string>
+    <string name="voip_loading_contact">Attendi…</string>
     <string name="create_voip_shortcut_success">Collegamento creato</string>
     <string name="no_voip_contacts">Nessun contatto Mi Voice</string>
     <string name="calls_voip_prompt">VoIP</string>

@@ -126,7 +126,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
 Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="i_know">OK</string>
     <string name="find_device_disabled_title">Servizio Trova dispositivo disabilitato</string>
-    <string name="find_device_disabled_notice">Puoi attivare o disattivare Trova dispositivo tramite Impostazioni > Account e sincronizzazione > Account Mi</string>
+    <string name="find_device_disabled_notice">Puoi attivare o disattivare Trova dispositivo tramite Impostazioni > Account e sincronizzazione > Mi Account</string>
     <string name="button_cancel">Annulla</string>
     <string name="enable_micloud">Registrati o crea un account</string>
     <string name="micloud_more">Info aggiuntive</string>
@@ -271,10 +271,10 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_detail_wlan_contact">%d foto contatti non sincronizzati</string>
     <string name="micloud_detail_wlan_mms">%d MMS non sincronizzati</string>
     <string name="micloud_check_sim_title">"Sembra che tu abbia cambiato SIM. Accedi
-al tuo Account Mi per riattivare Mi Cloud."</string>
+al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Riattivazione Mi Cloud</string>
     <string name="micloud_check_sim_notify_text">"Sembra che tu abbia cambiato SIM. Accedi
-al tuo Account Mi per riattivare Mi Cloud."</string>
+al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_setting_contact_summary">Informazioni contatto e foto profilo</string>
     <string name="micloud_setting_sms_summary">SMS e MMS</string>
     <string name="micloud_setting_gallery_summary">Foto e video</string>
@@ -374,8 +374,8 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_confusion_entrance_title">Il contenuto di Mi Cloud è stato modificato</string>
     <string name="micloud_confusion_entrance_question">"Hai effettuato l'accesso e modificato dei dati su Mi Cloud utilizzando un %s?"</string>
     <string name="micloud_confusion_entrance_hint">Per mantenere il tuo cloud sicuro, non accedere ai dati su Mi Cloud con dispositivi condivisi.</string>
-    <string name="micloud_confusion_account_title">ID Account Mi</string>
-    <string name="micloud_confusion_account_question">"L'ID %s associato all'Account Mi ti appartiene?"</string>
+    <string name="micloud_confusion_account_title">Mi Account ID</string>
+    <string name="micloud_confusion_account_question">"L'ID %s associato al Mi Account ti appartiene?"</string>
     <string name="micloud_confusion_account_hint">"Le modifiche apportate a questo dispositivo verranno sincronizzate su tutti i dispositivi. Per proteggere il tuo account, ti suggeriamo di disattivare la sincronizzazione sui dispositivi che non utilizzi."</string>
     <string name="micloud_confusion_setting_title">Troppi dispositivi</string>
     <string name="micloud_confusion_setting_question">Disattiva la sincronizzazione sugli altri dispositivi associati al tuo account.</string>
@@ -385,18 +385,18 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_confusion_entrance_notify_title">Il contenuto di Mi Cloud è stato modificato</string>
     <string name="micloud_confusion_entrance_notify_text">Tocca per vedere i dettagli.</string>
     <string name="micloud_confusion_account_notify_title">Verifica account</string>
-    <string name="micloud_confusion_account_notify_text">Il tuo Account Mi è stato modificato tramite un altro dispositivo.</string>
+    <string name="micloud_confusion_account_notify_text">Il tuo Mi Account è stato modificato tramite un altro dispositivo.</string>
     <string name="micloud_confusion_setting_notify_title">Proteggi il tuo account</string>
     <string name="micloud_confusion_setting_notify_text">Assicurati che nessuno dei tuoi vecchi dispositivi sia sincronizzato con il tuo Mi Cloud.</string>
     <string name="micloud_confusion_setting_password_error">La password inserita non è corretta</string>
     <string name="micloud_confusion_toast_confirm">Dispositivo verificato</string>
-    <string name="micloud_confusion_toast_deny">Accedi al tuo Account Mi</string>
-    <string name="micloud_confusion_alert_title">Un altro dispositivo sta modificando il tuo Account Mi</string>
-    <string name="micloud_confusion_alert_message">Le informazioni del tuo Account Mi sono state modificate tramite un %s.</string>
+    <string name="micloud_confusion_toast_deny">Accedi al tuo Mi Account</string>
+    <string name="micloud_confusion_alert_title">Un altro dispositivo sta modificando il tuo Mi Account</string>
+    <string name="micloud_confusion_alert_message">Le informazioni del tuo Mi Account sono state modificate tramite un %s.</string>
     <string name="micloud_confusion_alert_negative">Più tardi</string>
     <string name="micloud_confusion_alert_positive">Dettagli</string>
     <string name="micloud_confusion_check_account_title">Riattiva Mi Cloud</string>
-    <string name="micloud_confusion_account_name">"ID Account Mi: "</string>
+    <string name="micloud_confusion_account_name">"Mi Account ID: "</string>
     <string name="input_password_hint">Inserisci password</string>
     <string name="forget_password"><u>Password dimenticata</u></string>
     <string name="micloud_sync_alert_dialog_title">Utilizza Mi Cloud</string>
