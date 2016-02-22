@@ -3693,6 +3693,12 @@ Disabilitare le finestre flottanti?"</string>
     <string name="fingerprint_and_password_entrance_title">Password e impronte digitali</string>
     <string name="password_entrance_title">Password</string>
     <string name="turn_off_common_password_confirm_msg">Anche la password verrà disattivata.</string>
+    <string name="crypt_keeper_content_title">Crittografa il dispositivo</string>
+    <string name="crypt_keeper_content">Puoi crittografare i tuoi account, impostazioni, app scaricate e relativi dati, media ed altri file.</string>
+    <string name="crypt_keeper_decrypt_methods_title">DEcrittografa il dispositivo</string>
+    <string name="crypt_keeper_decrypt_methods">"Dopo aver crittografato il dispositivo, se hai impostato un blocco dello schermo (sequenza, PIN o password), dovrai sbloccare lo schermo per decrittografare il dispositivo ogni volta che lo accendi. L'unico altro modo per decrittografare il dispositivo è ripristinare alle impostazioni di fabbrica, cancellando tutti i tuoi dati."</string>
+    <string name="crypt_keeper_conditions_title">Informazioni sulla decrittografia del dispositivo</string>
+    <string name="crypt_keeper_conditions">"La crittografia richiede un'ora o più. Devi avere la batteria carica e tenere il dispositivo in carica per completare il processo. Se lo interrompi, puoi perdere tutti o parte dei tuoi dati."</string>
     <string name="apply_fingerprint_to_category_title">Applica impronta digitale a…</string>
     <string name="fingerprint_list_title">Impronta</string>
     <string name="add_fingerprint_text">Aggiungi impronta digitale</string>

@@ -277,8 +277,7 @@ Per attivare il tuo account, segui il
     <string name="micloud_space_info">%s disponibili</string>
     <string name="loading_micloud_sync_data">Caricamento…</string>
     <string name="account_vip_level">Livello Vip</string>
-    <string name="account_vip_task">Operazione</string>
-    <string name="vip_level_value">LV%d</string>
+    <string name="account_vip_achievements">Trofei</string>
     <string name="authorize_title">Autorizzazione</string>
     <string name="my_device_title">Dispositivo attuale</string>
     <string name="device_list_title">Lista dispositivi</string>
@@ -306,4 +305,8 @@ Per attivare il tuo account, segui il
     <string name="get_device_list_failed">Impossibile recuperare la lista dispositivi</string>
     <string name="delete_device_failed">Impossibile rimuovere il dispositivo</string>
     <string name="empty_device_list_notice">Nessun dispositivo</string>
+    <string name="internet_statement_title">Termini di utilizzo</string>
+    <string name="internet_statement_message">"Toccando OK, concordi con la possibilità che l'app acceda ad internet."</string>
+    <string name="agree_add_continue">OK</string>
+    <string name="exit">Esci</string>
 </resources>

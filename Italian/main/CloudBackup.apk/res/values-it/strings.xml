@@ -111,4 +111,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="confirm_restore_title">Ripristina</string>
     <string name="confirm_restore_summary">La Schermata Home verrà riavviata e le app verranno scaricate automaticamente quando collegato ad una rete Wi-Fi</string>
     <string name="confirm_restore">Ripristina</string>
+    <string name="cloud_backup_have_data">Backup trovato su Mi Cloud</string>
+    <string name="cloud_backup_select_recover">Scegli il backup su Mi Cloud</string>
 </resources>

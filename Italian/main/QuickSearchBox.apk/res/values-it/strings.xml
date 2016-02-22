@@ -17,10 +17,13 @@
     <string name="cta_declaration_positive_text">Consenti</string>
     <string name="cta_declaration_negative_text">Esci</string>
     <string name="default_hint">Cerca App, Musica, Video, Libri...</string>
+    <string name="network_unavailable">Non collegato ad internet</string>
+    <string name="connect_and_retry">Colelgati adinternet e prova di nuovo</string>
+    <string name="web_search_results">Risultati ricerca web</string>
     <string name="apps_search_activity" />
-	<string name="xiaomi_suggest_base"/>
-    <string name="xiaomi_hot_query"/>
-    <string name="xiaomi_hint"/>
+    <string name="xiaomi_suggest_base" />
+    <string name="xiaomi_hot_query" />
+    <string name="xiaomi_hint" />
     <string name="app_name">Cerca</string>
     <string name="search_widget">Cerca</string>
     <string name="remove_from_history">Rimuovi dalla cronologia</string>

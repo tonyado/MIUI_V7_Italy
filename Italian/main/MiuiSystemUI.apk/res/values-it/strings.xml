@@ -242,5 +242,7 @@ scorri in basso per bloccare"</string>
     <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
     <string name="screen_button_notification_text">Per riattivarli, premi i pulsanti Home e Accensione contemporaneamente.</string>
     <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>
+    <string name="account_info">Accesso non eseguito</string>
+    <string name="notification_header_title">Notifiche</string>
     <string name="lland">L Land</string>
 </resources>

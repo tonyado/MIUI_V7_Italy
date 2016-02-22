@@ -176,4 +176,12 @@
         <item quantity="few">Backup di %1$d video WeChat.</item>
         <item quantity="many">Backup di %1$d video WeChat.</item>
     </plurals>
+    <plurals name="remote_video_update">
+        <item quantity="other">Trovati %1$d nuovi video</item>
+        <item quantity="zero">Trovati %1$d nuovi video</item>
+        <item quantity="one">Trovato %1$d nuovo video</item>
+        <item quantity="two">Trovati %1$d nuovi video</item>
+        <item quantity="few">Trovati %1$d nuovi video</item>
+        <item quantity="many">Trovati %1$d nuovi video</item>
+    </plurals>
 </resources>
