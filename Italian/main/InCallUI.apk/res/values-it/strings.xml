@@ -127,6 +127,7 @@
     <string name="waiting_close_airplane_mode">Solo un attimo…</string>
     <string name="select_voice_call_sim">Scegli SIM</string>
     <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="select_sim_hint">Impossibile utilizzare la SIM %2$d mentre la SIM %1$d è in uso.</string>
     <string name="call_description_recording">Registrazione…</string>
     <string name="call_recording_error_privacy">Impossibile registrare in modalità Ospite</string>
     <string name="call_recording_error_sd_access">Impossibile accedere alla scheda SD</string>
@@ -139,6 +140,8 @@
     <string name="call_recording_notification_message">Tocca per ascoltare</string>
     <string name="call_recording_notification_message_low_storage">Scheda SD piena</string>
     <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa</string>
+    <string name="call_recording_deny_permission_msg">Hai limitato i permessi di registrazione, impossibile registrare.</string>
+    <string name="call_contacts_deny_permission_msg">Hai limitato i permessi di lettura dei contatti, impossibile mostrare le informazioni del contatto.</string>
     <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
     <string name="antispam_provider">Identificato da %s</string>
     <string name="antispam_notification_title">Numero sconosciuto</string>

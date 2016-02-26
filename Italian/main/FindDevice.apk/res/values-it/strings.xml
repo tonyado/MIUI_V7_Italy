@@ -11,6 +11,7 @@
     <string name="find_device_error_network">Cerca la tua connessione e riprova.</string>
     <string name="find_device_error_server">Errore del server</string>
     <string name="find_device_error_account_sys_timeout">Impossibile collegarsi al Mi Account</string>
+    <string name="find_device_error_account_unknown_error">Errore Mi Account (%s)</string>
     <string name="find_device_crash">Trova Dispositivo si è chiuso in modo inaspettato</string>
     <string name="find_device_storage_corrupted">Memoria Trova telefono corrotta. IL tuo dispositivo adesso non è sicuro.</string>
     <string name="find_device_stop_noise">Tocca OK per silenziare</string>
