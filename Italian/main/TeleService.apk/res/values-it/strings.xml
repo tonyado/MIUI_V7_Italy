@@ -616,8 +616,8 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="enable_disable_multi_category">Categorie multiple</string>
     <string name="multi_category_enable">Categorie multiple attivate</string>
     <string name="multi_category_disable">Categorie multiple disattivate</string>
-    <string name="network_lte">LTE (recommended)</string>
-    <string name="network_4G">4G (recommended)</string>
+    <string name="network_lte">LTE (consigliato)</string>
+    <string name="network_4G">4G (consigliato)</string>
     <string name="network_3G">3G</string>
     <string name="network_2G">2G</string>
     <string name="network_1x">1x</string>
@@ -630,7 +630,7 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="cdma_subscription_dialogtitle">Sottoscrizione</string>
     <string name="cdma_activate_device">Attiva dispositivo</string>
     <string name="cdma_lte_data_service">Imposta servizio dati</string>
-    <string name="carrier_settings_title">Carrier settings</string>
+    <string name="carrier_settings_title">Impostazioni operatore</string>
     <string name="call_ind_services">Call Independent Services</string>
     <string name="callind_multi_sim">Impostazione sottoscr.</string>
     <string name="callind">Call Feature Settings</string>
@@ -655,8 +655,8 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="auto_retry_mode_summary">Abilita modalità ricomposizione automatica</string>
     <string name="tty_mode_not_allowed_vt_call">TTY Mode change is not allowed during a VT call</string>
     <string name="menu_add">Aggiungi contatto</string>
-    <string name="menu_edit">Edit contact</string>
-    <string name="menu_delete">Delete contact</string>
+    <string name="menu_edit">Modifica contatto</string>
+    <string name="menu_delete">Elimina contatto</string>
     <string name="get_pin2">Digita il PIN2</string>
     <string name="name">Nome</string>
     <string name="number">Numero</string>
@@ -1185,7 +1185,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="msim_not_set_summary">Non impostato</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Internet, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
-    <string name="msim_switch_data_conn_toast_for_h2xct">Lo slot SIM 2 supporta solo reti GSM. LA rete preferita per questo slot è stata modificata in solo 2G.</string>
+    <string name="msim_switch_data_conn_toast_for_h2xct">Lo slot SIM 2 supporta solo reti GSM. La rete preferita per questo slot è stata modificata in solo 2G.</string>
     <string name="international_roaming_setting">Roaming internazionale</string>
     <string name="overseas_roaming_setting">Roaming internazionale</string>
     <string name="add">Aggiungi</string>
@@ -1210,11 +1210,11 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="telocation_custom_number_hint">Prefisso o numero gruppo</string>
     <string name="telocation_custom_name_hint">Numero</string>
     <string name="telocation_number_type">Tipologia numero</string>
-    <string name="telocation_number_type_jituan">NUmero gruppo</string>
+    <string name="telocation_number_type_jituan">Numero gruppo</string>
     <string name="telocation_number_type_mob">Rete mobile</string>
     <string name="telocation_number_type_tel">Rete fissa</string>
     <string name="telocation_countrycode_alert_message">Inserisci il numero di telefono senza prefisso internazionale</string>
-    <string name="telocation_confim_delete_title">Cancellare questo messaggio?</string>
+    <string name="telocation_confim_delete_title">Eliminare questo messaggio?</string>
     <string name="telocation_error_message_number">%s supporta solo numeri</string>
     <string name="telocation_jituan_error_message_number">%s supporta solo numeri e caratteri jolly</string>
     <string name="voip_setting">Impostazioni VoIP</string>
@@ -1232,19 +1232,19 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="callwait_open_hint">\"Chiamata in attesa\" è una funzionalità fornita dal tuo operatore mobile. Se ricevi una notifica di errore, contatta il tuo fornitore di servizi e assicurati che questa funzionalità sia attiva per il tuo numero.</string>
     <string name="open_miui">Apri</string>
     <string name="preferred_network_restrict_network_changed_incall">Impossibile cambiare rete durante una chiamata</string>
-    <string name="bad_pin">Il vecchio PIN che hai digitato non è corretto. Riprova</string>
+    <string name="bad_pin">Il vecchio PIN che hai digitato non è corretto. Riprova.</string>
     <string name="bad_puk">"Il PUK che hai digitato non è corretto. Riprova."</string>
     <string name="confirm_pin_label">Conferma il nuovo PIN</string>
     <string name="fdn_summary">Limita le chiamate uscenti a una lista di NSF o ai numeri con certi prefissi</string>
     <string name="invalid_pin">Digita un PIN che sia composto da 4 a 8 cifre.</string>
     <string name="invalid_puk">Digita un PUK che sia composto da 4 a 8 cifre.</string>
-    <string name="mismatch_pin">I PIN che hai digitato non corrispondono. Riprova</string>
+    <string name="mismatch_pin">I PIN che hai digitato non corrispondono. Riprova.</string>
     <string name="network_message">Messaggio di rete</string>
     <string name="new_pin_label">Nuovo PIN</string>
     <string name="old_pin_label">Vecchio PIN</string>
     <string name="pin2_invalid_or_name_is_too_long">Hai inserito un PIN non valido o il nome immesso è troppo lungo</string>
     <string name="pin_lock_warning">
-Il tuo telefono verrà bloccato automaticamente se fallisci un altro tentativo</string>
+Il tuo dispositivo verrà bloccato automaticamente se fallisci un altro tentativo</string>
     <string name="puk_label">Digita il codice PUK</string>
     <string name="puk_lock_warning">
 La tua SIM sarà cancellata se fallisci un altro tentativo.</string>
@@ -1274,7 +1274,7 @@ La tua SIM sarà cancellata se fallisci un altro tentativo.</string>
     <string name="volte_switch_title">VoLTE abilitato</string>
     <string name="volte_switch_summary">Abilita il VoLTE per migliorare la qualità audio e video in chiamata</string>
     <string name="cdma_alert_title">La scheda UIM deve esere la predefinita</string>
-    <string name="cdma_alert_message">"Se selezioni un'altra scheda come predefinita per i dati su rete mobile, non potrai utilizzare la tua scheda UIM China Telecom UIM (ad esclusione del roaming)."</string>
+    <string name="cdma_alert_message">"Se selezioni un'altra scheda come predefinita per i dati su rete mobile, non potrai utilizzare la tua scheda UIM China Telecom (ad esclusione del roaming)."</string>
     <string name="config_default_data_sim">Impostazioni</string>
     <string name="got_it">OK</string>
     <string name="can_not_use_for_not_data_sim">"(Impossibile utilizzare: deve essere impostata come SIM dati predefinita)"</string>
