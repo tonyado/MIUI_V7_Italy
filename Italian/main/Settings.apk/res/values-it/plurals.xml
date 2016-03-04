@@ -60,4 +60,12 @@
         <item quantity="other">Ti mancano %1$d tocchi per avviare una segnalazione bug</item>
         <item quantity="one">Ti manca %1$d tocco per avviare una segnalazione bug</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Disattiva sempre per %d app</item>
+        <item quantity="one">Disattiva sempre per 1 app</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Non disattivare mai per %d app</item>
+        <item quantity="one">Non disattivare mai per 1 app</item>
+    </plurals>
 </resources>

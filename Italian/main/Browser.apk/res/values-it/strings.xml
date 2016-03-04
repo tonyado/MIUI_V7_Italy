@@ -581,6 +581,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_force_userscalable">Attivazione forzata zoom</string>
     <string name="pref_force_userscalable_summary">Ignora richieste dei siti di controllare lo zoom</string>
     <string name="pref_ua_string">Stringa user agent</string>
+    <string name="pref_accessibility">Accessibilità</string>
     <string name="pref_content_homepage">Imposta pagina iniziale</string>
     <string name="pref_set_homepage_to">Imposta come</string>
     <string name="adblock_websites_settings_title">Regole personalizzate</string>

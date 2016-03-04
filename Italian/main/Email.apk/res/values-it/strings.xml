@@ -78,15 +78,19 @@
     <string name="account_setup_failed_certificate_required">Certificato client richiesto. Connettersi al server con certificato client?</string>
     <string name="account_setup_failed_check_credentials_message">Il server ha risposto con un errore. Controlla nome utente e password e riprova.</string>
     <string name="account_setup_failed_dlg_auth_message">Nome utente o password errata.</string>
+    <string name="account_setup_failed_dlg_bar_title">Modalità di accesso a %s</string>
     <string name="account_setup_failed_dlg_certificate_message">Impossibile connettersi in modo sicuro al server.</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Impossibile connettersi in modo sicuro al server.
 (%s)"</string>
     <string name="account_setup_failed_dlg_device_locked">Il tuo indirizzo è stato bloccato dal dispositivo</string>
     <string name="account_setup_failed_dlg_edit_details_action">Modifica dettagli</string>
+    <string name="account_setup_failed_dlg_error_code">Codice errore: %s</string>
     <string name="account_setup_failed_dlg_server_message">Impossibile connettersi al server.</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Impossibile connettersi al server.
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">Impossibile completare</string>
+    <string name="account_setup_failed_dlg_todo1">"Imposa l'account come mostrato sotto o prova ad accedere con EXCHANGE."</string>
+    <string name="account_setup_failed_dlg_todo2">"Imposta l'account come mostrato sotto"</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Errore sconociuto.</string>
     <string name="account_setup_failed_ioerror">Impossibile stabilire la connessione al server.</string>
     <string name="account_setup_failed_protocol_unsupported">"Hai digitato l'indirizzo di un server sbagliato o il server richiede una versione di protocollo non supportata da Email."</string>
@@ -221,6 +225,7 @@
     <string name="clear_display_images_whitelist_dialog_title">Vuoi revocare i consensi immagini?</string>
     <string name="clear_display_images_whitelist_title">Revoca consenso immagini</string>
     <string name="click_download_all_content">[ Tap to download content ]</string>
+    <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
@@ -407,6 +412,18 @@
     <string name="ignore_spam_warning">Ignora, messaggio sicuro</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_password_error">La password per il server di posta in entrata non è corretta</string>
+    <string name="info_actionbar_normal_detail">Dettagli articolo</string>
+    <string name="info_actionbar_subscribe">Sottoscrizione</string>
+    <string name="info_item_from">Da </string>
+    <string name="info_item_hide">Nascondi</string>
+    <string name="info_loading">Caricamento</string>
+    <string name="info_name_title">NEWS</string>
+    <string name="info_no_message">Nessun articolo!</string>
+    <string name="info_no_more_message">Messaggi terminati</string>
+    <string name="info_switch_summary">Apri la cartella delle NEWS</string>
+    <string name="info_switch_title">Cartella NEWS</string>
+    <string name="info_sync_error">Errore di sincronizzazione, riprova più tardi.</string>
+    <string name="information_subscribe_first_intro">Questa è laprima volta che utilizzi 「Subscribe」 , seleziona alcuni tag ti tuo interesse, così possiamo darti suggerimenti appropriati~</string>
     <string name="inline_picture_deleted">"Impossibile trovare l'immagine,download in corso…"</string>
     <string name="input_password_prompt">Inserisci la tua password</string>   
     <string name="invalid_recipient">"L'indirizzo %s non è valido."</string>
@@ -498,8 +515,11 @@
     <string name="move_to_selection_dialog_title">"Sposta in un'altra cartella"</string>
     <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
     <string name="mute">Disattiva</string>
+    <string name="net_check_title">Impossibile collegarsi alla rete. Verifica le impostazioni di rete e prova di nuovo.</string>
     <string name="network_error">Nessuna connessione</string>
     <string name="network_not_available">Connessione di rete non disponibile, riprova più tardi</string>
+    <string name="network_try_again">Verificare la rete</string>
+    <string name="network_unavailable">Rete non disponibile</string>
     <string name="new_incoming_messages_one">Nuovo messaggio da %s. Leggi.</string>
     <string name="new_messages">%1$d nuovi messaggi</string>
     <string name="next_action">Avanti</string>
@@ -665,10 +685,8 @@
     <string name="release_to_refresh">Rilascia per aggiornare</string>
     <string name="remote_search_result">%s email trovate sul server.</string>
     <string name="remove_account">Rimuovi account</string>
-    <string name="remove_account_confirm">"L'account \"%1$s\" verrà rimosso da WPSMail."</string>
-    <string name="remove_account_confirm_title">Elimina account</string>
     <string name="remove_folder">Rimuovi da %1$s</string>
-    <string name="remove_star">Rimuovi da Speciali</string>
+    <string name="remove_star">Non preferito</string>
     <string name="reply">Rispondi</string>
     <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
     <string name="reply_all">Rispondi a tutti</string>
@@ -701,6 +719,7 @@
     <string name="security_unsupported_ticker_fmt">"L'account \"%s\" non può essere sincronizzato."</string>
     <string name="select_attachment_type">Scegli tipo di allegato</string>
     <string name="select_no_file">Nessun allegato selezionato per la condivisione.</string>
+    <string name="selected_lable">Selezionato</string>
     <string name="send">Invia</string>
     <string name="send_failed">"Il messaggio non è stato inviato."</string>
     <string name="sender_whitelist_cleared">Le immagini non verranno mostrate automaticamente.</string>

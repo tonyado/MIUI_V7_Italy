@@ -870,7 +870,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="ring_volume_title">Volume suoneria</string>
     <string name="vibrate_in_silent_title">Vibra in modalità silenziosa</string>
     <string name="notification_sound_title">Suono di notifica predefinito</string>
-    <string name="heads_up_enabled_title">Pop up if high priority</string>
+    <string name="heads_up_enabled_title">Pop up se alta priorità</string>
     <string name="incoming_call_volume_title">Suoneria</string>
     <string name="notification_volume_title">Notifica</string>
     <string name="checkbox_notification_same_as_incoming_call">Usa volume chiamate in entrata per le notifiche</string>
@@ -3742,4 +3742,11 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="optimization_close">Disattiva e riavvia</string>
     <string name="optimization_open">Attiva</string>
     <string name="optimization_cancel">Annulla</string>
+    <string name="settings_forbidden_message">Questa impostazione è disattivata</string>
+    <string name="auto_disable_screenbuttons_title">Disattiva automaticamente i tasti di navigazione</string>
+    <string name="auto_disable_screenbuttons_summary">Disattiva automaticamente i tasti di navigazione quando utilizzi app selezionate. Tocca due volte un tasto per riattivare.</string>
+    <string name="auto_disable_screenbuttons_ask">Chiedi per disattivare</string>
+    <string name="auto_disable_screenbuttons_auto">Disattiva sempre</string>
+    <string name="auto_disable_screenbuttons_no">Non disattivare mai</string>
+    <string name="auto_disable_screenbuttons_cancel">Annulla</string>
 </resources>

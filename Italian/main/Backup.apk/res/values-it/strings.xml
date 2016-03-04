@@ -279,6 +279,8 @@ Tempo impiegato: %s"</string>
     <string name="trans_progress_subdescript_transing_receiver">In ricezione %s</string>
     <string name="trans_progress_subdescript_transingsd_sender">Invio file…</string>
     <string name="trans_progress_subdescript_transingsd_receiver">Ricezione file…</string>
+    <string name="trans_progress_subdescript_transingsddata_sender">Invio dati sdcard di %1$s, %2$s completato</string>
+    <string name="trans_progress_subdescript_transingsddata_receiver">Ricezione dati sdcard di %1$s, %2$s completato</string>
     <string name="trans_progress_subdescript_br_sender">Backup di %s</string>
     <string name="trans_progress_subdescript_br_receiver">Ricezione di %s</string>
     <string name="trans_progress_subdescript_waiting">In attesa di ricevere %s</string>
@@ -308,8 +310,19 @@ In attesa del trasferimento…"</string>
 I file già esistenti sul nuovo dispositivo verranno sovrascritti"</string>
     <string name="trans_select_data_no_space">"%s disponibili sul nuovo dispositivo
 Seleziona di nuovo i file per liberare spazio"</string>
+    <string name="trans_calculating_base_size">Calcolo dimensione base app</string>
+    <string name="trans_calculating">Calcolo in corso...</string>
+    <string name="trans_native_no_space">"Questo dispositivo non ha spazio sufficiente
+Si prega di liberare almeno %s"</string>
+    <string name="trans_calculating_app_sd_size">Calcolo dimensione dati da inviare, %s scansionati</string>
+    <string name="trans_please_waiting">Attendere prego...</string>
     <string name="size_byte">B</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_giga_byte">GB</string>
+    <string name="trans_connect_failed_title">Connessione fallita</string>
+    <string name="trans_connect_failed_message">"Connessione fallita, riprova o riavvia. E sull'altro dispositivo, vai in Impostazioni > Impostazioni aggiuntive > Mi Mover, tocca [I'm a sender] o lancia di nuovo Mi Mover dopo il riavvio"</string>
+    <string name="trans_retry">Riprova</string>
+    <string name="trans_start_failed_title">Avvio fallito</string>
+    <string name="trans_start_failed_message">Avvio fallito, prova di nuovo o ritenta dopo un riavvio</string>
 </resources>

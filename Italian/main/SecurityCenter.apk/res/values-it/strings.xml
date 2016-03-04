@@ -495,6 +495,12 @@
     <string name="manual_handle_title">OPZIONI DISPONIBILI</string>
     <string name="manual_item_white_list_title">Eccezioni</string>
     <string name="manual_item_white_list_summary">Non ottimizzare le app selezionate</string>
+    <string name="pm_auto_start_by_system">Avvio applicazioni</string>
+    <string name="pm_auto_start_by_other_services">Prova a disattivare questi servizi</string>
+    <string name="pm_auto_start_by_basic_services">Servizi base</string>
+    <string name="pm_auto_start_basic_services_lock">Blocca</string>
+    <string name="pm_auto_start_basic_services_unlock">Sblocca</string>
+    <string name="pm_auto_start_proc_is_running">In esecuzione</string>
     <string name="delete_from_manual_item_white_list">Rimuovi dalle eccezioni</string>
     <string name="manual_white_list_header">%d eccezioni</string>
     <string name="button_text_ignore">Ignora</string>
@@ -545,6 +551,8 @@
     <string name="summary_cleaner_cloudscan">Carica e confronta i nomi sconosciuti con il database online</string>
     <string name="title_live_talk_purchase">Ricarica adesso</string>
     <string name="summary_live_talk_purchase">Solo ¥ 0.05 al minuto per chiamate nazionali.</string>
+    <string name="title_xiaomi_roaming">Mi Roaming</string>
+    <string name="summary_xiaomi_roaming">0.01 yuan per MB per il traffico su rete internazionale.</string>
     <string name="toast_network_switch">Questa applicazione può collegarsi ad internet</string>
     <string name="toast_flow_notification">Notifiche utilizzo dati attivate</string>
     <string name="toast_show_notification">Mostra nel pannello di notifica</string>

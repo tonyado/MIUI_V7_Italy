@@ -195,6 +195,7 @@ Il server è momentaneamente non accessibile, si prega di riprovare più tardi�
     <string name="copy_failed">Impossibile copiare</string>
     <string name="delete_failed">Eliminazione fallita</string>
     <string name="toast_file_not_can_read">Il file non è leggibile.</string>
+    <string name="otg_file_can_not_open">Impossibile parire il file su USB. Prima copia il file sulla memoria interna.</string>
     <string name="ui_main_menu_option_sign_in">Accedi</string>
     <string name="sign_description">Accesso in corso…</string>
     <string name="signin_error">Rete momentaneamente non disponibile, provare di nuovo</string>
