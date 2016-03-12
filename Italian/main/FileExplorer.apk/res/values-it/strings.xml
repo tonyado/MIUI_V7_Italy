@@ -2,6 +2,7 @@
 <resources>
     <string name="category_default_number_text">(0)</string>
     <string name="download_current_progress">%1$d%%</string>
+    <string name="slashes">/</string>
     <string name="delete_folder">\u0020Eliminare questa cartella?</string>
     <string name="delete_folders">\u0020Eliminare %1$d cartelle?</string>
     <string name="delete_file">Eliminare questo file?</string>
@@ -664,4 +665,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="ad_downloading">Caricamento…</string>
     <string name="installing">Installazione…</string>
     <string name="need_read_storage_permission">File Explorer richiede i permessi per accedere ala memoria del dispositivo</string>
+    <string name="enable_documentsui">Attiva prima %s in Impostazioni/App instalalte</string>
+    <string name="not_installed_documentsui">DocumentsUI non installato</string>
+    <string name="title_enable_documentsui">Attiva DocumentsUI</string>
 </resources>

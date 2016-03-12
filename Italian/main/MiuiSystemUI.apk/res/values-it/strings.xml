@@ -106,6 +106,8 @@ scorri in basso per bloccare"</string>
     <string name="description_direction_up">Scorri in alto per %s.</string>
     <string name="description_direction_left">Scorri a sinistra per %s.</string>
     <string name="description_target_search">Cerca</string>
+    <string name="status_bar_date_format_12">"EEEE
+d MMMM"</string>
     <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
     <string name="status_bar_recent_memory_info2"/>
     <string name="usb_mode_notification">Archivio USB</string>
@@ -199,6 +201,7 @@ scorri in basso per bloccare"</string>
     <string name="block_record_notification_title">Blocca elemento</string>
     <string name="block_record_notification_text">%1$s. Tocca per vedere</string>
     <string name="block_record_notification_more_text">%1$s %2$d app. Tocca per vedere</string>
+    <string name="notification_hidden_text">Contenuti nascosti</string>
     <string name="notification_otg_mouse_in">Mouse connesso</string>
     <string name="notification_otg_keyboard_in">Tastiera connessa</string>
     <string name="notification_otg_gamestick_in">Gamepad connesso</string>
