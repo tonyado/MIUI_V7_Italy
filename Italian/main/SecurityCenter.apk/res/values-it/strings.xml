@@ -510,7 +510,7 @@
     <string name="reject_usb_install">"Negata l'installazione tramite USB  della seguente app"</string>
     <string name="pc_install_manager">"Installa tramite USB"</string>
     <string name="monitor_requests_from_pc">"Gestisci l'installazione dell'app tramite USB"</string>
-    <string name="app_install_intercept">Blocca l'installazione</string>
+    <string name="app_install_intercept">"Blocca l'installazione"</string>
     <string name="pc_to_phone_install">Instalalzione tramite USB di %s bloccata</string>
     <string name="recently_reject_message_one">%1$s richieste di installazione rifiutate</string>
     <string name="recently_reject_message">%1$s richieste di installazione ed altre %2$d rifiutate</string>

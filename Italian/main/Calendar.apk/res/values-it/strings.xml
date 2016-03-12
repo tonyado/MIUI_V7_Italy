@@ -269,7 +269,7 @@
     <string name="drop_down_list_header_loading_text">Caricamento…</string>
     <string name="drop_down_list_footer_default_text">Altro</string>
     <string name="drop_down_list_footer_loading_text">Caricamento…</string>
-    <string name="drop_down_list_footer_no_more_text">Nient'altro</string>
+    <string name="drop_down_list_footer_no_more_text">"Nient'altro"</string>
     <string name="subscribe_description_card_default_title">Aggiornaemnti recenti</string>
     <string name="subscribe_description_card_more_launch">Espandi</string>
     <string name="subscribe_description_card_more_cut">Collassa</string>

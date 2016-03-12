@@ -57,7 +57,7 @@
     <string name="rise">Caldo</string>
     <string name="cool_portrait">Quadro</string>
     <string name="old">Vintage</string>
-    <string name="camera_black_white">Bianco & Nero</string>
+    <string name="camera_black_white">Bianco e Nero</string>
     <string name="black_white">Piatto</string>
     <string name="free">Libero</string>
     <string name="square">Quadrato</string>
@@ -147,10 +147,6 @@
     <string name="create_baby_album_later_toast">Crea un album del bambino quando vuoi nelle Impostazioni</string>
     <string name="not_remind_any_more">Non mostrare più</string>
     <string name="not_ask_any_more">Non chiedere più risposte da \"%s\"</string>
-    <string name="confirm_recommandation_face_is">" "<data> Sei sicuro che questo sia <font color=#323232><b>%1$s</b></font>? Questo volto verrà spostato nell\'album \"%2$s\" dopo la conferma. </data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<data> Sei sicuro che questi siano <font color=#323232><b>%1$s</b></font>? Questi volti verranno spostati nell\'album \"%2$s\" dopo la conferma. </data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<data> Sei sicuro che questo non sia <font color=#323232><b>%1$s</b></font>? Questo volto verrà spostato nell\'album \"%2$s\" dopo la conferma. </data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<data> Sei sicuro che questi non siano <font color=#323232><b>%1$s</b></font>? Questi volti verranno spostati nell\'album \"%2$s\" dopo la conferma. </data>" "</string>
     <string name="blank_app_name"/>
     <string name="set_group">Imposta gruppo</string>
     <string name="how_to_set_relation">Tieni premuto su un album perimpostare il gruppo</string>
