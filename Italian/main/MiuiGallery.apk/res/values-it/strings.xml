@@ -147,6 +147,10 @@
     <string name="create_baby_album_later_toast">Crea un album del bambino quando vuoi nelle Impostazioni</string>
     <string name="not_remind_any_more">Non mostrare più</string>
     <string name="not_ask_any_more">Non chiedere più risposte da \"%s\"</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Are you sure this is <font color=#323232><b>%1$s</b></font>? This face will be moved to \"%2$s\" album after confirmation. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Are you sure these are <font color=#323232><b>%1$s</b></font>? These faces will be moved to \"%2$s\" album after confirmation. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Are you sure this is not <font color=#323232><b>%1$s</b></font>? This face will be moved to \"%2$s\" album after confirmation. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Are you sure these are not <font color=#323232><b>%1$s</b></font>? These faces will be moved to \"%2$s\" album after confirmation. </Data>" "</string>
     <string name="blank_app_name"/>
     <string name="set_group">Imposta gruppo</string>
     <string name="how_to_set_relation">Tieni premuto su un album perimpostare il gruppo</string>
