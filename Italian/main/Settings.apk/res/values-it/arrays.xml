@@ -127,6 +127,14 @@
         <item>Solo quando collegato</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Ultimi 30 giorni</item>
+        <item>Imposta ciclo di utilizzo...</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Ultimi 4 numeri</item>
+        <item>Primi 4 numeri</item>
+    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatica</item>
         <item>Solo 5 GHz</item>
@@ -455,6 +463,33 @@
         <item>basso</item>
         <item>critico</item>
     </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Disattivato</item>
+        <item>Interruzioni limitate</item>
+        <item>Nessuna interruzione</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normale</item>
+        <item>Moderato</item>
+        <item>Basso</item>
+        <item>Critico</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Persistente</item>
+        <item>Attività top</item>
+        <item>Importante (primo piano)</item>
+        <item>Importante (background)</item>
+        <item>Backup</item>
+        <item>Pesante</item>
+        <item>Servizio (in esecuzione)</item>
+        <item>Servizio (riavvio)</item>
+        <item>Ricevitore</item>
+        <item>Home</item>
+        <item>Ultima attività</item>
+        <item>Cache (attività)</item>
+        <item>Cache (client attività)</item>
+        <item>Cache (vuota)</item>
+    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
         <item>Medio</item>
@@ -697,7 +732,7 @@
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
     </string-array>
-<string-array name="screen_resolution_entries">
+    <string-array name="screen_resolution_entries">
         <item>Nativa (2K)</item>
         <item>Normale (720p)</item>
     </string-array>
@@ -705,11 +740,20 @@
         <item>1440</item>
         <item>720</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
         <item>ar</item>
         <item>bh</item>
+        <item>bd</item>
         <item>be</item>
         <item>bo</item>
         <item>bw</item>
@@ -720,6 +764,8 @@
         <item>cd</item>
         <item>cr</item>
         <item>ci</item>
+        <item>cu</item>
+        <item>do</item>
         <item>ec</item>
         <item>eg</item>
         <item>sv</item>
@@ -731,13 +777,17 @@
         <item>gh</item>
         <item>gt</item>
         <item>gy</item>
+        <item>ht</item>
         <item>hn</item>
         <item>hk</item>
         <item>in</item>
         <item>id</item>
         <item>ir</item>
         <item>iq</item>
+        <item>il</item>
+        <item>jm</item>
         <item>jo</item>
+        <item>kz</item>
         <item>ke</item>
         <item>kw</item>
         <item>lb</item>
@@ -746,14 +796,20 @@
         <item>lt</item>
         <item>mw</item>
         <item>my</item>
+        <item>mr</item>
+        <item>mu</item>
         <item>mx</item>
         <item>ma</item>
         <item>mz</item>
         <item>mm</item>
         <item>na</item>
+        <item>np</item>
         <item>ni</item>
         <item>ng</item>
+        <item>kp</item>
         <item>om</item>
+        <item>pk</item>
+        <item>ps</item>
         <item>pa</item>
         <item>py</item>
         <item>pe</item>
@@ -764,9 +820,13 @@
         <item>sa</item>
         <item>sn</item>
         <item>sg</item>
+        <item>so</item>
         <item>za</item>
         <item>gs</item>
         <item>kr</item>
+        <item>es</item>
+        <item>lk</item>
+        <item>sd</item>
         <item>sr</item>
         <item>sz</item>
         <item>ch</item>
@@ -779,21 +839,42 @@
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
+        <item>us</item>
         <item>uy</item>
+        <item>uz</item>
         <item>ve</item>
         <item>vn</item>
         <item>ye</item>
         <item>zm</item>
         <item>zw</item>
     </string-array>
+    <string-array name="broadcast_locales">
+        <item>AR</item>
+        <item>BO</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>EC</item>
+        <item>GF</item>
+        <item>GY</item>
+        <item>IN</item>
+        <item>IL</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>SR</item>
+        <item>TW</item>
+        <item>UY</item>
+        <item>VE</item>
+    </string-array>
     <string-array name="common_password_business_keys">
-        <item>keyguard</item>
+        <item>miui_keyguard</item>
         <item>childrenmode</item>
+        <item>file_explorer</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Blocco tastiera</item>
+        <item>Blocco schermo</item>
         <item>Modalità genitore</item>
-		<item>File explorer</item>
+        <item>File explorer</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>

@@ -846,6 +846,7 @@ Le schede contatti sono disattivate"</string>
     <string name="preference_import_export_title">Importa/Esporta contatti</string>
     <string name="import_vcard_description">Importa contatti dalla tua scheda SD</string>
     <string name="export_vcard_description">Esporta vCard sulla scheda SD</string>
+    <string name="import_vcard_dialog_message">Importare vCard?</string>
     <string name="export_sim_contact_finish_failure">Trasferiti: %1$d Rimasti: %2$d</string>
     <string name="pref_title_account_import">Importa da account</string>
     <string name="pref_title_import_from_account">Importa da un Mi Account</string>
@@ -1080,8 +1081,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="confirm_delete_sim_entry_miui_title">Elimina</string>
     <string name="importing_sim_contacts_miui_prepare">"Preparazione per l'impostazione…"</string>
     <string name="deleting_sim_entry_miui_prepare">"Preparazione per l'eliminazione…"</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Deseleziona tutti</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">Seleziona tutti</string>
     <string name="delete_selected_sim_entry_miui">Elimina i contatti selezionati</string>
     <string name="import_selected_sim_entries_miui">Importa i contatti selezionati</string>
     <string name="add_blacklist_dialog_title">Blocca</string>

@@ -368,7 +368,6 @@
     <string name="timed_message_to">a</string>
     <string name="timed_message_in_total">… (%d in totale)</string>
     <string name="processing">Elaborazione…</string>
-    <string name="title_date_type">Orario messaggio</string>
     <string name="mx_msg">Mi Message</string>
     <string name="mx_msg_pageview_setting_title">Impostazioni Mi Message</string>
     <string name="mx_enable">Mi Message</string>
@@ -492,14 +491,6 @@
     <string name="sp_category_all">Messaggi di tutti i servizi</string>
     <string name="sp_category_bank">Messaggi dei servizi bancari</string>
     <string name="refill_now">Ricarica</string>
-    <string name="toast_feedback_start">Invio dati di feedback…</string>
-    <string name="toast_feedback_finish">Il tuo feedback verrà inviato automaticamente appena sarai connesso ad una rete Wi-Fi</string>
-    <string name="toast_feedback_max">Possono essere inviati solo 3 feedback al giorno</string>
-    <string name="toast_description_required">Il feedback deve essere inviato</string>
-    <string name="pref_key_mx_feedback">Invia feedback</string>
-    <string name="pref_summary_mx_feedback">"Aiutaci a migliorare MIUI! Segnala bug ed invia feedback direttamente a Xiaomi."</string>
-    <string name="feedback_description_hint">Inserisci qui il tuo feedback</string>
-    <string name="feedback_submit">Invia</string>
     <string name="action_firewall_setting">Blacklist</string>
     <string name="user_agreement1">Leggi accuratamente le condizioni relative prima di installare software aggiuntivo o usare questo prodotto</string>
     <string name="user_agreement2">" Accordo con l'utente"</string>
@@ -626,7 +617,9 @@
     <string name="wild_msg_title">Attiva sincronizzazione cloud</string>
     <string name="select_message_send_sim">Scegli SIM</string>
     <string name="card_insert_to_contact">Importa contatto</string>
-    <string name="red_package_default_hint">Buonafortuna!</string>
     <string name="red_package_btn">Apri</string>
     <string name="snippet_red_package">[Red Package]</string>
+    <string name="title_red_package">Buona fortuna</string>
+    <string name="title_send_red_package">Controlla Pacchetto Rosso</string>
+    <string name="title_recv_red_package">Ottieni Pacchetto Rosso</string>
 </resources>
