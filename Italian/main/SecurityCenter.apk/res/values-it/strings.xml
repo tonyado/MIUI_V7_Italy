@@ -50,7 +50,7 @@ Soglia: %1$s%2$s | %3$s usati"</string>
 Sotto soglia: %1$s | %2$s usati"</string>
     <string name="main_secondary_message_traffic_used_noleisure">%s soglia dati usati | traffico soglia esaurito</string>
     <string name="main_alert_message_month_limit_error">Limite dati non corretto</string>
-    <string name="firewall_activity_lable">LImita l'utilizzo dati per app</string>
+    <string name="firewall_activity_lable">"Limita l'utilizzo dati per app"</string>
     <string name="firewall_applist">App</string>
     <string name="firewall_rule_group_title_mobile">Mobile</string>
     <string name="firewall_rule_group_title_wifi">WLAN</string>
@@ -284,7 +284,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="datausage_purchase_pay_confirm">Acquista</string>
     <string name="datausage_purchase_pay_hint">Per annullare, componi %s</string>
     <string name="datausage_purchase_pay_captcha_hint">Inserisci qui il codice che ricevi</string>
-    <string name="datausage_purchase_pay_captcha_tips">Dopo aver ricevuto il codice di verifica, inseriscilo nel box sopra e tocca Acquista per completare l'acquisto. Ricordati che il codice è valido solo per 10 minuti.</string>
+    <string name="datausage_purchase_pay_captcha_tips">"Dopo aver ricevuto il codice di verifica, inseriscilo nel box sopra e tocca Acquista per completare l'acquisto. Ricordati che il codice è valido solo per 10 minuti."</string>
     <string name="datausage_purchase_get_captcha">Ottieni codice(%d)</string>
     <string name="datausage_purchase_get_captcha_again">Invia un nuovo codice</string>
     <string name="datausage_purchase_get_captcha_failed">"Couldn't get verification code. Check your data connection and try again."</string>
@@ -419,7 +419,7 @@ For more info check the message you received from your carrier"</string>
     <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
     <string name="tc_sms_report_toast_text">Getting info…</string>
     <string name="privacy_declare_dialog_title">Terms of Service</string>
-    <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's <a href=%s> Terms of Service</a>."</string>
+    <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's Terms of Service."</string>
     <string name="sc_allow_network_dialog_tiltle">"Can't use this feature"</string>
     <string name="sc_allow_network_dialog_message">This app needs to connect to the internet to work normally.</string>
     <string name="privacy_prompt_upload">Upload</string>
@@ -883,8 +883,6 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
     <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
     <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
-    <string name="category_key_power_usage_details">key_power_usage_details</string>
-    <string name="category_key_power_usage_packages">key_power_usage_packages</string>
     <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
     <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
     <string name="preference_key_module_network_assistant">key_network_assistant</string>
@@ -977,7 +975,6 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="system_check_content">%1$d contenuti sospetti</string>
     <string name="memory_check_content_none">Vuoto</string>
     <string name="system_check_content_none">Sicuro</string>
-    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">Pulizia di %1$d processi per liberare %2$s di memoria</string>
     <string name="cache_header_title">Pulizia di %1$d file in cache per liberare %2$s di spazio</string>
     <string name="activity_title_virus">Virus</string>
