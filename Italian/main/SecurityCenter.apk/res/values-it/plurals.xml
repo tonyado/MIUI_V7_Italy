@@ -5,8 +5,8 @@
         <item quantity="one">"Nessun dato sull'utilizzo dati per %d app"</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">Dati sull'utilizzo dati per %d app</item>
-        <item quantity="one">Dati sull'utilizzo dati per %d app</item>
+        <item quantity="other">"Dati sull'utilizzo dati per %d app"</item>
+        <item quantity="one">"Dati sull'utilizzo dati per %d app"</item>
     </plurals>
     <plurals name="hints_traffic_saving_optimized">
         <item quantity="other">%d app ottimizzate</item>

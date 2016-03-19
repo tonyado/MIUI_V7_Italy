@@ -349,7 +349,7 @@ For more info check the message you received from your carrier"</string>
     <string name="traffic_saving_whitelist_btn_added">Aggiunto</string>
     <string name="traffic_saving_whitelist_btn_remove">Rimuovi</string>
     <string name="traffic_saving_whitelist_btn_removed">Applicazione rimossa dalla lista</string>
-    <string name="traffic_saving_whitelist_count">"L'utilizzo dei dati di<font color='#4DAA0F'>%1$d</font> app non vengono limitati"</string>
+    <string name="traffic_saving_whitelist_count">"L'utilizzo dei dati di<font color="#4DAA0F">%1$d</font> app non vengono limitati"</string>
     <string name="traffic_saving_whitelist_no_app">Nessuna app</string>
     <string name="online_songs">Musica</string>
     <string name="online_chat">Chat</string>
@@ -456,13 +456,13 @@ For more info check the message you received from your carrier"</string>
     <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
     <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
     <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
-    <string name="search_input_txt_na">"<font color='#ff0000'>%s</font>"</string>
-    <string name="title_limit_traffic_per_day">Daily data usage limit</string>
-    <string name="daily_limit_and_lock_screen">Data limit & notifications</string>
-    <string name="pref_title_traffic_limit_number">Size</string>
-    <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
-    <string name="reach_daily_limit_value_title">Daily data limit reached</string>
-    <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
+    <string name="search_input_txt_na">"<font color="#ff0000">%s</font>"</string>
+    <string name="title_limit_traffic_per_day">Limite dati giornaliero</string>
+    <string name="daily_limit_and_lock_screen">Limite dati e notifiche</string>
+    <string name="pref_title_traffic_limit_number">Dimensione</string>
+    <string name="pref_title_over_traffic_limit_warning">Quando sueprato</string>
+    <string name="reach_daily_limit_value_title">LImite giornaliero raggiunto</string>
+    <string name="reach_daily_limit_value_body">"Riduci l'utilizzo dati giornaliero."</string>
     <string name="reach_daily_limit_value_body_open_traffic_saving">Tap to turn on Data saver.</string>
     <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
     <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
@@ -611,12 +611,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="tc_diagnostic_status_no_network">"<font color='#ED9523'>No network connection</font>"</string>
     <string name="tc_diagnostic_status_timeout">"<font color='#CC0000'>Timeout</font>"</string>
     <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
-    <string name="tc_diagnostic_status_success_brand">"<font color='#3EC234'>Carrier network responds</font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"<font color='#CC0000'>Result: Wrong location<br/><br/>Set location: <xliff:g id=location example=BeiJing>%1$s</xliff:g><br/>Actual location: <xliff:g id=location example=ShangHai>%2$s</xliff:g></font>"</string>
-    <string name="tc_diagnostic_operator_result">"<font color='#CC0000'>Result: Wrong carrier<br/><br/>Set carrier: <xliff:g id=operator example=CMCC>%1$s</xliff:g><br/>Actual carrier: <xliff:g id=location example=UNICOM>%2$s</xliff:g></font>"</string>
-    <string name="tc_diagnostic_brand_result">"<font color='#CC0000'>Result: Wrong carrier brand<br/><br/>Set brand: <xliff:g id=brand example=UNICOM 3G>%1$s</xliff:g><br/>Actual brand: <xliff:g id=location example=UNICOM 4G>%2$s</xliff:g></font>"</string>
-    <string name="tc_diagnostic_result">"<font color='#CC0000'>Result: Couldn't complete diagnostics<br/><br/>Report this issue to help MIUI improve diagnostic tools</font>"</string>
-    <string name="tc_diagnostic_success_result">"<font color='#CC0000'>Result: Carrier network and brand set correctly<br/><br/>Couldn't complete adjustment:<br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.<br/>2. Network assistant wasn't updated.<br/><br/>Report this issue to help MIUI improve diagnostic tools</font>"</string>
+    <string name="tc_diagnostic_status_success_brand">"<font color="#3EC234">Carrier network responds</font>"</string>
     <string name="tc_diagnostic_notification_title">Carrier diagnostics</string>
     <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
     <string name="tc_diagnostic_upload_success">Thank you for your feedback!</string>
@@ -634,8 +629,8 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="tc_diagnostic_repair_success_toast">Changed successfully</string>
     <string name="tc_diagnostic_complete">Done</string>
     <string name="tc_diagnostic_notification_sumarry">Tap to view results</string>
-    <string name="tc_diagnostic_repair_location">"<font color='#3EC234'>Diagnostics complete, fixed location issues.</font>"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"<font color='#3EC234'>Diagnostics complete, fixed location and carrier issues.</font>"</string>
+    <string name="tc_diagnostic_repair_location">"<font color="#3EC234">Diagnostics complete, fixed location issues.</font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"<font color="#3EC234">Diagnostics complete, fixed location and carrier issues.</font>"</string>
     <string name="diagnostic_attention_dialog_message">"Diagnostics for %1$s is in progress. Wait until it's finished and try again."</string>
     <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
     <string name="text_button">Got it</string>
