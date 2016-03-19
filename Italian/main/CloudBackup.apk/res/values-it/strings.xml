@@ -113,4 +113,5 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="confirm_restore">Ripristina</string>
     <string name="cloud_backup_have_data">Backup trovato su Mi Cloud</string>
     <string name="cloud_backup_select_recover">Scegli il backup su Mi Cloud</string>
+    <string name="backup_finished_notification_content">Backup eseguito per app schermate Home, impostazione di sistema, etc.</string>
 </resources>

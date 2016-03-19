@@ -377,6 +377,8 @@
     <string name="empty_title_video">Nessun video da eliminare​</string>
     <string name="information_setting">Impostazioni feed news</string>
     <string name="load_only_under_wlan">Carica news quando collegato a Wi-Fi</string>
+    <string name="recommend_news">Fonti consigliate</string>
     <string name="dialog_title_stop_scan">Interrompi scansione</string>
     <string name="dialog_msg_stop_scan">Interrompere la scansione prima della fine?</string>
+    <string name="recommend_the_following">Esegui le seguenti azioni per ottenere il massimo dal tuo dispositivo</string>
 </resources>

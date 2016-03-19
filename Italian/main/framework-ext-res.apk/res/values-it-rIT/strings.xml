@@ -90,7 +90,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="international_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate internazionali</string>
     <string name="all_call_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali e internazionali </string>
     <string name="all_call_livetalk_remain_mins">Minuti rimasti: (%1$s nazionali) | %2$s (%3$s)</string>
-    <string name="enable_livetalk_title">Attiva apcchetto di ricarica</string>
+    <string name="enable_livetalk_title">Attiva pacchetto di ricarica</string>
     <string name="enable_livetalk_summary">¥ 0.05 al minuto per chiamate nazionali</string>
     <string name="cancel_action">Annulla</string>
     <string name="set_password_action">Imposta password</string>

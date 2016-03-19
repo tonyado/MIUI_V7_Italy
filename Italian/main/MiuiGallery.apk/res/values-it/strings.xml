@@ -297,9 +297,11 @@
     <string name="auto_upload_disable_toast">Il backup di foto e video in questo album non verrà effettuato automaticamente</string>
     <string name="to_enable_sync_dialog_title">Sincronizzazione</string>
     <string name="to_enable_sync_dialog_message">Prima attiva la sincronizzazione</string>
+    <string name="to_enable_gallery_sync_dialog_message">Prima attiva la funzione di sincronizzazione galleria</string>
     <string name="to_enable_sync_dialog_positive_button_text">Vai</string>
     <string name="xiaomi_account_not_exists_toast">Account Xiaomi non esistente</string>
     <string name="sync_diabled_toast">Sincronizzazione non attivata</string>
+    <string name="gallery_sync_disable_toast">La funzione di sincronizzazione della galleria non è attiva</string>
     <string name="share_album_needs_auto_upload_tip">"L'album condivisonon può disattivare il backup automatico"</string>
     <string name="auto_upload_before_share_title">Suggerimento</string>
     <string name="auto_upload_before_share_message">This album needs to be backuped to MiCloud before sharing</string>
@@ -491,6 +493,7 @@
     <string name="backup_automatically_summary">Esegui il backup di foto e video per tutti i dispositivi su MiCloud. Puoi sfogliare, ordinare, modificare e condividere le foto e i video su tutti i dispositivi.</string>
     <string name="backup_only_in_wifi">Usa solo il Wi-Fi per il backup di foto e video</string>
     <string name="backup_only_in_wifi_summary">Non usare mai la rete dati mobile per il backup di foto e video</string>
+    <string name="enable_face_album_title">Ordina per contatti</string>
     <string name="enable_face_album_summary">Ordina automaticamente le foto in base alle persone ritratte</string>
     <string name="slim_after_backuped_title">Ottimizza lo spazio locale doopo il backup</string>
     <string name="slim_after_backuped_summary">Sostituisci le foto in alta risoluzione in locale con versioni ottimizzate dopo il backup su Mi Cloud. Massima risoluzione finché archiviate su Mi Cloud. Questa procedura può liberare molto spazio in locale.</string>
@@ -505,6 +508,15 @@
     <string name="impunity_declaration_summary">"Mostra gli avvisi di rete ogni volta che si avvia l'applicazione"</string>
     <string name="trash_bin">Cestino</string>
     <string name="trash_bin_summary">Sfoglia le foto di cui hai fatto il backup e che sono state eliminate di recente</string>
+    <string name="cloud_guide_welcome_title">MiCloud</string>
+    <string name="welcome">Benvenuto in MiCloud</string>
+    <string name="introduce">Esegui automaticamente il backup di foto e video</string>
+    <string name="slim_after_backuped_summary_with_size">Sostituisci le foto ad alta risoluzione in localecon versioni ottimizzate dopo il caricamento su Mi Cloud. Le foto ad alta risoluzione resteranno archiviate su Mi Cloud. Risparmi %1$s.</string>
+    <string name="next">Avanti</string>
+    <string name="enable_micloud_service">Inizia ad utilizzare MiCloud</string>
+    <string name="cloud_guide_auto_backup_title">Scegli gli album di cui fare il backup su Mi Cloud</string>
+    <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
+    <string name="baby_album_needs_auto_backup_tip">Impossibile disattivare il backup automatico per gli album dei bambini</string>
     <string name="user_agreement2">" Termini del Servizio"</string>
     <string name="user_agreement4">Informativa sulla Privacy</string>
     <string name="user_agree">Accetto</string>

@@ -1134,6 +1134,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_navigation_more_items_title">Altri servizi</string>
     <string name="imei_invalid">IMEI non valido</string>
     <string name="meid_invalid">MEID non valido</string>
+    <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
     <string name="firewall_setting">Blacklist</string>
     <string name="solar_calendar">Solare</string>
     <string name="lunar_calendar">Lunare</string>
@@ -1166,4 +1167,5 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="voip_audio_description">Tocca per effettuare una chiamata VoIP</string>
     <string name="voip_video_description">Tocca per effettuate una video chiamata VoIP</string>
     <string name="menu_newContactButton">Aggiungi</string>
+    <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
 </resources>

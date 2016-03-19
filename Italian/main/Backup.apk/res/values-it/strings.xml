@@ -294,9 +294,8 @@ Tempo impiegato: %s"</string>
     <string name="trans_scan_qr_code_tips">Scansiona Codice QR utilizzando il nuovo dispositivo</string>
     <string name="trans_show_qr_code_label">Collega un vecchio dispositivo</string>
     <string name="trans_show_qr_code_tips">Scansiona Codice QR utilizzando il vecchio dispositivo</string>
-    <string name="trans_operate_new_phone_tips">Scansiona Codice QR utilizzando il nuovo dispositivo
-Vai in Impostazioni > Impostazioni aggiuntive > Trasferimento
- Tocca [Sono il ricevente] per generare un Codice QR"</string>
+    <string name="trans_operate_new_phone_tips">"Vai in Impostazioni > Impostazioni aggiuntive > Mi Mover
+Tocca [I'm a recipient] per creare un Codice QR"</string>
     <string name="trans_operate_func_one">Metodo A</string>
     <string name="trans_operate_func_two">Metodo B</string>
     <string name="trans_operate_old_phone_tips1">"1. Installa l'app Transfer sul tuo vecchio dispositivo

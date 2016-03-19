@@ -52,6 +52,10 @@
         <item quantity="other">%d foto</item>
         <item quantity="one">%d foto</item>
     </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elementi | %2$s</item>
+        <item quantity="one">%1$d elemento | %2$s</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d foto in attesa di sincronizzazione</item>
         <item quantity="one">1 foto da caricare</item>
