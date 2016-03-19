@@ -147,7 +147,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="pref_add_traffic_pkg">Dati aggiuntivi acquistati</string>
     <string name="pref_free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
     <string name="pref_data_usage_ignore_settings">Ignora utilizzo dati</string>
-    <string name="pref_data_usage_ignore_settings_summary">"Non tenere traccia dell'utilizzo dati per le app selezionate" apps' data usage"</string>
+    <string name="pref_data_usage_ignore_settings_summary">"Non tenere traccia dell'utilizzo dati per le app selezionate apps' data usage"</string>
     <string name="pref_specified_traffic_settings">Impostazioni limite dati</string>
     <string name="input_traffic_pkg">Inserisci utilizzo dati</string>
     <string name="begin_date">Data di azzeramento utilizzo</string>
@@ -607,7 +607,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="tc_diagnostic_status_updating">Testing…</string>
     <string name="tc_diagnostic_status_success">"<font color='#3EC234'>Correct</font>"</string>
     <string name="tc_diagnostic_status_failure">"<font color='#CC0000'>Error</font>"</string>
-    <string name="tc_diagnostic_status_not_get">"<font color='#ED9523'>Couldn't get info</font>"</string>
+    <string name="tc_diagnostic_status_not_get">"<font color='#ED9523'>Couldn\'t get info</font>"</string>
     <string name="tc_diagnostic_status_no_network">"<font color='#ED9523'>No network connection</font>"</string>
     <string name="tc_diagnostic_status_timeout">"<font color='#CC0000'>Timeout</font>"</string>
     <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
