@@ -37,7 +37,7 @@ Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzio
     <string name="unlock_error_user_name">Nome utente non valido</string>
     <string name="unlock_error_interrupted">Interrotto</string>
     <string name="unlock_error_rpc">Errore RPC</string>
-    <string name="unlock_error_abort">Annullato dall'utente</string>
+    <string name="unlock_error_abort">"Annullato dall'utente"</string>
     <string name="unlock_error_passport_sdk_timeout">"L'SDK del Mi Account non risponde"</string>
     <string name="activate_xiaomi_account">Attiva questo dispositivo</string>
     <string name="login_extra_steps">Verifica di accesso</string>
