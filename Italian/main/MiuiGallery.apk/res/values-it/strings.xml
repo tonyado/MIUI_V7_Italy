@@ -104,6 +104,8 @@
     <string name="face_album_rename_hint">Inserisci il nome</string>
     <string name="face_album_use_tip">Ordina automaticamente in base alle persone ritratte.</string>
     <string name="face_album_detecting_tip">Solo un secondo…</string>
+    <string name="face_album_empty">Vuoto</string>
+    <string name="face_album_empty_syncing">Sincronizzazione dati</string>
     <string name="face_album_empty">Vuoto.</string>
     <string name="start_to_use_face_albumset">Attiva riconoscimento Volti</string>
     <string name="enabling_face_feature">Attivazione…</string>
@@ -231,6 +233,7 @@
     <string name="baby_album_sharer_recommand_face">Aggiungere le foto esistenti a %1$s?</string>
     <string name="add_automatically_alert_title">Aggiungi automaticamente le foto</string>
     <string name="add_automatically_alert_msg">Aggiungere automaticamente le foto da \"%1$s\" a questo album?</string>
+    <string name="set_face_image">Imposta un nuovo viso</string>
     <string name="hybrid_check_network">Impostazioni di rete</string>
     <string name="hybrid_try_again">Riprova</string>
     <string name="hybrid_network_unavaliable">Impossibile collegarsi alla rete</string>
@@ -258,10 +261,7 @@
     <string name="menu_item_sort_size">Dim.</string>
     <string name="menu_item_sort_date">Data</string>
     <string name="menu_item_sort_name">Nome</string>
-    <string name="remind_shows_in_photo_tab_title">Impostazioni album</string>
-    <string name="remind_shows_in_photo_tab_summary">"Mostrare l'album in home?"</string>
     <string name="album_setting_show_in_photo_tab_success">Questo album è già in home</string>
-    <string name="album_detail_page_empty">Nessuna immagine o video</string>
     <string name="app_name_view_picture">Mostra immagine</string>
     <string name="video_err">Impossibile riprodurre il video.</string>
     <string name="exit_video_play">Esci</string>
@@ -336,6 +336,8 @@
     <string name="projection_video_quit">Tocca per uscire</string>
     <string name="view_by_gallery_tip">Galleria MIUI</string>
     <string name="photo">Immagine</string>
+    <string name="orientation_lock_tip">Rotazione bloccata</string>
+    <string name="orientation_unlock_tip">Rotazione automatica attivata</string>
     <string name="must_pick_file">"Seleziona un'immagine"</string>
     <string name="send_multiple_files_hint_format">Invia file (%s)</string>
     <string name="send_too_many_files_error">Impossibile inviare tutti gli elementi (massimo %d elementi).</string>

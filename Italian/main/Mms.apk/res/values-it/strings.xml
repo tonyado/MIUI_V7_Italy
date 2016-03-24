@@ -332,6 +332,7 @@
     <string name="pref_title_hide_festival">Nascondi scheda Consigliati</string>
     <string name="pref_summary_hide_festival">Nascondi scheda Consigliati per le lingue diverse dal Cinese</string>
     <string name="pref_message_recovery_introduction_title">Ripristina messaggio</string>
+    <string name="pref_cell_broadcast">Trasmissioni cella</string>
     <string name="send_signature_confirm_dialog_title">Invio conferma</string>
     <string name="send_signature_confirm_dialog_message">Corpo messaggio mancante. Vuoi inviare comunque il messaggio?</string>
     <string name="enter_edit_mode">Elimina</string>

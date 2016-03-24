@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="font_family">miui</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -25,6 +26,7 @@
     <string name="toast_vip_download_one_limit">"Hai raggiunto il limite dei download per questo mese. Puoi scaricare altri brani con l'iscrizione Premium il prossimo mese."</string>
     <string name="toast_vip_download_some_limit">"Hai raggiunto il limite dei download per questo mese. Puoi scaricare altri brani con l'iscrizione Premium il prossimo mese."</string>
     <string name="toast_cancel_download">Download annullato</string>
+    <string name="toast_cancel_play">Riproduzione annullata</string>
     <string name="toast_download_in_process">Download in corso</string>
     <string name="buy_vip">Effettua iscrizione Premium</string>
     <string name="upgrade_vip">Aggiorna a Premium</string>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="xiaomi_update_dialog_title">Nuova versione disponibile!</string>
+    <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
+Dimensione: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Presentazione versione %1$s
+Dimensione aggiornamento delta: %2$s"</string>
+    <string name="xiaomi_external_storage_unavailable">Memoria non disponibile, verifica la scheda SD.</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
+    <string name="xiaomi_connect_download_manager_fail">Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni.</string>
     <string name="app_name">Backup</string>
     <string name="local_app_name">Backup</string>
     <string name="local_home_title">Locale</string>
@@ -241,6 +251,8 @@
     <string name="notif_restore_content">Ripristino dei dati utente</string>
     <string name="notif_backup_complete_title">Backup eseguito correttamente</string>
     <string name="notif_restore_complete_title">Ripristino da backup eseguito correttamente</string>
+    <string name="notif_trans_sending_completed">Dati inviati correttamente</string>
+    <string name="notif_trans_receiving_completed">Dati ricevuti correttamente</string>
     <string name="custom_progress">%d elementi</string>
     <string name="remote_receive">Ricevi</string>
     <string name="click_to_view">Tocca per mostrare</string>
@@ -284,6 +296,8 @@ Tempo impiegato: %s"</string>
     <string name="trans_progress_subdescript_br_sender">Backup di %s</string>
     <string name="trans_progress_subdescript_br_receiver">Ricezione di %s</string>
     <string name="trans_progress_subdescript_waiting">In attesa di ricevere %s</string>
+    <string name="trans_progress_subdescript_br_sender_finish">Backup di %s eseguito, in attesa di invio…</string>
+    <string name="trans_progress_subdescript_transing_receiver_finish">%s ricevuti, in attesa di ripristino…</string>
     <string name="trans_cancel_confirm">Trasferimento in corso, annullare adesso?</string>
     <string name="trans_cancelling">Annullamento</string>
     <string name="trans_device_disconnected">Dispositivo disconnesso</string>
@@ -324,4 +338,5 @@ Si prega di liberare almeno %s"</string>
     <string name="trans_retry">Riprova</string>
     <string name="trans_start_failed_title">Avvio fallito</string>
     <string name="trans_start_failed_message">Avvio fallito, prova di nuovo o ritenta dopo un riavvio</string>
+    <string name="trans_connection_failed">Dispositivo disconnesso</string>
 </resources>
