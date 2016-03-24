@@ -106,7 +106,6 @@
     <string name="face_album_detecting_tip">Solo un secondo…</string>
     <string name="face_album_empty">Vuoto</string>
     <string name="face_album_empty_syncing">Sincronizzazione dati</string>
-    <string name="face_album_empty">Vuoto.</string>
     <string name="start_to_use_face_albumset">Attiva riconoscimento Volti</string>
     <string name="enabling_face_feature">Attivazione…</string>
     <string name="face_album_pending_enable_tip">Le foto verranno ordinate quando connesso a rete Wi-Fi</string>
