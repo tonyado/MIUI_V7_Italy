@@ -13,7 +13,7 @@
     <string name="cloud_app_restore_app_and_data">Ripristina le app e i dati utente</string>
     <string name="cloud_app_restore_data">Ripristina le app installate in precedenza</string>
     <string name="cloud_app_dont_restore">Non ripristinare</string>
-    <string name="cloud_app_restore_wifi_prompt">Collegati ad una rete Wi-Fi per ripristinare le app.</string>
+    <string name="cloud_app_restore_wifi_prompt">Collegato ad una rete Wi-Fi per ripristinare le app.</string>
     <string name="cloud_backup_detail_state">Backup Mi Cloud</string>
     <string name="cloud_backup_detail_state_summary">App, Home screen e impostazioni di sistema</string>
     <string name="cloud_backup_detail_frequence">Programma Backup</string>
@@ -77,7 +77,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="recover_from_micloud">Ripristina utilizzando Mi Cloud</string>
     <string name="click_try_to_restore_again">Tocca per riprovare</string>
     <string name="open_wifi">Attiva Wi-Fi adesso</string>
-    <string name="open_wifi_description">Collegati ad una rete Wi-Fi per ripristinare le applicazioni</string>
+    <string name="open_wifi_description">Collegato ad una rete Wi-Fi per ripristinare le applicazioni</string>
     <string name="open_wifi_setting">Impostazioni Wi-Fi</string>
     <string name="name_model">%2$s di %1$s</string>
     <string name="download_settings">Download impostazioni Home: %s%%</string>

@@ -111,7 +111,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="auto_button_sure_cancel">Annulla</string>
     <string name="auto_update_sum">Cerca automaticamente il momento migliore per scaricare aggiornamenti</string>
     <string name="updater_nonetwork">Connettiti alla rete per recuperare il log</string>
-    <string name="updater_nonetwork_clause">"Collegati ad una rete per leggere l'Informativa sulla Privacy aggiornata"</string>
+    <string name="updater_nonetwork_clause">"Collegato ad una rete per leggere l'Informativa sulla Privacy aggiornata"</string>
     <string name="updater_nolog">Nessun log</string>
     <string name="notification_load_title_alpha">Accedi al tuo Mi Account</string>
     <string name="notification_load_title_dev">Accedi al tuo Mi Account</string>

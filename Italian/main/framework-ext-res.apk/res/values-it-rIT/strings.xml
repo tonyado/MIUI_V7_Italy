@@ -43,7 +43,7 @@
     <string name="first_back_long_press_message">"Tieni premuto Indietro per chiudere il processo attivo ed i servizi ad esso collegati.
 
 Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
-    <string name="force_exit_message">Chiudi forzatamente %1$s</string>
+    <string name="force_exit_message">Chiusura forzatamente %1$s</string>
     <string name="force_exit_skip_message">Impossibile chiudere %1$s perché è richiesta dal sistema.</string>
     <string name="fm_record_smaple_prefix_miui">Registrazione FM</string>
     <string name="global_actions_airplane_mode">Modalità Aereo</string>

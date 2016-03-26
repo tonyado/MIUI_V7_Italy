@@ -177,7 +177,7 @@
     <string name="attachment_download_all">Scarica tutto</string>
     <string name="attachment_image">Immagine</string>
     <string name="attachment_list_search_hint">Cerca allegati</string>
-    <string name="attachment_mgr_name">Allegato</string>
+    <string name="attachment_mgr_name">Allegati</string>
     <string name="attachment_not_exists">Allegato non disponibile</string>
     <string name="attachment_open_SecurityException_hint">Verifica permessi, danni, etc.</string>
     <string name="attachment_open_SecurityException_title">Impossibile aprire il file</string>
@@ -363,12 +363,14 @@
     <string name="flow_saved_dlg_do_not_show">Non chiedere più</string>
     <string name="flow_saved_dlg_i_know">OK</string>
     <string name="flow_saved_dlg_message">%1$d nuovi messaggi. Risparmiati %2$s (dati rete mobile).</string>
-    <string name="flow_saved_dlg_title">Reduced your data usage</string>
+    <string name="flow_saved_dlg_title">Riduci utilizzo dati</string>
     <string name="flow_saved_preference_total">%1$s salvati.</string>
     <string name="folder_drafts_name_en0">Bozze</string>
     <string name="folder_drafts_name_en1">Bozza</string>
     <string name="folder_icon_desc">Icona cartella</string>
-    <string name="folder_picker_title">Invio risposta</string>
+	<string name="folder_list_display_all">Mostra tutte le cartelle</string>
+    <string name="folder_list_display_only_import">Mostra solo le cartelle importanti</string>
+    <string name="folder_picker_title">Scegli cartelle</string>
     <string name="folder_removed">Rimossa da %1$s</string>
     <string name="folder_sent_name_en0">Inviata</string>
     <string name="folder_sent_name_en1">Messaggi inviati</string>
@@ -386,6 +388,7 @@
     <string name="forward_download_failed_title">Allegato non inoltrato</string>  
     <string name="from_heading">"Da: "</string>
     <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
+	<string name="general_preference_confirm_send_label">Conferma prima di inviare</string>
     <string name="general_preference_confirm_delete_summary">Messaggi</string>
     <string name="general_preference_text_zoom_dialog_title">Dimensioni testo messaggio</string>
     <string name="general_preference_text_zoom_huge">Testo molto grande</string>

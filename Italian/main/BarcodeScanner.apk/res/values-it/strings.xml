@@ -56,7 +56,7 @@
     <string name="wifi_pwd">Password:</string>
     <string name="wifi_security">Sicurezza:</string>
     <string name="wifi_details">Dettagli Wi-Fi:</string>
-    <string name="connect_wifi">Collegati a questa rete</string>
+    <string name="connect_wifi">Collegato a questa rete</string>
     <string name="qq_details">Dettagli QQ:</string>
     <string name="launch_qq">Lancia nel browser QQ</string>
     <string name="download_qq">Download QQ</string>

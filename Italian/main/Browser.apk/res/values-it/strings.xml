@@ -114,7 +114,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="save_password_never">Mai</string>
     <string name="miui_content_select">Seleziona</string>
     <string name="miui_content_select_all">Seleziona tutto</string>
-    <string name="miui_content_open_url">OpenURL</string>
+    <string name="miui_content_open_url">URL</string>
     <string name="miui_content_cut">Taglia</string>
     <string name="miui_content_copy">Copia</string>
     <string name="miui_content_paste">Incolla</string>
@@ -509,7 +509,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="miui_search_notification_title">Cerca</string>
     <string name="miui_search_notification_message">Tocca per aprire la barra di ricerca.</string>
     <string name="clear_search_history">Cancella cronologia</string>
-    <string name="clear_most_visited">Manieni cronologia</string>
+    <string name="clear_most_visited">Mantieni cronologia</string>
     <string name="suggest_open_app_failed">Nonè stato possibile aprire questa app</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_sogou">Sogou</string>

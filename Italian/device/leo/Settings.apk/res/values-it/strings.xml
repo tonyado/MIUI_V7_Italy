@@ -2038,7 +2038,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="wifi_setup_status_scanning">Ricerca reti…</string>
     <string name="wifi_setup_status_select_network">Tocca una rete per collegarti</string>
     <string name="wifi_setup_status_existing_network">Connetti a rete esistente</string>
-    <string name="wifi_setup_status_unsecured_network">Collegati a rete non protetta</string>
+    <string name="wifi_setup_status_unsecured_network">Collegato a rete non protetta</string>
     <string name="wifi_setup_status_edit_network">Digita configurazione di rete</string>
     <string name="wifi_setup_status_new_network">Connetti a nuova rete</string>
     <string name="wifi_setup_status_connecting">Connessione…</string>

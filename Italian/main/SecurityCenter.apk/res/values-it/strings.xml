@@ -136,7 +136,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Aggiornato più di un mese fa</string>
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
-    <string name="pref_avaible_traffic">Piano Wi-Fi</string>
+    <string name="pref_avaible_traffic">Piano dati</string>
     <string name="pref_daily_traffic">Soglia dati</string>
     <string name="pref_data_usage_not_set">Imposta limite utilizzo dati</string>
     <string name="pref_warning_values">Livello per avviso utilizzo dati</string>

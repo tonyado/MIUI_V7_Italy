@@ -469,7 +469,7 @@
     <string name="error_share_with_creator">Sei già iscritto a questo album</string>
     <string name="error_share_not_support">"Accesso all'album condiviso non disponibile"</string>
     <string name="error_cloud_not_active">Album Mi Cloud non attivo</string>
-    <string name="network_connected_rescan">Collegati ad internet e riprova</string>
+    <string name="network_connected_rescan">Collegato ad internet e riprova</string>
     <string name="no_network_connected">Nessuna connessione di rete disponibile</string>
     <string name="loading_members">Caricamento iscritti…</string>
     <string name="album_member">Iscritto album %s</string>
