@@ -2589,10 +2589,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="emergency_tone_alert">Avvisa</string>
     <string name="emergency_tone_vibrate">Vibra</string>
     <string name="manage_notification_access_title">Accesso notifiche</string>
-    <string name="manage_notification_access_summary_zero">Le app non possono leggere le notifiche</string>
-    <string name="no_notification_listeners">Nessun listener di notifica installato.</string>
-    <string name="notification_listener_security_warning_title">Attivare %1$s?</string>
-    <string name="notification_listener_security_warning_summary">%1$s sarà in grado di leggere tutte le notifiche pubblicate dal sistema o da qualsiasi app installata, le quali potrebbero includere informazioni personali come i nomi dei contatti e il testo dei messaggi ricevuti. Sarà inoltre in grado di ignorare tali notifiche o di attivare pulsanti di azione al loro interno.</string>
     <string name="manage_condition_providers">Condizione fornitori</string>
     <string name="manage_condition_providers_summary_zero">Nessuna app offre le condizioni</string>
     <string name="no_condition_providers">Nessuna condizione fornitori installata.</string>
