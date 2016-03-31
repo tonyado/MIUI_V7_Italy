@@ -380,7 +380,7 @@
     <string name="album_already_exists">Esiste giàun album con questo nome</string>
     <string name="create_new_album_failed">Creazione fallita</string>
     <string name="album_name">Nome album</string>
-    <string name="delete_origin">"Elimina le immagini dall'album originalele"</string>
+    <string name="delete_origin">"Elimina le immagini dall'album originale"</string>
     <string name="by_sms">SMS</string>
     <string name="by_email">Email</string>
     <string name="by_others">Altro</string>
