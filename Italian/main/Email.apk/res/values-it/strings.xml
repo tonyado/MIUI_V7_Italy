@@ -244,8 +244,8 @@
     <string name="confirm_send_message_with_no_subject">"Nessun testo presente nell'oggetto del messaggio."</string>
     <string name="confirm_send_title">Inviare il messaggio?</string>
     <string name="contact_edit_set_black_list">Imposta blacklist</string>
-    <string name="contact_edit_set_black_list_from">Elimina tutte le mail da questo mittente</string>
-    <string name="contact_edit_set_black_list_receive">Elimina tutte le meailcon questo destinatario</string>
+    <string name="contact_edit_set_black_list_from">Elimina tutte le email da questo mittente</string>
+    <string name="contact_edit_set_black_list_receive">Elimina tutte le email con questo destinatario</string>
     <string name="contact_edit_set_black_list_receive_summary">Elimina tutte le mail che contengono questo destinatario, anche nel campo Cc</string>
     <string name="contact_edit_set_black_list_title">Imposta blacklist</string>
     <string name="contact_edit_set_phone_contact">Modifica contatti telefono</string>
