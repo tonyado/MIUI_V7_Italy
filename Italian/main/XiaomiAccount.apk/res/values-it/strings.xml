@@ -283,7 +283,7 @@ Per attivare il tuo account, segui il
     <string name="ignore">Non adesso</string>
     <string name="forward_to_bind">Collega</string>
     <string name="reset_security_question_title">Ripristina domande di sicurezza</string>
-    <string name="reset_security_question_message">DEvi verificare la tua identità prima di modificare le domande di sicurezza</string>
+    <string name="reset_security_question_message">Devi verificare la tua identità prima di modificare le domande di sicurezza</string>
     <string name="set_security_question_title">Imposta domande di sicurezza</string>
     <string name="security_question_prompt">Le domande di sicurezza possono esere utilizzate quando cambi o ripristini la password.
 Assicurati di ricordare le risposte."</string>

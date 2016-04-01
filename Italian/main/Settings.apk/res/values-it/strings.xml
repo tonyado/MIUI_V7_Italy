@@ -2801,7 +2801,9 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="device_internal_memory">Memoria interna</string>
     <string name="device_sd_memory">Scheda SD</string>
     <string name="device_cpu2_info">Dual-core</string>
+    <string name="device_cpu6_info">Hexa-core</string>
     <string name="device_cpu4_info">Quad-core</string>
+    <string name="max_cpu4_info">"Quad-core Max "</string>
     <string name="max_cpu6_info">Hexa-core Max</string>
     <string name="device_cpu8_info">Octa-core</string>
     <string name="max_cpu8_info">"Octa-core Max "</string>
@@ -3685,7 +3687,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="turn_off_common_password_confirm_msg">Anche la password verrà disattivata.</string>
     <string name="crypt_keeper_content_title">Crittografa il dispositivo</string>
     <string name="crypt_keeper_content">Puoi crittografare i tuoi account, impostazioni, app scaricate e relativi dati, media ed altri file.</string>
-    <string name="crypt_keeper_decrypt_methods_title">DEcrittografa il dispositivo</string>
+    <string name="crypt_keeper_decrypt_methods_title">Decrittografa il dispositivo</string>
     <string name="crypt_keeper_decrypt_methods">"Dopo aver crittografato il dispositivo, se hai impostato un blocco dello schermo (sequenza, PIN o password), dovrai sbloccare lo schermo per decrittografare il dispositivo ogni volta che lo accendi. L'unico altro modo per decrittografare il dispositivo è ripristinare alle impostazioni di fabbrica, cancellando tutti i tuoi dati."</string>
     <string name="crypt_keeper_conditions_title">Informazioni sulla decrittografia del dispositivo</string>
     <string name="crypt_keeper_conditions">"La crittografia richiede un'ora o più. Devi avere la batteria carica e tenere il dispositivo in carica per completare il processo. Se lo interrompi, puoi perdere tutti o parte dei tuoi dati."</string>
@@ -3739,4 +3741,19 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="auto_disable_screenbuttons_auto">Disattiva sempre</string>
     <string name="auto_disable_screenbuttons_no">Non disattivare mai</string>
     <string name="auto_disable_screenbuttons_cancel">Annulla</string>
+    <string name="bootloader">Modalità Fastboot</string>
+    <string name="bootloader_summary">Esegui il flash trmite USB</string>
+    <string name="button_text_accept">Accetta</string>
+    <string name="button_text_accept_timer">Accetta(%d)</string>
+    <string name="button_text_reject">Rifiuta</string>
+    <string name="button_text_next_step">Avanti</string>
+    <string name="button_text_next_step_timer">Prossimo passaggio(%d)</string>
+    <string name="bootloader_apply_title">Avviso importante</string>
+    <string name="bootloader_apply_step_1">Entrare in modalità Fastboot?</string>
+    <string name="bootloader_apply_step_2">Quando il dispositivo è in modalità Fasboot e collegato al computer</string>
+    <string name="bootloader_apply_step_3">"l'accesso ai dati (es. password, messaggi) potrebbe avvenire senza richieste di permesso.</string>
+    <string name="bootloader_apply_step_4">"Questo potrebbe portare a divulgazione o perdita di dati, o anche danni irreparabili all'hardware."</string>
+    <string name="bootloader_apply_step_5">Devi essere sicuro di sapere come utilizzare la modalità Fastboot prima di attivarla.</string>
+    <string name="add_fingerprint_similar_fingerprint_input_error_msg">Cambia la posizione del dito</string>
+    <string name="add_fingerprint_failed_retry_text">Impossibile aggiungere impronta digitale, prova di nuovo</string>
 </resources>

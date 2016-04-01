@@ -262,7 +262,6 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="bind_account_summary">Sincronizza il tuo account KuaiPan con il tuo Mi Account</string>
     <string name="binded_accout_title">Account sincronizzati</string>
     <string name="binded_accout_description">Account collegati, utilizza il tuo account Xiaomi o quello KuaiPan per accedere, entrambi possono accedere ai tuoi dati</string>
-    <string name="cleaning">Pulizia in corso…</string>
     <string name="account_bind_prompt">Migrazione dati utente, il tuo account verrà temporaneamente bloccato, attendere prego…</string>
     <string name="migrate_announcement_title">Migrazione Account</string>
     <string name="migrate_announcement_msg">Se hai un account puoi collegarlo nelle impostazioni e preferenze di accesso.</string>
@@ -339,7 +338,6 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="downloading_in_3g">Download in 3G…</string>
     <string name="operate_confirm_in_3g">Utilizzare la connessione 3G per scaricare questo file di grande dimensioni?</string>
     <string name="files">File</string>
-    <string name="get_cloud_space">Aggiungi 500 GB</string>
     <string name="kp_category_all">Categoria</string>
     <string name="kp_category_doc">Word</string>
     <string name="kp_category_excel">Excel</string>
@@ -421,7 +419,6 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="search_result_hint5" />
     <string name="search_result_hint6">(%d risultati)</string>
     <string name="search_result_hint7">(%d)</string>
-    <string name="dialog_confirm">OK</string>
     <string name="search_empty_view_hint">Nessun risultato</string>
     <string name="search_result_more">Altro</string>
     <string name="search_error_hint">Inserisci parole chiave</string>
@@ -605,7 +602,6 @@ e non perderai mai le ultime novità!"</string>
     <string name="remote_video_no_network">Impossibile collegarsi alla rete. Controlla la connessionee prova di nuovo.</string>
     <string name="remote_video_server_error">Impossibile collegarsi al server, rirpova tra un minuto o due</string>
     <string name="remote_video_report_success">Grazie per il tuo feedback! Controlleremo appena possibile.</string>
-    <string name="remote_video_update">Trovati %1$s nuovi video</string>
     <string name="share_to">Condividi con…</string>
     <string name="wechat_platform">WeChat</string>
     <string name="wxcircle_platform">Moments</string>
@@ -670,4 +666,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="not_installed_documentsui">DocumentsUI non installato</string>
     <string name="title_enable_documentsui">Attiva DocumentsUI</string>
     <string name="error_contains_sharer_path">"Impossibile crittografare i file nella cartella /MIUI/Gallery/cloud/sharer. Sposta i file in un'altra cartella e riprova"</string>
+    <string name="server_error">Errore del server, riprova più tardi. (Errore %s)</string>
+    <string name="network_not_available">Impossibile collegarsi alla rete</string>
+    <string name="request_timeout">Richiesta di rete scaduta</string>
 </resources>

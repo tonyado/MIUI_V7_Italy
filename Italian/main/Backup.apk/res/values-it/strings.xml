@@ -339,4 +339,7 @@ Si prega di liberare almeno %s"</string>
     <string name="trans_start_failed_title">Avvio fallito</string>
     <string name="trans_start_failed_message">Avvio fallito, prova di nuovo o ritenta dopo un riavvio</string>
     <string name="trans_connection_failed">Dispositivo disconnesso</string>
+    <string name="user_notice_title">Notifiche utente</string>
+    <string name="user_notice_message">Alcune funzioni richiedono una connessione internet per funzionare correttamente.</string>
+    <string name="user_notice_declaration_ignore">Non mostrare più</string>
 </resources>

@@ -184,4 +184,12 @@
         <item quantity="few">Trovati %1$d nuovi video</item>
         <item quantity="many">Trovati %1$d nuovi video</item>
     </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other"> Download</item>
+        <item quantity="zero"> Download</item>
+        <item quantity="one"> Download</item>
+        <item quantity="two"> Download</item>
+        <item quantity="few"> Download</item>
+        <item quantity="many"> Download</item>
+    </plurals>
 </resources>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="stat_repeat_none">Mai</string>
+    <string name="stat_repeat_everyday">Tutti i giorni</string>
+    <string name="stat_repeat_legal_workday">Giorni lavorativi</string>
+    <string name="stat_repeat_legal_off_day">Giorni di riposo</string>
+    <string name="stat_repeat_weekdays">Lun - Ven</string>
+    <string name="stat_repeat_weekends">Weekend</string>
+    <string name="stat_repeat_self_define">Personalizzato</string>
     <string name="slider_text">Scorri per silenziare</string>
     <string name="snooze_confirm_cancel">Annulla sospensione</string>
     <string name="timer_alarm_cancel_pad">Tocca per interrompere la suoneria</string>
@@ -17,7 +24,6 @@
     <string name="delete_timer_item_title">Elimina operazione</string>
     <string name="delete_selected_timer_item">"Eliminare l'operazione selezionata?"</string>
     <string name="delete_timezone_title">Elimina fuso orario</string>
-    <string name="delelte_selected_timezone">Eliminare il fuso orario selezionato?</string>
     <string name="timezone_exist_error_message">Impossibile aggiungere fuso orario. Il fuso orario è già esistente, si prega di selezionare di nuovo.</string>
     <string name="alarm_disabled">Disabilitata</string>
     <string name="alarm_ascending_mode_title">Volume crescente</string>
