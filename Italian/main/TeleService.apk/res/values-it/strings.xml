@@ -250,7 +250,7 @@ Ricarica ed inizia a parlare."</string>
     <string name="description_image_button_plus">Aggiungi</string>
     <string name="description_voicemail_button">Segreteria</string>
     <string name="default_notification_description">Suono predefinito (%1$s)</string>
-    <string name="callFailed_userBusy">Lineaoccupata</string>
+    <string name="callFailed_userBusy">Linea occupata</string>
     <string name="callFailed_congestion">Rete occupata</string>
     <string name="callFailed_timedOut">Nessuna risposta, tempo scaduto</string>
     <string name="callFailed_server_unreachable">Server non raggiungibile</string>
