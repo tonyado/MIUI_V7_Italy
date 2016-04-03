@@ -106,7 +106,7 @@
     <string name="add_user_define_title">Aggiungi profilo</string>
     <string name="add_user_define_group_failed">Impossibile aggiungere il profilo</string>
     <string name="mode_settings">Impostazioni</string>
-    <string name="hide_mode_desc">"Qundo un'app è in background, la sua attività verrà monitorata per controllarne il consumo di batteria. Connessione di rete, servizi di localizzazione, Radio, Timer, etc. possono essere influenzate da questa funzione. Questa configurazione è adatta per la maggior parte delle app, Ma se un'app non si comporta normalmente in background, puoi personalizzare le impostazioni dell'app."</string>
+    <string name="hide_mode_desc">"Quando un'app è in background, la sua attività verrà monitorata per controllarne il consumo di batteria. Connessione di rete, servizi di localizzazione, Radio, Timer, etc. possono essere influenzate da questa funzione. Questa configurazione è adatta per la maggior parte delle app, Ma se un'app non si comporta normalmente in background, puoi personalizzare le impostazioni dell'app."</string>
     <string name="hide_mode_ultimate_desc">Modalità Ultimate attiva. Le applicazioni in background verranno congelate. Disattiva Risparmio Batteria per uscire dall amodalità Ultimate.</string>
     <string name="power_hide_mode_title">Gestisci utilizzo batteria delle app</string>
     <string name="power_hide_mode_summary">Risparmia la batteria effettuando delle restrizioni sulle singole app, processi in background, connessioni Wi-Fi e dati cellulare e GPS</string>
