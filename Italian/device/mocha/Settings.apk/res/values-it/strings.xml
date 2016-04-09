@@ -2419,7 +2419,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="search_wifi_display">Schermo wifi</string>
     <string name="search_display">Schermo</string>
     <string name="search_font">Font</string>
-    <string name="search_handy_mode">Modalità mano singola</string>
+    <string name="search_handy_mode">Uso con una mano</string>
     <string name="search_battery">Batteria</string>
     <string name="search_storage">Archiviazione</string>
     <string name="search_accessibility">Accessibilità</string>
@@ -2497,8 +2497,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="title_font2">Carattere</string>
     <string name="title_font_current2">Carattere di sistema</string>
     <string name="title_layout_current2">Dimensione carattere</string>
-    <string name="handy_mode">Modalità Mano Singola</string>
-    <string name="handy_mode_enter_ask">Chiedi prima di entrare in modalità Mano Singola</string>
+    <string name="handy_mode">Uso con una mano</string>
+    <string name="handy_mode_enter_ask">Chiedi prima di entrare in modalità Uso con una mano</string>
     <string name="handy_mode_tips">Scorri a sinistra o a destra dal tasto Home per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
     <string name="handy_mode_size">Dimensione schermo</string>
     <string name="key_settings_title">Tasti</string>
