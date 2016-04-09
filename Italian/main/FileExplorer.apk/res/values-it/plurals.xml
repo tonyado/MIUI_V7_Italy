@@ -65,12 +65,12 @@
         <item quantity="many"> (%1$d elementi)</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other"> %1$d items</item>
-        <item quantity="zero"> %1$d items</item>
-        <item quantity="one"> %1$d item</item>
-        <item quantity="two"> %1$d items</item>
-        <item quantity="few"> %1$d items</item>
-        <item quantity="many"> %1$d items</item>
+        <item quantity="other"> %1$d elementi</item>
+        <item quantity="zero"> %1$d elementi</item>
+        <item quantity="one"> %1$d elemento</item>
+        <item quantity="two"> %1$d elementi</item>
+        <item quantity="few"> %1$d elementi</item>
+        <item quantity="many"> %1$d elementi</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">App %1$s file associati (%2$d elementi)</item>

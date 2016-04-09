@@ -644,7 +644,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="phone_storage">Memoria</string>
     <string name="phone_storage_total">Totale</string>
     <string name="phone_storage_cal">Verifica in corso…</string>
-    <string name="phone_storage_size_tip">Lo spazio disponibile mostrato potrebbe differire quello visualizzato dal sistema.</string>
+    <string name="phone_storage_size_tip">Lo spazio disponibile mostrato potrebbe differire da quello visualizzato dal sistema.</string>
     <string name="phone_storage_image_title">Immagini: </string>
     <string name="phone_storage_video_title">Video: </string>
     <string name="phone_storage_zip_title">Archivio: </string>
