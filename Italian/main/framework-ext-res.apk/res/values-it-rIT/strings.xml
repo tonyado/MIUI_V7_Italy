@@ -75,10 +75,10 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="softap_notifif_title">Hotspot \"%s\" attivo</string>
     <string name="softap_notifif_summary">%d connesso</string>
     <string name="unknown_caller">Numero sconosciuto</string>
-    <string name="handy_mode_title">Modalità mano singola</string>
+    <string name="handy_mode_title">Uso con una mano</string>
     <string name="handy_mode_summary">Tocca lo spazio vuoto per chiudere</string>
-    <string name="handy_mode_enter_dlg_title">Inserisci modalità mano singola</string>
-    <string name="handy_mode_enter_dlg_msg">Attivare modalità Mano Singola?</string>
+    <string name="handy_mode_enter_dlg_title">Attiva uso con una mano</string>
+    <string name="handy_mode_enter_dlg_msg">Attivare uso con una mano?</string>
     <string name="permlab_manageLocationPolicy">Gestisci autorizzazioni sulla posizione</string>
     <string name="permdesc_manageLocationPolicy">"Consenti all'applicazione di gestire le autorizzazioni sulla posizione e definisci regole specifiche per ogni app."</string>
     <string name="location_usage_restricted_title">Localizzazione in background limitata</string>
