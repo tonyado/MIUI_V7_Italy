@@ -315,6 +315,8 @@
     <string name="mipush_setting">Xiaomi push</string>
     <string name="receive_mipush">Ricezione push Xiaomi</string>
     <string name="receive_mipush_summary">Riceve notifiche di contenuti online nuovi o aggiornati</string>
+	<string name="receive_follow">Notifiche nuovi episodi</string>
+    <string name="receive_follow_summary">Ricevi le notifiche quando un nuovo episodio è disponibile</string>
     <string name="other_setting">Altri</string>
     <string name="clear_cache">Svuota la cache delle immagini</string>
     <string name="clear_cache_summary">Elimina le immagini memorizzate nella cache dal browser Video</string>

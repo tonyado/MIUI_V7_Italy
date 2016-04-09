@@ -1031,6 +1031,11 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Potresti non essere più in grado di effettuare chiamate o utilizzare la connessione dati. Non utilizzare più la SIM %s?</string>
     <string name="msim_disable_sim_card_summary_default_card">"Questa SIM è attualmente impostata com e predefinita. Se decidi di non utilizzarla più, non sarai più in grado di effettuare chiamate o utilizzare la connessione dati. Puoi smettere di utilizzare questa SIM dopo averne impostata un'altra come predefinita."</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
+	<string name="enhanced_4g_lte_mode_on_failed">Impossibile attivare VoLTE."</string>
+    <string name="enhanced_4g_lte_mode_off_failed">Impossibile disattivare VoLTE."</string>
+    <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete che utilizza VoLTE. Attiva ora la tua connessione dati.</string>
+    <string name="volte_switch_title">VoLTE attivato</string>
+    <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
     <string name="international_roaming_setting">Roaming internazionale</string>
     <string name="overseas_roaming_setting">Roaming internazionale</string>
     <string name="add">Aggiungi</string>

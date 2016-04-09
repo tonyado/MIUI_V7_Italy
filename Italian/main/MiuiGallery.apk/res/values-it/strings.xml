@@ -496,7 +496,7 @@
     <string name="backup_only_in_wifi_summary">Non usare mai la rete dati mobile per il backup di foto e video</string>
     <string name="enable_face_album_title">Ordina per contatti</string>
     <string name="enable_face_album_summary">Ordina automaticamente le foto in base alle persone ritratte</string>
-    <string name="slim_after_backuped_title">Ottimizza lo spazio locale doopo il backup</string>
+    <string name="slim_after_backuped_title">Ottimizza lo spazio locale dopo il backup</string>
     <string name="slim_after_backuped_summary">Sostituisci le foto in alta risoluzione in locale con versioni ottimizzate dopo il backup su Mi Cloud. Massima risoluzione finché archiviate su Mi Cloud. Questa procedura può liberare molto spazio in locale.</string>
     <string name="browse_category_title">Sfoglia</string>
     <string name="show_hidden_album_title">Mostra gli album nascosti</string>
