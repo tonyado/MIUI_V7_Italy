@@ -1149,7 +1149,7 @@ Vuoi chiuderla?"</string>
     <string name="usb_accessory_notification_title">Collegato a un accessorio USB</string>
     <string name="usb_notification_message">Tocca per altre opzioni USB</string>
     <string name="extmedia_format_title">Formatta memoria SD</string>
-    <string name="extmedia_format_message">"Formattare la memoria SD cancellando tutti i file memorizzati al suo interno? Questa azione è irreversibile."</string>
+    <string name="extmedia_format_message">Formattare la memoria SD cancellando tutti i file memorizzati al suo interno? Questa azione è irreversibile.</string>
     <string name="extmedia_format_button_format">Formatta</string>
     <string name="adb_active_notification_title">Debug USB collegato</string>
     <string name="adb_active_notification_message">Tocca per disattivare il debug USB.</string>
